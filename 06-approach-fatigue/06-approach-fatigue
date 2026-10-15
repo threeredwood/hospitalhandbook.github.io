@@ -1,0 +1,376 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/06-approach-fatigue/06-approach-fatigue" />
+<link rel="shortlink" href="/node/1681" />
+<link rel="prev" href="/05-unintentional-weight-loss/05-unintentional-weight-loss" />
+<link rel="up" href="/02-general-complaints/02-general-complaints" />
+<link rel="next" href="/07-memory-loss/07-memory-loss" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/06-approach-fatigue/06-approach-fatigue" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/06-approach-fatigue/06-approach-fatigue" />
+<meta property="twitter:title" content="06. Approach to Fatigue | Hospital Handbook" />
+<meta property="og:title" content="06. Approach to Fatigue" />
+  <title>06. Approach to Fatigue | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"bpLzMbz52nFF2K73DDS7bwmNGeR0CxKB9OzkKC6HJGA","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/06-approach-fatigue\/06-approach-fatigue":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1681 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/06-approach-fatigue/06-approach-fatigue" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-XSYlq4lYS6VhbqKZ67JTxKV3C98dmNNaD97GSC7Heqo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a> > <span class="breadcrumb-page-title">06. Approach to Fatigue</span></div></div></div>
+                  <h1 class="title" id="page-title">06. Approach to Fatigue</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1681" class="node node-book clearfix" about="/06-approach-fatigue/06-approach-fatigue" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="06. Approach to Fatigue" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editors:  Scott Goldberg, MD</p>
+
+<p align="right">Faculty Editor:  Katherine Julian, MD</p>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>The most important question to ask a patient when they say they have fatigue is – “what do you mean by fatigue?”</li>
+	<li>Patients may say they are fatigued when they have: difficulty or inability initiating activity (perception of generalized weakness); reduced capacity maintaining activity (easy fatigability); difficulty with concentration, memory, or emotional stability (mental fatigue); sleepiness or tiredness; weakness; or shortness of breath. </li>
+	<li>Primary complaint in 5-7% of primary care visits</li>
+	<li>Diagnosis made in &lt;50% of patients; most cases multifactorial</li>
+	<li>Duration:
+	<ul>
+		<li>Recent: &lt; 1 month ,</li>
+		<li>Prolonged: 1 - 6 months</li>
+		<li>Chronic &gt; 6 months</li>
+	</ul>
+	</li>
+	<li>Extremely broad differential diagnosis that is best organized by an organ/system approach</li>
+</ul>
+
+<p><strong><u>Differential Diagnosis</u></strong></p>
+
+<ul>
+	<li>Psychiatric (depression, anxiety, somatization disorder, substance use)</li>
+	<li>Sleep disorders (OSA, OHS, narcolepsy, insomnia)</li>
+	<li>Pharmacologic (B-blockers, antihistamines, narcotics, muscle relaxants, sleep aids, benzodiazepines, antidepressants)</li>
+	<li>Cardiac (congestive heart failure)</li>
+	<li>Pulmonary (chronic lung disease)  </li>
+	<li>Endocrine (hypothyroidism, DM, pituitary insufficiency, hypercalcemia, adrenal insufficiency)</li>
+	<li>Renal (chronic renal failure)</li>
+	<li>Liver (chronic liver disease)</li>
+	<li>Infectious (chronic infections such as endocarditis, tuberculosis, mononucleosis, hepatitis, parasitic disease, HIV infection, CMV)</li>
+	<li>Rheumatologic</li>
+	<li>Neoplastic/hematologic (malignancy, anemia)</li>
+	<li>Neurologic (multiple sclerosis)</li>
+	<li>Gastrointestinal</li>
+	<li>Idiopathic (i.e. chronic fatigue syndrome)
+	<ul>
+		<li>Chronic Fatigue Syndrome (CFS)<em>:</em>
+		<ul>
+			<li>Consider a diagnosis of CFS if these 3 criteria are met:
+			<ul>
+				<li>The individual has severe chronic fatigue for 6 or more consecutive months that is not caused by ongoing exertion or other medical conditions associated with fatigue</li>
+				<li>The fatigue significantly interferes with daily activities and work</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p style="margin-left:145.5pt;">The individual concurrently has four or more of the following eight symptoms: post-exertion malaise lasting more than 24 hours; unrefreshing sleep; significant impairment of short-term memory or concentration; muscle pain; multi-joint pain without swelling or redness; headaches of a new type, pattern, or severity; tender cervical or axillary lymph nodes; a sore throat that is frequent or recurring </p>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>History
+	<ul>
+		<li>History is the most important part of the evaluation of a patient presenting with fatigue</li>
+		<li>Ask patient to describe fatigue in their own words</li>
+		<li>Ask about:
+		<ul>
+			<li>Recent life stressors</li>
+			<li>Symptoms of depression/anxiety (perform PHQ-9)</li>
+			<li>Symptoms of disordered sleep (especially OSA)</li>
+			<li>New medications or substance use</li>
+			<li>Signs of bleeding, dyspnea on exertion, weakness</li>
+		</ul>
+		</li>
+		<li>Complete ROS focusing on each organ system: chronic kidney disease, cirrhosis, heart failure, lung disease, infections, joint pains, constitutional symptoms  </li>
+	</ul>
+	</li>
+	<li>Physical exam</li>
+	<li>Laboratory workup
+	<ul>
+		<li>Laboratory evaluation rarely reveals a cause for fatigue</li>
+		<li>If there is not an obvious cause of fatigue, appropriate to get CBC, TSH, CMP, ESR</li>
+		<li>Consider HIV/Hep C in at-risk populations</li>
+		<li>Order sleep study if high suspicion for OSA</li>
+		<li>All patients should have age-appropriate cancer screening</li>
+		<li>Other lab testing not recommended unless history is suggestive</li>
+	</ul>
+	</li>
+</ul>
+
+<p><u><strong>Treatment</strong></u></p>
+
+<ul>
+	<li>Treat underlying organic and psychiatric illness as appropriate</li>
+	<li>Medications that may be causing fatigue should be replaced or discontinued, if possible</li>
+	<li>When initial evaluation for fatigue is non-diagnostic, the provider should acknowledge the patient’s symptoms. Provide reassurance that there will be active ongoing management in the form of symptom-focused treatment and plan for observed follow up.</li>
+	<li>In all patients with chronic fatigue syndrome or idiopathic fatigue, review principles of good sleep hygiene. Recommend low-intensity physical activity and consider cognitive behavioral therapy (CBT).</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p>Cornuz J, Guessous I, Favrat B. Fatigue: a practical approach to diagnosis in primary care. CMAJ. 2006;174(6):765-7.</p>
+
+<p>Hamilton W, Watson J, Round A. Investigating fatigue in primary care. BMJ. 2010;341:c4259.</p>
+
+<p>Rosenthal et al.  Fatigue: An Overview.  American Family Physician. 2008; 78 (10); 1173-1179.</p>
+
+<p>Stern SC, Cifu AS, Altkorn D. Stern S.C., Cifu A.S., Altkorn D Eds. Scott D.C. Stern, et al.eds. <em>Symptom to Diagnosis: An Evidence-Based Guide, 3e</em> New York, NY: McGraw-Hill; 2014.</p>
+
+<p>Wright J, O'Connor KM. Fatigue. Med Clin North Am. 2014 May;98(3):597-608.</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/05-unintentional-weight-loss/05-unintentional-weight-loss" class="page-previous" title="Go to previous page">‹ 05. Unintentional Weight Loss</a>
+                    <a href="/02-general-complaints/02-general-complaints" class="page-up" title="Go to parent page">up</a>
+                    <a href="/07-memory-loss/07-memory-loss" class="page-next" title="Go to next page">07. Memory loss ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="expanded active-trail menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a><ul class="menu"><li class="first leaf menu-mlid-4556"><a href="/01-fever-unknown-origin/01-fever-unknown-origin">01. Fever of Unknown Origin</a></li>
+<li class="leaf menu-mlid-4561"><a href="/02-insomnia/02-insomnia">02. Insomnia</a></li>
+<li class="leaf menu-mlid-4566"><a href="/03-lymphadenopathy/03-lymphadenopathy">03. Lymphadenopathy</a></li>
+<li class="leaf menu-mlid-4571"><a href="/04-approach-dizziness/04-approach-dizziness">04. Approach to Dizziness</a></li>
+<li class="leaf menu-mlid-4576"><a href="/05-unintentional-weight-loss/05-unintentional-weight-loss">05. Unintentional Weight Loss</a></li>
+<li class="leaf active-trail active menu-mlid-4581"><a href="/06-approach-fatigue/06-approach-fatigue" class="active-trail active">06. Approach to Fatigue</a></li>
+<li class="leaf menu-mlid-4586"><a href="/07-memory-loss/07-memory-loss">07. Memory loss</a></li>
+<li class="leaf menu-mlid-4591"><a href="/08-transient-loss-consciousness/08-transient-loss-consciousness">08. Transient Loss of Consciousness</a></li>
+<li class="leaf menu-mlid-4596"><a href="/09-approach-cough/09-approach-cough">09. Approach to Cough</a></li>
+<li class="leaf menu-mlid-4601"><a href="/10-approach-abdominal-pain/10-approach-abdominal-pain">10. Approach to Abdominal Pain</a></li>
+<li class="leaf menu-mlid-4606"><a href="/11-approach-lower-extremity-edema/11-approach-lower-extremity-edema">11. Approach to Lower Extremity Edema</a></li>
+<li class="leaf menu-mlid-4611"><a href="/12-approach-headache/12-approach-headache">12. Approach to Headache</a></li>
+<li class="last leaf menu-mlid-4616"><a href="/13-approach-chest-pain/13-approach-chest-pain">13. Approach to Chest Pain</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

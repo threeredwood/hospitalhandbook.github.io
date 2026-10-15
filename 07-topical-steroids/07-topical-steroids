@@ -1,0 +1,634 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/07-topical-steroids/07-topical-steroids" />
+<link rel="shortlink" href="/node/1796" />
+<link rel="prev" href="/06-skin-malignancies/06-skin-malignancies" />
+<link rel="up" href="/04-dermatology/04-dermatology" />
+<link rel="next" href="/08-approach-alopecia/08-approach-alopecia" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/07-topical-steroids/07-topical-steroids" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/07-topical-steroids/07-topical-steroids" />
+<meta property="twitter:title" content="07. Topical steroids | Hospital Handbook" />
+<meta property="og:title" content="07. Topical steroids" />
+  <title>07. Topical steroids | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"joqrCP7Vz66jXkazOeD51qomCL7doCO8tW7d0KknxWA","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/07-topical-steroids\/07-topical-steroids":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1796 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/07-topical-steroids/07-topical-steroids" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form--Rx0PRzRTngI3pkQossCrWjxGAkD_Ca7-UzTEqm2gvc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/04-dermatology/04-dermatology" class="active-trail">04. Dermatology</a> > <span class="breadcrumb-page-title">07. Topical steroids</span></div></div></div>
+                  <h1 class="title" id="page-title">07. Topical steroids</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1796" class="node node-book clearfix" about="/07-topical-steroids/07-topical-steroids" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="07. Topical steroids" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Juliana Macri, M.D..</p>
+
+<p align="right">Faculty Editor: Ryan Arakaki, M.D.</p>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li style="margin-left: 0.25in;"><em>Class</em> refers to the strength of topical steroids and is determined by both <em>potency</em> and <em>vehicle</em>.</li>
+	<li style="margin-left: 0.25in;">The steroid class selected depends on the affected body part and the condition being treated (lower classes on the face or intertriginous areas; higher classes on the extremities, hands, or feet)</li>
+	<li style="margin-left: 0.25in;">Indications for topical steroids include conditions with hyperproliferation, inflammation, and immunologic involvement. Topical steroids also relieve burning and pruritic symptoms</li>
+	<li style="margin-left: 0.25in;">Use on a fungal infection will exacerbate the condition, so perform a skin scraping with KOH before prescribing. Avoid anti-fungal – steroid combination</li>
+</ul>
+
+<p><strong><u>Steroid vehicles and application:</u></strong></p>
+
+<ul>
+	<li style="margin-left: 0.25in;">Ointments:</li>
+	<li style="margin-left: 80px;">Petroleum-based, greasy (patients often dislike)</li>
+	<li style="margin-left: 80px;">Better for hydration, occlusion, and absorption</li>
+	<li style="margin-left: 80px;">Useful for dry, thick, hyperkeratotic lesions</li>
+	<li style="margin-left: 80px;">Avoid hairy and intertriginous areas (can cause skin maceration and folliculitis)</li>
+	<li style="margin-left: 0.25in;">Creams:</li>
+	<li style="margin-left: 80px;">Water suspended in oil</li>
+	<li style="margin-left: 80px;">More cosmetically acceptable but less potent than ointments</li>
+	<li style="margin-left: 80px;">Drying effect</li>
+	<li style="margin-left: 80px;">Often contain preservatives (which can irritate and cause an allergic reaction)</li>
+	<li style="margin-left: 0.25in;">Lotions:</li>
+	<li style="margin-left: 80px;">Minimally greasy and occlusive</li>
+	<li style="margin-left: 80px;">Contain alcohol (drying effect good for oozing lesions, may cause stinging/burning)</li>
+	<li style="margin-left: 80px;">Useful for hairy and intertriginous areas given good penetration with minimal residue</li>
+	<li style="margin-left: 0.25in;">Gels:</li>
+	<li style="margin-left: 80px;">Alcohol-based with a jelly-like consistency</li>
+	<li style="margin-left: 80px;">Dries quickly</li>
+	<li style="margin-left: 80px;">Useful for hairy or oily areas (like scalp) or wet lesions (bullae)</li>
+	<li style="margin-left: 0.25in;">Application tips</li>
+	<li style="margin-left: 80px;">Hydration and occlusion promote steroid penetration</li>
+	<li style="margin-left: 1.5in;">Applying after bathing improves the effectiveness</li>
+	<li style="margin-left: 1.5in;">Occlusion with plastic wrap can increase penetration several-fold (good for extremities). Recommend using overnight, but not on the face or intertriginous areas, and shortening duration of use</li>
+</ul>
+
+<p><u><strong>Side Effects From Topical Steroids</strong></u></p>
+
+<ul>
+	<li>Atrophic changes (increased risk with higher potency, occlusion, thin skin, and age)</li>
+	<li>Easy bruising, increased fragility, striae, ulceration</li>
+	<li>Can be mitigated by concurrent topical tretinoin (Retin-A) 0.1% if chronic use required (though difficult to adhere to, not commonly used)</li>
+	<li style="margin-left: 0.25in;">Infections (especially if inappropriate treatment of fungal or bacterial infection)</li>
+	<li>Aggravation of cutaneous infection, masked infection (tinea incognito), secondary infections</li>
+	<li>Re-evaluate diagnosis if the rash worsens or does not improve with steroids</li>
+	<li style="margin-left: 0.25in;">Miscellaneous</li>
+	<li>Contact dermatitis (often due to additives, rarely can have an allergy to the steroid agent itself)</li>
+	<li>Steroid-induced acne, rosacea</li>
+	<li>Delayed wound healing</li>
+	<li>Hypertrichosis (hirsutism)</li>
+	<li>Hypopigmentation</li>
+	<li style="margin-left: 0.25in;">Systemic effects</li>
+	<li>High-dose steroids may have enough absorption to cause systemic effects (e.g. hypertension, hyperglycemia, glaucoma) and HPA axis suppression, especially when used on a broken skin barrier.</li>
+</ul>
+
+<p><strong>Prescribing Considerations</strong></p>
+
+<ul style="list-style-type:circle;">
+	<li>Consider generic availability and patient’s formulary to increase adherence. Counsel patient to reach out for alternative if cost-prohibitive.</li>
+	<li>Must consider potency, frequency, and duration of therapy</li>
+	<li>Potency</li>
+	<li>Low potency steroids preferred for long-term use, large surface areas, on the face, intertriginous areas, and other areas with thinner skin</li>
+	<li>High potency steroid can be used in severe disease, areas with thicker skin (e.g. palms, soles). Never use on face, intertriginous areas. Caution with occlusion.</li>
+	<li>Frequency
+	<ul>
+		<li>Once or twice daily for most preparations. Titrate to a minimum frequency that still provides relief</li>
+	</ul>
+	</li>
+	<li>Duration
+	<ul>
+		<li>Be aware of side effects, tolerance, and tachyphylaxis with prolonged use</li>
+		<li>Do not use ultra-high potency for &gt;3 weeks at a time. Use intermittent schedule with tapering and one-week steroid-free interval, as needed</li>
+		<li>Low-high potency steroids should be limited to &lt;3 months. Shorter if with occlusion or on thin skin.</li>
+		<li>Anticipate the amount required for appropriate treatment and prescribe accordingly (see <em>Table 8</em>).</li>
+	</ul>
+	</li>
+</ul>
+
+<p><u><strong>Table 7: Classes of Topical Steroids</strong></u></p>
+
+<p><em>Note: common preparations in</em> <strong>bold</strong></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:681px;" width="681">
+	<tbody>
+		<tr>
+			<td style="width:57px;height:23px;">
+			<p><strong>Class</strong></p>
+			</td>
+			<td style="width:78px;height:23px;">
+			<p><strong>Potency</strong></p>
+			</td>
+			<td style="width:156px;height:23px;">
+			<p><strong>Indication</strong></p>
+			</td>
+			<td style="width:228px;height:23px;">
+			<p><strong>Generic</strong></p>
+			</td>
+			<td style="width:162px;height:23px;">
+			<p><strong>Brand</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px;">
+			<p align="center"><strong>1</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Ultra High</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p style="margin-left:.1in;">Severe, unresponsive inflammatory dermatoses</p>
+
+			<p style="margin-left:.1in;">Do not use &gt;3 weeks;  never use on face or groin</p>
+			</td>
+			<td style="width:228px;">
+			<p><strong>Clobetasol propionate 0.05%</strong></p>
+
+			<p><strong>Betamethasone dipropionate 0.05%</strong></p>
+
+			<p>Fluocinonide 0.1%</p>
+			</td>
+			<td style="width:162px;">
+			<p>Clobex, Temovate<strong><sup>®</sup></strong></p>
+
+			<p>Diprolene<strong><sup>®</sup></strong></p>
+
+			<p>Vanos</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px;">
+			<p align="center"><strong>2</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Very High</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p style="margin-left:.1in;">Severe inflammatory dermatoses (e.g., severe atopic or contact dermatitis, psoriasis)</p>
+			</td>
+			<td style="width:228px;">
+			<p>Desoximetasone 0.25%, 0.05%</p>
+
+			<p><strong>Fluocinonide 0.05%</strong></p>
+			</td>
+			<td style="width:162px;">
+			<p>Topicort<strong><sup>®</sup></strong></p>
+
+			<p>Lidex<strong><sup>®</sup></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px;">
+			<p align="center"><strong>3</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Medium to High</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p style="margin-left:.1in;">Moderate dermatoses</p>
+			</td>
+			<td style="width:228px;">
+			<p>Triamcinolone acetonide 0.5%</p>
+
+			<p>Fluticasone propionate 0.005%</p>
+
+			<p>Amcinonide 0.1%</p>
+			</td>
+			<td style="width:162px;">
+			<p>Cinalog<strong><sup>®</sup></strong></p>
+
+			<p>Cutivate<strong><sup>®</sup></strong></p>
+
+			<p>Cyclocort<strong><sup>®</sup></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px;">
+			<p align="center"><strong>4, 5</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Medium</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p style="margin-left:.1in;">Moderate dermatoses</p>
+			</td>
+			<td style="width:228px;">
+			<p>Betamethasone valerate 0.1%, 0.12%</p>
+
+			<p>Desoximetasone 0.05%</p>
+
+			<p>Flucoinolone acetnoide 0.025%</p>
+
+			<p>Fluticasone propionate 0.05%</p>
+
+			<p>Hydrocortisone butyrate 0.1%</p>
+
+			<p>Hydrocortisone valerate 0.2%</p>
+
+			<p>Mometasone furoate 0.1%</p>
+
+			<p><strong>Triamcinolone acetonide 0.05%, 0.1%</strong></p>
+			</td>
+			<td style="width:162px;">
+			<p>Beta-Val<strong><sup>®</sup></strong> 0.1%, Luxiq<strong><sup>® </sup></strong>0.12%</p>
+
+			<p>Topicort LP<strong><sup>®</sup></strong></p>
+
+			<p>Synalar<strong><sup>®</sup></strong></p>
+
+			<p>Cutivate<strong><sup>®</sup></strong></p>
+
+			<p>Locoid<strong><sup>®</sup></strong></p>
+
+			<p>Westcort<strong><sup>®</sup></strong></p>
+
+			<p>Elocon<strong><sup>®</sup></strong></p>
+
+			<p>Triderm<strong><sup>®</sup></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px;">
+			<p align="center"><strong>6</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Low</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p style="margin-left:.1in;">Mild dermatoses</p>
+			</td>
+			<td style="width:228px;">
+			<p><strong>Desonide 0.05%</strong></p>
+
+			<p>Fluocinolone 0.01%</p>
+
+			<p>Hydrocortisone butyrate 0.1%</p>
+			</td>
+			<td style="width:162px;">
+			<p>Desonate<strong><sup>®</sup></strong></p>
+
+			<p> </p>
+
+			<p>Locoid<strong><sup>®</sup></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:57px;">
+			<p align="center"><strong>7</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Least potent</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p style="margin-left:.1in;">Very mild, self-limiting dermatoses</p>
+			</td>
+			<td style="width:228px;">
+			<p><strong>Hydrocortisone 1%, 2.5% </strong></p>
+			</td>
+			<td style="width:162px;">
+			<p> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><u><strong>Fingertip Unit</strong></u></p>
+
+<p>1 FTU = 0.5g = Amount that can be squeezed from the fingertip to the first crease of the finger</p>
+
+<p> </p>
+
+<p>Enough to cover 2 hands (one side) worth of skin</p>
+
+<p>Face and neck = 2.5 FTU</p>
+
+<p>Trunk (front or back) = 7 FTU</p>
+
+<p>Arm = 3 FTU</p>
+
+<p>Leg = 6 FTU</p>
+
+<p>Foot = 2 FTU</p>
+
+<p> </p>
+
+<p><u><strong>Table 8: Required Steroid Amount/Week</strong></u></p>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:180px;">
+			<p><strong>Body Area</strong></p>
+			</td>
+			<td style="width:192px;">
+			<p><strong>Quantity (grams)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Face and neck</p>
+			</td>
+			<td style="width:192px;">
+			<p>15-30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Scalp</p>
+			</td>
+			<td style="width:192px;">
+			<p>15-30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Both hands</p>
+			</td>
+			<td style="width:192px;">
+			<p>15-30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Groin and genitalia</p>
+			</td>
+			<td style="width:192px;">
+			<p>15-30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Both arms</p>
+			</td>
+			<td style="width:192px;">
+			<p>30-60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Both legs</p>
+			</td>
+			<td style="width:192px;">
+			<p>100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+			<p>Trunk</p>
+			</td>
+			<td style="width:192px;">
+			<p>100</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Miller, JA, Munro DD.  Topical corticosteroids: clinical pharmacology and therapeutic use. Drugs 1980;19:119.</em></p>
+
+<p><em>Ference JD, Last AR. Choosing Topical Corticosteroids. Am Fam Physician. 2009;79(2):135-140.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/06-skin-malignancies/06-skin-malignancies" class="page-previous" title="Go to previous page">‹ 06. Skin Malignancies</a>
+                    <a href="/04-dermatology/04-dermatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/08-approach-alopecia/08-approach-alopecia" class="page-next" title="Go to next page">08. Approach to Alopecia ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="expanded active-trail menu-mlid-4926"><a href="/04-dermatology/04-dermatology" class="active-trail">04. Dermatology</a><ul class="menu"><li class="first leaf menu-mlid-4961"><a href="/01-dermatologic-exam/01-dermatologic-exam">01. Dermatologic Exam</a></li>
+<li class="leaf menu-mlid-4971"><a href="/02-acne/02-acne">02. Acne</a></li>
+<li class="leaf menu-mlid-4976"><a href="/03-psoriasis/03-psoriasis">03. Psoriasis</a></li>
+<li class="leaf menu-mlid-4981"><a href="/04-tinea/04-tinea">04. Tinea</a></li>
+<li class="leaf menu-mlid-4986"><a href="/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders">05. Other Common Outpatient Dermatologic Disorders</a></li>
+<li class="leaf menu-mlid-4991"><a href="/06-skin-malignancies/06-skin-malignancies">06. Skin Malignancies</a></li>
+<li class="leaf active-trail active menu-mlid-4996"><a href="/07-topical-steroids/07-topical-steroids" class="active-trail active">07. Topical steroids</a></li>
+<li class="leaf menu-mlid-5001"><a href="/08-approach-alopecia/08-approach-alopecia">08. Approach to Alopecia</a></li>
+<li class="leaf menu-mlid-5006"><a href="/09-approach-pruritis/09-approach-pruritis">09. Approach to Pruritis</a></li>
+<li class="last leaf menu-mlid-5011"><a href="/10-wound-assessment-management/10-wound-assessment-management">10. Wound Assessment &amp; Management </a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

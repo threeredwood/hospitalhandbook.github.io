@@ -1,0 +1,1154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis" />
+<link rel="shortlink" href="/node/2156" />
+<link rel="prev" href="/08-hepatitis-c-virus/08-hepatitis-c-virus" />
+<link rel="up" href="/12-infectious-disease/12-infectious-disease" />
+<link rel="next" href="/13-nephrology/13-nephrology" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis" />
+<meta property="twitter:title" content="09. Sexually Transmitted Infections (STIs) | Hospital Handbook" />
+<meta property="og:title" content="09. Sexually Transmitted Infections (STIs)" />
+  <title>09. Sexually Transmitted Infections (STIs) | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"UK-qhBwePOT-ckpHRvSGwpHYg1UXVwn8mUvccdGhnFU","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/09-sexually-transmitted-infections-stis\/09-sexually-transmitted-infections-stis":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2156 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-lqKuXxN6Gzj5SNFZ8RCURvJPF3gqMpxu8nxnTbzwDR4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/12-infectious-disease/12-infectious-disease" class="active-trail">12. Infectious Disease</a> > <span class="breadcrumb-page-title">09. Sexually Transmitted Infections (STIs)</span></div></div></div>
+                  <h1 class="title" id="page-title">09. Sexually Transmitted Infections (STIs)</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2156" class="node node-book clearfix" about="/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="09. Sexually Transmitted Infections (STIs)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Faculty Editor: Luis Rubio, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ STIs are common and often asymptomatic</p>
+
+			<p>✔ Yearly screening for chlamydia and gonorrhea indicated in sexually active women &lt;25 years old and those older with risk factors</p>
+
+			<p>✔ When treating, consider HIV status, pregnancy, and partners</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><u><strong>Background</strong></u></p>
+
+<ul>
+	<li>Commonly reportable diseases in urban settings are chlamydia and gonorrhea, and to a lesser extent, syphilis and HIV.</li>
+	<li>HPV, HSV, and trichomonas are other common, non-reportable sexually transmitted infections (STIs) with a high nationwide prevalence.</li>
+	<li>~50% of all sexually active adults will get an STI by age 25</li>
+	<li>In San Francisco, rates of chlamydia, gonorrhea and early syphilis continue to rise, particularly in the MSM population. &gt;75% of syphilis cases are diagnosed in MSM. The rate of HIV in SF has declined since 2006.</li>
+	<li>Sexually active MSM still account for &gt;50% of all new HIV cases and highest rates of syphilis infection</li>
+	<li>Specific groups at higher risk:
+	<ul>
+		<li>Young age (15 to 24 years old): Adolescents are at high risk for STIs as they frequently have unprotected intercourse, are engaged in sexual partnerships frequently of limited duration, and face multiple obstacles to accessing health care.</li>
+		<li>New sex partner in past 60 days</li>
+		<li>No or inconsistent condom use when not in mutually monogamous partnerships</li>
+		<li>Multiple sexual partners</li>
+		<li>History of a prior STI</li>
+		<li>Illicit drug use</li>
+		<li>Admission to correctional facility or juvenile detention center</li>
+		<li>Meeting partners on the Internet</li>
+		<li>Contact with sex workers or engaging in sex work (for money or drugs)</li>
+	</ul>
+	</li>
+	<li>Antimicrobial resistance in <em>Neisseria gonorrhea </em>and <em>Mycoplasma genitalium </em>increasing worldwide</li>
+</ul>
+
+<p><strong><u>Signs and symptoms</u></strong></p>
+
+<p><em>History</em></p>
+
+<ul>
+	<li>Any new sexual partner(s) and frequency of condom use</li>
+	<li>Multiple sexual partners</li>
+	<li>History of STIs, and genital ulceration (which can increase the risk of HIV acquisition)</li>
+	<li>Types of sexual exposures (which will guide decisions about which mucosal sites to test diagnostically): oral, vaginal, anal (receptive versus insertive)</li>
+</ul>
+
+<p><em>Symptoms</em></p>
+
+<ul>
+	<li>Dysuria</li>
+	<li>Discharge</li>
+	<li>Abdominal pain</li>
+	<li>Dyspareunia (pain during sexual intercourse)</li>
+	<li>Painful defecation</li>
+	<li>Acute retroviral syndrome: fever, lymphadenopathy, sore throat, rash, myalgia/arthralgia, diarrhea, headache</li>
+</ul>
+
+<p><em>Signs</em></p>
+
+<p>• Differ depending on STI; see “Diagnosis and Treatment of STI” table below</p>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>Characteristic lesions seen on physical exam:
+	<ul>
+		<li>HPV/warts tend to have cauliflower like lesions</li>
+		<li>HSV are painful, vesicular, and ulcerated lesions</li>
+		<li>Syphilitic chancres are painless ulcerations</li>
+		<li>Chancroid can be painful or painless and is often associated with painful lymphadenitis     </li>
+	</ul>
+	</li>
+	<li>See “Diagnosis and Treatment of STI” table below for diagnostic signs and labs for common STIs</li>
+	<li>Universal screening for HIV at least once in lifetime is recommended for all adolescents and adults by USPSTF and CDC</li>
+	<li>Screening for STIs in all patients is not practical. Recommended to screen those who are at high risk and specific groups with high prevalence for STIs. SFDPH STD and HIV Screening Guidelines in persons without symptoms or in need of diagnostic testing are below:
+	<ul>
+		<li>Women
+		<ul>
+			<li>&lt; age 25
+			<ul>
+				<li>Chlamydia and gonorrhea yearly</li>
+				<li>Syphilis at least one lifetime test</li>
+				<li>HIV at least one lifetime test</li>
+			</ul>
+			</li>
+			<li>≥ age 25
+			<ul>
+				<li>Chlamydia and gonorrhea not routinely recommended unless risk factors present</li>
+				<li>Syphilis at least one lifetime test</li>
+				<li>HIV at least one lifetime test</li>
+			</ul>
+			</li>
+			<li>Women who are HIV+ should be screened annually for trichomoniasis</li>
+		</ul>
+		</li>
+		<li>Pregnant persons all ages
+		<ul>
+			<li>Chlamydia and gonorrhea in 1<sup>st</sup> trimester, repeat in 3<sup>rd</sup> if at increased risk</li>
+			<li>Syphilis in 1<sup>st</sup> and 3<sup>rd</sup> trimester, and at delivery</li>
+			<li>HIV first prenatal visit, repeat in 3<sup>rd</sup> trimester if at increased risk</li>
+		</ul>
+		</li>
+		<li>Men who have sex with Women
+		<ul>
+			<li>Chlamydia, gonorrhea, and syphilis not routinely recommended unless risk factors present</li>
+			<li>HIV at least one lifetime test</li>
+		</ul>
+		</li>
+		<li>Men who have sex with men:
+		<ul>
+			<li>Chlamydia, gonorrhea, syphilis and HIV every 3 months</li>
+			<li>Depending on sexual practices, rectal chlamydia and oropharyngeal gonorrhea testing may be indicated</li>
+		</ul>
+		</li>
+		<li>Transgender men and transgender women who have sex with men:
+		<ul>
+			<li>Chlamydia, gonorrhea, syphilis and HIV every 3 months</li>
+			<li>Depending on sexual practices, rectal chlamydia and oropharyngeal gonorrhea testing may be indicated</li>
+		</ul>
+		</li>
+		<li>Individuals seeking STI evaluation: gonorrhea/chlamydia (at genital, rectal and pharyngeal depending on exposure), syphilis, HIV, trichomonas, HSV-2 (if lesions present)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<p><em>Symptomatic and asymptomatic patients</em></p>
+
+<ul>
+	<li>See “Diagnosis and Treatment of STIs” below for infection-specific treatment regimens.</li>
+	<li>Consider screening for pregnancy prior to prescribing antibiotics.</li>
+	<li>If treating for chlamydia, gonorrhea, or trichomonas, advise abstaining from sex for 7 days to prevent spreading infection to partners.</li>
+	<li>Re-testing should be done 3 months after chlamydia, gonorrhea, or trichomonas infections are treated, regardless if partner was treated, because re-infection rates are high. </li>
+	<li>California state law requires providers to report all cases of syphilis, chlamydia, gonorrhea, chancroid, pelvic inflammatory disease, HIV, HBV and HCV to their local health department; syphilis must be reported within 1 working day, while other STIs must be reported with 7 calendar days. To report a newly diagnosed STI in San Francisco, including HIV, call STD Clinic at 415-487-5555.</li>
+	<li>CDC no longer recommends avoiding alcohol consumption while taking systemic metronidazole as review found no evidence of disulfiram like interaction between alcohol and metronidazole</li>
+</ul>
+
+<p><em>Partner therapy</em></p>
+
+<ul>
+	<li>Patient-delivered partner therapy (PDPT) is legal in California, but may not be covered by the patient’s insurance</li>
+	<li>PDPT has been shown to be a safe and cost effective treatment strategy in heterosexual couples for gonorrhea and chlamydia. Limited data in trichomoniasis and no data in syphilis.</li>
+	<li>PDPT data limited in MSM, but all persons with bacterial STI diagnoses and their sex partners should be tested for HIV</li>
+	<li>If PDPT is prescribed, the partner should be encouraged to seek clinical evaluation in addition to PDPT. Advise about symptoms of PID for persons at risk and to seek medical care immediately should these occur (i.e. pelvic or abdominal pain). </li>
+	<li>Counsel about risks of drug reaction (and risks with pregnancy), but this should not limit prescribing. Advice to partners should be in writing and a copy kept in the chart.</li>
+</ul>
+
+<p style="margin-left:.25in;"><em>Primary Prevention</em></p>
+
+<ul>
+	<li>HPV: HPV vaccination is recommended for all girls and boys at age 11-12. Catch-up vaccination is recommended through age 45.</li>
+	<li>PrEP (pre-exposure prophylaxis):</li>
+</ul>
+
+<ul>
+	<li>Daily Truvada (TDF/FTC) is an option for HIV prevention among all adults at risk of HIV acquisition through sex or injection drug use</li>
+	<li>Daily Descovy (TAF/FTC) is another option for HIV prevention for cis gender men and transger women who have sex with men</li>
+	<li>Bimonthly (every 8 weeks) injectable cabotegravir is another option for HIV prevention amongst all adults at risk of acquiring HIV through sex</li>
+</ul>
+
+<p><strong>References</strong></p>
+
+<p><em>Centers for Disease Control and Prevention. Sexually transmitted diseases treatment guidelines, 2021. MMWR 2021; 70(RR-4):1-187.</em></p>
+
+<p><em>Centers for Disease Control and Prevention. Update to CDC’s Sexually Transmitted Diseases Treatment Guidelines, 2010: Oral Cephalosporins no longer a recommended treatment for gonococcal infections, MMWR 2012; 61(31):590-594</em></p>
+
+<p><em>Centers for Disease Control and Prevention. US Public Health Service: Preexposure prophylaxis for the prevention of HIV infection in the United States- 2021 Update: a clinical practice guideline. <a href="https://www.cdc.gov/hiv/pdf/risk/prep/cdc-hiv-prep-guidelines-2021.pdf" target="_blank">https://www.cdc.gov/hiv/pdf/risk/prep/cdc-hiv-prep-guidelines-2021.pdf</a> Published 2021</em></p>
+
+<p><em>Centers for Disease Control and Prevention Fact Sheet. </em><em>What Gay, Bisexual and Other Men Who Have Sex with Men Need to Know About Sexually Transmitted Diseases, MMWR. 2013.</em></p>
+
+<p><em>Unemo M, Jensen JS. Antimicrobial-resistant sexually transmitted infections: gonorrhoeae and Mycoplasma genitalium. Nat Rev Urol. 2017;14(3):139-152.</em></p>
+
+<p><em>San Francisco City Clinic Clinical Protocols. Sexually Transmitted Infections. Sexually Transmitted Diseases Prevention and Control Services. San Francisco Department of Public Health, San Francisco, California. <a href="https://www.sfcityclinic.org/sites/default/files/2021-09/SFCC%20STI%20Protocols%202021.pdf" target="_blank">https://www.sfcityclinic.org/sites/default/files/2021-09/SFCC%20STI%20Protocols%202021.pdf</a></em></p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="954">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width:954px;">
+			<p style="margin-left:-27.9pt;">Table: Diagnosis and Treatment of STIs</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p align="center"> </p>
+
+			<p align="center"><strong>Indication</strong></p>
+			</td>
+			<td style="width:342px;">
+			<p align="center"> </p>
+
+			<p align="center"><strong>Diagnosis</strong></p>
+
+			<p align="center"> </p>
+			</td>
+			<td style="width:462px;">
+			<p align="center"> </p>
+
+			<p align="center"><strong>CDC recommended treatments</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Bacterial vaginosis</em></strong></p>
+			</td>
+			<td style="width:342px;">
+			<p>Patient must have 3 out of 4:</p>
+
+			<ol>
+				<li>Vaginal pH &gt; 4.5</li>
+				<li>Homogeneous, grayish white discharge smoothly coating vaginal walls</li>
+				<li>Positive whiff-amine test (when KOH added to vaginal discharge)</li>
+				<li>Wet mount: clue cells</li>
+			</ol>
+			</td>
+			<td style="width:462px;">
+			<p><strong><u>Recommended Regimens</u></strong></p>
+
+			<p>Metronidazole 500mg PO BID x 7d</p>
+
+			<p>Metrogel (0.75%) 5g intravaginally Daily x 5d</p>
+
+			<p>Clindamycin 2% cream 5g intravaginally at bedtime x 7d</p>
+
+			<p> </p>
+
+			<p><strong>Alternative Regimens</strong></p>
+
+			<p>Clindamycin 300mg PO BID x 7d</p>
+
+			<p>Clindamycin ovules 100mg intravaginally at bedtime x 3d</p>
+
+			<p>Tindizaole 2g PO daily x2d</p>
+
+			<p>Tinidazole 1g PO daily x5d</p>
+
+			<p> </p>
+
+			<p><u>Pregnant patients</u> can be treated with either oral or vaginal regimens recommended for nonpregnant patients</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Chancroid</em></strong></p>
+
+			<p><strong><em>(Not common in US)</em></strong></p>
+			</td>
+			<td style="width:342px;">
+			<p><em>H.ducreyi</em>, culture on special media or PCR (done through DPH).  </p>
+
+			<p>If negative for syphilis and HSV, consider treating empirically in specific cases.</p>
+
+			<p>The combination of a painful genital ulcer and tender suppurative inguinal adenopathy suggests the diagnosis.</p>
+			</td>
+			<td style="width:462px;">
+			<p>Azithromycin 1g PO x 1 dose</p>
+
+			<p>Ceftriaxone 250mg IM x 1 dose</p>
+
+			<p>Ciprofloxacin 500mg PO BID x 3d (contraindicated in pregnancy)</p>
+
+			<p>Erythromycin base 500 mg orally TID x7d</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Cervicitis </em></strong></p>
+
+			<p><strong><em>(Chlamydia, GC and Trichomonas)</em></strong></p>
+			</td>
+			<td style="width:342px;">
+			<p>Either or both signs may be present on pelvic exam:</p>
+
+			<p>1) Purulent or mucopurulent endocervical exudate visible in the endocervical canal or on an endocervical swab specimen;</p>
+
+			<p>2) Sustained endocervical bleeding easily induced by gentle passage of a cotton swab through the cervical os.</p>
+			</td>
+			<td style="width:462px;">
+			<p><strong>Recommended Regimen</strong></p>
+
+			<p>Doxycycline 100mg PO BID x7d</p>
+
+			<p> </p>
+
+			<p><strong><u>Alternative Regimen</u></strong></p>
+
+			<p>Azithromycin 1g PO x 1 dose  </p>
+
+			<p> </p>
+
+			<p>Must empirically treat chlamydia, and if patient is high-risk, strongly consider concurrent gonococcal treatment. Based on diagnostic testing, may require treatment of trichomonas, symptomatic BV, HSV.</p>
+
+			<p>Confirm with PCR (NAAT) or culture</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="954">
+	<tbody>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Chlamydia</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Nucleic acid amplification techniques on urine (first void), cervical, urethral or anal specimens</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>Recommended Regimen</u></strong></p>
+
+			<p>Doxycycline 100mg PO BID x 7d</p>
+
+			<p> </p>
+
+			<p><strong><u>Alternative Regimens</u></strong></p>
+
+			<p>Azithromycin 1g PO x1 dose</p>
+
+			<p>Levofloxacin 500 mg PO daily x7d</p>
+
+			<p> </p>
+
+			<p><strong><u>Pregnant patients</u></strong></p>
+
+			<p>Azithromycin 1g PO x1 dose</p>
+
+			<p>Amoxicillin 500mg PO TID x 7d</p>
+
+			<p> </p>
+
+			<p>Retest in 3 months, as re-occurrence is common.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Epididymitis</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Urethral swab, TTP on tip of testicle</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>If Gonococcal or Chlamydia suspected</u></strong></p>
+
+			<p>Ceftriaxone 500 mg IM x1 dose</p>
+
+			<p><em>and</em></p>
+
+			<p>Doxycycline 100mg PO BID x 10d</p>
+
+			<p> </p>
+
+			<p><strong><u>If Gonococcal, Chlamydia, or enteric organism suspects</u></strong></p>
+
+			<p>Ceftriaxone 500 mg IM x1 dose</p>
+
+			<p><em><u>and</u></em></p>
+
+			<p><u>Levofloxacin 500 mg PO Daily x10d</u></p>
+
+			<p> </p>
+
+			<p><strong><u>If enteric organisms suspected only (men </u></strong><strong>&gt;<u> 35y who practice insertive anal intercourse)</u></strong></p>
+
+			<p>Levofloxacin 500mg PO Daily x 10d</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Gonococcal infection</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Urethral, cervical, anal swabs: gram stain, culture on Thayer-Martin media, DNA probes, and DNA amplification techniques</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>Recommended regimen:</u></strong></p>
+
+			<p>Ceftriaxone 500mg IM x1 dose (for patients weight &gt;150 kg: Ceftriaxone 1g IM x1)</p>
+
+			<p> </p>
+
+			<p><strong>Alternative regimen if ceftriaxone unavailable:</strong></p>
+
+			<p>Cefixime 800 mg PO once</p>
+
+			<p> </p>
+
+			<p><strong>Alternative regimen for patients with allergy</strong></p>
+
+			<p>Gentamicin 240 mg IM x1 (use with caution in pregnancy)</p>
+
+			<p><em>and</em></p>
+
+			<p>Azithromycin 2g PO x1</p>
+
+			<p> </p>
+
+			<p><strong><u>For disseminated GC – expert consultation recommended</u></strong></p>
+
+			<p>Ceftriaxone 1g IM/IV Q24h x1-2 days</p>
+
+			<p>After clinical improvement begins, oral antibiotic to complete remainder of 7-14d course</p>
+
+			<p> </p>
+
+			<p>Notes: If chlamydia has not been excluded, treat for chlamydia with doxycycline 100 mg PO BID x7d</p>
+
+			<p>FQs are no longer recommended as treatment for GC given the high incidence of Quinolone Resistant GC (QRGC).</p>
+
+			<p>Retest in 3 months, as re-occurrence is common.</p>
+
+			<p> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="954">
+	<tbody>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Genital or anal HSV-2 infection</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Viral culture, DFA staining, Tzanck prep (less common), or PCR. Serologies are helpful for diagnosis if there is no active disease, but there are high false negatives in early infection. Note that routine serologic testing is not recommended for screening.</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>First episode</u></strong></p>
+
+			<p>Acyclovir 400mg PO TID x 7-10d</p>
+
+			<p>Famciclovir 250mg PO TID x 7-10d</p>
+
+			<p>Valacyclovir 1g PO BID x 10d</p>
+
+			<p>(treatment may be extended if healing has not yet occurred)</p>
+
+			<p> </p>
+
+			<p><strong><u>Suppressive therapy</u></strong></p>
+
+			<p>Acyclovir 400mg PO BID</p>
+
+			<p>Famciclovir 250mg PO BID</p>
+
+			<p>Valacyclovir 500mg PO Daily (maybe less effective; use for patients with &lt;9 recurrences/year) </p>
+
+			<p>Valacyclovir 1g PO Daily (use for patients with &gt;10 recurrences/year)</p>
+
+			<p> </p>
+
+			<p><strong><u>Suppressive therapy among persons with HIV Infection </u></strong></p>
+
+			<p>Acyclovir 400-800mg PO BID-TID</p>
+
+			<p>Famciclovir 500mg PO BID</p>
+
+			<p>Valacyclovir 500mg PO BID</p>
+
+			<p> </p>
+
+			<p><strong><u>Episodic therapy for recurrent HSV-2 </u></strong></p>
+
+			<p>Acyclovir 800mg PO BID x 5d</p>
+
+			<p>Acyclovir 800mg PO TID x 2d</p>
+
+			<p>Famciclovir 1g PO BID x 1d</p>
+
+			<p>Famciclovir 500 mg PO x1 then 250 mg BID x2d</p>
+
+			<p>Famciclovir 125mg PO BID x 5d</p>
+
+			<p>Valacyclovir 500mg PO BID x 3d</p>
+
+			<p>Valacyclovir 1g PO Daily x5d</p>
+
+			<p> </p>
+
+			<p><strong><u>Episodic therapy for recurrent HSV-2 among persons with HIV Infection </u></strong></p>
+
+			<p>Acyclovir 400mg PO TID x 5-10d</p>
+
+			<p>Famciclovir 500mg PO BID 5-10d</p>
+
+			<p>Valacyclovir 1g PO BID x 5-10d</p>
+
+			<p>Severe disease (i.e. disseminated infection, pneumonitis, hepatitis, meningitis, encephalitis) requires IV acyclovir (10-12mg/kg/dose q8h).</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="954">
+	<tbody>
+		<tr>
+			<td style="width:132px;"> 
+			<p><strong><em>Genital warts (HPV)</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>The presence of genital warts +/- biopsy.</p>
+
+			<p>(No data support the routine use of PCR to detect HPV in visible warts).</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>For external warts</u></strong></p>
+
+			<p><em>Patient applied</em></p>
+
+			<p>Podofilox 0.5% solution or gel apply BID to visible warts x 3d, followed by 4d of no therapy. Repeat cycle as necessary up to four cycles.</p>
+
+			<p>Imiquimod 5% cream: once Daily at bedtime, 3x/week for up to 16 weeks. Treatment area should be washed with soap and water 6-10 hours after the application.</p>
+
+			<p>Sinecatechins 15% ointment: Apply TID until clearance for maximum 16 weeks. Do not wash off. Not recommend in people with HIV or immunocompromising conditions.</p>
+
+			<p> </p>
+
+			<p><em>Provider-administered</em></p>
+
+			<p>Cryotherapy with liquid nitrogen or cryoprobe (repeat applications every 1-2 weeks) <em>or</em></p>
+
+			<p>Podophyllin resin 10%-25% in a compound tincture of benzoin: air dry and then repeat weekly if necessary</p>
+
+			<p><em>or</em></p>
+
+			<p>Trichloroacetic acid or Bichloroacetic acid 80-90%; if excess acid applied, treated area should be powdered with talc, sodium bicarbonate or liquid soap. Maybe repeated weekly. </p>
+
+			<p>Other options include surgical removal (shave excision, curettage or electrosurgery), intralesional interferon, and laser surgery</p>
+
+			<p> </p>
+
+			<p><strong><u>For vaginal warts</u></strong></p>
+
+			<p>Cryotherapy</p>
+
+			<p><em>or</em></p>
+
+			<p>TCA or BCA 80-90% applied to warts</p>
+
+			<p> </p>
+
+			<p><strong><u>For cervical warts –biopsy to exclude HSIL should be done prior to treatment</u></strong></p>
+
+			<p><u>Cryotherapy</u></p>
+
+			<p><em><u>or</u></em></p>
+
+			<p><u>Surgical removal</u></p>
+
+			<p><em><u>or</u></em></p>
+
+			<p><u>TCA or BCA 80-90%</u></p>
+
+			<p> </p>
+
+			<p><strong><u>For urethral meatus</u></strong></p>
+
+			<p>Cryotherapy</p>
+
+			<p><em>or</em></p>
+
+			<p>Surgical removal</p>
+
+			<p> </p>
+
+			<p><strong><u>For Intra-anal warts</u></strong></p>
+
+			<p>Cryotherapy</p>
+
+			<p><em>or</em></p>
+
+			<p>TCA or BCA 80-90%</p>
+
+			<p><em>or</em></p>
+
+			<p>Surgical removal</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:54px;">
+			<p><strong><em>Lymphogranuloma venereum</em></strong></p>
+			</td>
+			<td style="width:300px;height:54px;">
+			<p>No commercially available test and diagnosis should be considered based on clinical presentation (proctotitis/proctocolitis, tender inguinal LAD).</p>
+
+			<p> </p>
+
+			<p>Serology not helpful for diagnosis.</p>
+
+			<p> </p>
+
+			<p>NAATs for chlamydia do not distinguish between LGV and non-LGV serovars.</p>
+
+			<p> </p>
+
+			<p>SFDPH PHL has validated LGV PCR from swabs from rectum, urethra, and genital ulcers. Will only be run if chlamydia NAAT positive.</p>
+			</td>
+			<td style="width:522px;height:54px;">
+			<p>Doxycycline 100mg PO BID x 21 days (1<sup>st</sup> line)</p>
+
+			<p>Azithromycin 1g PO weekly x 3 weeks (as per CDC, may be effective)</p>
+
+			<p>Erythromycin base 500mg PO QID x 21d</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Mycoplasma genitalium</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>NAAT through urine sample or urethral, meatal, vaginal, endocervical swabs, and vaginal swab. Should be considered in cases of persistent or recurrent urethritis, epididymitis, vaginitis, cervicitis, PID, dysuria, pyuria, and intermenstrual or post coital bleeding</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>If macrolide sensitive (if <em>M. genitalium</em> resistance testing available)</u></strong></p>
+
+			<p><u>Doxycycline 100 mg PO BID x7d, followed</u> <u>by azithromycin 1g PO initial dose then 500 mg PO x3d</u></p>
+
+			<p> </p>
+
+			<p><strong><u>If macrolide resistant or <em>M. genitalium resistance testing not available</em></u></strong></p>
+
+			<p><u>Doxycycline 100 mg PO BID x7d, followed by moxifloxacin 400 mg PO x7d</u></p>
+
+			<p> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="954">
+	<tbody>
+		<tr>
+			<td style="width:132px;"> 
+			<p><strong><em>Pelvic Inflammatory disease (PID)</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Minimum criteria:</p>
+
+			<p>Lower abdominal or pelvic pain <strong><u>and</u></strong></p>
+
+			<p>CMT or uterine tenderness or adnexal tenderness <strong><u>and </u></strong>absence of other causes of pelvic pain</p>
+
+			<p> </p>
+
+			<p>Additional useful criteria: Temp &gt; 38.3, abnormal cervical or vaginal discharge, cervical friability, presence of WBC on saline microscopy of vaginal secretions, evidence of infection with <em>N. gonorrhoeae, C. Trachomatis, </em>or<em> M. genitalium</em></p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>Parenteral</u></strong></p>
+
+			<p>Ceftriaxone 1g Q24H + Doxycycline 100 mg PO BID + Metronidazole 500 mg PO/IV BID</p>
+
+			<p> </p>
+
+			<p>Cefotetan 2g IV q12 + Doxycycline 100mg PO BID</p>
+
+			<p> </p>
+
+			<p>Cefoxitin 2g IV Q6h + Doxycycline 100mg PO BID</p>
+
+			<p> </p>
+
+			<p><strong><u>Alternative Parenteral regimens </u></strong></p>
+
+			<p>Ampicillin/sulbactam 3g IV Q6 + Doxycycline 100mg PO BID</p>
+
+			<p> </p>
+
+			<p>Clindamycin 900mg IV Q8 + Gentamicin loading (2mg/kg IV or IM then maintenance dose 1.5mg/kg q8h)</p>
+
+			<p> </p>
+
+			<p><strong>IM or Oral Regimens</strong></p>
+
+			<p>Ceftriaxone 500mg IM x1 (1g if &gt; 150 kg) + Doxycycline 100mg PO BID x14d + Metronidazole 500 mg PO BID</p>
+
+			<p> </p>
+
+			<p>Cefoxitin 2g IM + Probenecid 1g PO x 1 dose + Doxycycline 100mg PO BID x 14d + Metronidazole 500 mg PO BID</p>
+
+			<p> </p>
+
+			<p>3<sup>rd</sup> generation cephalosporin + Doxycycline 100mg PO BID x 14d + Metronidazole</p>
+
+			<p>500mg PO BID x 14d</p>
+
+			<p> </p>
+
+			<p><strong>If <em>M. genitalium </em>identified by NAAT</strong></p>
+
+			<p>Moxifloxacin 400 mg Daily x 14 days</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Prophylaxis after sexual assault</em></strong></p>
+
+			<p> </p>
+			</td>
+			<td style="width:300px;">
+			<p>Recommend sending to trained provider for forensic evaluation</p>
+			</td>
+			<td style="width:522px;">
+			<p>Ceftriaxone 500mg IM x 1 dose (1g if &gt;150 kg)</p>
+
+			<p>Doxycycline 100mg PO BID x 7d</p>
+
+			<p>Metronidazole 500mg BID x7d (in persons with a vagina)</p>
+
+			<p> </p>
+
+			<p><strong><em>Consider post-exposure HIV prophylaxis if victim will not return for follow up.</em></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Trichomoniasis</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Wet mount: can see motile trichomonads, culture/PCR is much more sensitive. <em>T. vaginalis </em>susceptibility testing available from CDC (404-718-4141)</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong>Recommended initial regimens:</strong></p>
+
+			<p>Vaginal infections: metronidazole 500 mg PO BID x7d</p>
+
+			<p> </p>
+
+			<p>Penile Urethritis: metronidazole 2g PO x1</p>
+
+			<p>Alternative initial regimen (all genders): Tinidazole 2g PO x1</p>
+
+			<p> </p>
+
+			<p><strong>Persistent infection/treatment failure:</strong></p>
+
+			<p><u>If re-infection likely, re-treat with regimens above</u></p>
+
+			<p><u>Persistent vaginitis: Metronidazole 2g PO daily x7d or tinidazole 2g PO Daily x7d</u></p>
+
+			<p>Persistent penile urethritis: metronidazole 500 mg PO BID x7d</p>
+
+			<p> </p>
+
+			<p><strong>Pregnancy</strong></p>
+
+			<p>Metronidazole 500 mg PO BID x7d</p>
+
+			<p>Tinidazole should not be used</p>
+
+			<p> </p>
+
+			<p><strong>Nitroimidazole allergy</strong></p>
+
+			<p>Patients with allergies to metronidazole or tinidazole should undergo oral desensitization</p>
+
+			<p> </p>
+
+			<p>Retest in 3 months, as re-occurrence is common.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Nongonoccocal urethritis</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Gram stain of urethral swab, purulent or mucopurulent discharge; urine with positive leukocyte esterase or &gt;10 WBC per HPF</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>Recommended regimen</u></strong></p>
+
+			<p>Doxycycline 100mg PO BID x 7d</p>
+
+			<p> </p>
+
+			<p><strong><u>Alternative regimens</u></strong></p>
+
+			<p>Azithromycin 1g PO x1 followed by 500 mg daily x3d</p>
+
+			<p>Azithromycin 500 mg PO x1 followed by 250 mg daily x4d</p>
+
+			<p>Azithromycin 1g PO x1</p>
+
+			<p> </p>
+
+			<p><strong><u>Recurrent or persistent urethritis</u></strong></p>
+
+			<p>Retreatment with above if patient noncompliant or partner was not adequately treated.</p>
+
+			<p>Test for <em>M. genitalium</em></p>
+
+			<p> </p>
+
+			<p>Otherwise:</p>
+
+			<p>Metronidazole 2g PO x 1 dose or Tinidazole 2g PO x 1 dose (in areas where <em>T. vaginalis </em>prevalent)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="954">
+	<tbody>
+		<tr>
+			<td style="width:132px;">
+			<p><strong><em>Syphilis</em></strong></p>
+			</td>
+			<td style="width:300px;">
+			<p>Primary, secondary and early latent syphilis: dark field microscopy (available only at DPH clinic in SF), DFA-TP; RPR and VDRL are first line serologic markers. If positive, confirm with treponemal tests FTA-Ab, MHA-TP or TPPA.</p>
+
+			<p>Note that some labs may run treponemal tests as initial screening.</p>
+			</td>
+			<td style="width:522px;">
+			<p><strong><u>Early Syphilis (&lt;1 years duration): Primary, secondary and early latent </u></strong></p>
+
+			<p>Benzathine Penicillin G 2.4 million units IM x1</p>
+
+			<p>Alternative (PCN allergic): Doxycycline 100 mg PO BID x 14d</p>
+
+			<p> </p>
+
+			<p><strong><u>Late Syphilis (&gt;1 year duration or of unknown duration)</u></strong></p>
+
+			<p>Benzathine Penicillin G 2.4 million units IM weekly x 3 doses</p>
+
+			<p>Alternative (PCN allergic): Doxycycline 100 mg PO BID x 4 weeks</p>
+
+			<p> </p>
+
+			<p>Restart three dose series if &gt;14 days elapse between doses</p>
+
+			<p>Restart three dose series if &gt;9 days elapse in pregnant patients</p>
+
+			<p> </p>
+
+			<p><strong><u>Neurosyphilis</u></strong></p>
+
+			<p>Recommended</p>
+
+			<p>Aqueous crystalline penicillin G 3-4 million units IV Q4 hours</p>
+
+			<p><em>or</em></p>
+
+			<p>18-24 million units continuous IV infusion x 10-14d</p>
+
+			<p> </p>
+
+			<p>Alternative</p>
+
+			<p>Procaine Penicillin 2.4 million units IM QDay + Probenecid 500 mg PO QID x 10-14d</p>
+
+			<p> </p>
+
+			<p><strong><u>Contacts/Clusters</u></strong></p>
+
+			<p>Benzathine Penicillin G 2.4 million units IM x1</p>
+
+			<p>Alternative (PCN allergic): Doxycycline 100 mg PO BID x 14d</p>
+
+			<p> </p>
+
+			<p>*Desensitization is necessary for pregnant patients allergic to PCN</p>
+
+			<p> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/08-hepatitis-c-virus/08-hepatitis-c-virus" class="page-previous" title="Go to previous page">‹ 08. Hepatitis C Virus</a>
+                    <a href="/12-infectious-disease/12-infectious-disease" class="page-up" title="Go to parent page">up</a>
+                    <a href="/13-nephrology/13-nephrology" class="page-next" title="Go to next page">13. Nephrology ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="expanded active-trail menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease" class="active-trail">12. Infectious Disease</a><ul class="menu"><li class="first leaf menu-mlid-5316"><a href="/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections">01. Approach to Skin &amp; Soft Tissue Infections</a></li>
+<li class="leaf menu-mlid-5321"><a href="/02-acute-hiv-infection/02-acute-hiv-infection">02. Acute HIV infection</a></li>
+<li class="leaf menu-mlid-5326"><a href="/03-primary-care-hiv-infected-adults/03-primary-care-hiv-infected-adults">03. Primary Care for HIV-infected Adults</a></li>
+<li class="leaf menu-mlid-5331"><a href="/04-prep-pep/04-prep-pep">04. PREP &amp; PEP</a></li>
+<li class="leaf menu-mlid-5336"><a href="/05-tuberculosis/05-tuberculosis">05. Tuberculosis</a></li>
+<li class="leaf menu-mlid-5341"><a href="/06-hepatitis-virus/06-hepatitis-virus">06. Hepatitis A Virus</a></li>
+<li class="leaf menu-mlid-5346"><a href="/07-hepatitis-b-virus/07-hepatitis-b-virus">07. Hepatitis B Virus</a></li>
+<li class="leaf menu-mlid-5351"><a href="/08-hepatitis-c-virus/08-hepatitis-c-virus">08. Hepatitis C Virus</a></li>
+<li class="last leaf active-trail active menu-mlid-5356"><a href="/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis" class="active-trail active">09. Sexually Transmitted Infections (STIs)</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

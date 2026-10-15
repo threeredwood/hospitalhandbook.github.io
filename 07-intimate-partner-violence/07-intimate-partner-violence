@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/07-intimate-partner-violence/07-intimate-partner-violence" />
+<link rel="shortlink" href="/node/1621" />
+<link rel="prev" href="/06-lung-cancer-screening/06-lung-cancer-screening" />
+<link rel="up" href="/01-preventative-care/01-preventative-care" />
+<link rel="next" href="/08-motivational-interviewing-behavioral-change/08-motivational-interviewing-behavioral-change" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/07-intimate-partner-violence/07-intimate-partner-violence" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/07-intimate-partner-violence/07-intimate-partner-violence" />
+<meta property="twitter:title" content="07. Intimate Partner Violence | Hospital Handbook" />
+<meta property="og:title" content="07. Intimate Partner Violence" />
+  <title>07. Intimate Partner Violence | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"zYjza0gxJvUBZeOkNgsBNmht_aquxSVeimnOdTSd-H4","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/07-intimate-partner-violence\/07-intimate-partner-violence":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1621 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/07-intimate-partner-violence/07-intimate-partner-violence" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-oy9VfzwmiN8QNGKFykGTXcvU5tWHD_WOAiBKE2LFGXY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/01-preventative-care/01-preventative-care" class="active-trail">01. Preventative Care</a> > <span class="breadcrumb-page-title">07. Intimate Partner Violence</span></div></div></div>
+                  <h1 class="title" id="page-title">07. Intimate Partner Violence</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1621" class="node node-book clearfix" about="/07-intimate-partner-violence/07-intimate-partner-violence" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="07. Intimate Partner Violence" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Gladys Rodriguez, MD</p>
+
+<p style="text-align: right;">Faculty Editor: ***</p>
+
+<p><strong><u>Background: </u></strong></p>
+
+<ul>
+	<li>Intimate Partner Violence or IPV (also referred to as Domestic violence or DV) involves physical violence, sexual violence, stalking and psychological aggression including coercive acts by a current or former intimate partner.</li>
+	<li>IPV affects millions of American’s yearly.</li>
+	<li>According to the CDC’s National Intimate Partner and Sexual Violence Survey, 1 in 4 women and 1 in 9 men are victims of IPV in the United States.</li>
+	<li>IPV impacts people of all ages, sexual orientations, gender identities, races and ethnicities and socioeconomic classes.</li>
+</ul>
+
+<p><strong><u>Clinical Presentation</u></strong></p>
+
+<ul>
+	<li>The following are examples of aspects that a clinician might elicit or uncover on history of physical exam that would be concerning for IPV.</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 191px;">
+			<p>History</p>
+			</th>
+			<th scope="col" style="width: 185px;">
+			<p>Chief Complaints</p>
+			</th>
+			<th scope="col" style="width: 167px;">
+			<p>Physical Exam</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:191px;">
+			<p>Unclear or inconsistent explanation of injuries</p>
+
+			<p> </p>
+
+			<p>Delays in seeking care</p>
+
+			<p> </p>
+
+			<p>Frequent ED or urgent care visits</p>
+
+			<p> </p>
+
+			<p>Late initiation of prenatal care</p>
+
+			<p> </p>
+
+			<p>Medication non-adherence</p>
+
+			<p> </p>
+
+			<p>Social Isolation</p>
+			</td>
+			<td style="width:185px;">
+			<p>Memory Loss</p>
+
+			<p style="margin-left:.25in;"> </p>
+
+			<p>Pelvic complaints</p>
+
+			<p> </p>
+
+			<p>Emotional distress</p>
+
+			<p> </p>
+
+			<p>Chronic pain</p>
+
+			<p> </p>
+
+			<p>Depression/SI</p>
+
+			<p> </p>
+
+			<p>Anxiety/panic attack</p>
+
+			<p> </p>
+
+			<p>STD symptoms</p>
+
+			<p> </p>
+
+			<p>Eating disorder</p>
+
+			<p> </p>
+			</td>
+			<td style="width:167px;">
+			<p>Note: in the outpatient setting, patients rarely present with chief complaint of an injury.</p>
+
+			<p> </p>
+
+			<p>Injuries to central part of the body (breasts, abdomen, and genitals).</p>
+
+			<p> </p>
+
+			<p>Bruises of different ages or signs of prior injuries.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Screening</u></strong></p>
+
+<ul>
+	<li>Screening is recommended for all patients on initial PCP visit.</li>
+	<li>Before questioning a patient about abuse, it can be helpful to "normalize" the inquiry and frame the questioning as a routine part of everyday practice.</li>
+	<li>Multiple screening tools are available including:
+	<ul>
+		<li>HITS: How often does your partner <strong>H</strong>urt you physically? <strong>Insult </strong>you or talk down to you? <strong>T</strong>hreaten you with harm? <strong>S</strong>cream or curse at you?</li>
+		<li>STaT: Have you ever been in a relationship where your partner has: Pushed or <strong>S</strong>lapped you? <strong>T</strong>hreatened you with violence? <strong>T</strong>hrown, broken or punched things?</li>
+	</ul>
+	</li>
+	<li>If you get a positive screen, assure the patient that it is not their fault, provide assurance that you will be available to the patient in the future, assess for victim’s safety AND contact the social worker at your institution.</li>
+</ul>
+
+<p><strong><u>Helping a Target of Intimate Partner Violence: The SOS-Doc Intervention </u></strong></p>
+
+<p><strong>S:  offer Support and assess Safety</strong></p>
+
+<ul>
+	<li>Support: talk in private; make eye contact; assure confidential discussion, unless the patient expresses plan to harm self or another person
+	<ul>
+		<li><em>I am sorry this happened. You have a right to be safe and respected. The violence is not your fault.</em></li>
+	</ul>
+	</li>
+	<li><em>Safety: </em>identify risk markers—increasing severity and frequency of violence, weapons used or available, threats to kill, forced or threatened sexual acts, life transitions (e.g., pregnancy, separation, divorce), drug and alcohol abuse, and history of violence and/or suicide attempts
+	<ul>
+		<li><em>Do you feel safe going home? Are your children safe?</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>O: discuss Options, including safety planning and follow up</strong></p>
+
+<ul>
+	<li><em>Options: </em>legal tools and community resources; promote safety planning and offer safety planning handout. You can find some of these handouts under APEX smart phrases: Intimate Partner Violence.
+
+	<ul>
+		<li><em>If you decide to leave, where would you go? How would you get there? Can you keep clothes, money, and copies of keys and important papers in a safe place? Many women call a women’s shelter to learn more about it. Would you like to use our office phone?</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>S: validate patient’s Strengths: Identify and validate the patient’s strengths</strong></p>
+
+<ul style="list-style-type:circle;">
+	<li><em>You have shown great strength in very tough circumstances. I can see that you care deeply about your children. It took courage for you to talk with me today about the violence.</em></li>
+</ul>
+
+<p><strong>Do: </strong> <strong>Document observations, assessment and plans</strong></p>
+
+<ul>
+	<li><em>Subjective: </em>record what the patient said; use quotation marks to document exact words</li>
+	<li><em>Objective</em>: describe the behavior and injuries observed, use drawings and photographs describing location and type of injuries; ask the patient permission before including a photograph; for photographs, include a ruler for scale, patient’s face, if allowed by patient, for identity</li>
+	<li><em>Assessment</em>: your assessment of potential partner violence</li>
+	<li><em>Plans</em>: describe safety planning and follow-up plans</li>
+</ul>
+
+<p><strong> C: offer Continuity: Offer a follow-up appointment and assess barriers to access</strong></p>
+
+<ul style="list-style-type:circle;">
+	<li><em>Do you have transportation? Will your partner try to prevent you from returning?</em></li>
+</ul>
+
+<p>It may not be safe for patient to take documents on referrals for support and counseling home; they can make phone calls from your office and leave referrals there.</p>
+
+<p><strong>Legal obligations</strong></p>
+
+<ul>
+	<li>Requirements for reporting vary by state.</li>
+	<li>In California, <em>California Injury Reporting Law, DV (PC 11160) </em>requires that any health provider  who cares for a physical condition and identifies injuries suspiciously related to assault/abuse must notify law enforcement by <strong>BOTH:</strong>
+	<ul>
+		<li>Telephone: make a report as soon as possible to the SFPD at 415-553-9220 and include:
+		<ul>
+			<li>Victim’s name, address, telephone number</li>
+			<li>Assailant’s name, address, telephone number</li>
+			<li>Description of event &amp; description of injuries</li>
+		</ul>
+		</li>
+		<li>File “Report of Injuries by a Firearm or Assaultive of Abusive Conduct” form; send reports to SFPD Domestic Violence Unit within two business days.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>National resources/hotlines</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:295px;">
+			<p>National Domestic Violence</p>
+			</td>
+			<td style="width:295px;">
+			<p>1-800-799-7233 (SAFE); 1-800-787-3224 (TTY)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:295px;">
+			<p>LEAP (Look to End Abuse Permanently)</p>
+			</td>
+			<td style="width:295px;">
+			<p>www.leapsf.org</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:295px;">
+			<p>La Casa de las Madres</p>
+			</td>
+			<td style="width:295px;">
+			<p>1-877-503-1850</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>SF Bay Area Resources</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:295px;">
+			<p>Riley Center 24-Hour Crisis Line</p>
+			</td>
+			<td style="width:295px;">
+			<p>(415) 255-0165</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:295px;">
+			<p>Woman Inc.</p>
+			</td>
+			<td style="width:295px;">
+			<p>(415) 864-4722</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:295px;">
+			<p>CUAV (LGBTQ community)</p>
+			</td>
+			<td style="width:295px;">
+			<p>(415) 333-HELP</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/06-lung-cancer-screening/06-lung-cancer-screening" class="page-previous" title="Go to previous page">‹ 06. Lung Cancer Screening</a>
+                    <a href="/01-preventative-care/01-preventative-care" class="page-up" title="Go to parent page">up</a>
+                    <a href="/08-motivational-interviewing-behavioral-change/08-motivational-interviewing-behavioral-change" class="page-next" title="Go to next page">08. Motivational Interviewing for Behavioral Change  ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first expanded active-trail menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care" class="active-trail">01. Preventative Care</a><ul class="menu"><li class="first leaf menu-mlid-4491"><a href="/01-adult-immunization/01-adult-immunization">01. Adult Immunization</a></li>
+<li class="leaf menu-mlid-4496"><a href="/02-breast-cancer-screening/02-breast-cancer-screening">02. Breast Cancer Screening</a></li>
+<li class="leaf menu-mlid-4501"><a href="/03-cervical-cancer-screening/03-cervical-cancer-screening">03. Cervical Cancer Screening</a></li>
+<li class="leaf menu-mlid-4506"><a href="/04-colorectal-cancer-screening/04-colorectal-cancer-screening">04. Colorectal Cancer Screening***</a></li>
+<li class="leaf menu-mlid-4511"><a href="/05-prostate-cancer-screening/05-prostate-cancer-screening">05. Prostate Cancer Screening</a></li>
+<li class="leaf menu-mlid-4516"><a href="/06-lung-cancer-screening/06-lung-cancer-screening">06. Lung Cancer Screening</a></li>
+<li class="leaf active-trail active menu-mlid-4521"><a href="/07-intimate-partner-violence/07-intimate-partner-violence" class="active-trail active">07. Intimate Partner Violence</a></li>
+<li class="leaf menu-mlid-4526"><a href="/08-motivational-interviewing-behavioral-change/08-motivational-interviewing-behavioral-change">08. Motivational Interviewing for Behavioral Change </a></li>
+<li class="leaf menu-mlid-4531"><a href="/09-travel-medicine/09-travel-medicine">09. Travel Medicine</a></li>
+<li class="leaf menu-mlid-4536"><a href="/10-weight-management/10-weight-management">10. Weight management</a></li>
+<li class="leaf menu-mlid-4541"><a href="/11-annual-preventative-visit/11-annual-preventative-visit">11. Annual Preventative Visit</a></li>
+<li class="last leaf menu-mlid-4546"><a href="/12-home-visit-guide/12-home-visit-guide">12. Home Visit Guide</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

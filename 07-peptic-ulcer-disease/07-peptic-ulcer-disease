@@ -1,0 +1,393 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/07-peptic-ulcer-disease/07-peptic-ulcer-disease" />
+<link rel="shortlink" href="/node/1986" />
+<link rel="prev" href="/06-h-pylori-infection/06-h-pylori-infection" />
+<link rel="up" href="/07-gastroenterology/07-gastroenterology" />
+<link rel="next" href="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/07-peptic-ulcer-disease/07-peptic-ulcer-disease" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/07-peptic-ulcer-disease/07-peptic-ulcer-disease" />
+<meta property="twitter:title" content="07. Peptic ulcer disease | Hospital Handbook" />
+<meta property="og:title" content="07. Peptic ulcer disease" />
+  <title>07. Peptic ulcer disease | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"IhPlLUCzN8mFx8xNdsIiw4Pmc9bor3bZ18xfI6zr7S4","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/07-peptic-ulcer-disease\/07-peptic-ulcer-disease":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1986 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/07-peptic-ulcer-disease/07-peptic-ulcer-disease" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-rn1nGZj20KCVTfFsUg6OBXk9uZIf_Vb0rrysBB5sqp4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/07-gastroenterology/07-gastroenterology" class="active-trail">07. Gastroenterology</a> > <span class="breadcrumb-page-title">07. Peptic ulcer disease</span></div></div></div>
+                  <h1 class="title" id="page-title">07. Peptic ulcer disease</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1986" class="node node-book clearfix" about="/07-peptic-ulcer-disease/07-peptic-ulcer-disease" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="07. Peptic ulcer disease" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Adam Tabbaa, MD</p>
+
+<p align="right">Faculty Editor: Aparajita Singh, MD, MPH</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ <em>H. pylori</em> and NSAIDs are responsible for most PUD</p>
+
+			<p>✔ Eradication of H pylori reduces risk of recurrent ulcers</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Background:</strong></p>
+
+<ul>
+	<li>Definition: ulcerations in the stomach and duodenum</li>
+	<li>Location: 80% of PUD are duodenal (DU), 20% are gastric (GU)</li>
+	<li>Principal risk factors: <em>H. pylori</em> infection and NSAIDs</li>
+	<li>Complications if untreated: GI bleed, perforation, gastric outlet obstruction due to ulcer-induced fibrosis</li>
+</ul>
+
+<p><strong>Signs and Symptoms</strong></p>
+
+<ul>
+	<li>Symptoms: epigastric pain relieved by antacids, nausea, vomiting, bloating, early satiety, weight loss, melena</li>
+	<li>Physical Exam: Can be normal or have epigastric tenderness, melenic stools</li>
+</ul>
+
+<p><strong>Differential Diagnosis:</strong></p>
+
+<ul>
+	<li><em>H. Pylori </em>is more commonly seen with DU than GU</li>
+	<li>Other risk factors: critical illness, cocaine use, methamphetamine use, smoking, Zollinger-Ellison Syndrome, renal failure, hyperparathyroidism, ischemia</li>
+	<li>Crohn’s disease, lymphoma, sarcoid and malignancy may have appearance of peptic ulcer and should be suspected in patients without above risk factors for PUD</li>
+	<li>Alcohol, spicy food and caffeine can cause dyspepsia and worsen the symptoms of PUD but they have not been consistently found to be causative factors for PUD</li>
+	<li>Steroid use alone does not seem to cause PUD but risk is increased when used in combination with NSAIDs</li>
+</ul>
+
+<p><strong>Evaluation</strong></p>
+
+<ul>
+	<li>There are two major considerations in diagnosis of PUD: determining whether dyspeptic symptoms are due to PUD and identifying the specific etiology of PUD. <u>Note</u>: symptoms or exam alone cannot reliably distinguish PUD from other causes of dyspepsia. </li>
+</ul>
+
+<p>1) <strong>Upper Endoscopy (EGD):</strong>  If PUD is suspected, endoscopy is the current standard test for diagnosis.  EGD is expensive and mostly requires sedation.</p>
+
+<p style="margin-left: 40px;">a. Indications: alarm symptoms or older patients &gt; 55 yrs</p>
+
+<p style="margin-left: 40px;">b. Therapy: intervention on bleeding ulcers, biopsies for <em>H. pylori</em> and rule out malignancy</p>
+
+<p style="margin-left: 40px;">c. About 5-10% of GUs can be malignant, and biopsy should be considered in GUs at EGD.</p>
+
+<p style="margin-left: 40px;">d. Large ulcers with irregular thickened margins are more likely to harbor malignancy, but rarely can be present in small benign appearing GUs as well.</p>
+
+<p style="margin-left: 40px;">e. Unlike GUs, DUs are extremely unlikely to be malignant and routine biopsy of these ulcers is not recommended.</p>
+
+<p>2)  <strong>In younger patients without alarm symptoms</strong>, empiric testing for <em>H. pylori</em> and stopping NSAIDs are appropriate first steps. (refer to chapter on <em>H. pylori</em>)</p>
+
+<p>3)   <strong>Barium upper GI study</strong>: Has limited role in modern practice.  It has low sensitivity for small ulcers.  It is noninvasive, less expensive, does not require sedation. It has some role in stable patients who have significant cardiopulmonary risk factors for sedation.  </p>
+
+<p><strong>Treatment:</strong></p>
+
+<ul>
+	<li>High dose PPI (taken 30 min before meals) twice daily for 4-6 weeks for uncomplicated ulcers.</li>
+	<li>Treatment for <em>H. pylori</em> if present (refer to chapter on <em>H. pylori</em>)
+	<ul>
+		<li>ACG Guideline updates from 2017 focus on prior antibiotic exposure, local resistance patterns, and advocates for use of <em>quadruple</em> therapy in these select patients</li>
+	</ul>
+	</li>
+	<li>Avoid/stop NSAIDs</li>
+</ul>
+
+<ul>
+	<li>No firm dietary or psychosocial recommendation is necessary for healing, but patients should avoid food that precipitate symptoms</li>
+</ul>
+
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>Maintenance H2 blocker or low dose PPI (in higher risk) should be considered if:</li>
+</ul>
+
+<ul style="list-style-type:circle;">
+	<li>H/o complications, frequent recurrence, refractory or giant or severely fibrosed ulcer, fail to eradicate <em>H. pylori</em></li>
+	<li>Underlying cause cannot be reversed or need to continue NSAIDs</li>
+</ul>
+
+<ul>
+	<li>Duration of maintenance therapy is not clear, probably two years or longer</li>
+	<li>For <em>H. pylori positive </em>patients, breath or stool antigen test 4-8 weeks after completion of therapy to confirm <em>H. pylori</em> eradication.  </li>
+	<li>Taper PPI gradually and do not stop abruptly to prevent rebound acid-hypersecretion.  </li>
+	<li><strong>Follow up endoscopy:</strong>
+	<ul>
+		<li>Not needed in asymptomatic DU patients as malignancy is extremely rare in DU</li>
+		<li>Some GU patients need follow-up EGD within 2-3 months to rule out malignant ulcers if no clear etiology was found or biopsies not done initially</li>
+		<li>Refractory symptoms despite treatment</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Prevention:</strong></p>
+
+<ul>
+	<li>Growing data that testing and treating (if positive) for <em>H. pylori</em> prior to beginning long term NSAID use should be considered</li>
+</ul>
+
+<p><strong>When to refer:</strong></p>
+
+<ul>
+	<li>Refer to GI for endoscopy if you suspect PUD (i.e. treatment for non-ulcer dyspepsia and <em>H. pylori</em> does not resolve symptoms: if PPI does not relieve symptoms) or if red flags such as bleeding or weight loss are present.</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p>ASGE Standards of Practice Committee<em>. </em><em>The role of endoscopy in the management of patients with peptic ulcer disease. </em>ASGE Guidelines, 2010. Gastrointestinal Endoscopy. 2010 Apr:71(4):663-8.</p>
+
+<p>Ford AC, et al. <em> Eradication therapy for peptic ulcer disease in </em>Helicobacter pylori<em> positive patients. </em>Cochrane Database Syst Rev<a href="javascript:AL_get(this,%20'jour',%20'Cochrane%20Database%20Syst%20Rev.');">.</a> 2006 Apr 19;(2):CD003840.</p>
+
+<p>Talley <em>NJ; American Gastroenterological Association</em>. <em>American Gastroenterological Association Medical Position Statement</em><em>: <em>Evaluation of Dyspepsia</em>. <em>Gastroenterology</em></em>. <em>2005</em>;<em>129:1753–5</em></p>
+
+<p>Ramakrishnan K, Salinas RC. <em>Peptic Ulcer Disease</em>. Am Fam Physician. 2007 Oct 1;76(7):1005-12</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/06-h-pylori-infection/06-h-pylori-infection" class="page-previous" title="Go to previous page">‹ 06. H. pylori infection</a>
+                    <a href="/07-gastroenterology/07-gastroenterology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" class="page-next" title="Go to next page">08. Inflammatory bowel disease***** ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="expanded active-trail menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology" class="active-trail">07. Gastroenterology</a><ul class="menu"><li class="first leaf menu-mlid-5156"><a href="/01-constipation/01-constipation">01. Constipation</a></li>
+<li class="leaf menu-mlid-5161"><a href="/02-diarrhea/02-diarrhea">02. Diarrhea</a></li>
+<li class="leaf menu-mlid-5166"><a href="/03-dysphagia/03-dysphagia">03. Dysphagia</a></li>
+<li class="leaf menu-mlid-5171"><a href="/04-approach-dyspepsia/04-approach-dyspepsia">04. Approach to dyspepsia</a></li>
+<li class="leaf menu-mlid-5176"><a href="/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus">05. GERD and Barrett&#039;s Esophagus</a></li>
+<li class="leaf menu-mlid-5181"><a href="/06-h-pylori-infection/06-h-pylori-infection">06. H. pylori infection</a></li>
+<li class="leaf active-trail active menu-mlid-5186"><a href="/07-peptic-ulcer-disease/07-peptic-ulcer-disease" class="active-trail active">07. Peptic ulcer disease</a></li>
+<li class="leaf menu-mlid-5191"><a href="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease">08. Inflammatory bowel disease*****</a></li>
+<li class="leaf menu-mlid-5196"><a href="/09-approach-abnormal-lfts/09-approach-abnormal-lfts">09. Approach to abnormal LFTs</a></li>
+<li class="last leaf menu-mlid-5201"><a href="/10-approach-cirrhosis/10-approach-cirrhosis">10. Approach to cirrhosis*****</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

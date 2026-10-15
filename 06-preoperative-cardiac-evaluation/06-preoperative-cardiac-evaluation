@@ -1,0 +1,461 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation" />
+<link rel="shortlink" href="/node/1756" />
+<link rel="prev" href="/05-hypertension/05-hypertension" />
+<link rel="up" href="/03-cardiology/03-cardiology" />
+<link rel="next" href="/07-peripheral-vascular-disease/07-peripheral-vascular-disease" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation" />
+<meta property="twitter:title" content="06. Preoperative Cardiac Evaluation | Hospital Handbook" />
+<meta property="og:title" content="06. Preoperative Cardiac Evaluation" />
+  <title>06. Preoperative Cardiac Evaluation | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"JZscvVRwPpsxbMg7eWIJf0G1dFZtzADrIz3nEYYAqxc","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/06-preoperative-cardiac-evaluation\/06-preoperative-cardiac-evaluation":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1756 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ml2SdO0lauZ1vnaqji2I5_CLH3hAFioUD27OyEZWifY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/03-cardiology/03-cardiology" class="active-trail">03. Cardiology</a> > <span class="breadcrumb-page-title">06. Preoperative Cardiac Evaluation</span></div></div></div>
+                  <h1 class="title" id="page-title">06. Preoperative Cardiac Evaluation</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1756" class="node node-book clearfix" about="/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="06. Preoperative Cardiac Evaluation" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ If emergent non-cardiac surgery needed, operate with post-op risk stratification and management.</p>
+
+			<p>✔ The National Surgical Quality Improvement Program (NSQIP) Risk Calculator can identify patients at increased risk for perioperative cardiac complications.</p>
+
+			<p>✔ Delay elective surgery for 4-6 weeks after angioplasty without stenting or bare metal stent placement and 12 months after drug eluting stent placement, if antiplatelet drugs.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p align="right">Resident Editor: Mia Williams, MD</p>
+
+<p align="right">Faculty Editor:  Hugo Cheng, MD</p>
+
+<p><strong>Step 1. Active cardiac conditions?</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th colspan="2" scope="col" style="width: 390px;">
+			<p align="center">Active cardiac conditions</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:175px;">
+			<p>Unstable Angina</p>
+
+			<p>MI within 1 month</p>
+
+			<p>Decompensated CHF</p>
+
+			<p>Severe valvular disease:</p>
+
+			<p style="margin-left:.25in;">● Symptomatic MS</p>
+
+			<p style="margin-left:.25in;">● Severe AS</p>
+			</td>
+			<td style="width:215px;">
+			<p>Serious arrhythmia:</p>
+
+			<p style="margin-left:.25in;">● High grade AV block</p>
+
+			<p style="margin-left:.25in;">● SVT with HR &gt;100</p>
+
+			<p style="margin-left:.25in;">● Symptomatic bradycardia</p>
+
+			<p style="margin-left:.25in;">●Ventricular arrhythmias</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:.5in;">If YES, Delay surgery until evaluation and treatment per ACC/AHA guidelines</p>
+
+<p style="margin-left:.5in;">If NO, Continue to Step 3</p>
+
+<p><strong>Step 2. Low risk surgery?</strong></p>
+
+<p><em>Low Risk Surgery (&lt;1% risk of perioperative death or MI) </em></p>
+
+<p style="margin-left:.5in;">If YES, Proceed with surgery; noninvasive tests not useful for low risk surgery.</p>
+
+<p style="margin-left:.5in;">If NO, Continue to Step 3</p>
+
+<p><strong>Examples of Surgeries by Risk</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 197px;">
+			<p align="center"><em>Low risk</em></p>
+
+			<p align="center"><em>(&lt;1% risk of peri-operative death or MI)</em></p>
+			</th>
+			<th scope="col" style="width: 197px;">
+			<p align="center"><em>Intermediate Risk</em></p>
+
+			<p align="center"><em>(1-5% risk of peri-operative death or MI)</em></p>
+			</th>
+			<th scope="col" style="width: 197px;">
+			<p align="center"><em>High Risk</em></p>
+
+			<p align="center"><em>(&gt;5% risk of peri-operative death or MI)</em></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:197px;">
+			<ul>
+				<li>Cataract removal</li>
+				<li>Endoscopy</li>
+				<li>Superficial procedure</li>
+				<li>Breast surgery</li>
+				<li>Ambulatory surgery</li>
+			</ul>
+			</td>
+			<td style="width:197px;">
+			<ul>
+				<li>Urologic</li>
+				<li>Orthopedic</li>
+				<li>Intraperitoneal</li>
+				<li>Intrathoracic</li>
+				<li>Head and Neck</li>
+				<li>Carotid Endarterectomy</li>
+			</ul>
+			</td>
+			<td style="width:197px;">
+			<ul>
+				<li>Emergent major surgery</li>
+				<li>Peripheral vascular</li>
+				<li>Aortic surgery</li>
+				<li>Prolonged procedures with large fluid shifts/blood loss</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Step 3. What is the patient’s risk for cardiac complications?</strong></p>
+
+<p><em>Evaluate level of using the Revised Cardiac Risk Index (RCRI) or National Surgical Quality Improvement Program (NSQIP) Risk Calculator</em></p>
+
+<p>RCRI Clinical Risk Factors:</p>
+
+<ol>
+	<li>Ischemic heart disease</li>
+	<li>Heart Failure</li>
+	<li>Cerebrovascular disease</li>
+	<li>Renal Insufficiency (Cr&gt;2.0)</li>
+	<li>Diabetes Mellitus</li>
+	<li>Major Surgery: <em>intrathoracic, intraperitoneal, or suprainguinal vascular</em></li>
+</ol>
+
+<p style="margin-left:.25in;">Risk of perioperative death or MI:</p>
+
+<p style="margin-left:.25in;">0 predictors = 0.4%; 1 predictor = 1%; 2  predictors = 2.4 %;  ≥3 predictors = 5.4%</p>
+
+<p>NSQIP Risk Calculator: <a href="https://qxmd.com/calculate/calculator_245/gupta-perioperative-cardiac-risk">https://qxmd.com/calculate/calculator_245/gupta-perioperative-cardiac-risk</a></p>
+
+<p><strong>Step 4. Functional capacity </strong>≥<strong>4 METs without symptoms?</strong></p>
+
+<p>Activities ≥ 4 METs include:</p>
+
+<ul>
+	<li>Climbing a flight of stairs</li>
+	<li>Walking 1-2 blocks on level ground</li>
+	<li>Performing light house work without symptoms</li>
+</ul>
+
+<p>If YES, Proceed with surgery</p>
+
+<p>If NO/UNKNOWN, Continue to Step 5.</p>
+
+<p><strong>Step 5. Will stress testing change management?</strong></p>
+
+<p>Perform pharmacologic stress test if result will change management (e.g., modify, delay, or cancel surgery, perform invasive cardiac intervention, modify medical management)</p>
+
+<p style="margin-left:.5in;">If stress testing negative, Proceed with surgery</p>
+
+<p style="margin-left:.5in;">If stress testing positive, Manage cardiac issues per AHA/ACA guidelines before proceeding with surgery.</p>
+
+<p>Perioperative cardiac medications:</p>
+
+<ul>
+	<li>Continue β-blockade prior to surgery if already receiving β-blockade.</li>
+	<li>Consider initiating β-blockade in high-risk patients (<u>&gt;3 RCRI predictors or ischemia found on preoperative stress test)</u></li>
+	<li>Do not start beta-blockers on the day of surgery.</li>
+	<li>Initiate or continue statin therapy 1 month prior to surgery</li>
+</ul>
+
+<p>Perioperative management of coronary stents:</p>
+
+<ul>
+	<li>Coronary revascularization for stable coronary artery disease has not been shown to prevent cardiac complications after non-cardiac surgery</li>
+	<li>Delay elective surgery for 1 month after bare metal stent implantation and 6 months after drug-eluting stent implantation (if this delay will cause significant harm, a delay of 3 months can be considered)</li>
+	<li>Endocarditis prophylaxis is only recommended for patients undergoing dental, repiratory tract, and infected soft tissue procedures if they have prosthetic valves, history of infectious endocarditis, unrepaired cyanotic defects, or valvulopathy following heart transplant. Recommended antibiotic regimen: Amoxicillin 2 g PO x1 30-60 minutes prior to procedure. If PCN allergic, can use Azithromycin 500 mg or Clindamcyin 600 mg x1 30-60 minutes prior to procedure.</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>References</u></strong></p>
+
+<p>Gupta PK1, Gupta H, Sundaram A, Kaushik M, Fang X, Miller WJ, Esterbrooks DJ, Hunter CB, Pipinos II, Johanning JM, Lynch TG, Forse RA, Mohiuddin SM, Mooss AN. Development and validation of a risk calculator for prediction of cardiac risk after surgery. Circulation. 2011 Jul 26;124(4):381-7.</p>
+
+<p>Fleisher, L.A., Fleischmann, K.E., Auerbach, A.D., et al. 2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery. Journal of the American College of Cardiology. 2014.</p>
+
+<p>Levine GN, Bates ER, Bittl JA, et al. 2016 ACC/AHA Guideline Focused Update on Duration of Dual Antiplatelet Therapy in Patients With Coronary Artery Disease, Journal of the American College of Cardiology  (2016), doi: 10.1016/j.jacc.2016.03.513</p>
+
+<p>Wilson W, Taubert KA, Gewitz M, et al. Prevention of infective endocarditis: guidelines from the American Heart Association: a guideline from the American Heart Association Rheumatic Fever, Endocarditis, and Kawasaki Disease Committee, Council on Cardiovascular Disease in the Young, and the Council on Clinical Cardiology, Council on Cardiovascular Surgery and Anesthesia, and the Quality of Care and Outcomes Research Interdisciplinary Working Group. Circulation. 2007; 116(15):1736-54.</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/05-hypertension/05-hypertension" class="page-previous" title="Go to previous page">‹ 05. Hypertension</a>
+                    <a href="/03-cardiology/03-cardiology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/07-peripheral-vascular-disease/07-peripheral-vascular-disease" class="page-next" title="Go to next page">07. Peripheral Vascular Disease ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="expanded active-trail menu-mlid-4916"><a href="/03-cardiology/03-cardiology" class="active-trail">03. Cardiology</a><ul class="menu"><li class="first leaf menu-mlid-4921"><a href="/01-coronary-artery-disease/01-coronary-artery-disease">01. Coronary Artery Disease</a></li>
+<li class="leaf menu-mlid-4931"><a href="/02-congestive-heart-failure/02-congestive-heart-failure">02. Congestive Heart Failure</a></li>
+<li class="leaf menu-mlid-4936"><a href="/03-atrial-fibrillation/03-atrial-fibrillation">03. Atrial Fibrillation</a></li>
+<li class="leaf menu-mlid-4941"><a href="/04-heart-murmurs/04-heart-murmurs">04. Heart Murmurs</a></li>
+<li class="leaf menu-mlid-4946"><a href="/05-hypertension/05-hypertension">05. Hypertension</a></li>
+<li class="leaf active-trail active menu-mlid-4951"><a href="/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation" class="active-trail active">06. Preoperative Cardiac Evaluation</a></li>
+<li class="last leaf menu-mlid-4956"><a href="/07-peripheral-vascular-disease/07-peripheral-vascular-disease">07. Peripheral Vascular Disease</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

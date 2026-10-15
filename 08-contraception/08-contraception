@@ -1,0 +1,515 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/08-contraception/08-contraception" />
+<link rel="shortlink" href="/node/2086" />
+<link rel="prev" href="/07-cervicitis-pid/07-cervicitis-pid" />
+<link rel="up" href="/10-womens-health/10-womens-health" />
+<link rel="next" href="/09-contraception-emergency/09-contraception-emergency" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/08-contraception/08-contraception" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/08-contraception/08-contraception" />
+<meta property="twitter:title" content="08. Contraception | Hospital Handbook" />
+<meta property="og:title" content="08. Contraception" />
+  <title>08. Contraception | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"7ftymw0YvoABhXB62M2RX3jWNmUTk7tq3YVgLdk4I4M","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/08-contraception\/08-contraception":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2086 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/08-contraception/08-contraception" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-agfFrkIy4H3BMR382uccGS5F9JytnfMsgpZyfeP4PlM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/10-womens-health/10-womens-health" class="active-trail">10. Women&#039;s Health</a> > <span class="breadcrumb-page-title">08. Contraception</span></div></div></div>
+                  <h1 class="title" id="page-title">08. Contraception</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2086" class="node node-book clearfix" about="/08-contraception/08-contraception" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="08. Contraception" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Anne Montgomery, MD</p>
+
+<p style="text-align: right;">Faculty Editors: Meg Autry, MD, and Miranda Dunlop, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Most effective: intrauterine device (IUD), implant, injectables, sterilization (permanent)</p>
+
+			<p>✔ Least effective: condoms, diaphragm, withdrawal, sponge, rhythm method</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Almost half of the pregnancies in the US are unintended.
+	<ul>
+		<li>Unintended pregnancies occur equally among women who were not using any contraception and among women using contraception incorrectly or inconsistently.</li>
+	</ul>
+	</li>
+	<li>Preventing unintended pregnancy involves helping each woman, man, or couple choose the most appropriate form of contraception for her/his/their reproductive goals and providing education on appropriate use.  </li>
+</ul>
+
+<p><strong><u>Choosing a contraceptive method</u></strong></p>
+
+<ul>
+	<li>Each woman must weigh the advantages of each method against the disadvantages and side effects in order to select a preferred method that she is most likely to use. Factors to consider include:
+	<ul>
+		<li>Safety</li>
+		<li>Efficacy</li>
+		<li>Availability (accessibility, cost)</li>
+		<li>Convenience</li>
+		<li>Reversibility</li>
+	</ul>
+	</li>
+	<li>Remember that hormonal contraception methods DO NOT protect against STIs. </li>
+</ul>
+
+<p><strong><u>Intrauterine Devices (IUDs)</u></strong></p>
+
+<ul>
+	<li>Extremely effective methods of contraception (approx. 20x as effective as pills, patch, ring) that are completely reversible; efficacy does not vary with BMI.</li>
+	<li>Underutilized in the U.S.; appropriate for almost all women, including adolescents, nulliparas, and women in the postpartum and postabortion periods. </li>
+	<li>5 IUDs currently approved in the US:
+	<ul class="decimal_type">
+		<li><strong>ParaGard: </strong>Copper IUD; lasts up to 10 yrs; associated with heavier, more painful periods in some women; can also be used as emergency contraception.</li>
+		<li><strong>Mirena: </strong>Levonorgestrel-releasing (20mcg/day); lasts up to 5 yrs, often used for non-contraceptive benefits including less menstrual bleeding</li>
+		<li><strong>Liletta:</strong> Lower-cost alternative to Mirena (19mcg/day); approved for 3 yrs.</li>
+		<li><strong>Kyleena:</strong> Levonorgestrel-releasing (17.5mcg/day); smaller than Mirena; lasts up to 5 yrs; targeted toward nulliparous women; may have less effect on bleeding but also less systemic effects; only recently became available so not enough evidence yet. </li>
+		<li><strong>Skyla: </strong>Levonorgestrel-releasing (14mcg/day); smaller than Mirena; lasts up to 3 yrs; targeted toward nulliparous women.
+		<ul>
+			<li>All hormonal IUDs are associated with irregular bleeding initially.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Must be inserted and removed by a trained provider. </li>
+	<li>STI screening is not required before insertion as long as there are not any current symptoms and up-to-date on recommended age-appropriate screening.
+	<ul>
+		<li>The risk of PID associated with insertion and use of IUDs is very low. </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Implant - Nexplanon</u></strong></p>
+
+<ul>
+	<li>Subdermal etonogestrel implant (progestin-only); extremely effective method of contraception, providing up to 4 years of continuous contraception.</li>
+	<li>Rapid return to fertility (94% ovulating within 3-6 wks after removal); good for women seeking long-term contraception and those with contraindications to estrogen.</li>
+	<li>Inhibits ovulation and thickens cervical mucus; most women experience some irregular bleeding which may last for the entire duration of the implant</li>
+	<li>The efficacy of Nexplanon does not seem to vary with BMI. </li>
+</ul>
+
+<p><strong><u>Injectable - Depo-Provera (DMPA)</u></strong></p>
+
+<ul>
+	<li>Progestin injection (150mg DMPA) providing 12 weeks of continuous contraception; injected IM into deltoid or gluteus maximus muscle.</li>
+	<li>Beneficial for women on anti-coagulation or with bleeding diathesis (decreases anemia, acute sickle cell crises); an excellent choice for those on anti-convulsants and those who cannot take estrogen.</li>
+	<li>Lasts irreversibly for 3 months, which can be problematic if the patient experiences side effects (irregular bleeding, amenorrhea, weight gain, acne). </li>
+	<li>Longer return to fertility (up to 10 months from the last injection).</li>
+</ul>
+
+<p><strong><u>Patch – Ortho Evra</u></strong></p>
+
+<ul>
+	<li>Releases 20 mcg of Ethinyl estradiol &amp; 150 mcg of norelgestromin per 24 hours.</li>
+	<li>Each patch lasts 1 week, so 3 patches provide a month’s contraception with 1 patch-free week; rapid return to baseline fertility.</li>
+	<li>Contraindications/side effects are similar to those of combination OCPs.
+	<ul>
+		<li>Due to higher circulating estrogen levels, the Patch carries a higher risk of VTE than the pill and is not recommended to be used continuously.</li>
+		<li>Avoid in women &gt;90 kg (198 lbs) as may not be as effective.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Ring - NuvaRing</u></strong></p>
+
+<ul>
+	<li>Small, flexible ring inserted vaginally once a month; releases about 15 mcg Ethinyl estradiol and 120 mcg etonogestrel daily. </li>
+	<li>Left in place for three weeks, removed for the remaining week each month (allowing breakthrough bleeding) or exchanged for a new ring if using continuously; rapid return to baseline fertility.</li>
+	<li>Contraindications/side effects are similar to those of combination OCP and Patch.
+	<ul>
+		<li>Higher risk of VTE than the pill; similar to the patch above. </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Pill – Combined OCPs</u></strong></p>
+
+<ul class="decimal_type">
+	<li>Prevent pregnancy primarily by suppressing ovulation<strong> </strong>by suppression of LH and FSH surges and alteration of cervical mucus/endometrium.<strong> </strong>All are formulations of synthetic estrogen and synthetic progesterone. </li>
+	<li>Reduces risk of ovarian and endometrial cancer; this protection is increased with a longer duration of use. Conflicting studies have shown an increase in breast cancer risk, especially with a longer duration of use, but the absolute risk increase is small. </li>
+	<li>Remember that although estrogen is associated with DVT risk, pregnancy itself doubles the risk of DVT (compared with COC use: 200 vs. 100/100,000 per year, respectively)!</li>
+	<li><em>Monophasic vs. multiphasic pills</em>: the same dose of estrogen with either the same dose (monophasic) or an escalating dose of progesterone (multiphasic) for 21 days; last 7 days are placebo. Monophasics are preferred if continuous COC use planned (see below), </li>
+	<li>Most practitioners start with a monophasic pill with 20-35 mcg of Ethinyl estradiol and progesterone with low androgenic activity (e.g. Desogen, Alesse, Ortho-Cyclen). If a pill was well tolerated in past, it is likely to be well tolerated again.</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Combination OCPs have the same type of estrogen with variation in the progesterone</p>
+
+			<p>✔ OCPs are either monophasic or multiphasic</p>
+
+			<p>✔ Consider back-up contraception when starting, depending on start date</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Directions/timing for starting</u></strong><strong><u> combination Oral Contraceptive Pills (OCPs)</u></strong></p>
+
+<ul>
+	<li>In asymptomatic women, a pelvic examination is not necessary before starting OCPs.</li>
+	<li><em>“First Day Start”:</em> Start on 1<sup>st</sup> day of the next period. No backup contraception is needed.</li>
+	<li><em>“Sunday Start”:</em> Starting the Sunday after the next period. Recommend backup contraception for 7 days.  Has the benefit of no periods on weekends.</li>
+	<li><em>“Quick Start”:</em> Starting the same day of the visit after the urine pregnancy test. Must use 7 days of backup contraception. </li>
+</ul>
+
+<p><strong><u>Continuous use of combination OCPs</u></strong></p>
+
+<ul>
+	<li>Can control the timing of cycles by eliminating some or all pill-free intervals (placebo pills), either for medical (dysmenorrhea, anemia) or personal reasons (sports, travel).  Monophasic formulations are preferable.</li>
+	<li>Periods 4 times/year: Seasonale, Seasonique marketed specifically for this purpose but any monophasic can be tailored to this schedule. May have breakthrough bleeding.</li>
+	<li>Ring users can also take advantage of continuous use. </li>
+</ul>
+
+<p><strong><u>Troubleshooting problems with OCP use</u></strong></p>
+
+<p><strong>A. Breakthrough bleeding</strong></p>
+
+<ul>
+	<li>Spotting can occur in the first few cycles; usually resolves. Advise patient to take the pill at the same time every day.  </li>
+	<li>If persistent may be due to a low dose of estrogen. If increasing the estrogen dose does not change the irregular bleeding, switch to another category of progestin.</li>
+	<li>If there is still breakthrough bleeding, choose another method or consider a pill holiday for up to 6 months to regenerate the endometrium as well as a pelvic ultrasound to evaluate for structural causes of bleeding. </li>
+</ul>
+
+<p><strong>B. Nausea</strong></p>
+
+<ul>
+	<li>Rule out pregnancy. Often secondary to estrogen dose and resolves after the first 3 months. If intolerable, switch to a lower estrogen dose pill (e.g. 20 mcg).</li>
+</ul>
+
+<p><strong>C. Headache:</strong></p>
+
+<ul>
+	<li>Women with classic migraine headaches should discontinue OCPs because of the increased risk of stroke. A lower dose of progesterone may help.  If headaches occur consistently during the placebo week, they may be secondary to estrogen withdrawal.  May benefit from continuous OCPs. </li>
+</ul>
+
+<p><strong>D. Weight gain:</strong></p>
+
+<ul>
+	<li>The average weight gain with new progesterones is 0.5-1 lbs.  Can switch to lower dose progesterone pill if not already on one.</li>
+</ul>
+
+<p><strong>E. Missing a pill</strong></p>
+
+<ul>
+	<li>1 missed pill – take the missed pill when remembered; take the next pill at the scheduled time.</li>
+	<li>2 missed pills, week 1 or 2 of cycle – take 2 missed pills when remembered, then 2 pills next day, then resume regular schedule and use a backup method for 7 days.</li>
+	<li>2 missed pills, week 3 of cycle – start a new pack and use a backup method for 7 days.</li>
+	<li>3 missed pills – start a new pack and use the backup method for 7 days.</li>
+</ul>
+
+<p><strong>F. Medication Interactions</strong></p>
+
+<ul>
+	<li>Reduced OCP efficacy with certain anti-convulsants, protease inhibitors, and griseofulvin. With these medications consider a higher dose OCP or progestin-only method.   Rifampin is the only antibiotic that reduces the effectiveness of OCPs. If these meds are prescribed, use a backup method for the duration of the medication and 7 days afterward (controversial).</li>
+</ul>
+
+<p><strong><u>Mini-pill - Progestin-only OCP</u></strong></p>
+
+<ul>
+	<li>A good option for women who are intolerant to estrogen or who are breastfeeding. </li>
+	<li>No apparent increased risk of venous thromboembolism (VTE). </li>
+	<li>Slightly higher failure rate than combination pills; changes the cervical mucus, impedes ovum transport and inhibits implantation.</li>
+	<li>Must be taken at the <strong><em>same time every day</em></strong> to improve efficacy and lessen irregular bleeding (backup method necessary if &gt;27 hours between pills).</li>
+	<li>Side effects: spotting or irregular periods.</li>
+</ul>
+
+<p><strong><u>Contraindications to <em>estrogen</em>-containing methods</u></strong></p>
+
+<ul>
+	<li>Thromboembolic disease (current or remote) or clotting disorder</li>
+	<li>Cerebrovascular or CAD (current or remote)</li>
+	<li>Poorly-controlled hypertension (avoid if BP &gt;160/90)</li>
+	<li>Known or suspected breast cancer or other estrogen-dependent neoplasms</li>
+	<li>Heavy smoking (&gt;15 cigs/day) if &gt;35 years old (increased risk of MI, DVT)</li>
+	<li>Undiagnosed abnormal uterine bleeding</li>
+	<li>Cholestatic jaundice of pregnancy or jaundice with prior OCP use, liver failure</li>
+	<li>Current breastfeeding in the first 6 months postpartum</li>
+	<li>Obesity (avoid if BMI &gt;39, maybe less effective and increase DVT risk at lower BMI) </li>
+	<li>Classic migraines (classic aura, &gt;72h duration, treated with ergot derivatives, increased risk of CVA)</li>
+</ul>
+
+<p><strong><u>General considerations for oral <em>progestin-only</em> methods:</u></strong></p>
+
+<ul>
+	<li>Avoid in women with breast cancer currently or h/o breast cancer within previous 5 years; active hepatitis, jaundice, or liver failure; on medications that increase hepatic clearance (rifampin, carbamazepine, phenytoin, topiramate, St John’s Wort, griseofulvin).</li>
+	<li>Consider in women with contraindications to or side effects from estrogen: a personal history of thrombosis, exclusive breastfeeding, smokers &gt;35 yrs, HTN, CAD/CVA, lupus, those who fear worsening migraine headaches or other estrogen-related side effects such as nausea.</li>
+</ul>
+
+<p><strong><u>References for patients:</u></strong></p>
+
+<ul>
+	<li><a href="https://www.bedsider.org/">https://www.bedsider.org/</a></li>
+	<li>https://www.plannedparenthood.org/learn/birth-control</li>
+</ul>
+
+<p><strong><u>References:</u></strong></p>
+
+<p><em>Curtis KM and JF Peipert. Long-acting reversible contraception. N Engl J Med 2017;376(5):461-8. </em></p>
+
+<p><em>Curtis KM, TC Jatlaoui, NK Tepper, et al. U.S. selected practice recommendations for contraceptive use, 2016. MMWR Recomm Rep 2015;65(4):1-66.</em></p>
+
+<p><em>Kaunitz AM. Contraceptive counseling and selection. UpToDate Online, updated January 8, 2018. Accessed April 15, 2018.</em></p>
+
+<p><em>Lesnewski R, Prine L. Initiating Hormonal Contraception. Am Fam Physician 2006;74:105-12.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/07-cervicitis-pid/07-cervicitis-pid" class="page-previous" title="Go to previous page">‹ 07. Cervicitis &amp; PID</a>
+                    <a href="/10-womens-health/10-womens-health" class="page-up" title="Go to parent page">up</a>
+                    <a href="/09-contraception-emergency/09-contraception-emergency" class="page-next" title="Go to next page">09. Contraception - Emergency ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="expanded active-trail menu-mlid-5246"><a href="/10-womens-health/10-womens-health" class="active-trail">10. Women&#039;s Health</a><ul class="menu"><li class="first leaf menu-mlid-5251"><a href="/01-approach-breast-mass/01-approach-breast-mass">01. Approach to the Breast Mass</a></li>
+<li class="leaf menu-mlid-5256"><a href="/02-approach-abnormal-mammogram/02-approach-abnormal-mammogram">02. Approach to the Abnormal Mammogram</a></li>
+<li class="leaf menu-mlid-5261"><a href="/03-approach-pap-test-results/03-approach-pap-test-results">03. Approach to Pap Test Results</a></li>
+<li class="leaf menu-mlid-5266"><a href="/04-abnormal-uterine-bleeding/04-abnormal-uterine-bleeding">04. Abnormal Uterine Bleeding</a></li>
+<li class="leaf menu-mlid-5271"><a href="/05-chronic-pelvic-pain/05-chronic-pelvic-pain">05. Chronic Pelvic Pain</a></li>
+<li class="leaf menu-mlid-5276"><a href="/06-amenorrhea/06-amenorrhea">06. Amenorrhea</a></li>
+<li class="leaf menu-mlid-5281"><a href="/07-cervicitis-pid/07-cervicitis-pid">07. Cervicitis &amp; PID</a></li>
+<li class="leaf active-trail active menu-mlid-5286"><a href="/08-contraception/08-contraception" class="active-trail active">08. Contraception</a></li>
+<li class="leaf menu-mlid-5291"><a href="/09-contraception-emergency/09-contraception-emergency">09. Contraception - Emergency</a></li>
+<li class="leaf menu-mlid-5296"><a href="/10-vaginitis/10-vaginitis">10. Vaginitis</a></li>
+<li class="leaf menu-mlid-5301"><a href="/11-menopause-hrt/11-menopause-hrt">11. Menopause &amp; HRT</a></li>
+<li class="last leaf menu-mlid-5306"><a href="/12-infertility/12-infertility">12. Infertility</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

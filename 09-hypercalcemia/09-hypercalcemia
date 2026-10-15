@@ -1,0 +1,384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/09-hypercalcemia/09-hypercalcemia" />
+<link rel="shortlink" href="/node/1921" />
+<link rel="prev" href="/08-vitamin-d-deficiency/08-vitamin-d-deficiency" />
+<link rel="up" href="/06-endocrinology/06-endocrinology" />
+<link rel="next" href="/10-hyperlipidemia/10-hyperlipidemia" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/09-hypercalcemia/09-hypercalcemia" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/09-hypercalcemia/09-hypercalcemia" />
+<meta property="twitter:title" content="09. Hypercalcemia | Hospital Handbook" />
+<meta property="og:title" content="09. Hypercalcemia" />
+  <title>09. Hypercalcemia | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"Yinkq_JOYmI5nVvv7N1FylWjk7hEDfW8i5IBcvtCxUg","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/09-hypercalcemia\/09-hypercalcemia":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1921 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/09-hypercalcemia/09-hypercalcemia" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-1bsCnIimO6DI6Ze203J5Ml2GiP8WcZkhor2gDmWFWVo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a> > <span class="breadcrumb-page-title">09. Hypercalcemia</span></div></div></div>
+                  <h1 class="title" id="page-title">09. Hypercalcemia</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1921" class="node node-book clearfix" about="/09-hypercalcemia/09-hypercalcemia" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="09. Hypercalcemia" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Armond Esmaili, MD</p>
+
+<p style="text-align: right;">Faculty Editor: Anne Schafer, MD <img alt="" src="null" /></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Hyperparathyroidism is the most common outpatient cause of hypercalcemia</p>
+
+			<p>✔ Malignancy is the most common inpatient cause of hypercalcemia</p>
+
+			<p>✔ Hypercalcemia &gt;14 or severe symptoms require urgent therapy</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>No formal guidelines; mild hypercalcemia ~10.5-11.9 mg/dL; severe ~ &gt;14 mg/dL (can be life-threatening</li>
+	<li>98% total body calcium resides in bones. The remaining 2% circulates. Approximately ½ of serum Ca is free (ionized; the only form with physiologic effects). The remainder is bound (albumin, globulins, inorganic molecules).</li>
+	<li>Ca must be corrected for hypoalbuminemia: Corrected Ca = 0.8 x (4-calculated albumin)</li>
+	<li>Calcium homeostasis mediated by parathyroid hormone (PTH) and 1,25-dihydroxyvitamin D (calcitriol). These act to influence bone resorption, GI tract absorption, and renal excretion of calcium. Alterations in any of these mechanisms can lead to hypercalcemia.
+	<ul>
+		<li>PTH: Made by parathyroid glands. Acts on bone and kidneys to increase Ca and decrease phosphate (<em>note:</em>thus, phos low in PTH-mediated hyperCa)
+		<ul>
+			<li>Bone: Increases bone resorption</li>
+			<li>Kidneys: Increase resorption of calcium and excretion of phos; also increases production of calcitriol</li>
+		</ul>
+		</li>
+		<li>Calcitriol (1,25-dihydroxy-D): The active form of vitamin D. Increases gut Ca and phos absorption (<em>note:</em>phos high in vitamin-D-mediated hypercalcemia)
+		<ul>
+			<li>Calciferol 1<sup>st</sup> hydroxylated in liver to form 25-hydroxyvitamin D (calcidiol), then calcidiol hydroxylated in kidneys to form calcitriol</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Signs and symptoms</u></strong></p>
+
+<ul>
+	<li>“Stones”, “bones”, “abdominal moans”, and neuromuscular “physic groans” are the classic symptoms. However, many patients are asymptomatic.</li>
+	<li><u>Stones</u>: nephrolithiasis, nephrocalcinosis, dehydration</li>
+	<li><u>Bones: </u>bone pain, arthritis, osteoporosis, osteitis fibrosa cystica (bone cysts and brown tumors in long bones)</li>
+	<li><u>Moans</u>(abdominal): nausea/vomiting, abdominal pain, constipation, anorexia, pancreatitis, PUD</li>
+	<li><u>Groans/psychiatric overtones</u>(often neuromuscular): impaired memory/concentration, lethargy/fatigue, weakness, seizure, altered mental status</li>
+	<li>Also CV effects (HTN, short QT, arrhythmias), keratitis, conjunctivitis, pruritis</li>
+</ul>
+
+<p><strong><u>Differential diagnosis</u></strong></p>
+
+<ul>
+	<li><u>90% due to either primary hyperparathyroidism (#1 in outpatient) or malignancy (#1 in inpatient);</u>vitamin D-mediated, medications, endocrinopathies, genetic conditions, high bone turnover are the remaining etiologies</li>
+	<li>PTH-mediated (phos often <u>low</u>): primary (sporadic, familial, MEN 1&amp;2) or tertiary (chronic renal failure causes vitamin D deficiency, triggers chronic PTH elevation) hyperparathyroidism
+	<ul>
+		<li>Note: Ca is <u>low</u> in secondary hyperparathyroidism</li>
+	</ul>
+	</li>
+	<li>Malignancy: PTHrP-producing tumors (squamous cell of lung, head/neck, renal cell common) or osteolysis/bony destruction (multiple myeloma, breast cancer; note: alkaline phosphate <u>high</u> in osteolysis), also vitamin D (lymphoma)</li>
+	<li>Vitamin D (phos often high): excess intake, granulomatous diseases (e.g. sarcoid TB with extra-renal production of calcitriol), lymphoma (Hodgkin’s)</li>
+	<li>Medications: thiazides (mild effect), lithium, antacids (milk-alkali), vitamin A intoxication (bone resportion)</li>
+	<li>Endocrinopathies: hyperthyroidism, adrenal insufficiency, acromegaly</li>
+	<li>Genetic: familial hypocalciuric hypercalcemia (FHH; AD with ~100% penetrance; urine Ca <u>low</u>)</li>
+	<li>Also high bone turn over states (Paget’s, prolonged immobilization, childhood growth) and rhabdomyolysis (Ca deposit in soft tissue mobilized)</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>Primary objective is to determine if hypercalcemia is PTH-mediated or non-PTH-mediated</li>
+	<li>Always repeat Ca (and consider iCal) and correct for albumin if appropriate
+	<ul>
+		<li>Pseduohypercalcemia: albumin elevation (severe dehydration) or Ca-binding protein (myeloma) increases total bound Ca with unchanged iCal</li>
+	</ul>
+	</li>
+	<li>After confirming Ca elevated, first check PTH
+	<ul>
+		<li>PTH high or inappropriately normal: check urine Ca to determine if primary hyperparathyroidism (normal/high urine Ca) or hypocalciuric hypercalcemia (FHH, low urine Ca); note: PTH &lt;20 is rarely primary hyperparathyroidism</li>
+		<li>PTH low: consider sending PTHrP (solid tumors), 1,25(OH)<sub>2</sub>D (high in granulomatous disease, lymphoma; consider CXR), 25(OH)D (high in D intoxication); normal PTHrP, calcitriol/calcidiol should prompt myeloma and endocrine (TSH/T4, cortisol) labs</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li>No urgency for treatment if asymptomatic and &lt;12 mg/dL. Hydrate, avoid/discontinue offending Rx, avoid immobilization, limit Ca (&lt;1 mg/day), and treat underlying cause.
+	<ul>
+		<li>Parathyroidectomy: only urgent if hypercalcemic crisis; indications for non-urgent surgery referral are serum Ca 11.5+, marked hypercalciuria (&gt;400 mg/day) and increased stone risk, nephrolithiasis or nephrocalcinosis, CrCL &lt;60, osteitis fibrosa cystica, DXA T-score &lt;-2.5, vertebral fracture, &lt;50 y/o</li>
+	</ul>
+	</li>
+	<li>14+ (even <u>without</u> sx) or severe symptoms (often see if <u>acute rise</u> in Ca) warrant emergent treatment (with hospitalization). Seek to treat the underlying etiology.
+	<ul>
+		<li>FLUIDS! Often at rate of 200-300 cc/hr. Patients are often markedly dehydrated on admission.</li>
+		<li>Bisphosphonates: mainstay for malignancy; inhibit osteoclast bone resorption; include zoledronic acid (rapid delivery, most potent) and pamidronate; caution in renal dysfunction</li>
+		<li>Calcitonin (subQ): inhibits bone resorption; rapid onset, use often just in 1<sup>st</sup> 48 hours (due to limited effect, tachyphylaxis)</li>
+		<li>Glucocorticoids: inhibit calcitriol action; mainstay in granulomatous disease and hematologic malignancies</li>
+		<li>Denosumab: inhibits osteoclasts; delayed effect (several days); consider if renal dysfunction limits bisphosphonate use or refractory hypercalcemia</li>
+		<li>Lasix: inhibits resorption at distal renal tubule; consider use <u>only after fluid repletion</u> if refractory hypercalcemia</li>
+		<li>Dialysis is a treatment of last resort</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Horowitz MJ, Hodak SP, Stewart AF. Non-parathyroid hypercalcemia. In: Primer on the metabolic bone diseases and disorders of mineral metabolism. 8th ed. Philadelphia: Lippincott Williams &amp; Wilkins; 2013. p. 176-89. </em></p>
+
+<p><em>Bilezikian JP, Brandi ML, Eastell R, Silverberg SJ, Udelsman R, Marcocci C, Potts JT Jr. Guidelines for the management of asymptomatic primary hyperparathyroidism: summary statement from the Fourth International Workshop. J Clin Endocrinol Metab. 2014 Oct;99(10):3561-9. </em></p>
+
+<p><em>Minisola S, Pepe J, Piemonte S, Cipriani C. The diagnosis and management of hypercalcaemia. BMJ. 2015 Jun 2;350:h2723. doi: Stewart AF. Clinical practice.Hypercalcemia associated with cancer.<u>N Engl J Med</u>. 2005 Jan 27;352(4):373-9 </em></p>
+
+<p><em>Stewart AF. Clinical practice. Hypercalcemia associated with cancer. <u>N Engl J Med</u>. 2005 Jan 27;352(4):373-9</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/08-vitamin-d-deficiency/08-vitamin-d-deficiency" class="page-previous" title="Go to previous page">‹ 08. Vitamin D deficiency</a>
+                    <a href="/06-endocrinology/06-endocrinology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/10-hyperlipidemia/10-hyperlipidemia" class="page-next" title="Go to next page">10. Hyperlipidemia ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="expanded active-trail menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a><ul class="menu"><li class="first leaf menu-mlid-5081"><a href="/01-diabetes-mellitus/01-diabetes-mellitus">01. Diabetes mellitus </a></li>
+<li class="leaf menu-mlid-5086"><a href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass">02. Incidental adrenal mass</a></li>
+<li class="leaf menu-mlid-5091"><a href="/03-adrenal-insufficiency/03-adrenal-insufficiency">03. Adrenal insufficiency</a></li>
+<li class="leaf menu-mlid-5096"><a href="/04-hypothyroidism/04-hypothyroidism">04. Hypothyroidism</a></li>
+<li class="leaf menu-mlid-5101"><a href="/05-hyperthyroidism/05-hyperthyroidism">05. Hyperthyroidism</a></li>
+<li class="leaf menu-mlid-5106"><a href="/06-thyroid-nodule/06-thyroid-nodule">06. Thyroid nodule</a></li>
+<li class="leaf menu-mlid-5111"><a href="/07-osteoporosis/07-osteoporosis">07. Osteoporosis</a></li>
+<li class="leaf menu-mlid-5116"><a href="/08-vitamin-d-deficiency/08-vitamin-d-deficiency">08. Vitamin D deficiency</a></li>
+<li class="leaf active-trail active menu-mlid-5121"><a href="/09-hypercalcemia/09-hypercalcemia" class="active-trail active">09. Hypercalcemia</a></li>
+<li class="last leaf menu-mlid-5126"><a href="/10-hyperlipidemia/10-hyperlipidemia">10. Hyperlipidemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

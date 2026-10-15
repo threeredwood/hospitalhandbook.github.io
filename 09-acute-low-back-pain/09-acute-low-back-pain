@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/09-acute-low-back-pain/09-acute-low-back-pain" />
+<link rel="shortlink" href="/node/2291" />
+<link rel="prev" href="/08-approach-foot-pain/08-approach-foot-pain" />
+<link rel="up" href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" />
+<link rel="next" href="/10-osteoarthritis/10-osteoarthritis" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/09-acute-low-back-pain/09-acute-low-back-pain" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/09-acute-low-back-pain/09-acute-low-back-pain" />
+<meta property="twitter:title" content="09. Acute Low Back Pain | Hospital Handbook" />
+<meta property="og:title" content="09. Acute Low Back Pain" />
+  <title>09. Acute Low Back Pain | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"-8W3b7lO6nWImgR5lz6xdL98s4NYZ377RIx7VaExsaE","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/09-acute-low-back-pain\/09-acute-low-back-pain":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2291 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/09-acute-low-back-pain/09-acute-low-back-pain" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-DAtVl0_L5tkp6GEdsPpsE5cEiTF3y0fzq2rX3aoZfKA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="active-trail">18. Rheumatology/Orthopedics</a> > <span class="breadcrumb-page-title">09. Acute Low Back Pain</span></div></div></div>
+                  <h1 class="title" id="page-title">09. Acute Low Back Pain</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2291" class="node node-book clearfix" about="/09-acute-low-back-pain/09-acute-low-back-pain" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="09. Acute Low Back Pain" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editors: Luis Rubio, MD</p>
+
+<p align="right">Faculty Editor: Paul Nadler, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Acute LBP is very common and is a symptom of a serious condition in a small minority of patients</p>
+
+			<p>✔ H&amp;P alone are sufficient tevaluate most patients with acute low back pain</p>
+
+			<p>✔ Consider imaging if concerned for serious pathology such as cord compression, malignancy, infection or fracture with neurologic compromise</p>
+
+			<p>✔ 90% of patients recover spontaneously within 4 weeks</p>
+
+			<p>✔ Encourage patients tremain active</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Definition: Pain between costal margins and gluteal folds lasting less than 4-6 weeks.</li>
+	<li>Fifth most common reason for physician visit in the U.S.</li>
+	<li>Second most common cause of missed work days in the U.S.</li>
+	<li>80% adults have acute low back pain at some point in their lives. Most gets better on its own; less than 20% will have ongoing symptoms at 1 year.</li>
+	<li>85% of patients with acute low back pain cannot be given a definitive diagnosis; most pain is likely related tmechanical low back pain due tdegenerative joint changes or musculo-ligamentous injury.</li>
+	<li>Uncomplicated acute LBP is self-limited and requires nfurther imaging, resolving in 4 weeks. H&amp;P alone are sufficient tevaluate most patients with acute back pain.</li>
+	<li>Rarely, acute LBP is a symptom of a serious condition like spinal cord compression, malignancy, infection or inflammatory disorder.</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<p> </p>
+
+<p><strong>History</strong>:</p>
+
+<p>Focus on 3 basic questions.</p>
+
+<p><strong><em>1)</em></strong><strong><em>Is this truly musculoskeletal back pain?</em> Important low back pain mimickers:</strong></p>
+
+<p><em>Abdominal</em>: infections (appendicitis, diverticulitis, cholecystitis), pancreatitis, PUD</p>
+
+<p><em>Renal</em>: nephrolithiasis, pyelonephritis, peri-nephric abscess</p>
+
+<p><em>Genitourinary</em>: PID, prostatitis, endometriosis</p>
+
+<p><em>Vascular</em>: AAA</p>
+
+<p><em>Dermatological</em>: herpes zoster</p>
+
+<p><strong><em>2)</em></strong><strong>Is the pain caused by a serious or systemic disease? </strong></p>
+
+<ul>
+	<li>Overall, red flags have poor specificity for serious causes of low back pain (in primary care setting, 80% patients have 1+ red flag but &lt;5% have serious pathology).</li>
+	<li>Thoracic rather than lumbar pain may indicate more severe pathology, as may pain that is constant, progressive, non-mechanical (nrelief with bed rest), or prolonged (&gt;4 weeks).</li>
+	<li>There are many red flag questions, below are some more important ones:
+	<ul>
+		<li><em>Spinal cord compression: </em>bladder/bowel incontinence, urinary retention, saddle anesthesia, loss of anal sphincter tone, progressive motor or sensory loss</li>
+		<li><em>Malignancy:</em> age (&gt;50), prior malignancy, unexplained weight loss, nocturnal pain.</li>
+		<li><em>Infection:</em> fever, IDU, immunosuppression, severe pain and lumbar spine surgery within past year, recent epidural catheter placement, wound in spine region, UTI, hx of recent infection, night pain.</li>
+		<li><em>Fractures:</em> age &gt;70, recent significant trauma, minor fall or heavy lifting in age &gt;50, osteoporosis, prolonged glucocorticoid use.</li>
+		<li><em>Inflammatory disorder (</em>Axial spondyloarthritis)<em>: </em>young age (&lt;40), insidious onset, morning stiffness, pain improves with exercise, not improved with rest.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><em>3)</em></strong><strong>Is there neurologic compromise that requires surgical intervention?</strong></p>
+
+<ul>
+	<li><em>Spinal cord compression (aka Cauda Equina Syndrome):</em> <strong>Surgical Emergency</strong>. Seen in 1-2% of lumbar disk herniations. Most consistent finding is urinary retention (in patients without urinary retention, the probability of cauda equina syndrome is approximately 1 in 10,000). The presence of mild foot drop or other minor motor deficits due tlumbar disc prolapse is <strong>not</strong> an absolute indication for surgery, because many such patients will recover with non-surgical treatment. Motor deficits should be evaluated with prompt imaging.</li>
+	<li><em>Disc herniation/nerve root compression:</em> leg pain radiating in a dermatomal distribution in posterior thigh tbelow the knee (“sciatica”). Majority (95%) occur at the L4-L5 or L5-S1. Reproduced with back flexion and straight leg raise. Radicular pain without motor deficit suggests that the herniation is not a surgical urgency.</li>
+	<li><em>Spinal stenosis:</em> narrowing of the central spinal canal, usually from osteoarthritis. “Neurogenic claudication”à leg/buttock pain, weakness and gait unsteadiness that occur after walking downhill. Symptoms typically worsen with standing and back extension and may improve with sitting and flexion.</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Physical Exam</u></strong></p>
+
+<ul>
+	<li><strong>Patient standing-- from behind</strong>: ask patient tpoint tarea of maximal pain. Then place your hands on the iliac crests and compare height of each tassess for leg length discrepancy. Observe for scoliosis, which if new is usually associated with herniation. Check ROM, observing how pain is elicited (flexion vs. extension).</li>
+	<li><strong>Patient standing-- from front</strong>: holding the patient's hands for balance, ask him tstand from a squat (L4), walk on heels with feet inverted (L5), and walk on toes (S1). Observe gait for presence of foot drop.</li>
+	<li><strong>Patient sitting</strong>: Palpate and percuss the vertebral column for point tenderness (vertebral tenderness is sensitive, but not specific, for compression fracture and infection). Check patellar (L3/4) and Achilles (S1) reflexes for symmetry. Check pinprick sensation at medial side of foot (L4), 1st web space (L5), and lateral side of foot (S1). Can perform an indirect straight leg raise. Check for CVA tenderness.</li>
+	<li><strong>Patient supine</strong>: Perform abdominal exam, check for AAA. Examine hip ROM, especially int/ext rotation (log-roll). Perform Patrick (Fabere or figure-of-four) test ttest for sacroiliac joint dysfunction. <strong>Perform</strong> passive SLR (Straight leg raise) and crossed SLR. Perform reverse SLR if patient has anterior thigh pain or if L3-L4 disc herniation is suspected. Assess for saddle anesthesia and decreased rectal tone if cauda equina syndrome is suspected.</li>
+</ul>
+
+<p> </p>
+
+<p><em>Straight leg raise:</em> lift patient’s leg with knee extended. Positive if radiating pain reproduced between 30-70 degrees of elevation. Sensitivity 90%, but specificity 26% for herniated disc.</p>
+
+<p><em>Crossed straight leg</em> <em>raise:</em> positive if pain is reproduced by performing a SLR in the unaffected leg. Specificity 90%, sensitivity 29% for herniated disc.</p>
+
+<p><em>Indirect straight leg raise</em>: extended leg from the sitting position.</p>
+
+<p><em>Reverse straight leg raise:</em> is done with patient prone and elicits L3 or L4 irritation (anterior thigh).</p>
+
+<p> </p>
+
+<p><strong><u>Labs</u></strong></p>
+
+<ul>
+	<li>Labs and imaging are not necessary in most patients.</li>
+	<li>CBC and CRP/ESR (combined with plain film x-rays) if patient has a history or symptoms concerning for infection or malignancy without concerning physical exam findings. These are very unlikely if ESR&lt;20 and 0-1 red flag.</li>
+	<li>Consider PSA, alkaline phosphatase or SPEP/UPEP if malignancy is suspected.</li>
+	<li>Urinalysis if considering urologic cause for back pain.</li>
+	<li>HLA-B27 is non-specific for Ankylosing Spondylitis (present in 8% of Caucasian, 75% of which will have ndisease). Useful if x-ray findings are equivocal.</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>When tX-Ray</u></strong></p>
+
+<ul>
+	<li>Plain films dnot reveal herniated discs, but can show infection, malignancy, spondylolisthesis, degenerative changes and disc space narrowing. However, normal plain films dnot exclude malignancy or infection (60-80% sensitive).</li>
+	<li>Plain films are recommended if patients has: major trauma, minor trauma if age &gt;50, suspicion of malignancy, unexplained fever, pain &gt;6 weeks, non-mechanical pain (unrelieved by recumbency).</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>When tMRI</u></strong><u> </u></p>
+
+<ul>
+	<li>Most patients have nonspecific findings and asymptomatic patients often have abnormal findings (i.e. 20-40% with disc herniations, 20% with spinal stenosis).</li>
+	<li>Three main scenarios where MRI is indicated:</li>
+</ul>
+
+<p>1) <strong>Signs of significant neurologic impairment</strong> (especially motor dysfunction). Mild sensory impairment does not usually require immediate MRI.</p>
+
+<p>2) <strong>Suspected serious underlying disorder</strong> such as malignancy, infection or fracture not diagnosed via plain film (bone scan can alsdiagnose subtle fractures).</p>
+
+<p>3) <strong>In anticipation of surgery</strong> or other invasive intervention.</p>
+
+<ul>
+	<li>There is ndifference in outcomes with early MRI in patients without these indications.</li>
+	<li>CT can be used in patients whcannot undergMRI.</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li>Assessing response ttherapy should focus on improving pain, mood and function.</li>
+	<li>90% of patients recover spontaneously within 4 weeks.</li>
+	<li>Patients whare treated conservatively should be instructed tcall the office immediately if they develop neurologic symptoms (distal muscle weakness, foot drop) or urinary retention, which is 90% sensitive for the presence of cauda equina.</li>
+	<li>In general, there is a lack of high-quality evidence for effective treatments of LBP.</li>
+	<li><strong>Activity</strong>: RCTs have shown that patients whundertake bedrest for acute LBP have worse outcomes than those whmaintain normal activity. Low-impact aerobic exercise, such as swimming or walking, is recommended as soon as possible. Restrictions on sitting and heavy lifting at work can be prescribed for a short period of time but have not been shown thave benefit beyond 3 months. Posture concerns should be assessed at home and work.</li>
+	<li><strong>Heat/Ice</strong>: may be useful in first week. Ice and heat have similar analgesic effects.</li>
+	<li><strong>Analgesia</strong>: <strong>APAP</strong> or <strong>NSAIDs</strong> around the clock. There have been nstudies directly comparing acetaminophen and NSAIDs. However, NSAIDs associated with small improvement in pain intensity compared tplacebversus ndifference when APAP compared tplacebo. <strong>Skeletal muscle relaxants</strong> (SMRs) are indicated if significant muscle spasm is present or if contraindications tNSAIDs are present. SMRs should be at lowest effective dose for shortest periods necessary. Avoid <strong>opioids</strong> if possible; poor evidence, bad side effects, may worsen pain in long run.<strong>Tricyclic antidepressants</strong> or selective serotonin reuptake inhibitors (SSRIs) showed ndifference in pain or function<strong>.</strong> <strong>Duloxetine </strong>showed small improvement in pain intensity<strong>.</strong></li>
+	<li><strong>Physical therapy:</strong> exercise regimens reduce pain and improve function in patients with subacute (4-12 wks) and chronic (&gt;12 wks) LBP; greatest evidence tsupport regimens that incorporate: individualized regimens, supervision, stretching, and strengthening.</li>
+	<li><strong>Injections</strong>: epidural steroid injections not beneficial for isolated acute LBP. Consider in radicular pain that does not respond t2-6 weeks of noninvasive treatment. .</li>
+	<li><strong>Surgical referral</strong>: immediate if:</li>
+</ul>
+
+<p>- cauda equina syndrome or other cord compression syndrome</p>
+
+<p>- nerve root compression leading tprogressive motor weakness</p>
+
+<p>- spinal instability secondary ttumor, infection, or fracture.</p>
+
+<p>Chronic low back pain (&gt;3 months) without neurologic deficits can be managed with a conservative multidisciplinary approach. If patient fails conservative management, consider referral for surgery (spinal fusion).</p>
+
+<ul>
+	<li><strong>Spinal manipulation</strong>: as effective as conventional medical therapy for acute LBP.</li>
+	<li><strong>Other</strong>: little evidence tsupport other adjuncts for treatment of acute LBP including acupuncture (better evidence for chronic back pain), massage, lumbar support, exercise (increased activity after acute pain prolongs recovery), traction, oral steroids.</li>
+	<li><strong>ACP recommendations</strong>: Acute or subacute back pain improves over time regardless of treatment, non-pharmacologic treatments are recommended and NSAIDs and SMRs if pharmacologic treatment is desired. For chronic low back pain, initial non-pharmacologic treatments (exercise, multidisciplinary rehab, CBT,etc.) should initially be done followed by NSAIDs or duloxetine as second line therapy. Only consider opioids if prior treatments have been unsuccessful and benefits outweigh risks for individual patients.</li>
+</ul>
+
+<p> </p>
+
+<p><strong>Prevention</strong>: insufficient data for any particular intervention.</p>
+
+<ul>
+	<li>Ergonomic design of strenuous job tasks in the workplace may be beneficial.</li>
+	<li>Exercise may have some value both in preventing first episodes and in preventing recurrences (after acute recovery).</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Casazza BA. Diagnosis and Treatment of Acute Low Back Pain</em><em>. </em><em>Am Fam Physician.</em><em> 2012 Feb 15;85(4):343-350.</em></p>
+
+<p><em>Chou R, Amir Qaseem A, Snow V, et al. Diagnosis and Treatment of Low Back Pain: A Joint Clinical Practice Guideline from the American College of Physicians and the American Pain Society. Ann of Intern Med 2007 Oct;147(7):478-491.</em></p>
+
+<p><em>Golob AL, Wipf JE. Low back pain. Med Clin N Am 2014; 98:405.</em></p>
+
+<p><em>Hayden JA, van Tulder MW, Tomlinson G. Systematic review: strategies for using exercise therapy timprove outcomes in chronic low back pain. Ann Intern Med 2005; 142:776.</em></p>
+
+<p><em>Henschke N, Maher CG, Refshauge KM, et al. Prevalence of and screening for serious spinal pathology in patients presenting tprimary care settings with acute low back pain. Arthritis Rheum. 2009;60(10):3072-3080. </em></p>
+
+<p><em>Jarvik, JG, Hollingworth, W, Martin, B, et al. Rapid magnetic resonance imaging vs radiographs for patients with low back pain: a randomized controlled trial. JAMA 2003; 289:2810-8.</em></p>
+
+<p><em>Miller SM. Low back pain: pharmacologic management. Prim Care Clin Office Prac 2012; 39:499.</em></p>
+
+<p><em>Patrick N, Emanski E, Knaub MA. Acute and chronic low back pain. Med Clin N Am 2014; 98:777.</em></p>
+
+<p><em>Qaseem A, Wilt TJ, Mclean RM, Forciea MA. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2017;</em></p>
+
+<p><em>Sprouse R. Treatment: current treatment recommendations for acute and chronic undifferentiated low back pain. Prim Care Clin Office Pract 2012; 39:481.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/08-approach-foot-pain/08-approach-foot-pain" class="page-previous" title="Go to previous page">‹ 08. Approach to Foot Pain</a>
+                    <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="page-up" title="Go to parent page">up</a>
+                    <a href="/10-osteoarthritis/10-osteoarthritis" class="page-next" title="Go to next page">10. Osteoarthritis ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="expanded active-trail menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="active-trail">18. Rheumatology/Orthopedics</a><ul class="menu"><li class="first leaf menu-mlid-5451"><a href="/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias">01. Approach to Joint Pain + Myalgias </a></li>
+<li class="leaf menu-mlid-5456"><a href="/02-rheumatoid-arthritis/02-rheumatoid-arthritis">02. Rheumatoid Arthritis</a></li>
+<li class="leaf menu-mlid-5461"><a href="/03-basics-sle-incld-meds/03-basics-sle-incld-meds">03. Basics of SLE (incld meds)</a></li>
+<li class="leaf menu-mlid-5466"><a href="/04-approach-rheumatology-labs/04-approach-rheumatology-labs">04. Approach to Rheumatology Labs</a></li>
+<li class="leaf menu-mlid-5471"><a href="/05-approach-shoulder-pain/05-approach-shoulder-pain">05. Approach to Shoulder Pain</a></li>
+<li class="leaf menu-mlid-5476"><a href="/06-approach-knee-pain/06-approach-knee-pain">06. Approach to Knee Pain</a></li>
+<li class="leaf menu-mlid-5481"><a href="/07-approach-ankle-pain/07-approach-ankle-pain">07. Approach to Ankle Pain</a></li>
+<li class="leaf menu-mlid-5486"><a href="/08-approach-foot-pain/08-approach-foot-pain">08. Approach to Foot Pain</a></li>
+<li class="leaf active-trail active menu-mlid-5491"><a href="/09-acute-low-back-pain/09-acute-low-back-pain" class="active-trail active">09. Acute Low Back Pain</a></li>
+<li class="leaf menu-mlid-5496"><a href="/10-osteoarthritis/10-osteoarthritis">10. Osteoarthritis</a></li>
+<li class="last leaf menu-mlid-5501"><a href="/11-gout-pseudogout/11-gout-pseudogout">11. Gout &amp; Pseudogout</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

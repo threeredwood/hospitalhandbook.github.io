@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" />
+<link rel="shortlink" href="/node/786" />
+<link rel="prev" href="/content/12-hiv-and-shortness-breath" />
+<link rel="up" href="/content/11-infectious-diseases" />
+<link rel="next" href="/content/14-initiation-antiretrovirals-acute-oi" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" />
+<meta property="twitter:title" content="13. Immune Reconstitution Inflammatory Syndrome (IRIS) | Hospital Handbook" />
+<meta property="og:title" content="13. Immune Reconstitution Inflammatory Syndrome (IRIS)" />
+  <title>13. Immune Reconstitution Inflammatory Syndrome (IRIS) | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"MGx2PU3ID4tDkkvraFlEcW7e250L2hgeFfZOcrYfjqM","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/13-immune-reconstitution-inflammatory-syndrome-iris\/13-immune-reconstitution-inflammatory-syndrome":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-786 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-SI6WUrqgKvGfhB0qImYpJeenr_4sozwgSrzbyEUvT_0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/11-infectious-diseases" class="active-trail">11. Infectious Diseases</a> > <span class="breadcrumb-page-title">13. Immune Reconstitution Inflammatory Syndrome (IRIS)</span></div></div></div>
+                  <h1 class="title" id="page-title">13. Immune Reconstitution Inflammatory Syndrome (IRIS)</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-786" class="node node-book clearfix" about="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="13. Immune Reconstitution Inflammatory Syndrome (IRIS)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Overview</h3>
+
+<p>HIV-associated immune reconstitution inflammatory syndrome (IRIS) is a complication of ART initiation and describes a heterogeneous collection of inflammatory disorders resulting from a robust immune response to an underlying condition.</p>
+
+<h3>Etiology</h3>
+
+<ul>
+	<li>HIV-associated IRIS has been seen in multiple AIDS-related OIs (especially TB, MAC, Cryptococcus, and CMV) and other infections (such as hepatitis B and C) or inflammatory conditions.</li>
+	<li>Risk factors include lower CD4 count and higher viral load at ART initiation as well as rapid increase in CD4 count with treatment.</li>
+	<li>There are two categories of IRIS:
+	<ul>
+		<li>Paradoxical IRIS: clinical deterioration due to worsening of known underlying infection.</li>
+		<li>Unmasking IRIS: clinical deterioration due to worsening of previously unrecognized infection.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<p>The clinical features of IRIS vary based on the driving underlying condition. Diagnosis is made from consistent signs or symptoms of the underlying condition with recent ART initiation (with variable timing of onset for different IRIS syndromes). Paradoxical IRIS is a diagnosis of exclusion. </p>
+
+<p><strong>Clinical Characteristics of Common Paradoxical IRIS Syndromes</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="1" style="width:100.0%;" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<p align="center"><strong>Pathogen</strong></p>
+			</td>
+			<td>
+			<p align="center"><strong>Typical Interval</strong></p>
+			</td>
+			<td>
+			<p align="center"><strong>Incidence</strong></p>
+			</td>
+			<td>
+			<p align="center"><strong>Typical Presentation</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong><em>Mycobacterium avium</em></strong><strong> complex</strong></p>
+			</td>
+			<td>
+			<p>1-12 weeks</p>
+			</td>
+			<td>
+			<p>30%</p>
+			</td>
+			<td>
+			<ul>
+				<li><strong>Does not occur until CD4 count is &gt;50 cells/µL</strong></li>
+				<li>Fever and necrotizing lymphadenitis</li>
+				<li>Less common: pulmonary infiltrates, osteomyelitis</li>
+				<li>Mycobacterial blood cultures are typically negative</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Tuberculosis</strong></p>
+			</td>
+			<td>
+			<p>1-16 weeks</p>
+			</td>
+			<td>
+			<p>15%</p>
+			</td>
+			<td>
+			<ul>
+				<li>Fever, new pulmonary infiltrates, necrotizing lymphadenitis</li>
+				<li>Less common: pleural effusion, abscess, osteomyelitis, hypercalcemia, meningitis, encephalitis</li>
+				<li>In paradoxical TB IRIS, there can be new site of disease</li>
+				<li>Risk of paradoxical TB IRIS is greater the lower the CD4 count at ART onset and the shorter the interval between starting TB medications and ART</li>
+				<li>IRIS may occur without an increase in CD4 count</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>CMV retinitis</strong></p>
+			</td>
+			<td>
+			<p>4 weeks to 2 years</p>
+			</td>
+			<td>
+			<p>15%</p>
+			</td>
+			<td>
+			<ul>
+				<li><strong>Does not occur until CD4 count is &gt;50 cells/µL</strong></li>
+				<li>Early manifestations: vitreitis presenting as visual blurring or new opacified retinal lesions (usually asymptomatic)</li>
+				<li>Late manifestation: immune recovery uveitis, which can lead to macular edema and/or cataracts</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Cryptococcal meningitis</strong></p>
+			</td>
+			<td>
+			<p>1 week to 3 years</p>
+			</td>
+			<td>
+			<p>15%</p>
+			</td>
+			<td>
+			<ul>
+				<li>Headache, fever, meningismus, CSF pleocytosis</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong><em>Pneumocystis pneumonia</em></strong></p>
+			</td>
+			<td>
+			<p>3-6 weeks</p>
+			</td>
+			<td>
+			<p>&lt;1%; few well-documented case reports</p>
+			</td>
+			<td>
+			<ul>
+				<li>This is a difficult clinical diagnosis to make as oxygenation often worsens during prednisone taper in severe cases</li>
+				<li>Avoid prolonging prednisone taper, which can lead to new OIs</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>HBV/HCV</strong></p>
+			</td>
+			<td>
+			<p>1-12 weeks</p>
+			</td>
+			<td>
+			<p>Unknown</p>
+			</td>
+			<td>
+			<ul>
+				<li>Transaminitis flare associated with abdominal pain, nausea, and/or fever</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Kaposi sarcoma</strong></p>
+			</td>
+			<td>
+			<p>Unknown</p>
+			</td>
+			<td>
+			<p>Unknown</p>
+			</td>
+			<td>
+			<ul>
+				<li>Rapid progression of KS lesions, local tissue edema, local or visceral lymphadenopathy</li>
+				<li>Fatal cases have been reported in some patients with pulmonary KS at time of ART initiation; prednisone is absolutely contraindicated</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Chart from Jacobson MA Diagnosis and Management of Immune Reconstitution Syndrome Associated with Initiation of Antiretroviral Therapy. HIVInSite 2018.</p>
+
+<h3>Management</h3>
+
+<ul>
+	<li>IRIS management typically involves ART continuation for most cases and targeted treatment of the underlying infection. Please see section <a href="https://hospitalhandbook.ucsf.edu/content/14-initiation-antiretrovirals-acute-oi"><em>Initiation of Antiretrovirals in Acute OI</em></a> for further guidance on timing for ART initiation following the diagnosis of specific OIs.</li>
+	<li>Adjunctive corticosteroid therapy may be considered in cases with severe symptoms.</li>
+	<li>Consult an ID specialist for all cases of suspected IRIS.</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>HIV-associated IRIS represents a heterogeneous collection of inflammatory disorders resulting from a robust immune response to an underlying condition with ART initiation.</li>
+	<li>ID should be consulted for all cases of suspected IRIS.</li>
+</ul>
+
+<p><em>Kenneth H. Mayer, Hans H. Hirsch, Gilbert Kaufmann, Pedram Sendi, Manuel Battegay, Immune Reconstitution in HIV-Infected Patients, Clinical Infectious Diseases, Volume 38, Issue 8, 15 April 2004, Pages 1159–1166, </em><a href="https://doi.org/10.1086/383034"><em>https://doi.org/10.1086/383034</em></a></p>
+
+<p><em>Jacobson MA Diagnosis and Management of Immune Reconstitution Syndrome Associated with Initiation of Antiretroviral Therapy. HIVInSite 2018.</em></p>
+
+<p><em>Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: Recommendations from the Centers for Disease Control and Prevention, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America. http://aidsinfo.nih.gov/contentfiles/lvguidelines/adult_oi.pdf (Accessed on June 1, 2020).</em></p>
+
+<p> </p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/12-hiv-and-shortness-breath" class="page-previous" title="Go to previous page">‹ 12. HIV and Shortness of Breath</a>
+                    <a href="/content/11-infectious-diseases" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/14-initiation-antiretrovirals-acute-oi" class="page-next" title="Go to next page">14. Initiation of Antiretrovirals in Acute OI ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="expanded active-trail menu-mlid-3086"><a href="/content/11-infectious-diseases" class="active-trail">11. Infectious Diseases</a><ul class="menu"><li class="first leaf menu-mlid-3091"><a href="/01-id-resources-and-general-principles-management-id/01-id-resources-and-general-principles">01. ID Resources and General Principles in Management of ID</a></li>
+<li class="leaf menu-mlid-3096"><a href="/content/02-osteomyelitis">02. Osteomyelitis</a></li>
+<li class="leaf menu-mlid-3101"><a href="/content/03-endocarditis">03. Endocarditis</a></li>
+<li class="leaf menu-mlid-3106"><a href="/04-bacterial-meningitis/04-bacterial-meningitis">04. Bacterial Meningitis</a></li>
+<li class="leaf menu-mlid-3111"><a href="/content/05-csf-fluid-diagnostics">05. CSF Fluid Diagnostics</a></li>
+<li class="leaf menu-mlid-3116"><a href="/content/06-active-pulmonary-tuberculosis-tb">06. Active Pulmonary Tuberculosis (TB)</a></li>
+<li class="leaf menu-mlid-3121"><a href="/content/07-invasive-aspergillosis">07. Invasive Aspergillosis</a></li>
+<li class="leaf menu-mlid-3126"><a href="/content/08-candidemia">08. Candidemia</a></li>
+<li class="leaf menu-mlid-3131"><a href="/content/09-coccidioidomycosis">09. Coccidioidomycosis</a></li>
+<li class="leaf menu-mlid-3136"><a href="/10-hiv-and-neurologic-deficits/10-hiv-and-neurologic-deficits">10. HIV and Neurologic Deficits</a></li>
+<li class="leaf menu-mlid-3141"><a href="/11-managing-antiretrovirals-hospitalized-patient/11-managing-antiretrovirals-hospitalized-patient">11. Managing Antiretrovirals in a Hospitalized Patient</a></li>
+<li class="leaf menu-mlid-3146"><a href="/content/12-hiv-and-shortness-breath">12. HIV and Shortness of Breath</a></li>
+<li class="leaf active-trail active menu-mlid-3151"><a href="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" class="active-trail active">13. Immune Reconstitution Inflammatory Syndrome (IRIS)</a></li>
+<li class="leaf menu-mlid-3156"><a href="/content/14-initiation-antiretrovirals-acute-oi">14. Initiation of Antiretrovirals in Acute OI</a></li>
+<li class="leaf menu-mlid-3161"><a href="/content/15-primary-and-secondary-prophylaxis-against-opportunistic-infections-hiv-aids">15. Primary and Secondary Prophylaxis Against Opportunistic Infections in HIV AIDS</a></li>
+<li class="leaf menu-mlid-3166"><a href="/content/16-catheter-related-bloodstream-infection-crbsi">16. Catheter-Related Bloodstream Infection (CRBSI)</a></li>
+<li class="leaf menu-mlid-3171"><a href="/content/17-fever-person-who-injects-drugs">17. Fever in a Person Who Injects Drugs</a></li>
+<li class="leaf menu-mlid-3176"><a href="/content/18-fever-unknown-origin-fuo">18. Fever of Unknown Origin (FUO)</a></li>
+<li class="leaf menu-mlid-3181"><a href="/19-approach-potentially-infected-solid-organ-transplant-recipient/19-approach-potentially-infected">19. Approach to the Potentially Infected Solid-Organ Transplant Recipient</a></li>
+<li class="leaf menu-mlid-3186"><a href="/content/20-fever-critically-ill-patients">20. Fever in Critically Ill Patients</a></li>
+<li class="leaf menu-mlid-3191"><a href="/content/21-fever-returning-traveler">21. Fever in a Returning Traveler</a></li>
+<li class="leaf menu-mlid-3196"><a href="/22-infectious-diarrhea/22-infectious-diarrhea">22. Infectious Diarrhea</a></li>
+<li class="leaf menu-mlid-3201"><a href="/content/23-procalcitonin">23. Procalcitonin</a></li>
+<li class="last leaf menu-mlid-3206"><a href="/content/24-covid-19-l-sars-cov-2">24. COVID-19 l SARS-CoV-2</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

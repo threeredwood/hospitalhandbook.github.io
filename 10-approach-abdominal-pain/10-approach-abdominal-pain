@@ -1,0 +1,620 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/10-approach-abdominal-pain/10-approach-abdominal-pain" />
+<link rel="shortlink" href="/node/1701" />
+<link rel="prev" href="/09-approach-cough/09-approach-cough" />
+<link rel="up" href="/02-general-complaints/02-general-complaints" />
+<link rel="next" href="/11-approach-lower-extremity-edema/11-approach-lower-extremity-edema" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/10-approach-abdominal-pain/10-approach-abdominal-pain" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/10-approach-abdominal-pain/10-approach-abdominal-pain" />
+<meta property="twitter:title" content="10. Approach to Abdominal Pain | Hospital Handbook" />
+<meta property="og:title" content="10. Approach to Abdominal Pain" />
+  <title>10. Approach to Abdominal Pain | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"GKTA-GtUWFcBPSC4H61W5DLjs-6hWzIAg9ZJfidW_K0","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/10-approach-abdominal-pain\/10-approach-abdominal-pain":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1701 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/10-approach-abdominal-pain/10-approach-abdominal-pain" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-FJT0lHkrRq3k-NlTEX9DQURQp1Mvs_MSDXT4q20hqNM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a> > <span class="breadcrumb-page-title">10. Approach to Abdominal Pain</span></div></div></div>
+                  <h1 class="title" id="page-title">10. Approach to Abdominal Pain</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1701" class="node node-book clearfix" about="/10-approach-abdominal-pain/10-approach-abdominal-pain" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="10. Approach to Abdominal Pain" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Scott Goldberg, MD, Myung Ko, MD</p>
+
+<p align="right">Faculty Editor: Ryan Laponis, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Most patients with abdominal pain will have benign pathology, but consider acute pathologies that require emergent referral</p>
+
+			<p>✔ Pivotal steps in diagnosing abdominal pain include assessing location, time course, vital signs, and the presence or absence of peritoneal findings and abdominal distension</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Abdominal pain is the most common cause for hospital admission in the United States</li>
+	<li> Diagnoses range from the benign to the life-threatening</li>
+</ul>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li>The pivotal clues in diagnosing abdominal pain include:
+	<ul>
+		<li>Location: What quadrant is the pain located?</li>
+		<li>Time course: Is it acute, subacute, or chronic? Is it the first-time or recurrent?</li>
+		<li>Assessing for peritoneal findings (pain with minimal movement)</li>
+		<li>Assessing for abdominal distension   </li>
+	</ul>
+	</li>
+	<li>Other important clues include:
+	<ul>
+		<li>Vital signs</li>
+		<li>Factors that make the pain better or worse</li>
+		<li>Radiation</li>
+		<li>Prior abdominal surgeries</li>
+		<li>Associated symptoms such as nausea, vomiting, anorexia, hematochezia, hematemesis, melena, change in stool caliber, fevers, chills, weight loss</li>
+		<li>Sexual and menstrual histories are important in women</li>
+		<li>Use of alcohol, NSAIDs, OTC meds, injection drug use</li>
+		<li>Pallor, jaundice, scleral icterus</li>
+		<li>Pulmonary or cardiac symptoms<br />
+		 </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Differential Diagnosis</u></strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:602px;" width="602">
+	<tbody>
+		<tr>
+			<td style="width:201px;height:121px;">
+			<p><strong><u>Right Upper Quadrant</u></strong><br />
+			 </p>
+
+			<p style="margin-left:36.0pt;">Biliary disease</p>
+
+			<p style="margin-left:36.0pt;">Hepatitis</p>
+
+			<p style="margin-left:36.0pt;">Renal colic</p>
+
+			<p style="margin-left:36.0pt;">Pancreatitis</p>
+			</td>
+			<td style="width:201px;height:121px;">
+			<p><strong><u>Epigastric</u></strong></p>
+
+			<p> </p>
+
+			<p><u>Myocardial infarction</u></p>
+
+			<p><u>Biliary disease</u></p>
+
+			<p><u>Pancreatitis</u></p>
+
+			<p><u>Peptic ulcer disease</u></p>
+
+			<p> </p>
+			</td>
+			<td style="width:201px;height:121px;">
+			<p><strong><u>LUQ</u></strong></p>
+
+			<p> </p>
+
+			<p>Renal colic</p>
+
+			<p style="margin-left:36.0pt;">Splenic injury</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201px;height:35px;">
+			<p> </p>
+			</td>
+			<td style="width:201px;height:35px;">
+			<p><strong><u>Diffuse Periumbilical</u></strong></p>
+
+			<p> </p>
+
+			<p>Inflammatory bowel disease</p>
+
+			<p>Bowel obstruction or ischemia</p>
+
+			<p>Irritable bowel syndrome</p>
+
+			<p>Diabetic ketoacidosis</p>
+
+			<p>Appendicitis</p>
+
+			<p>Abdominal aortic aneurysm</p>
+
+			<p>Gastroenteritis</p>
+
+			<p>Adrenal insufficiency</p>
+
+			<p> </p>
+			</td>
+			<td style="width:201px;height:35px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201px;height:70px;">
+			<p><strong><u>Right Lower Quadrant</u></strong></p>
+
+			<p><br />
+			Pelvic inflammatory disease</p>
+
+			<p>Diverticulitis</p>
+
+			<p>Appendicitis</p>
+
+			<p>Ovarian disease</p>
+
+			<p style="margin-left:36.0pt;">Ruptured ectopic pregnancy</p>
+
+			<p> </p>
+			</td>
+			<td style="width:201px;height:70px;">
+			<p> </p>
+			</td>
+			<td style="width:201px;height:70px;">
+			<p><strong><u>Left Lower Quadrant</u></strong></p>
+
+			<p> </p>
+
+			<p>Diverticulitis</p>
+
+			<p>Ovarian disease<br />
+			Pelvic inflammatory disease</p>
+
+			<p style="margin-left:36.0pt;">Ruptured ectopic pregnancy</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br />
+Acute Abdominal Pain Requiring Emergent Referral</p>
+
+<ul>
+	<li>Peritonitis
+	<ul>
+		<li>Rigidity, involuntary guarding, and hypoactive bowel sounds result from peritoneal inflammation</li>
+		<li>Often associated with systemic signs and symptoms such as fevers, chills, night sweats, and leukocytosis</li>
+		<li>Consider appendicitis, diverticulitis, perforated viscus (perforated peptic ulcer, perforated bowel, splenic rupture)  </li>
+		<li>Peritonitis may be masked in patients on chronic immunosuppression (even daily steroids), with chronic diseases (CKD and diabetes), and the elderly</li>
+	</ul>
+	</li>
+	<li>Obstruction
+	<ul>
+		<li>Small or large bowel obstruction</li>
+		<li>Anorexia, nausea, vomiting, obstipation, and decreased flatus result from luminal obstruction in the setting of structural abnormalities</li>
+		<li>Have a high index of suspicion in patients with a history of multiple abdominal surgeries, active malignancy, Crohn's disease, or elderly age (for large bowel)</li>
+		<li>Pseudo-obstruction may occur in the setting of chronic opiate use or spinal cord injury</li>
+	</ul>
+	</li>
+	<li>Cholecystitis, cholangitis, or acute pancreatitis
+	<ul>
+		<li>All can present with right upper quadrant and/or epigastric pain associated with nausea or vomiting</li>
+		<li>Murphy's sign is highly sensitive for acute cholecystitis, though this may be diminished in the elderly</li>
+		<li>The triad of fever, jaundice, and right upper quadrant pain is a late sign of complete biliary obstruction and its absence does not rule out serious pathology</li>
+		<li>Have a high index of suspicion in patients with severe or persistent pain especially if fever or anorexia is present</li>
+	</ul>
+	</li>
+	<li>Abdominal aortic aneurysm (AAA)
+	<ul>
+		<li>Expanding AAA may cause nonspecific abdominal, back, or flank pain</li>
+		<li>Risk factors include male gender, age, and smoking </li>
+		<li>Pulsatile abdominal mass may be present on exam</li>
+		<li>Ruptured AAA often presents with acute, severe abdominal pain, hypotension, and syncope</li>
+	</ul>
+	</li>
+	<li>Acute mesenteric ischemia
+	<ul>
+		<li>Acute onset of severe, diffuse abdominal pain that is often out of proportion to the physical exam due to acute occlusion of the mesenteric vasculature</li>
+		<li>May be accompanied by nausea or vomiting</li>
+		<li>Peritoneal signs are often absent</li>
+		<li>Risk factors include atherosclerosis, atrial fibrillation, heart failure, valvular heart disease, catheterization, intra-abdominal malignancy, and prior embolic event</li>
+	</ul>
+	</li>
+	<li>Acute coronary syndrome
+	<ul>
+		<li>Referred pain from above the diaphragm can present as acute abdominal pain that may be exertional in nature</li>
+		<li>Have a high index of suspicion in patients with atherosclerosis, diabetes, and female gender</li>
+	</ul>
+	</li>
+	<li>Gynecologic emergencies
+	<ul>
+		<li>Have high index of suspicion for ectopic pregnancy, tubo-ovarian abscess, ovarian torsion in a young woman with left or right lower quadrant pain</li>
+	</ul>
+	</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Diagnoses Not Requiring Emergent Referral</u></strong></p>
+
+<ul>
+	<li>Peptic ulcer disease
+	<ul>
+		<li>80% present with epigastric pain</li>
+		<li>May be food-provoked (worse after meals and associated with nausea and fullness) or worse with fasting (burning pain between meals relieved by food and antacids)</li>
+		<li>May also be associated with a sensation of reflux (See PUD chapter)</li>
+	</ul>
+	</li>
+	<li>Functional dyspepsia
+	<ul>
+		<li>Most common cause of abdominal pain seen in primary care</li>
+		<li>Presents with chronic postprandial fullness, early satiety, and epigastric pain or burning</li>
+		<li>By definition will have no structural abnormalities on endoscopy</li>
+	</ul>
+	</li>
+	<li>Biliary colic
+	<ul>
+		<li>Dull, pressure-like, constant pain that may radiate to back and R scapula</li>
+		<li>Presents as chest pain in up to one third of patients</li>
+		<li>Follows ingestion of a fatty meal by one to two hours and gradually improves over several hours</li>
+		<li>Often associated with nausea, vomiting, and diaphoresis</li>
+		<li>Pain that is persistent or associated with fever should raise suspicion for acute cholecystitis</li>
+	</ul>
+	</li>
+	<li>Acute viral hepatitis
+	<ul>
+		<li>Presentation can vary from mild flu-like illness to fulminant hepatitis</li>
+		<li>Can see fatigue, malaise, nausea, vomiting, anorexia, fever, and RUQ pain</li>
+		<li>May develop dark urine, acholic stools, jaundice, and pruritus</li>
+		<li>Jaundice and hepatomegaly are the most common exam findings</li>
+	</ul>
+	</li>
+	<li>Irritable bowel syndrome
+	<ul>
+		<li>Often diffuse, crampy pain associated with diarrhea, constipation, or both and relieved by defecation; can be exacerbated by diet and stress</li>
+		<li>Severe abdominal pain, large volume diarrhea, malnutrition, or signs of systemic illness should prompt a search for an alternative diagnosis (see chapter on IBS)</li>
+	</ul>
+	</li>
+	<li>Inflammatory bowel disease (IBD)
+	<ul>
+		<li>Chronic crampy abdominal pain is more often characteristic of Crohn’s disease than ulcerative colitis (UC)</li>
+		<li>In Crohn’s disease, pain is often from strictures and transient bowel obstruction</li>
+		<li>Focal pain may reflect the underlying location of pathology (i.e. RLQ pain due to terminal ileitis or rectal pain due to abscess)</li>
+		<li>Often associated with chronic diarrhea, which is only sometimes grossly hemorrhagic
+		<ul>
+			<li>UC presents with hematochezia more often than Crohn’s disease</li>
+		</ul>
+		</li>
+		<li>Look for skin, eye, or joint problems that suggest extra-intestinal IBD</li>
+	</ul>
+	</li>
+	<li>Nephrolithiasis
+	<ul>
+		<li>Intermittent flank pain that waxes and wanes in severity lasting 20 to 60 minutes</li>
+		<li>Sharp pain can localize to anywhere from the flank to the genitals, and may migrate with stone movement</li>
+		<li>May be associated with nausea, dysuria, or urinary urgency</li>
+		<li>Look for gross or microscopic hematuria</li>
+	</ul>
+	</li>
+	<li>Chronic pancreatitis
+	<ul>
+		<li>Episodic epigastric pain that often radiates to the back</li>
+		<li>May be associated with nausea and vomiting</li>
+		<li>May become continuous as the disease progresses</li>
+		<li>Look for evidence of pancreatic insufficiency such as loose, greasy, foul smelling stools that are difficult to flush</li>
+	</ul>
+	</li>
+	<li>Chronic mesenteric ischemia
+	<ul>
+		<li>Recurrent episodes of crampy postprandial epigastric pain within one hour of eating</li>
+		<li>Due to perfusion/demand mismatch in patients with atherosclerosis of the splanchnic circulation</li>
+		<li>Variable intensity and location, and may radiate to the back</li>
+		<li>Look for weight loss from food aversion in anticipation of postprandial pain and history of tobacco use and atherosclerotic vascular disease</li>
+		<li>Half of patients have known peripheral vascular or coronary artery disease</li>
+	</ul>
+	</li>
+	<li>Referred pelvic pain
+	<ul>
+		<li>Variable presentation from indolent discomfort to acute, severe pain</li>
+		<li>Consider UTI, prostatitis, menstruation or menorrhagia, pregnancy (including ectopic pregnancy), ovarian cyst, ovarian torsion, PID, tubo-ovarian abscess, endometritis</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>The focused physical exam should include:</li>
+</ul>
+
+<ul>
+	<li>Vital signs, including orthostatics</li>
+	<li>Inspection: jaundice, scleral icterus, abdominal distension</li>
+	<li>Cardiac exam</li>
+	<li>Abdominal exam
+	<ul>
+		<li>Inspection: look for distension</li>
+		<li>Auscultation: presence, frequency, and quality of bowel sounds</li>
+		<li>Percussion: tympanitic, involuntary guarding</li>
+		<li>Palpation: should be performed last; distract patient during palpation to get a better exam, palpate the painful area last
+		<ul>
+			<li>Is the abdomen soft, full, firm, or rigid?</li>
+			<li>Where is it tender?</li>
+			<li>Is there guarding, either voluntary or involuntary?</li>
+			<li>Are there ascites or masses?</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Consider special tests including Murphy’s sign, the Psoas sign, etc.</li>
+	<li>Rectal, pelvic, and testicular exams if appropriate</li>
+	<li>Testing should be guided by differential diagnoses:</li>
+	<li>Serum studies: CBC w/ differential, complete metabolic panel, and lipase</li>
+	<li>Radiographic or interventional studies: Ultrasound (for ovarian or hepatobiliary pathology), CT scan (with IV and, if indicated, oral contrast), CT angiography, MRCP, ERCP, endoscopy, and colonoscopy</li>
+</ul>
+
+<p style="margin-left:72.0pt;"> </p>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Cartwright SL, Knudson MP. Evaluation of Acute Abdominal Pain in Adults. Am Fam Physician. 2008;77(7):971-8.</em></p>
+
+<p><em>Kami  RA, Nowicki  TA, Courtney  DS, Powers  RD.  Pearls and pitfalls in the emergency department evaluation of abdominal pain.  Emerg Med Clin North Am 2003;21(1):61–72.</em></p>
+
+<p><em>Lyon C, Clark DC. Diagnosis of Acute Abdominal Pain in Older Patients. Am Fam Physician 2006;74(9):1537-1544.</em></p>
+
+<p><em>Stern S, Cifu A, Altkorn D. (2015). Symptom to diagnosis : an evidence-based guide, third edition. New York :Lange Medical Books / McGraw-Hill, Medical Pub. Division,</em></p>
+
+<p><em>Trowbridge RL, Rutkowski NK, Shojania KG. Does this patient have acute cholecystitis? JAMA 2003; 289:80.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/09-approach-cough/09-approach-cough" class="page-previous" title="Go to previous page">‹ 09. Approach to Cough</a>
+                    <a href="/02-general-complaints/02-general-complaints" class="page-up" title="Go to parent page">up</a>
+                    <a href="/11-approach-lower-extremity-edema/11-approach-lower-extremity-edema" class="page-next" title="Go to next page">11. Approach to Lower Extremity Edema ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="expanded active-trail menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a><ul class="menu"><li class="first leaf menu-mlid-4556"><a href="/01-fever-unknown-origin/01-fever-unknown-origin">01. Fever of Unknown Origin</a></li>
+<li class="leaf menu-mlid-4561"><a href="/02-insomnia/02-insomnia">02. Insomnia</a></li>
+<li class="leaf menu-mlid-4566"><a href="/03-lymphadenopathy/03-lymphadenopathy">03. Lymphadenopathy</a></li>
+<li class="leaf menu-mlid-4571"><a href="/04-approach-dizziness/04-approach-dizziness">04. Approach to Dizziness</a></li>
+<li class="leaf menu-mlid-4576"><a href="/05-unintentional-weight-loss/05-unintentional-weight-loss">05. Unintentional Weight Loss</a></li>
+<li class="leaf menu-mlid-4581"><a href="/06-approach-fatigue/06-approach-fatigue">06. Approach to Fatigue</a></li>
+<li class="leaf menu-mlid-4586"><a href="/07-memory-loss/07-memory-loss">07. Memory loss</a></li>
+<li class="leaf menu-mlid-4591"><a href="/08-transient-loss-consciousness/08-transient-loss-consciousness">08. Transient Loss of Consciousness</a></li>
+<li class="leaf menu-mlid-4596"><a href="/09-approach-cough/09-approach-cough">09. Approach to Cough</a></li>
+<li class="leaf active-trail active menu-mlid-4601"><a href="/10-approach-abdominal-pain/10-approach-abdominal-pain" class="active-trail active">10. Approach to Abdominal Pain</a></li>
+<li class="leaf menu-mlid-4606"><a href="/11-approach-lower-extremity-edema/11-approach-lower-extremity-edema">11. Approach to Lower Extremity Edema</a></li>
+<li class="leaf menu-mlid-4611"><a href="/12-approach-headache/12-approach-headache">12. Approach to Headache</a></li>
+<li class="last leaf menu-mlid-4616"><a href="/13-approach-chest-pain/13-approach-chest-pain">13. Approach to Chest Pain</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

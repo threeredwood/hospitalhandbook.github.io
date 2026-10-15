@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/07-memory-loss/07-memory-loss" />
+<link rel="shortlink" href="/node/1686" />
+<link rel="prev" href="/06-approach-fatigue/06-approach-fatigue" />
+<link rel="up" href="/02-general-complaints/02-general-complaints" />
+<link rel="next" href="/08-transient-loss-consciousness/08-transient-loss-consciousness" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/07-memory-loss/07-memory-loss" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/07-memory-loss/07-memory-loss" />
+<meta property="twitter:title" content="07. Memory loss | Hospital Handbook" />
+<meta property="og:title" content="07. Memory loss" />
+  <title>07. Memory loss | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"CN26Z1isaYgiey5I02hAbpsJgBrhi3jMfyftyN1Ricw","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/07-memory-loss\/07-memory-loss":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1686 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/07-memory-loss/07-memory-loss" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-6VNTRA0tE2YRXRuglQix8aquDQpxvuTfMOqp3Ocy0-4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a> > <span class="breadcrumb-page-title">07. Memory loss</span></div></div></div>
+                  <h1 class="title" id="page-title">07. Memory loss</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1686" class="node node-book clearfix" about="/07-memory-loss/07-memory-loss" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="07. Memory loss" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Monica Parks, M.D.</p>
+
+<p align="right">Faculty Editor: Katherine Julian, M.D.</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:664px;" width="664">
+	<tbody>
+		<tr>
+			<td style="height:185px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ History is key. Obtain history of cognitive and behavioral change from family if possible. Ask about medications.</p>
+
+			<p>✔ A physical exam including neuro exam, depression screen and cognitive testing is essential</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br />
+<strong><u>Background/Epidemiology</u></strong></p>
+
+<ul>
+	<li>Memory loss is a symptom of many conditions, and describes the inability to remember new information or recall past information.</li>
+	<li>Distinguishing memory loss secondary to dementia, delirium, depression, mild cognitive impairment, or other medical conditions is important.</li>
+	<li>The diagnosis is based on history, objective cognitive testing and physical exam, as well as labs/imaging.</li>
+	<li>Prevalence of mild cognitive impairment in adults over age 70 is 14-25%</li>
+	<li>Prevalence of dementia in adults over age 65 is 5% and in adults over 85 is 35-50%</li>
+	<li>The pretest probability of dementia in an older person with memory loss is estimated to be at least 60%.</li>
+</ul>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li>Patients may present with cognitive changes, personality changes or psychiatric symptoms</li>
+	<li>Instrumental activities of daily living (IADLs) that require planning or calculation (ex: paying bills) often are the first to be impaired  </li>
+	<li>Most patients with dementia do not present with a complaint of memory loss, but a spouse or other informant often brings the problem to attention</li>
+</ul>
+
+<p><strong><u>Differential Diagnosis</u></strong></p>
+
+<ol>
+	<li><strong>Dementia (per DSM V – now known as Major Neurocognitive Disorder).</strong> Gradual onset of short-term memory loss and functional impairment in one or more domains (ex: aphasia, agnosia, apraxia, or executive function).  Based on patient’s concerns and a knowledgeable informant.  To make the diagnosis, deficits impair social/occupational function and must not be due to delirium. </li>
+</ol>
+
+<ul>
+	<li>Alzheimer disease: Presents with early problems in memory and visual/spatial abilities.  Personality changes, behavioral problems, and hallucinations, delusions, and depression may develop as dementia worsens, with end-stage dementia characterized by near mutism, inability to sit up, support the head, or track objects.</li>
+	<li>Subcortical dementias (including Parkinson’s related dementia): Psychomotor slowing, reduced attention, early loss of executive function, and personality changes</li>
+	<li>Lewy body dementia: Rigidity, bradykinesia rarely with accompanying tremor.  Often with fluctuating cognitive impairment which can be confused with delirium.  Complex visual hallucinations early on helps to distinguish from Alzheimer’s. </li>
+	<li>Frontotemporal dementia (including Pick’s disease, dementia associated with ALS): Personality changes (euphoria, disinhibition, apathy) and compulsive behaviors like hyperorality.</li>
+	<li>Dementia with motor findings: If there are additional extrapyramidal features or ataxia, may be related to progressive supranuclear palsy, corticobasal ganglionic degeneration, olivopontocerebellar atrophy.</li>
+	<li>Alcohol related dementia: may present as Korsakoff syndrome (anterograde/retrograde amnesia, apathy, relative preservation of other cognitive skills), cerebellar degeneration, may also see peripheral neuropathies and myopathies.</li>
+</ul>
+
+<ol>
+	<li value="2"><strong>Mild cognitive impairment (per DSMV now known as Minor Neurocognitive Disorder): </strong>Modest cognitive decline in any domain.  Cognitive decline does not interfere with independence but requires some compensation.  Cannot be due to a delirium.       </li>
+	<li value="3"><strong>Cerebrovascular disease</strong> (includes vascular dementia, multi-infarct dementia. Stepwise, sudden deterioration in cognition; episodes of confusion,  aphasia, slurred speech, focal weakness</li>
+	<li value="4"><strong>Delirium.</strong> <u>Acute</u> onset of cognitive impairment with clouded sensorium; difficulty with attention rather than memory; fluctuating course occasionally with hyper-somnolence. Causes include: hypo or hyperglycemia, hypo or hypernatremia, hypoxemia, anemia, intermittent cerebral ischemia, thyrotoxicosis, myxedema, alcohol withdrawal, sepsis, drugs (anticholinergics, hypnotics, neuroleptics, opioids, NSAIDS, histamines, corticosteroids). </li>
+	<li value="5"><strong>Depression.</strong> Includes: minor depression, dysthymic disorder, major depression, pathologic grief disorder<em>. </em>Patient (rather than family) complains of memory loss, decreased concentration, impaired judgment, feels worse in morning, hopelessness</li>
+	<li value="6"><strong>Underlying medical condition or structural brain disease.</strong> Includes: B12 deficiency, hepatic encephalopathy, subdural hematoma, NPH. Can present as dementia or delirium as above. Look for other physical exam findings, as well as lab or imaging abnormalities.</li>
+	<li value="7"><strong>Normal aging:</strong> Consists primarily of mild changes in the rate of information processing, which are not progressive and do not affect daily function.</li>
+</ol>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<p>The current recommendations are not to routinely screen asymptomatic elderly patients for major neurocognitive disorder.  However, patients should be screened if there is concern for memory loss.</p>
+
+<p><strong>History</strong></p>
+
+<ul>
+	<li>Obtain from patient and family members/other reliable informants. Inquire about changes in cognition, behavior, or function.</li>
+	<li>Focus on the onset and course of the memory changes. In addition, review medications including drugs that impair cognition (analgesics, anticholinergics, psychotropic medications, sedative-hypnotics).</li>
+</ul>
+
+<p><strong>Physical Exam</strong></p>
+
+<ul>
+	<li>Perform complete physical exam, including neurologic exam, with particular attention to focal neurologic deficits, signs of Parkinson disease, gait and eye movements.</li>
+	<li>Screen for depression</li>
+	<li>Perform a detailed mental status exam</li>
+	<li>Assess cognitive function, using:</li>
+	<li>(score less than 24 suggestive of dementia or delirium; sensitivity and specificity of 87% and 82%; Scores affected by age and education level)</li>
+</ul>
+
+<p style="margin-left:72.0pt;"><em>-MoCA </em>(sensitivity and specificity for MCI of 90% and 87%).</p>
+
+<p style="margin-left:108.0pt;"><em>-Mini Cog</em> (consists of clock drawing and recall of three unrelated words)</p>
+
+<p style="margin-left:108.0pt;"><em>-Neuropsychologic testing</em> (extensive evaluation of multiple cognitive domains, consider especially for highly educated patients)</p>
+
+<p style="margin-left:108.0pt;"><em>-Confusion Assessment Method</em> if concern for delirium</p>
+
+<ol>
+	<li value="8"><strong>Labs and Tests</strong>
+
+	<ol style="list-style-type:lower-alpha;">
+		<li>For all patients: TSH, B12, depression screen</li>
+		<li>If concern about delirium: CBC, electrolytes, glucose, renal and liver function tests, magnesium and calcium, ECG, CXR, ABG, UA</li>
+		<li>Depending on clinical context, can consider: prescription drug levels, urine/blood toxicology screen, RPR, HIV, urine culture</li>
+		<li>If rapidly progressive memory loss or patient &lt;60 years old, consider:</li>
+	</ol>
+	</li>
+</ol>
+
+<p style="margin-left:72.0pt;">Lumbar puncture (cell count and differential, protein, glucose, syphilis),EEG, Serologic tests (rheumatologic disease, Lyme Disease, Wilson’s Disease)<br />
+Genetic testing for apolipoprotein E epsilon 4 allele is not currently recommended</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:664px;" width="664">
+	<tbody>
+		<tr>
+			<td style="height:185px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Evaluation should include B12, TSH, and depression screen</p>
+
+			<p>✔ Consider neuroimaging, especially for a new diagnosis of dementia, rapidly progressive memory loss or focal neuro deficits</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li><strong>Imaging</strong>
+
+	<ul>
+		<li>Structural neuroimaging with either non-contrast head CT or MRI is appropriate for patients with a new diagnosis of major neurocognitive disorder, and should be considered in the initial evaluation of all patients with memory loss, especially if no obvious cause is apparent.</li>
+		<li>Imaging should definitely be performed if acute onset of cognitive impairment, abnormal neuro exam and/or rapid neurologic deterioration. </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li>Treat the underlying etiology if determined (note that for major neurocognitive disorder, there is rarely a reversible cause). This includes: managing psychiatric illness, eliminating any offending medications, reducing medication interactions, addressing substance abuse, treating underlying infectious or metabolic disturbances, and/or optimizing cardiovascular risk factors.</li>
+	<li>Acetylcholinesterase inhibitors: Acetylcholinesterase inhibitors can be trialed in patients with memory impairment in vascular dementia, Alzheimer, and dementia with Lewy bodies (MMSE score 10-24, Grade 2A recommendation).  They can also be trialed in patients with particularly troubling memory loss in mild cognitive impairment but are not otherwise routinely recommended in this group (Grade 2C recommendation). These medications are not shown to delay functional decline. </li>
+	<li>NMDA antagonists: Memantine has been shown to improve cognitive scores for advanced Alzheimers and possibly vascular dementia, but there is no evidence for improvement in long term, functional outcomes.</li>
+	<li>Herbal supplements: Some patients will use gingko balboa to treat memory impairment, but most studies do not demonstrate benefit compared to placebo in improving age-related memory loss.</li>
+	<li>Non pharmacologic approaches: Discuss with caregivers routines to provide structure, including external memory aids like calendars, lists, pictures; learning habits and use of procedural memory; social and cognitively stimulating activities; aerobic exercise</li>
+	<li><em>See Cognitive Impairment/Dementia chapter in the geriatrics section</em></li>
+</ul>
+
+<p><strong><u>When to refer</u></strong></p>
+
+<ul>
+	<li>Refer for neuropsychologic testing if more detailed evaluation of cognitive function is desired, and also:
+	<ul>
+		<li>To distinguish between major neurocognitive disorder and depression</li>
+		<li>To aid in diagnosis when impairment is mild</li>
+		<li>To diagnosis major neurocognitive disorder in those with high premorbid intellect</li>
+	</ul>
+	</li>
+	<li>Referral to neurology is indicated for atypical cases (young patient, rapidly progressive symptoms), focal neurologic deficits on exam, or for management of related medical or structural brain conditions.</li>
+</ul>
+
+<p><strong>References</strong><br />
+<em>American Psychiatric Association: Practice guideline for the treatment of patients with delirium. Am J Psychiatry 1999;156 (5 suppl): 1-20.</em></p>
+
+<p><em>Crum RM, Anthony JC, Bassett SS, Folstein MF. Population-based norms for the Mini-Mental State Examination by age and education level. JAMA 1993; 269:2386.</em></p>
+
+<p><em>Jorm AF, Fratiglioni L, Winblad B. Differential Diagnosis in dementia. Principal components analysis of clinical data from a population survey. Arch Neurol. 1993; 50 (1): 72.</em></p>
+
+<p><em>Knopman DS, DeKosky ST, Cummings JL, Chui H, Corey-Bloom J, Relkin N, Small GW, Miller B, Stevens JC. Practice parameter: diagnosis of dementia (an evidence-based review).  Report of the Quality Standards Subcommittee of the American Academy of Neurology.  Neurology. 2001; 56(9):1143.</em></p>
+
+<p><em>McPhee SJ, Papadakis MA.  Current: Medical Diagnosis and Treatment.  Dementia. 51<sup>st</sup> edition, McGraw-Hill San Francisco: 2012, 60-64.</em></p>
+
+<p><em>Nasreddine, Z.S., Phillips, N.S., Bédirian, V., Charbonneau, S., Whitehead, V., Collin, I., et al. (2005). The Montreal Cognitive Assessment, MoCA: A brief screening tool for mild cognitive impairment. Journal of the American Geriatrics Society, 53(4), 695-699.</em></p>
+
+<p><em>Peterson, R.C., Stevens, M. G., et al. Practice parameter: Early detection of dementia: Mild cognitive impairment (an evidence-based review): Report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology 2001; 56; 1113.</em></p>
+
+<p><em>Snitz BE, O'Meara ES et al. Ginkgo biloba for preventing cognitive decline in older adults: a randomized trial. Ginkgo Evaluation of Memory (GEM) Study Investigators.  JAMA. 2009; 302(24):2663.</em></p>
+
+<p>Kavirajan H, Schneider LS, et al. Efficacy and adverse effects of cholinesterase inhibitors and memantine in vascular dementia: a meta-analysis of randomised controlled trials. Lancet Neurol. 2007; 6(9):782.</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/06-approach-fatigue/06-approach-fatigue" class="page-previous" title="Go to previous page">‹ 06. Approach to Fatigue</a>
+                    <a href="/02-general-complaints/02-general-complaints" class="page-up" title="Go to parent page">up</a>
+                    <a href="/08-transient-loss-consciousness/08-transient-loss-consciousness" class="page-next" title="Go to next page">08. Transient Loss of Consciousness ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="expanded active-trail menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a><ul class="menu"><li class="first leaf menu-mlid-4556"><a href="/01-fever-unknown-origin/01-fever-unknown-origin">01. Fever of Unknown Origin</a></li>
+<li class="leaf menu-mlid-4561"><a href="/02-insomnia/02-insomnia">02. Insomnia</a></li>
+<li class="leaf menu-mlid-4566"><a href="/03-lymphadenopathy/03-lymphadenopathy">03. Lymphadenopathy</a></li>
+<li class="leaf menu-mlid-4571"><a href="/04-approach-dizziness/04-approach-dizziness">04. Approach to Dizziness</a></li>
+<li class="leaf menu-mlid-4576"><a href="/05-unintentional-weight-loss/05-unintentional-weight-loss">05. Unintentional Weight Loss</a></li>
+<li class="leaf menu-mlid-4581"><a href="/06-approach-fatigue/06-approach-fatigue">06. Approach to Fatigue</a></li>
+<li class="leaf active-trail active menu-mlid-4586"><a href="/07-memory-loss/07-memory-loss" class="active-trail active">07. Memory loss</a></li>
+<li class="leaf menu-mlid-4591"><a href="/08-transient-loss-consciousness/08-transient-loss-consciousness">08. Transient Loss of Consciousness</a></li>
+<li class="leaf menu-mlid-4596"><a href="/09-approach-cough/09-approach-cough">09. Approach to Cough</a></li>
+<li class="leaf menu-mlid-4601"><a href="/10-approach-abdominal-pain/10-approach-abdominal-pain">10. Approach to Abdominal Pain</a></li>
+<li class="leaf menu-mlid-4606"><a href="/11-approach-lower-extremity-edema/11-approach-lower-extremity-edema">11. Approach to Lower Extremity Edema</a></li>
+<li class="leaf menu-mlid-4611"><a href="/12-approach-headache/12-approach-headache">12. Approach to Headache</a></li>
+<li class="last leaf menu-mlid-4616"><a href="/13-approach-chest-pain/13-approach-chest-pain">13. Approach to Chest Pain</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

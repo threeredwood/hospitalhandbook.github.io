@@ -1,0 +1,377 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/06-complications-central-lines/06-complications-central-lines" />
+<link rel="shortlink" href="/node/1431" />
+<link rel="prev" href="/05-subclavian-vein-cannulation/05-subclavian-vein-cannulation" />
+<link rel="up" href="/content/16-procedures" />
+<link rel="next" href="/07-removing-central-lines/07-removing-central-lines" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/06-complications-central-lines/06-complications-central-lines" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/06-complications-central-lines/06-complications-central-lines" />
+<meta property="twitter:title" content="06. Complications of Central Lines | Hospital Handbook" />
+<meta property="og:title" content="06. Complications of Central Lines" />
+  <title>06. Complications of Central Lines | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"ypQ4TCRcpaQr7BAuDD_BndzJ4QIScVdu46vOHK_7T1U","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/06-complications-central-lines\/06-complications-central-lines":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1431 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/06-complications-central-lines/06-complications-central-lines" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Z7drAv2JAf-qZFq9XF6Ra8WWvABRuDv16GLtO1MUc20" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/16-procedures" class="active-trail">16. Procedures</a> > <span class="breadcrumb-page-title">06. Complications of Central Lines</span></div></div></div>
+                  <h1 class="title" id="page-title">06. Complications of Central Lines</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1431" class="node node-book clearfix" about="/06-complications-central-lines/06-complications-central-lines" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="06. Complications of Central Lines" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Vascular</h3>
+
+<p><strong>Arterial puncture: </strong>a feared complication of central line placement is inadvertent arterial puncture. Rates have improved significantly with use of ultrasound but remain as high as 4-9%.</p>
+
+<ul>
+	<li>Arterial puncture with needle only: withdraw needle and apply pressure for at least 15 minutes (longer if patient with coagulopathy).</li>
+	<li>Arterial puncture with dilator or catheter: <strong>surgical emergency</strong>. Leave line/dilator in place, STAT Vascular Surgery consult.  
+	<ul>
+		<li>Immediate removal of catheter can result in uncontrolled hemorrhage, pseudoaneurysm, or AV fistula formation.</li>
+	</ul>
+	</li>
+	<li>Prolonged arterial catheterization can result in thrombus formation and resultant CVA/neurologic deficit.</li>
+</ul>
+
+<p><strong>Hematoma:</strong> often not life-threatening and usually improved with compression. Rates ~5%.</p>
+
+<ul>
+	<li>Can become superinfected.</li>
+	<li>Can lead to hemothorax or hemomediastinum if uncontrolled.</li>
+	<li>If significant concern for coagulopathy, IJ and femoral sites preferred due to easy compressibility.</li>
+	<li>No definitive data around correcting coagulopathy prior to central line placement.</li>
+</ul>
+
+<h3>Infection</h3>
+
+<p>See Infectious Disease sections <a href="https://hospitalhandbook.ucsf.edu/content/16-catheter-related-bloodstream-infection-crbsi"><em>Catheter-Related Bloodstream Infections</em></a> and <a href="https://hospitalhandbook.ucsf.edu/content/20-fever-critically-ill-patients"><em>Fever in Critically Ill Patients</em></a> for more details. Rates of infection significantly improved with sterile technique with insertion and catheter site care. Brief summary of Catheter Related Bloodstream Infection (CRBSI) or Central Line-Associated Bloodstream Infection (CLABSI) is discussed here:</p>
+
+<ul>
+	<li><strong>Micro</strong>: (coag neg <em>Staph</em>, <em>Staph aureus</em>, <em>Enterococcus</em>, <em>Candida</em>) &gt; (<em>Klebsiella</em>, <em>E. coli</em>, <em>Enterobacter</em>, <em>Pseudomonas</em>)<em>.</em></li>
+	<li><strong>Diagnostic evaluation</strong>: blood cultures x2, try to obtain at least one peripherally. Try to obtain DTTP culture, though data surrounding utility is mixed.</li>
+	<li><strong>Empiric therapy</strong>: MRSA coverage +/- GNR coverage based on gram stain results.</li>
+	<li><strong>Line management</strong>: line removal &gt; salvage (line retention with antibiotics) &gt; guidewire exchange.</li>
+</ul>
+
+<h3>Pneumothorax (PTX)</h3>
+
+<p><strong>Risk factors</strong>:</p>
+
+<ul>
+	<li>Patient factors: underlying pulmonary disease (COPD, emphysema), abnormal BMI, congenital vascular anomalies (persistent L SVC), emergency placement, mechanical ventilation, prior surgery/trauma/radiation in area of line.</li>
+	<li>Catheter factors: site (subclavian &gt; IJ), catheter type (larger size, dialysis catheters).</li>
+</ul>
+
+<p><strong>Clinical evaluation</strong>:</p>
+
+<ul>
+	<li>Post-procedural US &gt; CXR (better sensitivity and specificity).</li>
+	<li>Monitor for symptoms: SOB, chest pain, tachycardia/hypotension, hypoxia.</li>
+	<li>Monitor for changes in mechanical ventilation: acute elevation in peak and plateau pressures, acute drop in expired TV, vent asynchrony.</li>
+</ul>
+
+<p><strong>Management</strong>:</p>
+
+<ul>
+	<li>Small → serial CXR; if mechanically ventilated, consider chest tube placement due to high risk of expansion.</li>
+	<li>Moderate to large → consider IR vs CT surgery for guided chest tube placement.</li>
+	<li>If HD instability → needle decompression (place 14-16G angiocatheter in 2nd intercostal space at midclavicular line, remove needle and leave open to air until emergent chest tube can be placed).</li>
+</ul>
+
+<h3>Arrhythmias</h3>
+
+<p><strong>Ventricular arrhythmia and bundle branch block: </strong>usually triggered by guidewire irritation of R heart.</p>
+
+<ul>
+	<li>Usually self-limited.</li>
+	<li>Very rarely can lead to cardiac perforation.</li>
+	<li>Prevention: limit guidewire insertion to <strong>&lt;16cm on RIJ.</strong></li>
+	<li>If persistent VT or symptomatic bradycardia, follow ACLS.</li>
+</ul>
+
+<h3>Air Embolism</h3>
+
+<p><strong>Pathophysiology</strong>: air entering central line down pressure gradient (when CVP &lt; atmospheric pressure) leading to PE, stroke, or other venoarterial embolism.</p>
+
+<ul>
+	<li>Can occur during placement of line, use of line, and/or removal of line.</li>
+</ul>
+
+<p><strong>Risk factors</strong>: upright positioning, low CVP, spontaneous inhalation during instrumentation.</p>
+
+<p><strong>Prevention</strong>:</p>
+
+<ul>
+	<li>Placement: Trendelenburg position, occlusion of needle hub and catheter, prime line with sterile saline.</li>
+	<li>Removal: Trendelenburg position, Valsalva while pulling (avoid pulling during inspiration), pull at beginning of expiratory phase for ventilated patient.</li>
+</ul>
+
+<p><strong>Clinical presentation</strong>: signs/symptoms of PE (dyspnea, cough, chest pain, hypoxia, tachycardia), signs of stroke (focal neuro deficit, seizure, AMS).</p>
+
+<p><strong>Management</strong>: </p>
+
+<ul>
+	<li>Positioning: left lateral decubitus position, with Trendelenburg if <strong>venous</strong> embolism; supine if <strong>arterial</strong> embolism.</li>
+	<li>Oxygen: initially give high FiO2 with high flow or intubation as indicated.</li>
+	<li>Hyperbaric oxygen: indicated for hemodynamically unstable patients, focal neurologic deficits, end organ damage.</li>
+</ul>
+
+<p> </p>
+
+<p><em>Arvaniti K, Lathyris D, Blot S, Apostolidou-Kiouti F, Koulenti D, Haidich AB. Cumulative Evidence of Randomized Controlled and Observational Studies on Catheter-Related Infection Risk of Central Venous Catheter Insertion Site in ICU Patients: A Pairwise and Network Meta-Analysis. Crit Care Med. 2017 Apr;45(4):e437-e448. doi: 10.1097/CCM.0000000000002092. PMID: 27632678.</em></p>
+
+<p><em>McGee DC, Gould MK.  Preventing complications of central venous catheterization. N Engl J Med 2003;348:1123-1133.</em></p>
+
+<p><em>Merrer J, De Jonghe B, Golliot F, et al.</em><em>  Complications of femoral and subclavian venous catheterization in critically ill patients: a randomized controlled trial.  JAMA 2001;286:700-707.</em></p>
+
+<p><em>Ruesch S, Walder B, Tramer MR. Complications of central venous catheters: internal jugular versus subclavian access--a systematic review. Crit Care Med 2002;30:454-460.</em></p>
+
+<p><em>Theodoro D, Krauss M, Kollef M, Evanoff B. Risk factors for acute adverse events during ultrasound-guided central venous cannulation in the emergency department. Acad Emerg Med. 2010;17(10):1055-61.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/05-subclavian-vein-cannulation/05-subclavian-vein-cannulation" class="page-previous" title="Go to previous page">‹ 05. Subclavian Vein Cannulation</a>
+                    <a href="/content/16-procedures" class="page-up" title="Go to parent page">up</a>
+                    <a href="/07-removing-central-lines/07-removing-central-lines" class="page-next" title="Go to next page">07. Removing Central Lines ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="expanded active-trail menu-mlid-2866"><a href="/content/16-procedures" class="active-trail">16. Procedures</a><ul class="menu"><li class="first leaf menu-mlid-2871"><a href="/01-principles-vascular-access/01-principles-vascular-access">01. Principles of Vascular Access</a></li>
+<li class="leaf menu-mlid-4046"><a href="/02-ultrasound-guided-peripheral-ivs/02-ultrasound-guided-peripheral-ivs">02. Ultrasound-Guided Peripheral IVs</a></li>
+<li class="leaf menu-mlid-4051"><a href="/03-internal-jugular-vein-cannulation/03-internal-jugular-vein-cannulation">03. Internal Jugular Vein Cannulation</a></li>
+<li class="leaf menu-mlid-4056"><a href="/04-femoral-vein-cannulation/04-femoral-vein-cannulation">04. Femoral Vein Cannulation</a></li>
+<li class="leaf menu-mlid-4061"><a href="/05-subclavian-vein-cannulation/05-subclavian-vein-cannulation">05. Subclavian Vein Cannulation</a></li>
+<li class="leaf active-trail active menu-mlid-4066"><a href="/06-complications-central-lines/06-complications-central-lines" class="active-trail active">06. Complications of Central Lines</a></li>
+<li class="leaf menu-mlid-4071"><a href="/07-removing-central-lines/07-removing-central-lines">07. Removing Central Lines</a></li>
+<li class="leaf menu-mlid-4076"><a href="/08-arterial-line-placement/08-arterial-line-placement">08. Arterial Line Placement</a></li>
+<li class="leaf menu-mlid-4081"><a href="/09-thoracentesis/09-thoracentesis">09. Thoracentesis</a></li>
+<li class="leaf menu-mlid-4086"><a href="/10-paracentesis/10-paracentesis">10. Paracentesis</a></li>
+<li class="leaf menu-mlid-4091"><a href="/11-knee-arthrocentesis/11-knee-arthrocentesis">11. Knee Arthrocentesis</a></li>
+<li class="last leaf menu-mlid-4096"><a href="/12-lumbar-puncture-lp/12-lumbar-puncture-lp">12. Lumbar Puncture (LP)</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

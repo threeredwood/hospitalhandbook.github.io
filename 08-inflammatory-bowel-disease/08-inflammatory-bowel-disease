@@ -1,0 +1,533 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" />
+<link rel="shortlink" href="/node/1991" />
+<link rel="prev" href="/07-peptic-ulcer-disease/07-peptic-ulcer-disease" />
+<link rel="up" href="/07-gastroenterology/07-gastroenterology" />
+<link rel="next" href="/09-approach-abnormal-lfts/09-approach-abnormal-lfts" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" />
+<meta property="twitter:title" content="08. Inflammatory bowel disease***** | Hospital Handbook" />
+<meta property="og:title" content="08. Inflammatory bowel disease*****" />
+  <title>08. Inflammatory bowel disease***** | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"sK_TQva8hoKCgyaSoXDAl_7iNAA-Gie62tjC_GK40fg","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/08-inflammatory-bowel-disease\/08-inflammatory-bowel-disease":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1991 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-yHmyJKDXWnyrYRqGU5XMzlqKUEHpkRtxGYrfH_8U3LI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/07-gastroenterology/07-gastroenterology" class="active-trail">07. Gastroenterology</a> > <span class="breadcrumb-page-title">08. Inflammatory bowel disease*****</span></div></div></div>
+                  <h1 class="title" id="page-title">08. Inflammatory bowel disease*****</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1991" class="node node-book clearfix" about="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="08. Inflammatory bowel disease*****" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: AdamTabbaa, MD</p>
+
+<p align="right">Faculty Editor: Fernando Velayos, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ IBD consists of two clinically distinct disorders (Ulcerative colitis and Crohn’s disease) that can have similar presentations</p>
+
+			<p>✔ Therapy is best orchestrated by an IBD specialist; primary care clinicians should be aware of the complications of these diseases such as anemia, malnutrition, strictures, cancer and extra-intestinal manifestations</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Ulcerative colitis (UC) = <strong><em>diffuse</em></strong> <strong><em>submucosal</em></strong> (superficial) inflammation limited to the colon, extending proximally from rectum.  Subsets defined by extent of inflammation (proctitis, proctosigmoiditis, left-sided, and pancolitis).</li>
+	<li>Crohn’s disease (CD) = <strong><em>transmural</em></strong> (all layers bowel wall) inflammation of the GI tract.  Occurring anywhere from the mouth to the anus, often in a pattern of skip lesions (vs. continuous involvement of UC). The transmural inflammation gives rise to the complications of CD, and CD can be divided into subtypes based on these as well (stricturing, fistulizing, obstructing).</li>
+</ul>
+
+<p><strong><u>Epidemiology</u></strong></p>
+
+<ul>
+	<li>Most common ages 15-40, second peak ages 50-80. </li>
+	<li>M:F = 1:1</li>
+	<li>Affects all races and ethnicities, but 2-8-fold increase in Ashkenazi Jews</li>
+	<li>Smoking protective for UC, worsens Crohn’s</li>
+</ul>
+
+<p><strong><u>Signs and symptoms</u></strong></p>
+
+<ul>
+	<li>Overlap: weight loss, fever, abdominal pain, blood diarrhea (more common in UC), anemia</li>
+	<li>Ulcerative colitis: rectal urgency</li>
+	<li>Crohn’s disease: Depends on area affected-odynophagia, dysphagia, fistulas, abdominal abscesses, perianal disease including skin tags or anal fissures, aphthous ulcers, fat malabsorption, gallstones, B12 deficiency/pernicious anemia.</li>
+	<li>Extra-intestinal manifestations can be seen in either UC or Crohn’s Disease (see below)</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Eye: uveitis, iritis, episcleritis</p>
+
+			<p>Skin: erythema nodosum and pyoderma gangrenous</p>
+
+			<p>Joint: peripheral arthritis of large joints, axial arthritis such as sacroiliitis or ankylosing spondylitis</p>
+
+			<p>GI: primary sclerosing cholangitis</p>
+
+			<p>Heme: venous or arterial thromboembolism, anemia</p>
+
+			<p>FEN/Renal: secondary amyloidosis leading to renal failure, vitamin deficiencies</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Diagnosis</u></strong></p>
+
+<ul>
+	<li>Typically made by a suggestive history, abdominal imaging and colonoscopy with biopsy. <em>Always rule out infection if suspecting active IBD, as ultimately if diagnosed with IBD the patient will be given immunosuppressing medications!</em></li>
+	<li>C. diff PCR, stool bacterial culture (Shigella, Salmonella, Campylobacter, E. coli 0157, Yernia), stool ova &amp; parasite (Amoebiasis), in immunocompromised hosts consider CMV, Kaposi’s sarcoma, and HSV</li>
+	<li>Also consider ischemic colitis and malignancy when approaching undifferentiated inflammatory diarrhea</li>
+	<li>CBC, iron studies, CRP, fecal calprotectin</li>
+	<li>GI referral and colonoscopy or EGD if indicated</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li>Tiers of therapy are based on severity of symptoms, some patients have mild disease requiring mild therapies, others are refractory to steroids and immune therapies</li>
+	<li>New therapies are being introduced for use in IBD after having displayed some efficacy in rheumatologic conditions (vedolizumab, tofacitnib)</li>
+	<li>Currently no role for combined biologic therapy in IBD, however this is an area of current exploration, with a trial underway exploring the use of vedolizumab in conjunction with adalimumab in Crohn’s Disease</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>IBD Biologics</strong></p>
+
+			<ul>
+				<li>Infliximab (Remicade)-UC/CD</li>
+				<li>Adalimumab (Humira)-UC/CD</li>
+				<li>Certolizumab (Cimzia)-CD</li>
+				<li>Goliumumab (Simponi)-UC</li>
+				<li>Vedolizumab (Entyvio)-UC/CD</li>
+				<li>Tofacitinib (Xeljanz)-UC</li>
+				<li>Ustekinumab (Stelara)-CD</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Before initiating therapy:
+	<ul>
+		<li>PPD/Quantiferon Gold</li>
+		<li>hepatitis serologies (remember risk of HBV reactivation)</li>
+		<li>Ensure routine live vaccinations have been given (contraindicated once therapy has begun)</li>
+		<li>TPMT level (to assess phenotype regarding bone marrow suppression by AZA/6-MP) should be routinely checked</li>
+	</ul>
+	</li>
+	<li>Also consider contraindications to immunomodulator therapy: active infection, untreated latent TB (would not be contraindication to vedolizumab), preexisting demyelinating disease, CHF, active/recent malignancy</li>
+	<li>General principles are similar to oncology: induction therapy and then maintenance to maintain the disease in remission</li>
+</ul>
+
+<p><strong><em><u>Treatment of Ulcerative Colitis</u></em></strong></p>
+
+<ol>
+	<li>Make Diagnosis and Assessment</li>
+	<li>Assess Comorbidities and Disease and Therapy-Related Complications
+	<ol style="list-style-type:lower-alpha;">
+		<li>Treat infection (<em>C. diff</em>, CMV, other bacteria, parasites)</li>
+		<li>Stop aspirin or NSAIDs</li>
+		<li>Monitor for DVT/PE</li>
+		<li>Colectomy if colorectal cancer or certain histological criteria for dysplasia</li>
+		<li>Consult surgery if toxic megacolon or fulminant colitis</li>
+	</ol>
+	</li>
+	<li>Stratify According to Colectomy Risk
+	<ol style="list-style-type:lower-alpha;">
+		<li>Low Risk → limited anatomic extent, mild endoscopic disease</li>
+		<li>High Risk → extensive colitis, deep ulcers, age &lt;40, high CRP, steroid-requiring disease, history of hospitalization, C. diff infection, CMV infection</li>
+	</ol>
+	</li>
+	<li>Inductive and Maintenance Therapy for Low-Risk Patients (Outpatient)
+	<ol style="list-style-type:lower-alpha;">
+		<li>Oral 5-ASA and/or</li>
+		<li>Rectal 5-ASA and/or</li>
+		<li>Oral budesonide or prednisone and/or</li>
+		<li>Rectal steroids</li>
+		<li>If remission, taper steroids over 60 days and maintain therapy with 5-ASA PO/PR</li>
+		<li>If no remission, see #5</li>
+	</ol>
+	</li>
+	<li>Inductive and Maintenance Therapy for High-Risk Patients (Outpatient)
+	<ol style="list-style-type:lower-alpha;">
+		<li>Short course of steroids with initiation of thiopurine OR</li>
+		<li>Anti-TNF w/wo thipurine OR</li>
+		<li>Vedolizumab, w/wo thiopurine</li>
+		<li>If no remission, see #6</li>
+		<li value="2">Therapy for High-Risk Outpatient not in Remission
+		<ol style="list-style-type:lower-alpha;">
+			<li>Complicated, managed by IBD specialist</li>
+			<li>Options similar to above, but consider reasons for failed therapy (insert) and possible need for proctocolectomy</li>
+		</ol>
+		</li>
+		<li value="3">Therapy for High-Risk Inpatient
+		<ol style="list-style-type:lower-alpha;">
+			<li>IV steroids, infliximab, cyclosporine, colectomy</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<ul>
+				<li><strong>Failure to respond to prednisone</strong>
+
+				<ul>
+					<li>TNF agent or vedo +/- thiopurine</li>
+				</ul>
+				</li>
+				<li><strong>Failure to maintain steroid-induced remission on thiopurine</strong>
+				<ul>
+					<li>Check thio levels, if therapeutic switch to TNF agent or vedo</li>
+				</ul>
+				</li>
+				<li><strong>Loss of Response to TNF/Vedo</strong>
+				<ul>
+					<li>Check drug levels, check for development of drug antibodies</li>
+					<li>Increase dose or change agents</li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p>​<strong><em><u>Treatment of Crohn’s Disease</u></em></strong></p>
+
+<ol>
+	<li>Make Diagnosis and Assess Inflammatory Status
+	<ol style="list-style-type:lower-alpha;">
+		<li>History, exam, labs, imaging, endoscopy</li>
+	</ol>
+	</li>
+	<li>Assess Comorbidities and Disease-Related Complications
+	<ol style="list-style-type:lower-alpha;">
+		<li>Infection (C. diff, CMV, other bacteria, parasites)</li>
+		<li>Stricture/remodeling (obstruction, weight loss)</li>
+		<li>Symptoms related to prior surgery (bile acid diarrhea, bacterial overgrowth, steatorrhea/malabsorption)</li>
+		<li>Abdominal or perianal abscess or fistula</li>
+	</ol>
+	</li>
+	<li>Identify and Low-Risk or High-Risk
+	<ol style="list-style-type:lower-alpha;">
+		<li>Low-Risk
+		<ol style="list-style-type:lower-roman;">
+			<li>Age &gt;30 at initial dx, limited anatomical involvement, no perianal and/or severe rectal disease, superficial ulcers, no prior resection, no stricturing</li>
+		</ol>
+		</li>
+		<li>Moderate/High-Risk
+		<ol style="list-style-type:lower-roman;">
+			<li>Age&gt;30, extensive anatomical involvement, perianal and/or severe rectal disease, deep ulcers, resections, stricutring</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li>Initial Treatment for Low-Risk Patients
+	<ol style="list-style-type:lower-alpha;">
+		<li>Steroids with or without AZA</li>
+	</ol>
+	</li>
+	<li>Initial Treatment for Moderate/High-Risk Patients
+	<ol style="list-style-type:lower-alpha;">
+		<li>Use anti-TNF monotherapy over no therapy or thiopurine monotherapy</li>
+		<li>Use anti-TNF + thiopurine over thiopurine monotherapy or anti-TNF monotherapy</li>
+		<li>Use MTX in pts who don’t tolerate purine analog in combination with anti-TNF</li>
+	</ol>
+	</li>
+</ol>
+
+<p>​<strong><u>When to refer</u></strong></p>
+
+<ul>
+	<li>All patients with suspected IBD should be referred to GI for endoscopic confirmation of the diagnosis as well as treatment. It is reasonable to conduct basic labs and studies as above to rule out other causes before referral.</li>
+</ul>
+
+<p><strong><u>Follow-up/Surveillance malignancy screening</u></strong></p>
+
+<ul>
+	<li>When IBD patients come to the ED with severe abdominal pain, CT Abdomen &amp; C. diff toxin should be first tests of choice if too unstable for colonoscopy with biopsies.  Consider surgical consultation early.
+	<ul>
+		<li>For patients with repeated CT scans, MRI Pelvis may be useful, particularly for peri-anal disease</li>
+	</ul>
+	</li>
+	<li>Annual or biannual surveillance colonoscopies with biopsies are indicated for cancer surveillance after 8-10 years of UC due to the markedly increased risk of colorectal cancer</li>
+	<li>There are no formal guidelines by the ACG for malignancy screening for CD due to the insufficient evidence, however, the American Gastrointestinal Association recommends following the same surveillance criteria as for UC</li>
+</ul>
+
+<p>​<strong><u>References</u></strong></p>
+
+<p>Kornbluth A, Sachar DB. Ulcerative colitis practice guidelines in adults (update): American College Gastroenterology, Practice Parameters Committee. <em>Am J Gastroenterol 2010</em>;105:501-523. </p>
+
+<p>Lichtenstein GR, Hanauer SB, Sandborn WJ. Management of Crohn's disease in adults. <em>Am J Gastroenterol 2009</em>;104(2):465-83.</p>
+
+<p>Hirten, Robert P. et al. Combining Biologics in Inflammatory Bowel Disease and Other Immune Mediated Inflammatory Disorders Clinical Gastroenterology and Hepatology, 2018</p>
+
+<p>Lichtenstein, G. et al. ACG Clinical Guideline: Management of Chron’s Disease in Adults, 2018</p>
+
+<p>American Gastroenterological Association Ulcerative Colitis Clinical Care Pathway 2018</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/07-peptic-ulcer-disease/07-peptic-ulcer-disease" class="page-previous" title="Go to previous page">‹ 07. Peptic ulcer disease</a>
+                    <a href="/07-gastroenterology/07-gastroenterology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/09-approach-abnormal-lfts/09-approach-abnormal-lfts" class="page-next" title="Go to next page">09. Approach to abnormal LFTs ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="expanded active-trail menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology" class="active-trail">07. Gastroenterology</a><ul class="menu"><li class="first leaf menu-mlid-5156"><a href="/01-constipation/01-constipation">01. Constipation</a></li>
+<li class="leaf menu-mlid-5161"><a href="/02-diarrhea/02-diarrhea">02. Diarrhea</a></li>
+<li class="leaf menu-mlid-5166"><a href="/03-dysphagia/03-dysphagia">03. Dysphagia</a></li>
+<li class="leaf menu-mlid-5171"><a href="/04-approach-dyspepsia/04-approach-dyspepsia">04. Approach to dyspepsia</a></li>
+<li class="leaf menu-mlid-5176"><a href="/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus">05. GERD and Barrett&#039;s Esophagus</a></li>
+<li class="leaf menu-mlid-5181"><a href="/06-h-pylori-infection/06-h-pylori-infection">06. H. pylori infection</a></li>
+<li class="leaf menu-mlid-5186"><a href="/07-peptic-ulcer-disease/07-peptic-ulcer-disease">07. Peptic ulcer disease</a></li>
+<li class="leaf active-trail active menu-mlid-5191"><a href="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease" class="active-trail active">08. Inflammatory bowel disease*****</a></li>
+<li class="leaf menu-mlid-5196"><a href="/09-approach-abnormal-lfts/09-approach-abnormal-lfts">09. Approach to abnormal LFTs</a></li>
+<li class="last leaf menu-mlid-5201"><a href="/10-approach-cirrhosis/10-approach-cirrhosis">10. Approach to cirrhosis*****</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

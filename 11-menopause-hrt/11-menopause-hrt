@@ -1,0 +1,554 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/11-menopause-hrt/11-menopause-hrt" />
+<link rel="shortlink" href="/node/2101" />
+<link rel="prev" href="/10-vaginitis/10-vaginitis" />
+<link rel="up" href="/10-womens-health/10-womens-health" />
+<link rel="next" href="/12-infertility/12-infertility" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/11-menopause-hrt/11-menopause-hrt" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/11-menopause-hrt/11-menopause-hrt" />
+<meta property="twitter:title" content="11. Menopause &amp;amp; HRT | Hospital Handbook" />
+<meta property="og:title" content="11. Menopause &amp;amp; HRT" />
+  <title>11. Menopause & HRT | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"5OeYl65VAGn8slJGbYteF79C9GeOQthQDLMczBzPY9s","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/11-menopause-hrt\/11-menopause-hrt":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2101 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/11-menopause-hrt/11-menopause-hrt" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-2V5qQEFKiLIT0Wh6by3XkTgZ1fKaPF_yFSxRiO6LrS0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/10-womens-health/10-womens-health" class="active-trail">10. Women&#039;s Health</a> > <span class="breadcrumb-page-title">11. Menopause &amp; HRT</span></div></div></div>
+                  <h1 class="title" id="page-title">11. Menopause &amp; HRT</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2101" class="node node-book clearfix" about="/11-menopause-hrt/11-menopause-hrt" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="11. Menopause &amp; HRT" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Joseph R. Cartwright, MD, MEd</p>
+
+<p align="right">Faculty Editor: Alison Huang, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ For women &gt;45 years of age, no lab testing required for menopause diagnosis unless unusual symptoms. </p>
+
+			<p>✔ Consider short-term menopausal hormone therapy or non-hormonal options for symptoms.</p>
+
+			<p>✔ Menopausal hormone therapy not recommended for prevention of chronic conditions in postmenopausal women.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><u><strong>Background</strong></u></p>
+
+<ul>
+	<li>Menopause is defined as amenorrhea for at least 12 months.</li>
+	<li>The median age of menopause in the US is 51 years. </li>
+</ul>
+
+<p><u><strong>Signs and Symptoms</strong></u></p>
+
+<ul>
+	<li>Peri-menopause symptoms start on average 4 years before the final period. </li>
+	<li>Symptoms may include irregular menstrual cycles, hot flashes, night sweats, sleep disturbance, depressed mood, dyspareunia, vaginal dryness, decreased concentration, joint aches, change in libido.</li>
+	<li>Hot flashes are the most common menopause symptom of US women, occur in 75% of postmenopausal US women, and usually last 2-5 years. 30% of women have symptoms after 5 years; 10% of women have persistent symptoms &gt;10 years after menopause. African-American women most likely to be bothered by hot flashes &amp; night sweats. </li>
+	<li>Breast pain, skin changes, impaired balance, and menstrual migraines may also occur. </li>
+	<li>Changes in lipids and bone loss may accelerate during menopause. </li>
+</ul>
+
+<p><strong><u>Work-up</u></strong></p>
+
+<ul>
+	<li>In the late transition (intervals of amenorrhea of 60 days or more) FSH &gt;25 IU/L suggestive of menopausal transition. However, FSH measurement is NOT required for diagnosis in a women age &gt;45 years. </li>
+	<li>If age &gt;45 yrs, check prolactin &amp; TSH for amenorrhea only if suggestive features e.g. galactorrhea, goiter, tachycardia, proptosis.</li>
+	<li>If age 40-45 yr with irregular cycles, check serum hCG, prolactin, and TSH for amenorrhea before assuming menopause.</li>
+	<li>If age &lt;40 yr, have concern for premature ovarian failure and pursue work-up with cycle day 3 FSH and estradiol. Referral to fertility clinic is appropriate. Measurement of serum antimullerian hormone and an antral follicle count on transvaginal ultrasound can also aide in diagnosis</li>
+	<li>Other <em>rare</em> clinical conditions that can have some symptomatic overlap with menopause, and which should be evaluated for if there are strongly suggestive features, include the following: carcinoid syndrome, pheochromocytoma, opioid withdrawal, niacin use, chronic infection, dumping syndrome, mast cell disorders, some cancers (medullary thyroid, pancreatic islet-cell, renal cell carcinoma, and lymphoma), and anxiety disorders</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<p><strong>A. Non-hormonal symptom management</strong></p>
+
+<p><em><strong>Vasomotor symptoms (hot flashes &amp; night sweats)</strong></em></p>
+
+<ul>
+	<li>Counseling re: smoking cessation, alcohol use in moderation, and weight loss (if overweight/obese). </li>
+	<li>Additional lifestyle modifications include turning down the thermostat, dressing in layers, avoiding spicy foods, and reducing stress.</li>
+	<li>Potential benefit with clinical hypnosis, cognitive behavioral therapy, mindfulness-based stress reduction.</li>
+	<li>SSRIs are modestly efficacious in RCTs (reduction in frequency of hot flashes by 25-69%). Benefits usually appreciated within a week.
+	<ul>
+		<li>Paroxetine 7.5 mg FDA-approved; 12.5-25 mg/day shown to be efficacious, and other formulations may be appropriate if the 7.5mg brand version is not covered
+		<ul>
+			<li>Note: greatest association with SSRI withdrawal symptoms with missed doses (due to short half-life); weight gain is common; interferes with tamoxifen metabolism. </li>
+		</ul>
+		</li>
+		<li>Other SSRIs include fluoxetine 20 mg (most activating SSRI), escitalopram 10-20 mg/day (fewest drug-drug interactions), or citalopram (risk of QT prolongation).</li>
+		<li>Common SSRI effects include nausea, headache, insomnia (typically resolve within 1-2 weeks). </li>
+	</ul>
+	</li>
+	<li>Venlafaxine, an SNRI, is also modestly beneficial at 37.5, 75, or 150 mg/day 
+	<ul>
+		<li>Side effects include nausea, mouth dryness, anorexia (usually all transient).</li>
+		<li>Desvenlafaxine may be better tolerated.</li>
+	</ul>
+	</li>
+	<li>Gabapentin 900 mg/day is modestly effective. May be especially helpful for night sweats and poor sleep. 
+	<ul>
+		<li>Side effects include dizziness, unsteadiness, drowsiness (typically resolve within 1-2 weeks). </li>
+	</ul>
+	</li>
+	<li>Pregabalin (Lyrica®) 75-150mg BID has been shown to be modestly effective and well tolerated. 
+	<ul>
+		<li>Side effects similar to gabapentin.</li>
+	</ul>
+	</li>
+	<li>Clonidine 0.1-0.3mg daily (transdermal preferred) may be suggested if above trials fail. </li>
+	<li>Soy products, herbal remedies (black cohosh, red clover), omega-3 fatty acids, and vitamin E have not been shown to be effective. Use caution with soy or other phytoestrogens in women with ER+ breast cancer.</li>
+</ul>
+
+<p><em><strong>Vaginal dryness / dyspareunia</strong></em></p>
+
+<ul>
+	<li>Over-the-counter lubricants &amp; moisturizers may be as effective in improving symptoms as low-dose vaginal estrogen, but cannot reverse physical signs of vaginal atrophy.</li>
+	<li>Locally administered estrogen as a cream, gel, or pill can be effective. 
+	<ul>
+		<li>Any abnormal vaginal bleeding should be investigated immediately. </li>
+		<li>Endometrial safety data beyond 1 year is lacking. </li>
+	</ul>
+	</li>
+	<li>Ospemifene is a non-steroidal, non-hormonal estrogen receptor agonist/antagonist FDA approved for dyspareunia due to menopausal vulvovaginal atrophy
+	<ul>
+		<li>60 mg/day effective</li>
+		<li>Side effects include hot flashes (6.6% of women), UTI, vaginal discharge, nasopharyngitis, headache</li>
+	</ul>
+	</li>
+	<li>Also see separate chapter on vaginitis</li>
+</ul>
+
+<p><strong>B. Menopausal Hormone Therapy</strong></p>
+
+<ul>
+	<li>USPSTF recommends against use of combined estrogen and progestin for the prevention of chronic conditions in post-menopausal women, so the main indication is menopause symptom relief</li>
+	<li>Symptom relief is largely due to estrogen. Progestin is added to avoid risk of endometrial cancer with unopposed estrogen; and should be given to all women with an intact uterus on systemic estrogen therapy. </li>
+	<li>Systemic estrogen is effective for both vasomotor symptoms and symptoms of vulvovaginal atrophy
+	<ul>
+		<li>Vaginal estrogen is more effective than oral/transdermal estrogen for symptoms of vulvovaginal atrophy</li>
+		<li>Adverse effects include breast tenderness, uterine bleeding, nausea, vomiting, headaches, weight change, rash, pruritis, cholecystitis, which may be dose dependent </li>
+		<li>Transdermal estrogen may be preferred over oral (transdermal avoids first-pass hepatic metabolism that promotes pro-thrombotic changes)</li>
+		<li>Associated with increased risks of stroke, VTE</li>
+		<li>Decreased risk of postmenopausal bone loss and hip fractures</li>
+	</ul>
+	</li>
+	<li>Progestins continuous or cyclic based on pt preference; given orally, transdermally, or vaginally
+	<ul>
+		<li>Cyclic regimens more likely to cause withdrawal bleeding</li>
+		<li>Medroxyprogesterone acetate given continuously is associated with breast cancer risk, unclear if other types of progestin pose less risk of breast cancer. Increased risk of breast cancer detectable by 3-5 years of use. </li>
+		<li>Estrogen plus progestin is also associated with increased risk of coronary events, dementia, urinary incontinence</li>
+	</ul>
+	</li>
+	<li>Adverse effects of estrogen plus progestin appear concentrated in women ≥5 years past menopause, so may be safe to use within first 5 years after menopause</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th colspan="2" scope="col" style="width:638px;">
+			<p>Estrogen preparations, starting doses*</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:253px;">
+			<p><em>Oral</em></p>
+			</td>
+			<td style="width:385px;">
+			<p>Micronized 17 β-estradiol 0.5 mg/day</p>
+
+			<p>Ethinyl estradiol 2.5 mcg/day</p>
+
+			<p>Conjugated estrogen 0.3-0.45 mg/day</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:253px;">
+			<p><em>Intramuscular</em></p>
+			</td>
+			<td style="width:385px;">
+			<p>Estradiol valerate 10mg q4wk</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:253px;">
+			<p><em>Transdermal</em></p>
+			</td>
+			<td style="width:385px;">
+			<p>17 β-estradiol patch 0.014-0.0375 mg/day</p>
+
+			<p>17 β-estradiol gel 0.25-0.75 mg/day</p>
+
+			<p>17 β-estradiol spray 1.5 mg/day</p>
+
+			<p>17 β-estradiol emulsion 8.7 mg/day</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:253px;">
+			<p><em>Vaginal</em></p>
+			</td>
+			<td style="width:385px;">
+			<p>17 β-estradiol vaginal cream 0.2 mg/day</p>
+
+			<p>Conjugated estrogen vaginal cream 0.3125 mg/day</p>
+
+			<p>17 β-estradiol vaginal tablet 10 mcg/day</p>
+
+			<p>17 β-estradiol vaginal ring 7.5</p>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" style="width:638px;">
+			<p>Progestogen preparations, starting doses</p>
+			</th>
+		</tr>
+		<tr>
+			<td style="width:253px;">
+			<p><em>Oral</em></p>
+			</td>
+			<td style="width:385px;">
+			<p>Medroxyprogesterone acetate 1.5-2.5 mg/day</p>
+
+			<p>Norethindrone acetate 0.1 mg/day</p>
+
+			<p>Drospirenone 0.25 mg/day</p>
+
+			<p>Micronized progesterone 100-200 mg/day</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:253px;">
+			<p><em>Transdermal</em></p>
+			</td>
+			<td style="width:385px;">
+			<p>Norethindrone acetate 0.14 mg/day</p>
+
+			<p>Levonorgestril 0.015 mg/day</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>* Conjugated estrogens 0.625 mg or equivalent (1 mg oral estradiol, 50 mcg transdermal 17-beta estradiol) are considered standard or full-dose, while conjugated estrogens of 0.3 mg or equivalent (0.5 mg oral estradiol, 25 mcg transdermal estradiol) are considered low-dose. Transdermal estriol of 14 mcg is considered very/ultra low-dose.</p>
+
+<ul>
+	<li>Bioidentical hormones refer to custom-made hormone therapy formulations, not tested for efficacy, safety, standardization, or purity. </li>
+	<li>Absolute Contraindications to use of menopausal hormone therapy: 
+	<ul>
+		<li>hx of breast cancer or endometrial cancer</li>
+		<li>hx of thromboembolic disease (stroke, TIA, MI, PE, VTE, thrombophilic disorders)</li>
+		<li>unexplained vaginal bleeding</li>
+		<li>active liver disease</li>
+		<li>clinically significant CAD</li>
+		<li>porphyria</li>
+		<li>prolonged immobilization</li>
+	</ul>
+	</li>
+	<li>Relative Contraindications to use of menopausal hormone therapy:
+	<ul>
+		<li>hypertriglyceridemia (&gt;400mg/dL)</li>
+		<li>uncontrolled HTN</li>
+		<li>intermediate or high risk of breast cancer</li>
+		<li>high risk of CAD</li>
+		<li>active gallbladder disease</li>
+		<li>migraine with aura</li>
+		<li>meningioma</li>
+		<li>hypoparathyroidism (risk of hypocalcemia)</li>
+		<li>diabetes (as a CAD equivalent)</li>
+	</ul>
+	</li>
+	<li>Duration of menopausal hormone therapyselected based on symptoms, preferences and benefit-risk profile
+	<ul>
+		<li>Some guidelines recommend treatment for &lt;5 years for combined menopausal hormone therapy and &lt;7 years for estrogen therapy</li>
+	</ul>
+	</li>
+	<li>In general, prescribe lowest dose of menopausal hormone therapy for shortest duration to minimize adverse health effects.</li>
+	<li>Annual to biannual weaning recommended to allow for re-assessment of symptoms and re-titration to the lowest effective dose.</li>
+	<li>With cessation of menopausal hormone therapy, 50% chance of recurrent vasomotor symptoms. Menopausal hormone therapy discontinuation associated with resumption of bone resorption, recurrent vulvovaginal atrophy. Risk of breast cancer persists for a few years after discontinuation of menopausal hormone therapy. </li>
+</ul>
+
+<p><strong><u>References:</u></strong></p>
+
+<p>The 2012 Hormone Therapy Position Statement of The North American Menopause Society. <em>Menopause. Mar 2012</em>:19(3): 257-271.</p>
+
+<p>Caroll DG. Nonhormonal therapies for hot flashes in menopause. <em>Am Fam Physician. 2006</em> Feb 1;73(3):457-464.</p>
+
+<p>Freeman EW et al. Efficacy of Escitalopram for Hot Flashes in Healthy Menopausal Women: A Randomized Controlled Trial. <em>JAMA. 2011</em>;305(3):267-274.</p>
+
+<p>Nelson HD et al.  Nonhormonal therapies for menopausal hot flashes: systematic review and meta-analysis. <em>JAMA;2006</em> May 3;295(17):2057-71.</p>
+
+<p>Tice JA, Grady D. Alternatives to estrogen for treatment of hot flashes: are they effective and safe? <em>JAMA. May 3 2006</em>;295(17):2076-2078.</p>
+
+<p>Al-Safi ZA and Santoro N. Menopausal hormone therapy and menopausal symptoms. <em>Fertility and Sterility</em>. April 2014; 101(4): 905-915. </p>
+
+<p>Manson JE. Current recommendations: what is the clinician to do? <em>Fertility and Sterility. April 2014</em>; 101(4): 916-921. </p>
+
+<p>Marjoribanks J, Farquhar C, Roberts H, and Lethaby A. Long term hormone therapy for perimenopausal and postmenopausal women. <em>The Cochrane Collaboration</em>. 2012; 7. </p>
+
+<p>Moyer VA. Menopausal Hormone Therapy for the Primary Prevention of Chronic Conditions: U.S. Preventive Services Task Force Recommendation Statement. <em>Annals of Internal Medicine. January 1, 2013</em>; 158(1): 47-54.</p>
+
+<p>Manson JE et al. Menopausal Hormone Therapy and Health Outcomes During the Intervention and Extended Poststopping Phases of the Women’s Health Initiative Randomized Trials. <em>JAMA</em>. <em>October 2, 2013</em>; 310(13): 1353-1368. </p>
+
+<p>Nelson LM. Clinical manifestations and evaluation of spontaneous primary ovarian insufficiency (premature ovarian failure). UpToDate. </p>
+
+<p>Stuenkel CA, et al. Treatment of Symptoms of the Menopause: An Endocrine Society Clinical Practice Guideline. <em>J Clin Endocrinol Metab, November 2015</em>, 100(11):3975–4011.</p>
+
+<ul>
+</ul>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/10-vaginitis/10-vaginitis" class="page-previous" title="Go to previous page">‹ 10. Vaginitis</a>
+                    <a href="/10-womens-health/10-womens-health" class="page-up" title="Go to parent page">up</a>
+                    <a href="/12-infertility/12-infertility" class="page-next" title="Go to next page">12. Infertility ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="expanded active-trail menu-mlid-5246"><a href="/10-womens-health/10-womens-health" class="active-trail">10. Women&#039;s Health</a><ul class="menu"><li class="first leaf menu-mlid-5251"><a href="/01-approach-breast-mass/01-approach-breast-mass">01. Approach to the Breast Mass</a></li>
+<li class="leaf menu-mlid-5256"><a href="/02-approach-abnormal-mammogram/02-approach-abnormal-mammogram">02. Approach to the Abnormal Mammogram</a></li>
+<li class="leaf menu-mlid-5261"><a href="/03-approach-pap-test-results/03-approach-pap-test-results">03. Approach to Pap Test Results</a></li>
+<li class="leaf menu-mlid-5266"><a href="/04-abnormal-uterine-bleeding/04-abnormal-uterine-bleeding">04. Abnormal Uterine Bleeding</a></li>
+<li class="leaf menu-mlid-5271"><a href="/05-chronic-pelvic-pain/05-chronic-pelvic-pain">05. Chronic Pelvic Pain</a></li>
+<li class="leaf menu-mlid-5276"><a href="/06-amenorrhea/06-amenorrhea">06. Amenorrhea</a></li>
+<li class="leaf menu-mlid-5281"><a href="/07-cervicitis-pid/07-cervicitis-pid">07. Cervicitis &amp; PID</a></li>
+<li class="leaf menu-mlid-5286"><a href="/08-contraception/08-contraception">08. Contraception</a></li>
+<li class="leaf menu-mlid-5291"><a href="/09-contraception-emergency/09-contraception-emergency">09. Contraception - Emergency</a></li>
+<li class="leaf menu-mlid-5296"><a href="/10-vaginitis/10-vaginitis">10. Vaginitis</a></li>
+<li class="leaf active-trail active menu-mlid-5301"><a href="/11-menopause-hrt/11-menopause-hrt" class="active-trail active">11. Menopause &amp; HRT</a></li>
+<li class="last leaf menu-mlid-5306"><a href="/12-infertility/12-infertility">12. Infertility</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

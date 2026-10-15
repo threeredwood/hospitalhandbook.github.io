@@ -1,0 +1,543 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/08-acute-pancreatitis/08-acute-pancreatitis" />
+<link rel="shortlink" href="/node/1361" />
+<link rel="prev" href="/07-abnormal-liver-chemistry-tests/07-abnormal-liver-chemistry-tests" />
+<link rel="up" href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" />
+<link rel="next" href="/09-end-stage-liver-disease/09-end-stage-liver-disease" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/08-acute-pancreatitis/08-acute-pancreatitis" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/08-acute-pancreatitis/08-acute-pancreatitis" />
+<meta property="twitter:title" content="08. Acute Pancreatitis | Hospital Handbook" />
+<meta property="og:title" content="08. Acute Pancreatitis" />
+  <title>08. Acute Pancreatitis | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"aBbkiQqPGUGKXdJAfZmFQXgpucnn7M_hH5mWIDrA0k4","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/08-acute-pancreatitis\/08-acute-pancreatitis":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1361 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/08-acute-pancreatitis/08-acute-pancreatitis" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-E3VjGGi4IgAMpFyZ31Qw0zR3YJVVDujtvwQ33hAB8RY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a> > <span class="breadcrumb-page-title">08. Acute Pancreatitis</span></div></div></div>
+                  <h1 class="title" id="page-title">08. Acute Pancreatitis</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1361" class="node node-book clearfix" about="/08-acute-pancreatitis/08-acute-pancreatitis" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="08. Acute Pancreatitis" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Etiology</h3>
+
+<p><strong>“GET SMASHED IN”</strong></p>
+
+<ul>
+	<li><strong>G</strong>allstones: 40-75%, more common among Caucasian women age &gt;60 and among patients with small gallstones or microlithiasis (stones &lt;5mm in diameter). Leading suspicion that gallstone causes reflux of bile into the pancreatic duct and transient obstruction of the ampulla, or that the gallstone itself can directly obstruct the ampulla.</li>
+	<li><strong>E</strong>tOH: 30%, more common in men than women, likely dose-dependent.</li>
+	<li><strong>T</strong>rauma.</li>
+	<li><strong>S</strong>teroids.</li>
+	<li><strong>M</strong>umps and other infections – HBV, CMV, EBV, HIV, E. coli.</li>
+	<li><strong>A</strong>utoimmune disease: IgG4 disease, polyarteritis nodosa, SLE.</li>
+	<li>(The dreaded) <strong>S</strong>corpion sting!</li>
+	<li><strong>H</strong>ypertriglyceridemia (when greater than 1,000 mg/dl) or <strong>H</strong>ypercalcemia.</li>
+	<li><strong>E</strong>RCP: incidence of pancreatitis 2-5% post-ERCP, and up to 25% when undergoing manipulation of the sphincter of Oddi.</li>
+	<li><strong>D</strong>rugs: most commonly steroids, sulfa antibiotics, pentamidine, AZA/6MP, antiretrovirals, NSAIDs, opioids, furosemide, valproic acid, estrogens.</li>
+	<li><strong>I</strong>diopathic: 10-25%.</li>
+	<li><strong>N</strong>on-gallstone duct obstruction: pancreatic divisum, pancreatic mass, ampullary diverticula/stenosis (can be seen only with EUS).</li>
+</ul>
+
+<h3>Evaluation and Diagnosis</h3>
+
+<ul>
+	<li><strong>Clinical history:</strong> epigastric or vague abdominal pain radiating to the back that is worse with food intake, nausea and vomiting, antecedent history of alcohol use, history of gallstones/biliary colic, prescription and non-prescription drug history.</li>
+	<li><strong>Signs:</strong> epigastric or diffuse tenderness to palpation, usually with guarding. Hypoactive bowel sounds (ileus). Classic findings such as Cullen’s sign (periumbilical discoloration) and Turner’s sign (flank ecchymosis, from retroperitoneal tracking of blood) are uncommonly seen (&lt; 1%).</li>
+	<li><strong>Laboratory:</strong> CBC, electrolyte panel, LFTs, serum calcium, TG, and lipase. Lipase (sensitivity 100%, specificity 96%) typically is &gt;3x ULN and is preferred over amylase because it remains elevated longer and is much more specific, does not correlate to severity of pancreatitis. Rises within 4-8 hours of symptom onset and peaks at 24 hours. There is no role for following serum markers on a daily basis. ALT &gt;3x ULN has a 95% PPV for a gallstone etiology.</li>
+	<li><strong>Radiology:</strong> abdominal ultrasound as an initial study if suspicion exists for gallstone pancreatitis, but this is insensitive for distal bile duct stones. Consider CT with pancreatic protocol if patient is at risk for severe pancreatitis (see below) or fails to improve with supportive therapy. Note: earlier imaging (within 48 hours of symptom onset) may lead to equivocal or normal findings. Endoscopic ultrasound (EUS) is the most sensitive and specific study for biliary etiology.</li>
+	<li><strong>Diagnosis: </strong>requires 2/3 of the following criteria for diagnosis:
+	<ul>
+		<li>Acute onset of persistent, severe, epigastric pain often radiating to back.</li>
+		<li>Elevation of serum lipase (or amylase) to 3x ULN.</li>
+		<li>Characteristic findings of acute pancreatitis on imaging (not required if first 2 criteria are fulfilled).</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Prognosis</h3>
+
+<p>Several scoring systems exist for predicting severity of acute pancreatitis and survival rates.</p>
+
+<ul>
+	<li>Distinguishing between mild and severe acute pancreatitis is critical as severe pancreatitis (defined as presence of local complications of pancreatitis and/or organ failure) carries up to a 20% mortality.</li>
+	<li>Clinical judgment tends to underestimate the severity of pancreatitis.</li>
+</ul>
+
+<p><strong>BISAP</strong>: data must be within first 24 hours of presentation. Simpler than Ranson’s and APACHE II with similar prognostic accuracy. &lt;3 suggests risk 1% mortality, ≥3 approaches 20% mortality.</p>
+
+<ul>
+	<li><strong>B</strong>UN &gt;25.</li>
+	<li><strong>I</strong>mpaired mental status.</li>
+	<li><strong>S</strong>IRS.</li>
+	<li><strong>A</strong>ge &gt; 60.</li>
+	<li><strong>P</strong>leural effusion.</li>
+</ul>
+
+<p><strong>SIRS</strong>: persistent SIRS is associated with multiorgan dysfunction syndrome and mortality.</p>
+
+<ul>
+	<li>Not present on admission: 0% mortality.</li>
+	<li>On admit only: 8% mortality.</li>
+	<li>Persistent (&gt;48 hours): 25% mortality.</li>
+</ul>
+
+<p><strong>APACHE II score: </strong>used to assess severity of disease and has been correlated with mortality rate in critical care patients. APACHE II score calculators are available online.</p>
+
+<ul>
+	<li>Can be calculated during any point of admission.</li>
+	<li>Test characteristics improve during hospitalization. On admission, sens 65%, spec 76%. At 48 hours, sens 76%, spec 84%.</li>
+</ul>
+
+<p><strong>Ranson criteria</strong>: 10-11 components on admission and at 48 hours depending on etiology.</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:638px;" width="638">
+	<tbody>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p><strong>Non–gallstone Pancreatitis</strong></p>
+			</td>
+			<td>
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p><strong>0 hours</strong></p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p><strong>48 hours</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>Age &gt;55</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Decrease in Hct &gt;10%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>WBC &gt;16,000</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Increase in BUN &gt;5 mg/dl</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>Glucose &gt;200 mg/dl</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Ca2+ &lt;8 mg/dl</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>LDH &gt;350 U/L</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>pO2 &lt;60 mmHg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>AST &gt;250 U/L</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Base deficit &gt;4 mM</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:17px;"> </td>
+			<td style="width:393px;height:17px;">
+			<p>Fluid deficit &gt;6 L</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p><strong>Gallstone Pancreatitis</strong></p>
+			</td>
+			<td style="width:393px;height:19px;"> </td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p><strong>0 hours</strong></p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p><strong>48 hours</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>Age &gt;70</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Decrease in Hct &gt;10%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>WBC &gt;18,000</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Increase in BUN &gt;2 mg/dl</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>Glucose &gt;220 mg/dl</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Ca2+ &lt;8 mg/dl</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:19px;">
+			<p>LDH &gt;400 U/L</p>
+			</td>
+			<td style="width:393px;height:19px;">
+			<p>Base deficit &gt;5 mM</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:245px;height:17px;">
+			<p>AST &gt;250 U/L</p>
+			</td>
+			<td style="width:393px;height:17px;">
+			<p>Fluid deficit &gt;4 L</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Decreasing scores during the first 48 hours suggest a mild attack while increasing scores suggest a severe attack.</li>
+</ul>
+
+<ul>
+	<li>While frequently used, drawbacks are that it can only be calculated after 48 hours; all lab criteria are infrequently available; and some meta-analyses suggest it is a poor predictor of severity (sens 75%, spec 77%).</li>
+</ul>
+
+<p><strong>CT Severity Index:</strong> based on CT scan findings with pancreatic protocol to communicate degree of pancreatic necrosis and extra-pancreatic inflammation in severe acute pancreatitis.</p>
+
+<h3>Management</h3>
+
+<ul style="list-style-type:circle;">
+	<li><strong>Level of care:</strong> should be dictated by clinical status at time of admission and risk of severe acute pancreatitis (e.g., using clinical judgment, presence of SIRS/imaging as discussed above).</li>
+	<li><strong>Aggressive IV hydration:</strong> (e.g., 5-10 ml/kg/hr vs 20 ml/kg bolus followed by 3 ml/kg/hr) with LR (avoid if hypercalcemia) &gt; NS should be started immediately with close monitoring of urine output and vital signs. Stop aggressive resuscitation at 48hr. In patients with evidence of CHF or renal failure, IV hydration is still indicated at a lower rate with close monitoring of O2 sats, hemodynamics, and urine output.</li>
+	<li><strong>Nutrition:</strong>
+	<ul>
+		<li>NPO initially.</li>
+		<li>Early enteral feeding may contribute to lower infection rates, shorter hospital stays, and less need for surgical intervention. In general, patients may eat when they are pain free and begin to feel hungry. Consider an elemental diet when patients restart eating, especially in patients who have undergone prolonged bed rest.</li>
+		<li>Start TF if PO not tolerated at 96hr, associated with reduced infection rates, less need for surgery, and decreased cost compared to TPN. Nasogastric feeding similar to nasojejunal feeding in safety and efficacy.</li>
+	</ul>
+	</li>
+	<li><strong>Electrolyte repletion:</strong> fluid shifts and metabolic abnormalities often make electrolyte repletion necessary, especially early. Specific concern for hypocalcemia.</li>
+	<li><strong>Pain control:</strong> IV analgesics (e.g., hydromorphone, fentanyl) are frequently needed. Fentanyl is preferred in patients w/ renal impairment. Consider PCAs for patients requiring frequent prn pain meds. Opioids safe to use and no evidence that they worsen Sphincter of Oddi spasm or worsening of pancreatitis.</li>
+	<li><strong>Consult Gastroenterology:</strong> immediately if a biliary source is suspected to consider endoscopic retrograde cholangiopancreatography (ERCP) within 24-72hr or endoscopic ultrasound (especially for evaluation of recurrent pancreatitis or if there is a concern for underlying malignancy). Also if there is evidence of infected or symptomatic necrosis to consider endoscopic drainage.</li>
+	<li><strong>Consult General Surgery:</strong> if the patient has infected necrosis, concerning abdominal exam, or gallstone pancreatitis to consider cholecystectomy prior to discharge (decreases biliary complications, no change in mortality).</li>
+	<li><strong>Antibiotics:</strong> use as indicated when infection is strongly suspected.</li>
+</ul>
+
+<h3>Complications</h3>
+
+<p>If clinical deterioration occurs or if patient fails to improve within 2-3 days after admission, further workup and management include pan-cultures and CT of the abdomen with pancreatic protocol to look for evidence of pancreatic necrosis.</p>
+
+<p><strong>Systemic complications</strong>: moderate and severe pancreatitis has increased risk for multi-organ failure due to SIRS including ARDS.</p>
+
+<p><strong>Local complications</strong>:</p>
+
+<ul style="list-style-type:circle;">
+	<li>Acute peripancreatic fluid collection: occur in early phase with no well-defined wall. Most resolve spontaneously (within 4 weeks) without need for drainage.</li>
+	<li>Acute necrotic collection: commonly both the pancreas and peri-pancreatic tissues. Associated with substantial morbidity and mortality. Can lead to walled-off necrosis (&gt;4 weeks).
+	<ul>
+		<li>Routine prophylactic antibiotics not recommended.</li>
+		<li>For strong suspicion of infection: broad-spectrum (for gut-flora) antibiotics with ability to penetrate necrosis favored (e.g. carbapenems).
+		<ul>
+			<li>FNA for gram stain and cultures is unnecessary in majority of cases.</li>
+		</ul>
+		</li>
+		<li>Drainage/debridement indicated for infected necrosis. May also be indicated for symptomatic sterile necrosis.
+		<ul>
+			<li>First-line nonsurgical approaches: endoscopic transmural drainage or percutaneous drainage. Next on step-up approach would be endoscopic necrosectomy, then surgical debridement.</li>
+			<li>Timing of drainage debated. Debridement should be avoided in early, acute period (first two weeks).</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Pancreatic pseudocyst: chronic (&gt;4 weeks) complications of walled-off peripancreatic fluid collections.
+	<ul>
+		<li>The pseudocyst may resolve spontaneously after weeks of bowel rest with TPN or may need surgical, IR, or GI drainage. Suspect this with clinical deterioration after initial improvement.</li>
+		<li>Prior to drainage, make sure the pseudocyst is not a cystic neoplasm or misidentified necrotic pancreas.</li>
+		<li>If patient has any associated GI bleeding or unexplained hematocrit drop, CT angiography should be done to rule out pseudoaneurysmal bleed around the pseudocyst.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>BISAP is a simple severity-risk score used within 24 hours of presentation with similar prognostic accuracy to Ranson or APACHE II scores.</li>
+	<li>Aggressive resuscitation and early enteral feeding may improve outcomes.</li>
+	<li>Consult gastroenterology if a biliary etiology is suspected.</li>
+	<li>An unexplained episode of pancreatitis (especially if age &gt;40) warrants an outpatient EUS or MRCP with secretin to detect ductal abnormalities, small tumors, microlithiasis, etc.</li>
+</ul>
+
+<p> </p>
+
+<p><em>Baron TH, DiMaio CJ, Wang AY, Morgan KA. American Gastroenterological Association Clinical Practice Update: Management of Pancreatic Necrosis. Gastroenterology. 2020 Jan;158(1):67-75.e1. doi: 10.1053/j.gastro.2019.07.064. Epub 2019 Aug 31. PMID: 31479658.</em></p>
+
+<p><em>Mofidi R, Duff MD, Wigmore SJ, Madhavan KK, Garden OJ, Parks RW. Association between early systemic inflammatory response, severity of multiorgan dysfunction and death in acute pancreatitis. Br J Surg. 2006 Jun;93(6):738-44. doi: 10.1002/bjs.5290. PMID: 16671062.</em></p>
+
+<p><em>Papachristou GI, Muddana V, Yadav D, O'Connell M, Sanders MK, Slivka A, Whitcomb DC. Comparison of BISAP, Ranson's, APACHE-II, and CTSI scores in predicting organ failure, complications, and mortality in acute pancreatitis. Am J Gastroenterol. 2010 Feb;105(2):435-41; quiz 442. doi: 10.1038/ajg.2009.622. Epub 2009 Oct 27. PMID: 19861954.</em></p>
+
+<p><em>Wu BU, Johannes RS, Sun X, Tabak Y, Conwell DL, Banks PA. The early prediction of mortality in acute pancreatitis: a large population-based study. Gut. 2008 Dec;57(12):1698-703. doi: 10.1136/gut.2008.152702. Epub 2008 Jun 2. PMID: 18519429.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/07-abnormal-liver-chemistry-tests/07-abnormal-liver-chemistry-tests" class="page-previous" title="Go to previous page">‹ 07. Abnormal Liver Chemistry Tests</a>
+                    <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/09-end-stage-liver-disease/09-end-stage-liver-disease" class="page-next" title="Go to next page">09. End Stage Liver Disease ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="expanded active-trail menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a><ul class="menu"><li class="first leaf menu-mlid-3986"><a href="/01-gi-bleed/01-gi-bleed">01. GI Bleed</a></li>
+<li class="leaf menu-mlid-3991"><a href="/02-acute-abdominal-pain/02-acute-abdominal-pain">02. Acute Abdominal Pain</a></li>
+<li class="leaf menu-mlid-3996"><a href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients">03. Diarrhea in Hospitalized Patients</a></li>
+<li class="leaf menu-mlid-4001"><a href="/04-acute-liver-failure/04-acute-liver-failure">04. Acute Liver Failure</a></li>
+<li class="leaf menu-mlid-4006"><a href="/05-acetaminophen-toxicity/05-acetaminophen-toxicity">05. Acetaminophen Toxicity</a></li>
+<li class="leaf menu-mlid-4011"><a href="/06-acute-alcoholic-hepatitis/06-acute-alcoholic-hepatitis">06. Acute Alcoholic Hepatitis</a></li>
+<li class="leaf menu-mlid-4016"><a href="/07-abnormal-liver-chemistry-tests/07-abnormal-liver-chemistry-tests">07. Abnormal Liver Chemistry Tests</a></li>
+<li class="leaf active-trail active menu-mlid-4021"><a href="/08-acute-pancreatitis/08-acute-pancreatitis" class="active-trail active">08. Acute Pancreatitis</a></li>
+<li class="leaf menu-mlid-4026"><a href="/09-end-stage-liver-disease/09-end-stage-liver-disease">09. End Stage Liver Disease</a></li>
+<li class="leaf menu-mlid-4031"><a href="/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent">10. Abdominal Pain: Non-emergent</a></li>
+<li class="leaf menu-mlid-4036"><a href="/11-diarrhea-patients-hiv/11-diarrhea-patients-hiv">11. Diarrhea in Patients with HIV</a></li>
+<li class="last leaf menu-mlid-4041"><a href="/12-acute-cholangitis/12-acute-cholangitis">12. Acute Cholangitis</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>
