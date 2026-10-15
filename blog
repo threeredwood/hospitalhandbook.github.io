@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Blog | Hospital Handbook</title>
+    <link rel="stylesheet" media="all" href="/sites/g/files/tkssra10826/files/css/css_bsodi2vNooipPD0gEzlOjKXHrd9IUG_VG6bb-BwUaz4.css?delta=0&amp;language=en&amp;theme=sb_nine&amp;include=eJxViMEOwiAQBX-IysEPIlCeZOPCNryttX69xoOJl8nMrHdUcZvpvLqkTfcmg_GQ2uAMPOnosWQirJrJ8887yNzAsNpEHDZ7VnkhsKQhA7GplawL_VQZ7bdvNnzJB2gd4SE4GL-8dKu7IhS4YyY8NyNquol-krFhYGZ9A1jFRcQ" />
+<link rel="stylesheet" media="all" href="/sites/g/files/tkssra10826/files/css/css_0uXcGejj8lCAfAU3IxCSdS6Gwpx-y6a3v08_mFrW4DU.css?delta=1&amp;language=en&amp;theme=sb_nine&amp;include=eJxViMEOwiAQBX-IysEPIlCeZOPCNryttX69xoOJl8nMrHdUcZvpvLqkTfcmg_GQ2uAMPOnosWQirJrJ8887yNzAsNpEHDZ7VnkhsKQhA7GplawL_VQZ7bdvNnzJB2gd4SE4GL-8dKu7IhS4YyY8NyNquol-krFhYGZ9A1jFRcQ" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v6.6.0/css/all.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"blog","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/blog":true,"\/search\/node":true},"user":{"uid":0,"permissionsHash":"2a63d172892000173ce71308164a0504784504ed685166b641559d1f50515bd7"}}</script>
+<script src="/sites/g/files/tkssra10826/files/js/js_oIszPb6pa6uhQ3duWtGwimR1rWa-slDBPX-Hf8pCqb0.js?scope=header&amp;delta=0&amp;language=en&amp;theme=sb_nine&amp;include=eJx1iksOAiEMhi-EYeGBGh7_kEZoCS3q3N5ZG11-j_JAZddF592ZZt-NxeILueiYKhC3UH4_XBuuapmEBbF1zanfzM_O0sIudpCxg8dc-kT8FiHDHYvwnmqodHC_0GKDYKX-L6ftSrbzYP8A2e5Ltg"></script>
+<script src="/modules/contrib/ckeditor_y3ti_plugins/js/build/customElements.bundle.js?t0yz8b"></script>
+<script src="/sites/g/files/tkssra10826/files/js/js_lkW86MmPB7quxBuecgJ4VTS37cZvOI5ojDvj9s1nIU8.js?scope=header&amp;delta=2&amp;language=en&amp;theme=sb_nine&amp;include=eJx1iksOAiEMhi-EYeGBGh7_kEZoCS3q3N5ZG11-j_JAZddF592ZZt-NxeILueiYKhC3UH4_XBuuapmEBbF1zanfzM_O0sIudpCxg8dc-kT8FiHDHYvwnmqodHC_0GKDYKX-L6ftSrbzYP8A2e5Ltg"></script>
+
+    <!-- link name="polymer_platform" href="" rel="import" / -->
+  </head>
+  <body class="font--header--granjon ucsf-b1gfoot sidebar sidebar--right sidebar-color--white profile--grid path-blog" data-color-primary="navy" data-color-secondary="teal">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper" class="layout-container">
+<div id="page">
+  <header>
+    <div class="ucsf-top-header row-full-width ">
+  <nav class="inside" aria-label="UCSF">
+    
+    <ul class="menu">
+      <li class="first">
+        <a href="https://www.ucsf.edu">University of California San Francisco</a>
+      </li>
+              <li>
+          <a href="https://www.ucsfhealth.org/">UCSF Health</a>
+        </li>
+        <li>
+          <a href="https://www.ucsf.edu/search">Search UCSF</a>
+        </li>
+        <li>
+          <a href="https://www.ucsf.edu/about">About UCSF</a>
+        </li>
+      
+              <li class="last header-give">
+          <a href="https://giving.ucsf.edu">Give to UCSF</a>
+        </li>
+          </ul>
+  </nav>
+</div>
+
+    
+    <section id="header" class="row-full-width">
+      <div class="inside clearfix">
+
+        
+          <div class="region region-header">
+        <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-sb-nine-search" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys--2" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search..." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--3" name="op" value="" class="button js-form-submit form-submit" /><span class="search-icon fa fa-search" aria-hidden=""></span>
+</div>
+
+</form>
+
+  </div>
+<div id="block-sb-nine-branding" class="block block-system block-system-branding-block">
+  
+    
+            <a href="/" rel="home" id="logo" title="Hospital Handbook homepage">
+      <img src="/themes/custom/sb_nine/logo.svg" alt="Hospital Handbook homepage" height="100" width="200" />
+    </a>
+  
+      </div>
+<nav role="navigation" aria-labelledby="block-sb-nine-main-menu-menu" id="block-sb-nine-main-menu" class="block-menu-block block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-sb-nine-main-menu-menu">Main navigation</h2>
+  
+
+    <div class="content">
+  <div class="menu-block-wrapper">
+    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" data-drupal-link-system-path="node/1">UCSF Hospitalist Handbook</a>
+              </li>
+                <li class="menu-item">
+        <a href="/content/outpatient-handbook" data-drupal-link-system-path="node/1316">Outpatient Handbook</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</div>
+
+</nav>
+
+  </div>
+
+      </div>
+    </section>
+
+      <div class="region region-page-title">
+    <div id="block-sb-nine-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+        <nav id="breadcrumb" class="row-full-width" aria-labelledby="system-breadcrumb">
+    <div class="inside">
+      <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+      <ol class="breadcrumb breadcrumb-separator">
+              <li>
+                      <a href="/">Home</a>
+                  </li>
+              <li>
+                      Blog
+                  </li>
+            </ol>
+    </div>
+  </nav>
+
+    </div>
+  </div>
+<div id="block-sb-nine-page-title" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+  <h1 id="page-title" class="page-title">Blog</h1>
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </header>
+
+  <main>
+    <div class="content-top">
+      
+    </div>
+
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+
+        <div id="content" class="column">
+          <div class="inside">
+                          <div id="highlighted">
+                  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+              </div>
+            
+            <a id="main-content" tabindex="-1"></a>
+                        
+
+              <div class="region region-content">
+    <div id="block-sb-nine-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      <div class="views-element-container"><div class="view view-blog view-id-blog view-display-id-blog_page js-view-dom-id-3499a62cae13300a05ec59e83157ff1410c79d7d6363713cc8cec62d5b8cb878">
+  
+    
+        <div class="view-filters">
+      <form class="views-exposed-form bef-exposed-form" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-blog-blog-page" action="/blog" method="get" id="views-exposed-form-blog-blog-page" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-select form-type-select js-form-item-authors form-item-authors">
+      <label for="edit-authors--3">Filter by Author</label>
+        <select data-drupal-selector="edit-authors" id="edit-authors--3" name="authors" class="form-select"><option value="All" selected="selected">- Any -</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-topics form-item-topics">
+      <label for="edit-topics--3">Filter by Topic</label>
+        <select data-drupal-selector="edit-topics" id="edit-topics--3" name="topics" class="form-select"><option value="All" selected="selected">- Any -</option></select>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input data-bef-auto-submit-click="" class="js-hide button js-form-submit form-submit" data-drupal-selector="edit-submit-blog" type="submit" id="edit-submit-blog" value="Apply" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-empty">
+      <p class="placeholder">Sorry, but no items meet your filter criteria. Please try again.</p>
+    </div>
+  
+      
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+            
+          </div>
+        </div>
+
+                  <div id="sidebar" class="column">
+            
+                          <aside class="sidebar">
+                <div class="section">
+                    <div class="region region-sidebar">
+    <div class="views-element-container block block-views block-views-blockblog-blog-view-all-block" id="block-sb-nine-views-blog-blog-view-all-block">
+  
+    
+      <div class="content">
+      <div><div class="view view-blog view-id-blog view-display-id-blog_view_all_block js-view-dom-id-ce4e392a177cd037e51c4fdaacb006a2cd8f3dd2367fcde9a95ea629bbf4a425">
+  
+    
+      <div class="view-header">
+      <a href="/blog">View All Posts (0)</a>
+    </div>
+      
+  
+      
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+              </aside>
+                      </div>
+              </div>
+    </div>
+  </main>
+
+  <footer id="footer">
+    <div class="section">
+      
+
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                          <li>
+                <a href="/contact">Contact Us</a>
+              </li>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</div>
+</div>
+  </div>
+
+    
+    <script src="/sites/g/files/tkssra10826/files/js/js_VrAvVTOAp4YB-ZG8OVo7LvmJkBhSxlh8HwwlAvsmjdc.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=sb_nine&amp;include=eJx1iksOAiEMhi-EYeGBGh7_kEZoCS3q3N5ZG11-j_JAZddF592ZZt-NxeILueiYKhC3UH4_XBuuapmEBbF1zanfzM_O0sIudpCxg8dc-kT8FiHDHYvwnmqodHC_0GKDYKX-L6ftSrbzYP8A2e5Ltg"></script>
+
+  </body>
+</html>

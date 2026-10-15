@@ -1,0 +1,444 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/06-hyperkalemia" />
+<link rel="shortlink" href="/node/1281" />
+<link rel="prev" href="/05-hypokalemia/05-hypokalemia" />
+<link rel="up" href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" />
+<link rel="next" href="/07-hypomagnesemia/07-hypomagnesemia" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/06-hyperkalemia" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/06-hyperkalemia" />
+<meta property="twitter:title" content="06. Hyperkalemia | Hospital Handbook" />
+<meta property="og:title" content="06. Hyperkalemia" />
+  <title>06. Hyperkalemia | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"aawCzUs72InJuji7rS43U36dxI1H89oaiRLnJQZmAjc","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/06-hyperkalemia":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1281 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/06-hyperkalemia" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-n3LBDp1kPwakc54FAB7hpGV5IC8-F4vCSBoqS7P0nvY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="active-trail">06. Acid-BaseIElectrolytes</a> > <span class="breadcrumb-page-title">06. Hyperkalemia</span></div></div></div>
+                  <h1 class="title" id="page-title">06. Hyperkalemia</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1281" class="node node-book clearfix" about="/content/06-hyperkalemia" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="06. Hyperkalemia" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Definition</strong>: generally, serum [K+] &gt; 5.3-5.5 mmol/L, though there may be variation in ULN across labs.</p>
+
+<h3>Etiology</h3>
+
+<ul>
+	<li><strong>Spurious or “pseudohyperkalemia” </strong>- released from cells after specimen collection.
+
+	<ul>
+		<li>Hemolysis.</li>
+		<li>Marked thrombocytosis or leukocytosis.</li>
+	</ul>
+	</li>
+	<li><strong>Excessive intake.</strong>
+	<ul>
+		<li>Ingestion (potassium supplements, dietary salt substitutes).</li>
+		<li>Iatrogenic.</li>
+	</ul>
+	</li>
+	<li><strong>Impaired excretion.</strong>
+	<ul>
+		<li>Low GFR (AKI or CKD).</li>
+		<li>Low mineralocorticoid state (adrenal insufficiency, type IV RTA).</li>
+		<li>Drugs (spironolactone, ACE inhibitor, ARB, TMP-SMX, NSAIDs, digitalis overdose, heparin).</li>
+	</ul>
+	</li>
+	<li><strong>Shift from intracellular to extracellular compartment.</strong>
+	<ul>
+		<li>Acidosis.</li>
+		<li>Insulin deficiency or resistance (including DKA). Note that potassium will rapidly decrease with treatment of DKA as K+ shifts back into cells.</li>
+		<li>Cell death (rhabdomyolysis, burns, tumor lysis).</li>
+		<li>Retroperitoneal hemorrhage.</li>
+		<li>Transfusion of old (hemolyzed) pRBC products.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul>
+	<li>Repeat serum K+ and consider whole-blood K+ level (less affected by hemolysis).</li>
+	<li>Order stat EKG to look for changes with hyperkalemia. <em>Note</em>: EKG abnormalities may not correlate well with severity of hyperkalemia.
+	<ul>
+		<li>Tall peaked T waves.</li>
+		<li>PR prolongation followed by</li>
+		<li>Loss of P waves, QRS widening; “sine wave”; ventricular fibrillation/asystole.</li>
+	</ul>
+	</li>
+	<li>Review medication list for offending drugs (see “Etiology” above).</li>
+</ul>
+
+<h3>Management</h3>
+
+<div>
+<p><strong>Treatment principles</strong></p>
+
+<ul>
+	<li>Order an EKG for any potassium &gt;5.5, and treat emergently if EKG changes. <em>Treat any potassium &gt;6.5 emergently regardless of EKG changes.</em></li>
+	<li>Any EKG abnormality attributable to hyperkalemia merits emergent treatment. EKG should be repeated every 30-60 minutes to ensure resolution of abnormalities. Consider telemetry for monitoring. Concurrent electrolyte abnormalities also increases the likelihood of arrhythmias.</li>
+</ul>
+</div>
+
+<ul>
+	<li>Check if sample is hemolyzed or verify potassium level with repeat measurement.</li>
+	<li>90% of potassium is excreted in the kidney and 10% through the GI tract. Therefore, the kidney is the most effective target when treating hyperkalemia. </li>
+</ul>
+
+<p><strong>Treatment consists of three pillars</strong>: 1) stabilizing the cardiac membrane; 2) shifting potassium temporarily into cells; and 3) eliminating potassium from the body, preferably through the kidneys. </p>
+
+<p><strong>1. Give calcium salts for cardiac membrane stabilization.</strong></p>
+
+<ul>
+	<li>Calcium chloride 0.5-1g IV (more potent, but must be given via central access).</li>
+	<li>Calcium gluconate 1-2g IV.
+	<ul>
+		<li><u>ONSET</u>: 3-5 minutes.</li>
+		<li><u>DURATION</u>: 30-60 minutes.</li>
+		<li><u>EFFECT</u>: no effect on K+ serum levels. Should normalize ECG. If not, re-dose.</li>
+		<li>Note: calcium gluconate requires hepatic metabolism (poor choice in shock).</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>2. Temporarily shift potassium into cells.</strong></p>
+
+<ul>
+	<li>Regular insulin 10 units IV + D50 100ml IV (equivalent to 50 grams of dextrose).
+	<ul>
+		<li><u>ONSET</u>: 15-60 min. </li>
+		<li><u>DURATION</u>: 4-6 hours (can be much longer in AKI or CKD).</li>
+		<li><u>EFFECT</u>: 0.5 to 1.0 mEq/L (dose dependent).</li>
+		<li>Note: if there is high risk of hypoglycemia, especially in patients with low GFR, monitor blood glucose closely after administration. Can give insulin alone in hyperglycemia. </li>
+	</ul>
+	</li>
+	<li>ß2-agonists (albuterol 10-20 mg in 4mL saline NMT, higher than the standard dose for COPD of 2.5 mg).
+	<ul>
+		<li><u>ONSET</u>: 15-30 min.</li>
+		<li><u>DURATION</u>: 2-4 hours.</li>
+		<li><u>EFFECT</u>: 0.4-1.5 mEq/L.</li>
+		<li>Note: about 1/3 of patients have no response to this class of medications.</li>
+	</ul>
+	</li>
+	<li>NaHCO3 50-100 mEq IV.
+	<ul>
+		<li><u>ONSET</u>: 15-30 min.</li>
+		<li><u>DURATION</u>: 1-2 hours. </li>
+		<li>Note: best reserved for non-ESRD patients with severe hyperkalemia and acidosis; commonly used but probably least effective.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>3. Eliminate potassium from the body – can be through kidney (preferred) or GI tract.</strong></p>
+
+<ul>
+	<li>Renal elimination.
+	<ul>
+		<li>IV fluids to increase distal Na+ delivery (NS or sodium bicarbonate preferred). First line in hypovolemic patients.</li>
+		<li>Loop diuretic: furosemide 40-160 mg IV. First line in hypervolemic patients. Should give with IV fluids if euvolemic.
+		<ul>
+			<li><u>ONSET</u>: 30-60 min.</li>
+			<li><u>DURATION</u>: 0.5-2 hours.</li>
+		</ul>
+		</li>
+		<li>Thiazide diuretic: may be useful adjunctive to loop diuretic.</li>
+	</ul>
+	</li>
+	<li>Gastrointestinal cation exchangers: exchange Na+ for K+ in the bowel.
+	<ul>
+		<li>Sodium zirconium cyclosilicate (brand name Lokelma): 10 g TID for up to 48 hours as initial dose; then, 5-15 g every other day to daily as maintenance dose.
+		<ul>
+			<li><u>ONSET</u>: 1 hour.</li>
+			<li>Note: expensive and absent from many hospital formularies. Relatively rapid onset makes this an attractive option for acute use if available. Risks of substantial sodium load should be considered before use in patients with volume overload. </li>
+		</ul>
+		</li>
+		<li>Patiromer (brand name Veltassa): 8.4 g once daily. 
+		<ul>
+			<li><u>ONSET</u>: slow – 7 hours.</li>
+			<li>Note: generally used for chronic hyperkalemia given slow onset. Expensive and remains unavailable on many inpatient formularies.</li>
+		</ul>
+		</li>
+		<li>Kayexalate (sodium polystyrene sulfonate): 15-30 grams PO (repeat q2-6 hours until BM). 
+		<ul>
+			<li><u>ONSET</u>: slow – approximately 2 hours.</li>
+			<li><u>DURATION</u>: variable. May require repeat doses over days to reduce total body potassium. </li>
+			<li><em>Note</em>: controversial and increasingly not recommended over other means of inducing GI K+ excretion. There is no good evidence of its efficacy over laxatives alone, especially in the acute setting. It is also associated with bowel necrosis. For these reasons, many clinicians avoid the use of Kayexalate in favor of laxatives (e.g. lactulose) or newer GI cation exchangers. Contraindicated in post-operative patients and persons with obstruction/risk for obstruction or gut pathology because of risk of bowel necrosis and perforation.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Dialysis.
+	<ul>
+		<li>Can be used in patients with kidney failure (acute or chronic) who fail medical management. </li>
+		<li>Can improve potassium serum relatively quickly and effectively, but initiating therapy can take hours (nephrology consultation, machine preparation, dialysis catheter insertion). </li>
+		<li>Continuous renal replacement therapy (CRRT) corrects potassium more slowly than intermittent hemodialysis and usually requires ICU transfer.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>K+ level &gt;6.5 <em>or</em> hyperkalemia with EKG changes warrant emergent treatment with calcium gluconate or calcium chloride.</li>
+	<li>Therapies that shift K+ into cells can be useful acutely because they work fast, but they are only <strong>temporizing</strong> measures. Measures to remove K+ from the body should be taken along with temporizing measures. </li>
+	<li>Renal potassium elimination is most efficient and management depends on patient’s volume status.</li>
+</ul>
+
+<p style="margin-left:.25in;"> </p>
+
+<p><em>Gennari FJ. Disorders of potassium homeostasis. Hypokalemia and hyperkalemia. Crit Care Clin 2002;18:273-288.</em></p>
+
+<p><em>Halperin ML, Kamel KS. Potassium. Lancet 1998;352:135-140.</em></p>
+
+<p><em>Schaeffer TJ, Wolford RW.  Disorders of potassium. Emerg Clin N Am 2005;23:723-747.</em></p>
+
+<p><em>Palmer Biff. Managing Hyperkalemia Caused by Inhibitors of the Renin-Angiotensin-Aldosteron System. NEJM 2004; 351:585-592</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/05-hypokalemia/05-hypokalemia" class="page-previous" title="Go to previous page">‹ 05. Hypokalemia</a>
+                    <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="page-up" title="Go to parent page">up</a>
+                    <a href="/07-hypomagnesemia/07-hypomagnesemia" class="page-next" title="Go to next page">07. Hypomagnesemia ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="expanded active-trail menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="active-trail">06. Acid-BaseIElectrolytes</a><ul class="menu"><li class="first leaf menu-mlid-3616"><a href="/content/01-algorithm-acid-base-disorders">01. Algorithm For Acid-Base Disorders</a></li>
+<li class="leaf menu-mlid-3621"><a href="/content/01-algorithm-acid-base-disorders-0">01. Algorithm For Acid-Base Disorders</a></li>
+<li class="leaf menu-mlid-3626"><a href="/content/02-renal-tubular-acidosis">02. Renal Tubular Acidosis</a></li>
+<li class="leaf menu-mlid-3631"><a href="/content/03-hyponatremia">03. Hyponatremia</a></li>
+<li class="leaf menu-mlid-3636"><a href="/content/04-hypernatremia">04. Hypernatremia</a></li>
+<li class="leaf menu-mlid-3641"><a href="/05-hypokalemia/05-hypokalemia">05. Hypokalemia</a></li>
+<li class="leaf active-trail active menu-mlid-3646"><a href="/content/06-hyperkalemia" class="active-trail active">06. Hyperkalemia</a></li>
+<li class="leaf menu-mlid-3651"><a href="/07-hypomagnesemia/07-hypomagnesemia">07. Hypomagnesemia</a></li>
+<li class="leaf menu-mlid-3656"><a href="/content/08-hypermagnesemia">08. Hypermagnesemia</a></li>
+<li class="leaf menu-mlid-3661"><a href="/content/09-hypocalcemia">09. Hypocalcemia</a></li>
+<li class="leaf menu-mlid-3666"><a href="/content/10-hypercalcemia">10. Hypercalcemia</a></li>
+<li class="leaf menu-mlid-3671"><a href="/11-hypophosphatemia/11-hypophosphatemia">11. Hypophosphatemia</a></li>
+<li class="last leaf menu-mlid-3676"><a href="/content/12-hyperphosphatemia">12. Hyperphosphatemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

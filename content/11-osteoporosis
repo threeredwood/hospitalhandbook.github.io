@@ -1,0 +1,629 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/11-osteoporosis" />
+<link rel="shortlink" href="/node/901" />
+<link rel="prev" href="/content/10-joint-injection-steroids" />
+<link rel="up" href="/content/12-rheumatology" />
+<link rel="next" href="/content/13-neurology" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/11-osteoporosis" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/11-osteoporosis" />
+<meta property="twitter:title" content="11. Osteoporosis | Hospital Handbook" />
+<meta property="og:title" content="11. Osteoporosis" />
+  <title>11. Osteoporosis | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"ka_PU5W4r1GnNYODEwMyCuCUD5QxS0PBCjmM0RrAG1Q","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/11-osteoporosis":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-901 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/11-osteoporosis" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-lJG1EYleIBydjHooX8BGMtmUKTDAyqrmWMWU0ETdjLc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/12-rheumatology" class="active-trail">12. Rheumatology</a> > <span class="breadcrumb-page-title">11. Osteoporosis</span></div></div></div>
+                  <h1 class="title" id="page-title">11. Osteoporosis</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-901" class="node node-book clearfix" about="/content/11-osteoporosis" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="11. Osteoporosis" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Background</h3>
+
+<ul>
+	<li>Osteoarthritis, aka degenerative joint disease (DJD), is the most common articular disorder, affecting an estimated 20 million people in the U.S., accounting for 25% of PMD visits</li>
+	<li>A slowly progressive, non-inflammatory musculoskeletal disorder that typically affects the joints of the hand, spine, and weight-bearing joints of the lower extremity</li>
+	<li>Characterized by cartilage degeneration and bony hypertrophy at the articular surface</li>
+	<li>Can develop under two main circumstances:
+	<ul>
+		<li><strong>Excessive</strong> loads across the joint cause the <em>normal</em> articular cartilage or subchondral bone to fail</li>
+		<li><strong>Normal</strong> loads across the joint in the setting of <em>abnormal</em> cartilage, bone, synovium, supporting ligaments, or muscles
+		<ul>
+			<li><em>Congenital disorders</em>: hip disorders, dysplasias, mechanical syndromes</li>
+			<li><em>Trauma</em></li>
+			<li><em>Metabolic diseases</em>: hemochromatosis, ochronisis, Gaucher’s disease, hemoglobinopathy, crystal deposition</li>
+			<li><em>Endocrine disorders</em>: acromegaly</li>
+			<li><em>Neuropathic joints</em>: diabetes, syphilis</li>
+			<li><em>Other</em>: osteonecrosis, Paget’s, Kashin-Benc</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Signs and symptoms</h3>
+
+<ul>
+	<li>Typical presentation:
+	<ul>
+		<li>Subacute development of non-inflammatory arthritis, either localized (most commonly involving the hands, feet, knees, hips, or spine) or generalized (involving 3 or more joints)</li>
+		<li>Pain worse with activity, improved with rest</li>
+		<li>Morning stiffness &lt;30 minutes</li>
+		<li>Bony enlargement, joint instability, limited joint mobility, peri-articuar muscle atrophy, crepitus</li>
+	</ul>
+	</li>
+	<li>Joints commonly involved:
+	<ul>
+		<li>DIPs, PIPs, CMCs, AC joint, 1<sup>st</sup> MTP, knees, hips, and spine, usually with asymmetric involvement</li>
+	</ul>
+	</li>
+	<li>Joints usually spared:
+	<ul>
+		<li>Elbows, wrists, ankles, GH joint, MCPs, 2<sup>nd</sup>-5<sup>th</sup> MTPs</li>
+		<li><strong><em>Pearl</em></strong>: involvement of atypical joints should prompt a search for secondary causes of OA</li>
+	</ul>
+	</li>
+	<li>Atypical presentations:
+	<ul>
+		<li>Acute arthritis, erosive disease, atypical joint involvement</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul>
+	<li>Physical Exam: Crepitus, bony enlargement, decreased ROM, malalignment, TTP
+	<ul>
+		<li>Crepitus, bony enlargement, decreased ROM, malalignment, TTP</li>
+		<li>Important to distinguish OAs (joint pathology affecting articular surface) and other arthritides from peri-articular and surrounding soft tissue process based on physical exam plus supporting radiographic and laboratory evaluation</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li>Radiographic Evaluation: Joint space narrowing, subchondral sclerosis, marginal osteophytes, subchondral cysts. No correlation between severity of radiographic findings and amount of pain or disability.</li>
+	<li>Joint space narrowing, subchondral sclerosis, marginal osteophytes, subchondral cysts
+	<ul>
+		<li>There is no correlation between severity of radiographic findings and amount of pain or disability</li>
+		<li><strong><em>Pearl</em></strong>: radiographic OA is at least twice as common than symptomatic OA</li>
+	</ul>
+	</li>
+	<li>Laboratory Evaluation: <strong>Not indicated</strong> in majority of cases. If diagnosis is in doubt, findings consistent with OA include normal ESR, synovial fluid that is clear and with &lt;1000 WBCs</li>
+	<li><strong>Not indicated</strong> in majority of cases. If diagnosis is in doubt, findings consistent with OA include normal ESR, synovial fluid that is clear and with &lt;1000 WBCs
+	<ul>
+		<li>Workup varies by location</li>
+	</ul>
+	</li>
+</ul>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:208px;">
+			<p align="center"><strong>Knee</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p align="center"><strong>Hip</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p align="center"><strong>Hand</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Need ³ 3 of criteria for a sensitivity of 95% and a specificity of 69%</p>
+			</td>
+			<td style="width:208px;">
+			<p>Need hip pain plus ³ 2 of the following for a sensitivity of 89% and a specificity of 91%</p>
+			</td>
+			<td style="width:208px;">
+			<p>Need ³ 3 of the following for a sensitivity of 94% and a specificity of 87%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Age &gt; 50</p>
+
+			<p>Morning stiffness &lt; 30 minutes</p>
+
+			<p>Crepitus</p>
+
+			<p>Bony tenderness</p>
+
+			<p>Bony enlargement</p>
+
+			<p>No palpable warmth</p>
+			</td>
+			<td style="width:208px;">
+			<p>ESR &lt; 20</p>
+
+			<p>Radiographic evidence of osteophytes (on the femur or acetabulum)</p>
+
+			<p>Radiographic evidence of joint-space narrowing</p>
+			</td>
+			<td style="width:208px;">
+			<p>Bony enlargement of ≥2 of 10 joints: 2nd and 3rd DIP, 2nd and 3rd PIP and 1st CMC of both hands</p>
+
+			<p>Bony enlargement of ≥2 DIP joints</p>
+
+			<p>&lt; 3 swollen MCP joints</p>
+
+			<p>Deformity of ≥1 of 10 selected joints</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Additional findings improve specificity, do not increase sensitivity, <strong>not required</strong> for diagnosis: ESR &lt; 40, RF &lt; 1:40, synovial fluid suggestive of OA (clear, viscous, WBC &lt; 1000/mm3), osteophytes on imaging</p>
+			</td>
+			<td style="width:208px;">
+			<p>Note that films are <em>required </em>for diagnosis</p>
+
+			<p> </p>
+			</td>
+			<td style="width:208px;">
+			<p>Radiographic findings have <em>not</em> been found to aid in diagnosis</p>
+
+			<p> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Differential Diganosis</h3>
+
+<p>OA can co-exist with other types of arthritis and may be secondary other conditions (see <strong>background </strong>above).  Think about secondary causes when seeing OA at unusual joint sites or articular cartilage calcifications.</p>
+
+<ul>
+	<li>Remember OA can co-exist with other types of arthritis, and that OA may be secondary other conditions (See <strong>background </strong>above).  Think about secondary causes when seeing OA at unusual joint sites or articular cartilage calcification</li>
+	<li>Rule out: inflammatory arthritis such as RA (see below), infectious or crystal arthritis if acute monoarticular pain
+	<ul>
+		<li>Inflammatory arthritis such as RA (see below)
+		<ul>
+			<li>Infectious or crystal arthritis if acute monoarticular pain</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Distinguishing OA from RA (they can coexist):</strong></p>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Feature</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p align="center"><strong>Rheumatoid Arthritis</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p align="center"><strong>Osteoarthritis</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Affected hand joints</p>
+
+			<p> </p>
+			</td>
+			<td style="width:208px;">
+			<p>MCP, PIP</p>
+			</td>
+			<td style="width:208px;">
+			<p>DIP, PIP, 1st CMC</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Symptoms</p>
+			</td>
+			<td style="width:208px;">
+			<p>Morning stiffness &gt; 30 min, <em>better</em> with use</p>
+			</td>
+			<td style="width:208px;">
+			<p>Morning stiffness &lt; 30 min,</p>
+
+			<p><em>worse</em> with use</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Joint exam</p>
+			</td>
+			<td style="width:208px;">
+			<p>Warm, tender, bogginess typical of synovitis or synovial thickening</p>
+			</td>
+			<td style="width:208px;">
+			<p>Hard, bony; may have Heberden’s (DIPs) and/or Bouchard’s nodes (PIPs)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Laboratory findings</p>
+			</td>
+			<td style="width:208px;">
+			<p>Most cases: +RF and/or + anti-CCP, elevated ESR/CRP, inflammatory synovial fluid (&gt; 1000 WBC/mm<sup>3</sup>)</p>
+			</td>
+			<td style="width:208px;">
+			<p>RF neg; CCP neg; nl ESR/CRP, non-inflammatory synovial fluid (&lt;1000 WBC/mm<sup>3</sup>)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Radiographic features</p>
+			</td>
+			<td style="width:208px;">
+			<p>Uniform joint space narrowing, osteoporosis, bony erosions, subluxations, joint malalignment</p>
+			</td>
+			<td style="width:208px;">
+			<p>Non-uniform joint space narrowing, subchondral sclerosis, osteophytes, subchondral cysts</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Treatment</h3>
+
+<ul>
+	<li>Individualize to the patient, include controlling pain and swelling, minimizing disability, improving quality of life, and preventing progression of joint destruction</li>
+	<li>Generally, start with conservative non-pharmacologic measures, then add pharmacotherapy in a stepwise manner.</li>
+	<li>Consider joint replacement surgery for end-stage OA.</li>
+</ul>
+
+<p><strong>Nonpharmacologic Therapy</strong></p>
+
+<ul>
+	<li><strong>Patient education and psychosocial support:</strong> Shown to have improvement in psychological outcomes. Data are mixed, but some studies have shown that regular reinforcement of self-management can decrease joint pain and increase functional status
+
+	<ul>
+		<li>Remember to assess patients for symptoms of depression</li>
+		<li>Arthritis Foundation self-help courses</li>
+	</ul>
+	</li>
+	<li><strong>Weight loss: </strong>
+	<ul>
+		<li>The force exerted to the knee is 4 times the weight (useful to tell patients 5 lbs. means saving the knees 20 lbs. of force)</li>
+		<li>Reduces risk of developing OA (ten-pound weight loss over 10 years decreases odds of developing knee OA by 50%), risk of progression of OA, and improves joint pain and function</li>
+		<li>Even modest weight loss has benefit</li>
+	</ul>
+	</li>
+	<li><strong>Physical activity and therapy: </strong>
+	<ul>
+		<li>Aerobic exercise: Modest benefit demonstrated in terms of pain reduction and function with aerobic exercise, but studies suggest improved self-reported quality of life</li>
+		<li>Muscle strengthening: Improved flexibility and strengthening of muscles supporting affected joints have been shown to improve functional outcome and pain scores</li>
+	</ul>
+	</li>
+	<li><strong>Mechanical interventions </strong>(including wedge insoles, unloader braces, and neoprene braces): May be useful for symptomatic relief for those with OA of knee, but data is weak and inconsistent, and results are short-lived
+	<ul>
+		<li>Patellar taping recommended for short-term relief of knee pain</li>
+		<li>Neoprene braces have been shown to decrease varus OA knee pain</li>
+		<li>Medial wedge insoles may benefit patients with lateral-compartment knee OA, but there is less evidence for lateral wedge insoles for medial-compartment disease, and American Academy of Orthopaedic Surgeons does not recommend these at this time</li>
+	</ul>
+	</li>
+	<li><strong>Physical interventions</strong>: Multiple modalities available including ultrasound therapy and types of electrotherapeutics such as TENS (transcutaneous electrical nerve stimulation). Overall evidence is mixed, American Academy of Orthopedic Surgeons does not recommend for or against these modalities.</li>
+	<li><strong>Surgical intervention</strong>: Reserved for severe OA that is refractory to non-operative treatment modalities
+	<ul>
+		<li>Arthroscopic irrigation and/or debridement: Shown in two large studies to have no benefit over committed physical therapy</li>
+		<li>Total joint replacement is used only in cases of end-stage OA, and many factors must contribute to the decision for joint replacement, such as patient’s age, pre-surgical functional status, other medical comorbidities, and expectations for post-surgical outcomes</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Pharmacologic Therapy</strong></p>
+
+<ul>
+	<li><strong>Acetaminophen</strong>: First-line, dosed PRN up to 3-4 g/day; 2 g/day if hepatic impairment</li>
+	<li><strong>NSAIDs:</strong> Second-line therapy in those who fail to respond to acetaminophen or first-line therapy for those with moderate to severe pain
+	<ul>
+		<li>Can be used PRN initially, and then scheduled if symptoms require more continuous analgesia</li>
+		<li>2-4 weeks required to achieve maximum effect of NSAID therapy</li>
+		<li>If relief inadequate after 2-4 weeks, switch to a different class of NSAID medication as there are patients who will respond to different formulations</li>
+		<li>Consider antiulcer prophylaxis given risk of GIB if using NSAIDs chronically</li>
+		<li>Monitor renal function, especially in elderly patients; may exacerbate heart failure, worsen HTN and increase CV risk so use with caution in high risk patients</li>
+		<li>Can consider topical NSAIDs or capsaicin in older patients (&gt;75) or those at higher risk with oral NSAIDs</li>
+	</ul>
+	</li>
+	<li><strong>COX-2 inhibitors</strong> (e.g., celecoxib, etoricoxib): Can be considered in patients with high GIB risk (active peptic ulcer disease, gastritis, or history of GIB) and who are also at very low CV risk
+	<ul>
+		<li>Equal analgesic effect to nonselective NSAIDs in the treatment of OA and lower risk of GIB/intolerance</li>
+		<li>Given CV risk, should be used with caution and only after full discussion with patient regarding risks and benefits</li>
+		<li>PRECISION trial (2016): randomized non-inferiority study that examined cardiovascular safety between moderate doses of celecoxib, ibuprofen, and naproxen. Results: at a dose of 100mg BID, celecoxib was non-inferior to ibuprofen and naproxen for the primary outcome of CV death, non-fatal MI, or non-fatal stroke. Criticisms: no untreated control group, imbalanced pharmacoequivalence between drugs, unclear if patients were also taking aspirin, limited power for noninferiority due to low number of events, high rate of discontinuation</li>
+	</ul>
+	</li>
+	<li><strong>Opioid analgesics</strong> (e.g., codeine, oxycodone): Can be used in the short-term for acute exacerbations of pain, but chronic opiate use considered a last resort for severe OA pain control in patients who are awaiting definitive surgical treatment, those who are not surgical candidates, or those in whom surgery has failed</li>
+	<li><strong>Glucosamine/chondroitin:</strong> Controversial; possible benefit for symptomatic relief for mild to moderate pain, but no clear evidence to date.</li>
+	<li><strong>Intra-articular corticosteroid injection</strong>: Helpful in patients with mono- or pauci-articular OA that is not responsive to NSAIDs or for those patients in whom NSAIDs are contraindicated.
+	<ul>
+		<li>Joints should not be injected until it is certain they are not infected</li>
+		<li>Triamcinolone (Kenalog) is the most commonly used steroid at UCSF, in doses as follows: 10 mg for small joints (DIPs, PIPs, MCPs, MTPs), 20 mg for medium joints (wrists, ankles, elbows), 40 mg for large joints (shoulders, knees, hips)</li>
+		<li>Mixing steroid with lidocaine can provide immediate relief for patients and can confirm correct injection placement</li>
+		<li>Effect of steroid seen after approximately 48–72 hours; if no improvement noted, the joint is likely not amenable to future injections for pain relief</li>
+		<li>Results tend to be short-lived, dissipating within 6 weeks in the majority of patients</li>
+		<li>Recommended that no more than 3–4 corticosteroid injections should be performed per year on the same joint given concern for progressive cartilage and ligament destruction with repeated injections</li>
+		<li>Note: steroid injections q3 months over 2 years was shown to reduce amount of cartilage in the knee (amount of cartilage loss was statistically significant compared to placebo but unclear if clinically significant)</li>
+	</ul>
+	</li>
+	<li><strong>Viscosupplementation </strong>(intra-articular hyaluronate): Data mixed to date; modest benefit seen in some trials vs. placebo for OA of knee, but trials typically poor quality and most recent meta-analysis (Ann Intern Med 2012) concluded that benefit was clinically irrelevant and safety data incomplete</li>
+	<li><strong>Cutting-edge treatments</strong>: 1. Platelet-rich plasma: helpful in the setting of lateral epicondylitis, limited data regarding early knee OA non-responsive to corticosteroids. 2. Stem cell therapy: promising therapy, though with poor quality studies.</li>
+</ul>
+
+<h3>When to Refer</h3>
+
+<ul>
+	<li>Rheumatology: if concern for inflammatory component or if diagnosis is uncertain</li>
+	<li>Orthopedic surgery arthroplasty team: in severe cases of OA refractory to oral, topical, and intra-articular therapies for possible joint replacement surgery</li>
+</ul>
+
+<h3>References</h3>
+
+<p><em>Adapted from 2018 Outpatient Agile MD (Resident Editor: Megan Lockwood, Faculty Editor: Carlin Senter) </em></p>
+
+<p><em>Devos-Comby L, et al. Do exercise and self-management interventions benefit patients with osteoarthritis of the knee? </em><em>A metaanalytic review. J Rheumatol. 2006;33(4):744–56. </em></p>
+
+<p><em>Hochberg, MC, et al. American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee. Arthritis Care Res 2012; 64(4):465-474.</em></p>
+
+<p><em>Jordan KM, et al. </em><em>EULAR Recommendations 2003: An evidence- based approach to the management of knee osteoarthritis: Report of a Task Force of the Standing Committee for International Clinical Studies Including Therapeutic Trials (ESCISIT). </em><em>Ann Rheum Dis. 2003;62(12):1145–55.</em></p>
+
+<p><em>McAlindon TE, et al. Effect of Intra-articular Triamcinolone vs Saline on Knee Cartilage Volume and Pain in Patients With Knee Osteoarthritis. JAMA. 2017;317(19):1967-1975.</em></p>
+
+<p><em>McAlindon TE, et al. OARSI guidelines for the non-surgical management of knee osteoarthritis. Osteoarthritis cartilage. 2014;22(3):363-88.</em></p>
+
+<p><em>Nissen, SE, et al. Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis. NEJM. 2016;2519-2529.</em></p>
+
+<p><em>Rutjes AW, et al. Viscosupplementation for osteoarthritis of the knee: A systematic review and meta-analysis. Ann Intern Med. 2012 Aug 7;157(3):180–91.</em></p>
+
+<p><em>Sakellariou G, et al. EULAR recommendations for the use of imaging in the clinical management of peripheral joint osteoarthritis. Ann Rheum Dis. 2017;76: 1484-1494.</em></p>
+
+<p><em>West, SG. Rheumatology Secrets. Philadelphia: Elsevier, 2015. Print.</em></p>
+
+<p><em>Zhang W, et al. </em><em>EULAR evidence- based recommendations for the management of hip osteoarthritis: Report of a task force for the EULAR Standing Committee for International Clinical Studies Including Therapeutics (ESCISIT). Ann Rheum Dis. 2005;64(5):669–81.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/10-joint-injection-steroids" class="page-previous" title="Go to previous page">‹ 10. Joint Injection with Steroids</a>
+                    <a href="/content/12-rheumatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/13-neurology" class="page-next" title="Go to next page">13. Neurology ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="expanded active-trail menu-mlid-3211"><a href="/content/12-rheumatology" class="active-trail">12. Rheumatology</a><ul class="menu"><li class="first leaf menu-mlid-3216"><a href="/content/01-rheumatology-labs-101">01. Rheumatology Labs 101</a></li>
+<li class="leaf menu-mlid-3221"><a href="/content/02-approach-arthritic-joint-pain">02. Approach to Arthritic Joint Pain</a></li>
+<li class="leaf menu-mlid-3226"><a href="/content/03-acute-mono-arthritis-and-synovial-fluid-analysis">03. Acute Mono-Arthritis and Synovial Fluid Analysis</a></li>
+<li class="leaf menu-mlid-3231"><a href="/content/04-systemic-lupus-erythematosus-sle">04. Systemic Lupus Erythematosus (SLE)</a></li>
+<li class="leaf menu-mlid-3236"><a href="/content/05-vasculitis">05. Vasculitis</a></li>
+<li class="leaf menu-mlid-3241"><a href="/content/06-rheumatoid-arthritis">06. Rheumatoid Arthritis</a></li>
+<li class="leaf menu-mlid-3246"><a href="/content/07-inflammatory-myopathies">07. Inflammatory Myopathies</a></li>
+<li class="leaf menu-mlid-3251"><a href="/content/08-seronegative-sponyloarthropathies-inflammatory-back-pain">08. Seronegative Sponyloarthropathies (Inflammatory Back Pain)</a></li>
+<li class="leaf menu-mlid-3256"><a href="/09-crystal-related-joint-diseases/09-crystal-related-joint-diseases">09. Crystal-Related Joint Diseases</a></li>
+<li class="leaf menu-mlid-3261"><a href="/content/10-joint-injection-steroids">10. Joint Injection with Steroids</a></li>
+<li class="last leaf active-trail active menu-mlid-3266"><a href="/content/11-osteoporosis" class="active-trail active">11. Osteoporosis</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

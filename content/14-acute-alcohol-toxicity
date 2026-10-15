@@ -1,0 +1,486 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/14-acute-alcohol-toxicity" />
+<link rel="shortlink" href="/node/636" />
+<link rel="prev" href="/13-mdma-ecstasy-intoxication/13-mdma-ecstasy-intoxication" />
+<link rel="up" href="/content/14-toxicology" />
+<link rel="next" href="/content/15-opioid-overdose" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/14-acute-alcohol-toxicity" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/14-acute-alcohol-toxicity" />
+<meta property="twitter:title" content="14. Acute Alcohol Toxicity | Hospital Handbook" />
+<meta property="og:title" content="14. Acute Alcohol Toxicity" />
+  <title>14. Acute Alcohol Toxicity | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"SCuMH34kyS34Mov6wxiNIgAsy_4q-luPaR_Uo5rXcSk","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/14-acute-alcohol-toxicity":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-636 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/14-acute-alcohol-toxicity" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cuU8km72Zvvwiy_lqKWz_IFB0zh00FQ5yCU1IryxJuc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/14-toxicology" class="active-trail">14. Toxicology</a> > <span class="breadcrumb-page-title">14. Acute Alcohol Toxicity</span></div></div></div>
+                  <h1 class="title" id="page-title">14. Acute Alcohol Toxicity</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-636" class="node node-book clearfix" about="/content/14-acute-alcohol-toxicity" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="14. Acute Alcohol Toxicity" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Toxic Alcohols</h3>
+
+<p>Includes methanol, ethylene glycol, isopropyl alcohol, diethylene glycol, and propylene glycol.</p>
+
+<h3>Diagnostic Evaluation</h3>
+
+<p>May be challenging given non-specific clinical presentation, difficulty detecting parent compound level, and lack of patient-provided history. Clinical presentation may evolve with formation of toxic metabolites.</p>
+
+<p><strong>Work Up:</strong></p>
+
+<ul>
+	<li>Obtain BMP, ethanol level, POCT BG, POCT VBG, lactate, urinalysis.</li>
+	<li>Send toxic alcohol panel (if available, do not wait for results to pursue treatment).</li>
+	<li>Calculate osmolal gap: measured osmolality - 2xNa - BUN/2.8 - glucose/18. Normal range -14 to +10 mOsm/kg of water.
+	<ul style="margin-left: 40px;">
+		<li>Accumulation of alcohol increases serum osmolality and the osmolal gap.</li>
+		<li>Accumulation of the parent alcohol initially elevates the osmolal gap, which decreases with metabolism.</li>
+	</ul>
+	</li>
+	<li>Calculate the anion gap:
+	<ul style="margin-left: 40px;">
+		<li>Accumulation of organic acid anions (toxic metabolites) increases serum anion gap.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Management</h3>
+
+<ul>
+	<li>If high clinical suspicion for toxic alcohol ingestion (high risk exposure, elevated osmolal gap, elevated anion gap, AKI): treat with <strong>fomepizole.</strong>
+
+	<ul style="margin-left: 40px;">
+		<li>Do NOT use fomepizole for isopropanol ingestion.</li>
+		<li>Administer <strong>fomepizole </strong>at 15 mg/kg loading dose, 10 mg/kg every 12 hours maintenance dose for 48 hours, followed by 15 mg/kg every 12 hours (if using dialysis, give immediately after).</li>
+	</ul>
+	</li>
+	<li>Gastric decontamination is not helpful (GI absorption is too rapid).</li>
+	<li>Dialysis indicated for any one of the following:
+	<ul style="margin-left: 40px;">
+		<li>pH &lt;7.3.</li>
+		<li>AKI.</li>
+		<li>Amount and type of alcohol ingested (see chart).</li>
+	</ul>
+	</li>
+	<li>Adjunct medications: based on type of alcohol ingested (see chart).</li>
+</ul>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="642">
+	<tbody>
+		<tr>
+			<td style="width:102px;">
+			<p><strong>Alcohol Type</strong></p>
+			</td>
+			<td style="width:126px;">
+			<p><strong>Mechanism</strong></p>
+			</td>
+			<td style="width:156px;">
+			<p><strong>Clinical Features</strong></p>
+			</td>
+			<td style="width:114px;">
+			<p><strong>Laboratory Features</strong></p>
+
+			<p>(OG: osmolal gap, AG: anion gap)</p>
+			</td>
+			<td style="width:144px;">
+			<p><strong>Management</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:102px;">
+			<p><strong>Ethylene glycol</strong></p>
+
+			<p>(Automotive antifreeze, engine coolant, de-icing fluids)</p>
+			</td>
+			<td style="width:126px;">
+			<p>Parent alcohol is innocuous; metabolized into oxalic and glycolic acid</p>
+			</td>
+			<td style="width:156px;">
+			<p>Inebriation, cardiac dysfunction, pulmonary dysfunction, AKI 2/2 crystal deposition</p>
+
+			<p><u>Onset</u></p>
+
+			<p>Without ethanol: 12-24 hours</p>
+
+			<p>With ethanol: 48-72 hours</p>
+			</td>
+			<td style="width:114px;">
+			<p>Increased OG, high AG metabolic acidosis, calcium oxylate crystalluria, hypocalcemia, lactate gap (discrepancy between point of care and lab test)</p>
+			</td>
+			<td style="width:144px;">
+			<p><strong>Fomepizole</strong></p>
+
+			<p><strong>Dialysis </strong>if concentration &gt;50 mg/dl (or &gt;300 mg/dl after antidote given)</p>
+
+			<p><strong>Pyridoxine </strong>and <strong>thiamine </strong>products to promote metabolism of glycolic acid to less toxic metabolites</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:102px;">
+			<p><strong>Methanol</strong></p>
+
+			<p>(Windshield washer fluid, carburetor cleaner, octane booster, racing fuels, camp stove fuel, “moonshine”)</p>
+			</td>
+			<td style="width:126px;">
+			<p>Parent alcohol is innocuous; metabolized into formic acid, which accumulates in retina and basal ganglia</p>
+			</td>
+			<td style="width:156px;">
+			<p>Inebriation, abdominal pain, decreased vision with blindness, pulmonary dysfunction, Parkinson-like features (rare)</p>
+
+			<p><u>Onset</u></p>
+
+			<p>Without ethanol: 6-24 hours</p>
+
+			<p>With ethanol: 72-96 hours</p>
+			</td>
+			<td style="width:114px;">
+			<p>Increased OG, high AG metabolic acidosis, increased formate, lactic acidosis with cellular hypoxia, spurious increase in creatinine</p>
+			</td>
+			<td style="width:144px;">
+			<p><strong>Fomepizole</strong></p>
+
+			<p><strong>Base solution</strong> to increase ionization of formate (increased urinary excretion, decreased penetration into optic nerve)</p>
+
+			<p><strong>Dialysis </strong>if concentration &gt; 50 mg/dl</p>
+
+			<p><strong>Folic acid</strong> 1 mg/kg q4-6 hours to promote conversion of formic acid to CO2 and water</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:102px;">
+			<p><strong>Propylene glycol</strong></p>
+
+			<p>(Diluent in parenteral medication [lorazepam], automotive antifreeze, vaping nicotine liquid)</p>
+			</td>
+			<td style="width:126px;">
+			<p>Parent compound and metabolites are toxic; metabolized into D-lactic and L-lactic acid</p>
+			</td>
+			<td style="width:156px;">
+			<p>Look for in patients with underlying hepatic or renal disease receiving lorazepam (&gt;10 mg/hr) for &gt;48 hours.</p>
+			</td>
+			<td style="width:114px;">
+			<p>Increased OG ONLY, unexplained lactic acidosis, acute AKI (rare)</p>
+			</td>
+			<td style="width:144px;">
+			<p><strong>Dialysis </strong>if severe, persistent lactic acidosis</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:102px;">
+			<p><strong>Diethylene glycol</strong></p>
+
+			<p>(Automotive brake fluids, hydraulic fluids, inappropriate substitution in liquid medication)</p>
+			</td>
+			<td style="width:126px;">
+			<p>Metabolized to 2-hydroxyethoxy-acetic acid and glycolic acid  </p>
+
+			<p> </p>
+			</td>
+			<td style="width:156px;">
+			<p>Abdominal pain, nausea, vomiting, diarrhea, acute pancreatitis, AKI, AMS, hepatic dysfunction, central and peripheral neuropathy</p>
+
+			<p><u>Onset</u></p>
+
+			<p>Without ethanol: 24-48 hours (AKI can appear 8-24 hours after exposure)</p>
+
+			<p>With ethanol: 48-72 hours (CN palsy can occur after &gt;5 days)</p>
+			</td>
+			<td style="width:114px;">
+			<p>Increased OG, high AG acidosis, AKI</p>
+			</td>
+			<td style="width:144px;">
+			<p><strong>Fomepizole</strong></p>
+
+			<p><strong>Dialysis</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:102px;">
+			<p><strong>Isopropanol</strong></p>
+
+			<p>(Rubbing alcohol, hand sanitizer, industrial products)</p>
+			</td>
+			<td style="width:126px;">
+			<p>Parent compound is toxic; metabolized directly to acetone and excreted in urine</p>
+			</td>
+			<td style="width:156px;">
+			<p>Inebriation, depressed sensorium, abdominal pain, respiratory dysfunction, cardiovascular collapse, acute pancreatitis, hypotension</p>
+
+			<p><u>Onset</u></p>
+
+			<p>Without ethanol: 2-4 hours</p>
+			</td>
+			<td style="width:114px;">
+			<p>Increased OG, acetonemia, ketonuria, lactic acidosis</p>
+			</td>
+			<td style="width:144px;">
+			<p>Fomepizole <strong>is contraindicated</strong></p>
+
+			<p><strong>IV fluids </strong></p>
+
+			<p><strong>Dialysis </strong>if concentration &gt;500 mg/dL, hypotension or lactic acidosis is present</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><em>Wang, C., Samaha, D., Hiremath, S. et al. Outcomes after toxic alcohol poisoning: a systematic review protocol. Syst Rev <strong>7, </strong>250 (2018). https://doi.org/10.1186/s13643-018-0926-z</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/13-mdma-ecstasy-intoxication/13-mdma-ecstasy-intoxication" class="page-previous" title="Go to previous page">‹ 13. MDMA (Ecstasy) Intoxication</a>
+                    <a href="/content/14-toxicology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/15-opioid-overdose" class="page-next" title="Go to next page">15. Opioid Overdose ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="expanded active-trail menu-mlid-2926"><a href="/content/14-toxicology" class="active-trail">14. Toxicology</a><ul class="menu"><li class="first leaf menu-mlid-2931"><a href="/01-toxicology-basics/01-toxicology-basics">01. Toxicology Basics</a></li>
+<li class="leaf menu-mlid-2936"><a href="/content/02-urine-toxicology-screening">02. Urine Toxicology Screening</a></li>
+<li class="leaf menu-mlid-2946"><a href="/content/03-toxidromes">03. Toxidromes</a></li>
+<li class="leaf menu-mlid-2951"><a href="/04-medications-cause-qt-prolongation/04-medications-cause-qt-prolongation">04. Medications That Cause QT Prolongation</a></li>
+<li class="leaf menu-mlid-2956"><a href="/content/05-drug-induced-hyperthermia">05. Drug-Induced Hyperthermia</a></li>
+<li class="leaf menu-mlid-2961"><a href="/content/06-acetaminophen-overdose">06. Acetaminophen Overdose</a></li>
+<li class="leaf menu-mlid-2966"><a href="/07-salicylate-overdose/07-salicylate-overdose">07. Salicylate Overdose</a></li>
+<li class="leaf menu-mlid-2971"><a href="/08-tricyclic-antidepressant-overdose/08-tricyclic-antidepressant-overdose">08. Tricyclic Antidepressant Overdose</a></li>
+<li class="leaf menu-mlid-2976"><a href="/09-ssri-and-noncyclic-antidepressant-overdose/09-ssri-and-noncyclic-antidepressant-overdose">09. SSRI and Noncyclic Antidepressant Overdose</a></li>
+<li class="leaf menu-mlid-2981"><a href="/content/10-lithium-toxicity">10. Lithium Toxicity</a></li>
+<li class="leaf menu-mlid-2986"><a href="/11-stimulant-cocaine-amphetamine-overdose-and-intoxication/11-stimulant-cocaine-amphetamine-overdose">11. Stimulant (Cocaine, Amphetamine) Overdose and Intoxication</a></li>
+<li class="leaf menu-mlid-2991"><a href="/12-g-hydroxybutyrate-ghb-overdose-and-withdrawal/12-g-hydroxybutyrate-ghb-overdose-and-withdrawal">12. G-Hydroxybutyrate (GHB) Overdose and Withdrawal</a></li>
+<li class="leaf menu-mlid-2996"><a href="/13-mdma-ecstasy-intoxication/13-mdma-ecstasy-intoxication">13. MDMA (Ecstasy) Intoxication</a></li>
+<li class="leaf active-trail active menu-mlid-3001"><a href="/content/14-acute-alcohol-toxicity" class="active-trail active">14. Acute Alcohol Toxicity</a></li>
+<li class="leaf menu-mlid-3006"><a href="/content/15-opioid-overdose">15. Opioid Overdose</a></li>
+<li class="leaf menu-mlid-3011"><a href="/content/16-carbon-monoxide-inhalation">16. Carbon Monoxide Inhalation</a></li>
+<li class="leaf menu-mlid-3021"><a href="/content/17-beta-blocker-overdose">17. Beta Blocker Overdose</a></li>
+<li class="last leaf menu-mlid-3026"><a href="/content/18-calcium-channel-blocker-overdose">18. Calcium Channel Blocker Overdose</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

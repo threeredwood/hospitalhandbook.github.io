@@ -1,0 +1,588 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/appendix-formulas/appendix-formulas" />
+<link rel="shortlink" href="/node/11" />
+<link rel="prev" href="/appendix-and-acknowledgements/appendix-and-acknowledgements" />
+<link rel="up" href="/appendix-and-acknowledgements/appendix-and-acknowledgements" />
+<link rel="next" href="/appendix-b-abbreviations/appendix-b-abbreviations" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/appendix-formulas/appendix-formulas" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/appendix-formulas/appendix-formulas" />
+<meta property="twitter:title" content="Appendix A: Formulas | Hospital Handbook" />
+<meta property="og:title" content="Appendix A: Formulas" />
+  <title>Appendix A: Formulas | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"Gmg4wF3LwNIXnMl7vd030wGfjOGKXH17xPua4z_1te4","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/appendix-formulas\/appendix-formulas":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-11 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/appendix-formulas/appendix-formulas" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vrxLfkdi-Yc0SyMkNrsauW-1OzhKEdQcxB3C-0in0w0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/appendix-and-acknowledgements/appendix-and-acknowledgements" class="active-trail">Appendix and Acknowledgements</a> > <span class="breadcrumb-page-title">Appendix A: Formulas</span></div></div></div>
+                  <h1 class="title" id="page-title">Appendix A: Formulas</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-11" class="node node-book clearfix" about="/appendix-formulas/appendix-formulas" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Appendix A: Formulas" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h4>Electrolytes</h4>
+
+<p><strong>Na+ (corrected for hyperglycemia):</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Corrected Na+ = measured Na+ + [(glucose – 100) x 0.024]</li>
+</ul>
+
+<p><strong>Ca2+ (corrected for hypoalbuminemia):</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Corrected Ca2+ = [(4 – serum albumin) x 0.8] + measured Ca2+</li>
+</ul>
+
+<p><strong>Free Water Deficit:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Water deficit = wt (kg) x <em>k</em> x [(plasma Na+ / 140) – 1]; where <em>k</em> = 0.5 for males and 0.4 for females</li>
+</ul>
+
+<p><strong>Osmolality:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Calculated Osm = (2 x Na+) + (glucose / 18) + (BUN / 2.8) + (EtOH / 4.6) </li>
+	<li>normal: 270–290</li>
+	<li>Osm gap = measured Osm – calculated Osm {normal &lt; 10}</li>
+	<li>&gt;10 is abnormal: caused by renal failure, methanol, ethylene glycol, sorbitol, mannitol, isopropanol, radiocontrast dye</li>
+</ul>
+
+<p><strong>Anion Gaps:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Serum AG = [Na+] – [Cl-] – [HCO3] {normal 10-14}</li>
+	<li>Corrected AG (for hypoalbuminemia)</li>
+	<li>Corrected AG = serum AG + [(4 – serum albumin) x 2.5]</li>
+	<li>∆AG = (AG – 12) + HCO3 {normal 23–30}.</li>
+	<li>∆AG &gt;30: concomitant metabolic alkalosis (excessively high HCO3).</li>
+	<li>∆AG &lt;23: concomitant non-AG metabolic acidosis (excessively low HCO3).</li>
+	<li>Urine AG = U[Na+] + U[K+] – U[Cl-]</li>
+	<li>NH4+ is the major unmeasured cation, so a strongly negative UAG suggests high urine NH4+.</li>
+	<li>Urine AG &lt;0: GI HCO3 loss.</li>
+	<li>Urine AG &gt;0: Renal HCO3loss (RTA). </li>
+</ul>
+
+<h4>Body Fluid / IV Fluids</h4>
+
+<p><strong>Body fluid composition:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li><strong>Total Body Water</strong> = 0.6 x wt (kg) for males 0.5 x wt (kg) for females</li>
+	<li>Extracellular fluid (<strong>ECF</strong>) = 0.2 x wt (kg)</li>
+	<li>Intravascular<strong>: </strong>1/3 ECF </li>
+	<li>Interstitial<strong>:</strong> 2/3 ECF</li>
+	<li>Intracellular fluid (<strong>ICF</strong>) = 0.4 x wt (kg)</li>
+</ul>
+
+<p><strong>IVF and tonicity:</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:89px;">
+			<p><strong>Plasma</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>142</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>4</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>104</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>27</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>29</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>306</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>NS</p>
+			</td>
+			<td style="width:89px;">
+			<p>154</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>154</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>308</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>D5W</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>278</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>D5 1⁄2NS</p>
+			</td>
+			<td style="width:89px;">
+			<p>77</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>77</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>421</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>1 amp NaHCO3</p>
+			</td>
+			<td style="width:89px;">
+			<p>50</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>50</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>20 mEq KCl</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>20</p>
+			</td>
+			<td style="width:89px;">
+			<p>20</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>40</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>e.g. 1⁄4NS + 20 mEq KCl + 1⁄2 amp NaHCO3 = (308/4) + 40 + (100/2) = 167 mOsm/L, or roughly equivalent in tonicity to 1⁄2NS</li>
+</ul>
+
+<p><strong>IVF effect on plasma Na:</strong></p>
+
+<ul>
+	<li>∆Na per liter IVF given = [NaIVF(mEq/l) + KIVF(mEq/l) – Naserum (mmol/l)] / [Total Body Water + 1]</li>
+</ul>
+
+<h4>Renal</h4>
+
+<p><strong>Creatinine Clearance:</strong></p>
+
+<ul>
+	<li>Estimated CrCl (Cockcroft-Gault Equation)* = [(140 – age) x (wt in kg)] / [serum Cr x 72]</li>
+	<li>*multiply by 0.85 for females</li>
+	<li>{normal 100–125 ml/min (M) or 85–105 ml/min (F)}</li>
+	<li>Measured CrCl = [urine Cr x urine volume (ml/24hr)] / [serum Cr x 1440 (min/24hr)]</li>
+</ul>
+
+<p><strong>Fraction Na excretion:</strong></p>
+
+<ul>
+	<li>FENa = [(urine Na+ / serum Na+) x 100] / [(urine Cr / serum Cr)]</li>
+	<li>&lt;1% suggests pre-renal</li>
+	<li>FENa interpretable only in oliguric states (UOP &lt; 400 cc/day)</li>
+</ul>
+
+<p><strong>Transtubular Potassium Gradient:</strong></p>
+
+<ul>
+	<li>TTKG = (urine K+ / serum K+) / (urine Osm / serum Osm)</li>
+	<li>With hyperkalemia:</li>
+	<li>&lt; 7 suggestive decreased aldosterone activity.</li>
+	<li>&gt; 7 suggestive effective volume depletion with normal aldosterone activity. </li>
+</ul>
+
+<h4>Hemodynamics</h4>
+
+<p><strong>Cardiac Output:</strong></p>
+
+<ul>
+	<li>CO = HR x stroke volume</li>
+	<li>CI = CO / BSA (in m2); where BSA= √([ht (cm) x wt (kg)] / 3600)</li>
+	<li>Fick Technique: CO =  estimated O2 consumption or VO2 (ml/min)* / arteriovenous O2 difference** </li>
+</ul>
+
+<p><strong>Resistance</strong>:</p>
+
+<ul>
+	<li>SVR = [(MAP – CVP) / CO] x 80 </li>
+	<li>{normal 700–1600 dynes*s/cm5}</li>
+	<li>PVR = [(MPAP – PCWP) / CO] x 80 </li>
+	<li>{normal 20–120 dynes*s/cm5}</li>
+</ul>
+
+<p><strong>Pressure:</strong></p>
+
+<ul>
+	<li>Pulse Pressure = SBP – DBP</li>
+	<li>MAP = [SBP + (DBP x 2)] / 3</li>
+</ul>
+
+<h4>Pulmonary</h4>
+
+<p><strong>Alveolar-arterial O2 gradient:</strong></p>
+
+<ul>
+	<li>A–a O2 gradient = [FiO2 x (pAtm – pH2O)] – (pCO2 / R) – pO2</li>
+	<li>= [FiO2 x (760 – 47)] – (pCO2 / 0.8) – pO2</li>
+	<li>= 150 – (pCO2 / 0.8) – pO2</li>
+	<li>{normal 5–25 or age/3} *at sea level on RA</li>
+</ul>
+
+<h4>Statistics</h4>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:208px;">
+			<p> </p>
+			</td>
+			<td style="width:208px;">
+			<p><strong>Disease (+)</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p><strong>Disease (–)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Test (+) </strong></p>
+			</td>
+			<td style="width:208px;">
+			<p>A True Positive</p>
+			</td>
+			<td style="width:208px;">
+			<p>B False Positive </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Test (–) </strong></p>
+			</td>
+			<td style="width:208px;">
+			<p>C False Negative </p>
+			</td>
+			<td style="width:208px;">
+			<p>D True Negative </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Sensitivity = A / (A + C)</li>
+	<li>Specificity = D / (D + B)</li>
+	<li>Positive Predictive Value = A / (A + B)</li>
+	<li>Negative Predictive Value = D / (C + D)</li>
+	<li>Positive Likelihood Ratio = sensitivity / (1 – specificity) </li>
+	<li>Negative Likelihood Ratio = (1 – sensitivity) / specificity </li>
+	<li>Number needed to treat (NNT) = 1 / (absolute risk reduction)</li>
+</ul>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/appendix-and-acknowledgements/appendix-and-acknowledgements" class="page-previous" title="Go to previous page">‹ Appendix and Acknowledgements</a>
+                    <a href="/appendix-and-acknowledgements/appendix-and-acknowledgements" class="page-up" title="Go to parent page">up</a>
+                    <a href="/appendix-b-abbreviations/appendix-b-abbreviations" class="page-next" title="Go to next page">Appendix B: Abbreviations ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=comment/reply/11%23comment-form">Log in</a> to post comments</span></li>
+</ul>
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first expanded active-trail menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements" class="active-trail">Appendix and Acknowledgements</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-1796"><a href="/appendix-formulas/appendix-formulas" class="active-trail active">Appendix A: Formulas</a></li>
+<li class="leaf menu-mlid-1801"><a href="/appendix-b-abbreviations/appendix-b-abbreviations">Appendix B: Abbreviations</a></li>
+<li class="leaf menu-mlid-1806"><a href="/appendix-c-sliding-scales/appendix-c-sliding-scales">Appendix C: Sliding Scales</a></li>
+<li class="leaf menu-mlid-2121"><a href="/handbook-editors/handbook-editors">Handbook Editors</a></li>
+<li class="last leaf menu-mlid-2126"><a href="/preface-and-acknowledgements/preface-and-acknowledgements">Preface and Acknowledgements</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

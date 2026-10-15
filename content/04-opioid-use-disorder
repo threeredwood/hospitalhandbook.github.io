@@ -1,0 +1,648 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/04-opioid-use-disorder" />
+<link rel="shortlink" href="/node/366" />
+<link rel="prev" href="/content/03-alcohol-withdrawal" />
+<link rel="up" href="/content/21-substance-use-disorders" />
+<link rel="next" href="/content/05-sedative-hypnotic-use-disorders-0" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/04-opioid-use-disorder" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/04-opioid-use-disorder" />
+<meta property="twitter:title" content="04. Opioid Use Disorder | Hospital Handbook" />
+<meta property="og:title" content="04. Opioid Use Disorder" />
+  <title>04. Opioid Use Disorder | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"kDtgyHMVTBMmzVZI7NMjpww-DxIZpfFJUCF97PFNdcY","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/04-opioid-use-disorder":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-366 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/04-opioid-use-disorder" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-NP-Alc4IyxddwHZODXweWzUIvvZr-sSyPUxZy3O3rQA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/21-substance-use-disorders" class="active-trail">21. Substance Use Disorders</a> > <span class="breadcrumb-page-title">04. Opioid Use Disorder</span></div></div></div>
+                  <h1 class="title" id="page-title">04. Opioid Use Disorder</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-366" class="node node-book clearfix" about="/content/04-opioid-use-disorder" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="04. Opioid Use Disorder" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Epidemiology</strong></p>
+
+<ul>
+	<li>2.1 million people meet OUD criteria.</li>
+</ul>
+
+<p><strong>Neurobiology</strong></p>
+
+<ul>
+	<li>Opioids are agonists at the mu receptor in the brain. They trigger a reward system that can lead to OUD.</li>
+</ul>
+
+<h3>Initial Assessment</h3>
+
+<ul>
+	<li>Single question screener: “how many times in the past year have you used an illegal drug or prescription medication for nonmedical reasons?”</li>
+	<li>Response of “at least once” is a positive screen, but does not equate OUD.</li>
+	<li><strong>Assessment using DSM-V criteria:</strong></li>
+	<li>For OUD as opposed to other SUD, must have criteria in addition to tolerance and withdrawal to meet OUD.
+	<ul>
+		<li>6Cs (lost control, unable to cut back, cravings, health consequences, physical consequences, relationship consequences).</li>
+		<li>Significant time obtaining, using, or recovering.</li>
+		<li>Interfered with home/school/work role.</li>
+		<li>Give up other important activities.</li>
+		<li>Increased tolerance.</li>
+		<li>Withdrawal symptoms.</li>
+	</ul>
+	</li>
+	<li>Severity: 2-3=mild, 4-5=moderate, and ≥6=severe.</li>
+	<li>Also ask about:
+	<ul>
+		<li>Other substances used.</li>
+		<li>Pattern of use, overdoses, syringe access services for those who inject, injection practices.</li>
+		<li>History of OUD treatment and current OUD goals.</li>
+		<li>Reason for use.</li>
+		<li>Support.</li>
+	</ul>
+	</li>
+	<li>PMH, past psychiatric history, medication history.</li>
+	<li>Physical exam.</li>
+	<li>Labs are not required, but recommend UTox, pregnancy testing, LFTs, HIV, hepatitis panel.</li>
+	<li>Check CURES (or other PDMP).</li>
+</ul>
+
+<h3>Opiate Withdrawal Presentation</h3>
+
+<p>Opiate withdrawal is rarely dangerous but is physically uncomfortable/distressing to the patient. It is best to prevent or quickly deal with withdrawal symptoms in the medically ill patient.</p>
+
+<p><strong>Pharmacokinetics</strong></p>
+
+<ul>
+	<li>Heroin withdrawal: begins 12-24 hours after last use, peaks at 2-3 days, lasts 5-7 days.</li>
+	<li>Methadone withdrawal: begins 1-3 days after last dose, peaks at 5-7 days, lasts 2-3 weeks.</li>
+</ul>
+
+<p><strong>Signs and symptoms</strong></p>
+
+<ul>
+	<li>Early/mild signs: sweating, yawning, rhinorrhea, dilated pupils, insomnia.</li>
+	<li>Late/severe signs: piloerection, vomiting, diarrhea.</li>
+	<li>Symptoms: body aches/pains, cramps, nausea, anxiety, opioid cravings.</li>
+</ul>
+
+<h3>Management</h3>
+
+<ul>
+	<li><strong>Opioid replacement</strong>: because of the variability in content of street heroin, empiric dosing is recommended rather than a conversion based on grams or reported daily use.</li>
+	<li>Drug of choice is morphine, unless the patient is already in a methadone maintenance program and you can contact the program manager. Methadone carries a serious risk of delayed respiratory arrest due to slow accumulation of drug (long half-life) and steady-state concentrations may not be reached for several days.</li>
+	<li>If currently in methadone program (detox or maintenance): verify current dose with case manager. Do NOT give large doses of methadone unless verified first.</li>
+	<li>Opioid adjuncts:</li>
+	<li>Clonidine (if BP can tolerate) PO or patch can be effective in reducing sympathetic activity (tachycardia, hypertension, piloerection) but does not fully suppress opioid craving. Start with caution in the inpatient setting as patients can develop rebound hypertension if discontinuing on discharge.</li>
+	<li>Treat insomnia with zolpidem or benzodiazepines.</li>
+	<li>Treat or prevent nicotine withdrawal in smokers.</li>
+	<li>Loperamide for diarrhea.</li>
+	<li>If not in a program, refer to substance abuse counseling services and outpatient program on discharge.</li>
+</ul>
+
+<p><strong>Evaluation of active withdrawal</strong></p>
+
+<ul>
+	<li>Clinical Opioid Withdrawal Scale (COWS) shortcut: subjective symptoms + 1 objective sign.</li>
+	<li>Subjective symptoms: nausea, abdominal pain, myalgias, chills.</li>
+	<li>Objective signs: restlessness, sweating, rhinorrhea, dilated pupils, watery eyes, tachycardia, yawning, goose bumps, vomiting, diarrhea, tremor.</li>
+	<li>Allow patient to choose primary medication (methadone, buprenorphine) and offer adjunct support. Remember that patients may have opioid deficit and these will not meet acute pain needs.</li>
+</ul>
+
+<p><img alt="" height="1295" src="https://hospitalhandbook.ucsfsitebuilder.acsitefactory.com/sites/g/files/tkssra6536/f/Picture1_27.png" width="977" /></p>
+
+<p><strong>Primary medications for OUD treatment</strong></p>
+
+<ul>
+	<li><strong>Buprenorphine</strong>:
+
+	<ul>
+		<li>Check Utox, pregnancy test, CURES (in CA), LFTs.</li>
+		<li>Ask about last opioid used:
+		<ul>
+			<li>If short-acting: wait up to 12 hours before buprenorphine initiation but can start as soon as COWS 8-11.</li>
+			<li>If long acting (e.g. MS Contin): wait 24-48 hours before buprenorphine initiation but can start as soon as COWS 8-11.</li>
+			<li>If methadone: wait 5 days or consult Addiction Care Team (ACT) for gradual buprenorphine uptitration protocol.</li>
+			<li>If cannot have an opioid free period, consult ACT for assistance.</li>
+		</ul>
+		</li>
+		<li>Day 1: if COWS &gt;8, give buprenorphine 4-8 mg sublingual (if concerned about precipitated withdrawal, start at 2 mg).
+		<ul>
+			<li>1 hour later, recheck COWS. If &gt;8, give 4 mg more.</li>
+			<li>6 hours later, recheck COWS. If &gt;8, give 4 mg more.</li>
+			<li>Do not exceed 16 mg on day 1.</li>
+		</ul>
+		</li>
+		<li>Day 2: give total day 1 dose in AM.
+		<ul>
+			<li>1 hour later, if having craving, pain, withdrawal give 4-8 mg more.</li>
+			<li>Goal daily dose 16-24 mg.</li>
+			<li>Split into TID dosing if there is concurrent pain.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Methadone</strong>:</li>
+	<li>Check Utox, pregnancy test, EKG (to evaluate QTc), CURES (in CA).</li>
+	<li>Day 1: give methadone 20 mg.
+	<ul>
+		<li>Check COWS q4h. If &gt;8, give 10 mg more. Can repeat for up to 40mg on day 1.</li>
+		<li>Do not exceed 40 mg on day 1.</li>
+		<li>Can give additional short acting opioids if acute pain or continued withdrawal despite methadone.</li>
+		<li>Ensure adjunctive medications are also scheduled.</li>
+	</ul>
+	</li>
+	<li>Day 2: give total day 1 dose in AM.
+	<ul>
+		<li>Check COWS q4h. If &gt;8, give 10 mg more.</li>
+		<li>Do not exceed 50 mg on day 2.</li>
+	</ul>
+	</li>
+	<li>Day 3: give total day 2 dose in AM.
+	<ul>
+		<li>Check COWS q4h. If &gt;8, give 10 mg more.</li>
+		<li>Do not exceed 60 mg on day 3.</li>
+	</ul>
+	</li>
+	<li>Day 4: give total day 3 dose in AM.
+	<ul>
+		<li>If already reached 60 mg daily, continue current dose for 5 days before next 10 mg increase.</li>
+		<li>If &lt;60 mg daily, may give 10 mg to reach 60 mg/day maximum.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Adjunctive support</strong></p>
+
+<ul>
+	<li>For sweating, restlessness, hot flashes, watery eyes, anxiety: <strong>clonidine </strong>0.1-0.3 mg PO q6-8h PRN (max 1.2 mg/day).</li>
+	<li>For loose stools: <strong>loperamide </strong>4 mg PO x1, then 2 mg PRN (max 16 mg/day).</li>
+	<li>For nausea: <strong>zofran </strong>4 mg PO q6h PRN.</li>
+	<li>For insomnia: <strong>trazodone </strong>50-100 mg PO qHS PRN, <strong>melatonin </strong>3-9 mg PO qHS PRN.</li>
+	<li>For anxiety and insomnia: <strong>diphenhydramine </strong>25-50 mg PO q8h PRN.</li>
+	<li>For pain: <strong>tylenol </strong>650 mg PO q6h PRN, <strong>ibuprofen </strong>200-800 mg PO q8h PRN.</li>
+</ul>
+
+<p><strong>Medication-Assisted Treatment</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="624">
+	<thead>
+		<tr>
+			<th scope="col">
+			<p><strong>Medication</strong></p>
+			</th>
+			<th scope="col">
+			<p><strong>Methadone</strong></p>
+			</th>
+			<th scope="col">
+			<p><strong>Buprenorphine</strong></p>
+			</th>
+			<th scope="col">
+			<p><strong>Extended-Release Naltrexone</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Mechanism</strong></p>
+			</td>
+			<td>
+			<p>Full mu agonist</p>
+			</td>
+			<td>
+			<p>Partial mu agonist. Comes with naloxone to discourage injecting</p>
+			</td>
+			<td>
+			<p>Mu antagonist</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Adverse effects</strong></p>
+			</td>
+			<td>
+			<p>Sedation, constipation, hypogonadism, prolonged QT, drug-drug interactions, overdose is possible</p>
+			</td>
+			<td>
+			<p>Headache, nausea, constipation, insomnia/hypomania in predisposed patients</p>
+			</td>
+			<td>
+			<p>Injection site reaction, headache, depression, insomnia, increased ALT</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Contra-indications</strong></p>
+			</td>
+			<td>
+			<p>Active sedation, intoxication</p>
+			</td>
+			<td>
+			<p>Active sedation, intoxication</p>
+
+			<p>In severe hepatic impairment use buprenorphine monoproduct</p>
+			</td>
+			<td>
+			<p>Active sedation, intoxication</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Effectiveness</strong></p>
+			</td>
+			<td>
+			<p>Decreases morbidity and mortality, reduced opioid use, HIV transmission, risky behavior; all-cause mortality is 3x higher when methadone is stopped</p>
+
+			<p>Treatment retention equivalent to high dose buprenorphine</p>
+			</td>
+			<td>
+			<p>All-cause mortality reduced by 50%</p>
+
+			<p>Treatment retention (buprenorphine dose &gt; 16 mg) similar to methadone</p>
+			</td>
+			<td>
+			<p>Similar to buprenorphine but initiation is difficult (XBOT trial)</p>
+
+			<p>Oral form is ineffective</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Treatment locations</strong></p>
+			</td>
+			<td>
+			<p>Federally certified opioid treatment programs (OTP)</p>
+			</td>
+			<td>
+			<p>Many: primary care (need x waiver), OTP, SUD clinics</p>
+			</td>
+			<td>
+			<p>Many: primary care, SUD clinics</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Initiation considerations</strong></p>
+			</td>
+			<td>
+			<p>Must commit to daily OTP visit</p>
+
+			<p>Do <strong>not </strong>need to be in withdrawal for initiation</p>
+			</td>
+			<td>
+			<p>Variable based on patient needs</p>
+
+			<p>Mild withdrawal required for initiation if recently used opioids</p>
+			</td>
+			<td>
+			<p>May be seen monthly</p>
+
+			<p>Complete withdrawal required for initiation</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Initiation regimen</strong></p>
+			</td>
+			<td>
+			<p>See above</p>
+			</td>
+			<td>
+			<p>See above</p>
+			</td>
+			<td>
+			<p>380 mg IM q4 weeks</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Pain considerations</strong></p>
+			</td>
+			<td>
+			<p>Full dose should be continued with additional opioid and non-opioid analgesics as needed. In hospital can split into TID dosing but dose must be consolidated by discharge. Cannot be prescribed in setting of OUD as must be obtained by OTP</p>
+			</td>
+			<td>
+			<p>Full dose should be continued with additional opioid and non-opioid analgesics as needed.</p>
+
+			<p>Can also increase dose</p>
+
+			<p>Consider 3x daily dosing</p>
+			</td>
+			<td>
+			<p>Hold naltrexone if due</p>
+
+			<p>Opioids will be less effective, use nonopioid analgesics (ketamine, regional block)</p>
+
+			<p>If opioids needed, use high dose in carefully monitored setting (risk of overdose as naltrexone dissociates)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>Who can prescribe buprenorphine and for how long?</strong></p>
+
+<ul>
+	<li>Eligible providers: need DEA X-waiver though in the emergency department and inpatient setting do not need X-waiver!</li>
+	<li>DEA x-waiver exceptions:
+	<ul>
+		<li>Any licensed provider in any setting can administer buprenorphine to a patient with OUD for up to 3 consecutive days without a DEA waiver (administration is defined as giving medication under observation, as opposed to prescribing).
+		<ul>
+			<li>Hospitalized patients can receive buprenorphine during entire hospital course (no 3-day limit).</li>
+		</ul>
+		</li>
+		<li>Treating patient for pain: any buprenorphine formulation can be used.</li>
+		<li>Managing withdrawal while facilitating entry into treatment for at most 3 days while patient is under observation.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Who can prescribe methadone and for how long?</strong></p>
+
+<ul>
+	<li>Inpatient providers can order methadone for opioid withdrawal, OUD, or to continue outpatient treatment.</li>
+	<li>Inpatient providers CANNOT prescribe methadone for OUD on discharge.</li>
+</ul>
+
+<h3>Harm Reduction</h3>
+
+<ul>
+	<li>Screening tests:
+	<ul>
+		<li>HIV, HCV, RPR, QFT/PPD.</li>
+	</ul>
+	</li>
+	<li>Offer treatment and prophylaxis:
+	<ul>
+		<li>HCV.</li>
+		<li>HIV (PrEP is HIV prophylaxis).</li>
+	</ul>
+	</li>
+	<li>Offer immunizations:
+	<ul>
+		<li>HAV, HBV, Tdap.</li>
+	</ul>
+	</li>
+	<li>Review safe injection practices: buddy system, clean injection site, inject slowly, use clean needs, don’t share needles.</li>
+	<li>Offer information on syringe access programs.</li>
+	<li>Provide naloxone at discharge.</li>
+</ul>
+
+<p><strong>Tool for patients to decide if ready to start Medications for OUD (MOUD), which MOUD to start, how to start:</strong></p>
+
+<p><a href="https://mat-decisions-in-recovery.samhsa.gov/">https://mat-decisions-in-recovery.samhsa.gov/</a></p>
+
+<p> </p>
+
+<p><em>Coffa D, Snyder H. OUD: Medical Treatment Options</em></p>
+
+<p><em>Kosten TR, O</em><em>’Connor PG. Management of drug and alcohol withdrawal. N Engl J Med 2003;348:1786-1795.</em></p>
+
+<p><em>Tetrault JM, O</em><em>’Connor PG. Substance abuse and withdrawal in the critical care setting. Crit Care Clin  2008; 24(4): 767-88.</em></p>
+
+<p><em>UCSF OUD, Withdrawal and Linkage to Treatment Pocket Card</em></p>
+
+<p><a href="https://www.bccsu.ca/wp-content/uploads/2017/06/BC-OUD-Guidelines_June2017.pdf"><em>https://www.bccsu.ca/wp-content/uploads/2017/06/BC-OUD-Guidelines_June2017.pdf</em></a></p>
+
+<p><a href="https://www.chcf.org/wp-content/uploads/2019/08/BuprenorphineOverviewClinicians.pdf"><em>https://www.chcf.org/wp-content/uploads/2019/08/BuprenorphineOverviewClinicians.pdf</em></a></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/03-alcohol-withdrawal" class="page-previous" title="Go to previous page">‹ 03. Alcohol Withdrawal</a>
+                    <a href="/content/21-substance-use-disorders" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/05-sedative-hypnotic-use-disorders-0" class="page-next" title="Go to next page">05. Sedative hypnotic use disorders ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last expanded active-trail menu-mlid-2581"><a href="/content/21-substance-use-disorders" class="active-trail">21. Substance Use Disorders</a><ul class="menu"><li class="first leaf menu-mlid-2611"><a href="/content/01-psychosocial-interventions-and-harm-reduction">01. Psychosocial Interventions and Harm Reduction</a></li>
+<li class="leaf menu-mlid-2731"><a href="/content/02-alcohol-use-disorder">02. Alcohol Use Disorder</a></li>
+<li class="leaf menu-mlid-2736"><a href="/content/03-alcohol-withdrawal">03. Alcohol Withdrawal</a></li>
+<li class="leaf active-trail active menu-mlid-2741"><a href="/content/04-opioid-use-disorder" class="active-trail active">04. Opioid Use Disorder</a></li>
+<li class="leaf menu-mlid-2746"><a href="/content/05-sedative-hypnotic-use-disorders-0">05. Sedative hypnotic use disorders</a></li>
+<li class="leaf menu-mlid-2751"><a href="/content/06-stimulant-use-disorders-0">06. Stimulant Use Disorders</a></li>
+<li class="last leaf menu-mlid-2756"><a href="/content/07-tobacco-use-disorder">07. Tobacco Use Disorder</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

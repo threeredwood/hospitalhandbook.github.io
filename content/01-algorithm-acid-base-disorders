@@ -1,0 +1,654 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/01-algorithm-acid-base-disorders" />
+<link rel="shortlink" href="/node/1251" />
+<link rel="prev" href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" />
+<link rel="up" href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" />
+<link rel="next" href="/content/01-algorithm-acid-base-disorders-0" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/01-algorithm-acid-base-disorders" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/01-algorithm-acid-base-disorders" />
+<meta property="twitter:title" content="01. Algorithm For Acid-Base Disorders | Hospital Handbook" />
+<meta property="og:title" content="01. Algorithm For Acid-Base Disorders" />
+  <title>01. Algorithm For Acid-Base Disorders | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"E3JzQb5cia_A0yrTiml-WFszvEBXDN5aEe-YE9tTiC0","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/01-algorithm-acid-base-disorders":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1251 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/01-algorithm-acid-base-disorders" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-gx7gDwoLM3yftF9eOtGgf4V3lv7nH9RFE4KtyQICyg0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="active-trail">06. Acid-BaseIElectrolytes</a> > <span class="breadcrumb-page-title">01. Algorithm For Acid-Base Disorders</span></div></div></div>
+                  <h1 class="title" id="page-title">01. Algorithm For Acid-Base Disorders</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1251" class="node node-book clearfix" about="/content/01-algorithm-acid-base-disorders" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Algorithm For Acid-Base Disorders" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Before You Begin: Gather Data</h3>
+
+<p><strong>What lab tests do you need?</strong></p>
+
+<ul>
+	<li>ABG vs. VBG
+	<ul>
+		<li>VBG can provide reliable estimation for pH (0.02-0.04 <u>lower</u> than ABG) and HCO3 (1-2 mEq <u>higher</u> than ABG).</li>
+		<li>pCO2 on VBG is <u>higher</u> than arterial PaO2 by 4-9mmHg.</li>
+		<li>ABG is necessary to accurately assess PaCO2 in hypercapnia or severe shock.</li>
+	</ul>
+	</li>
+	<li>Basic metabolic panel.</li>
+	<li>Albumin.</li>
+	<li>See specific acid-base disturbances for other helpful testing.</li>
+</ul>
+
+<h3>Step 1: Determine Primary Acid-Base Disturbance</h3>
+
+<p>Remember that chronic acid-base disturbance(s) and/or mixed acute acid-base disturbances can be obscured by a normal pH.</p>
+
+<p><strong>Consider the following “normal” values</strong></p>
+
+<ul>
+	<li>Arterial pH: 7.40</li>
+	<li>Arterial pCO2: 40</li>
+	<li>Bicarb (HCO3): 24</li>
+	<li>Anion gap: 12</li>
+</ul>
+
+<p><strong>Acidemia</strong></p>
+
+<ul>
+	<li>pH &lt; 7.38</li>
+	<li>Primary disturbance
+	<ul>
+		<li>Respiratory acidosis = pCO2 &gt; 42</li>
+		<li>Metabolic acidosis = HCO3 &lt; 22</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Alkalemia</strong></p>
+
+<ul>
+	<li>pH &gt; 7.42</li>
+	<li>Primary disturbance 
+	<ul>
+		<li>Respiratory alkalosis = pCO2 &lt; 38</li>
+		<li>Metabolic alkalosis = HCO3 &gt; 26</li>
+	</ul>
+	</li>
+</ul>
+
+<h3><h>Step 2a: Calculate and Interpret the Anion Gap</h></h3>
+<h>
+<ul>
+	<li><strong>Anion gap (AG) = [Na] – [Cl] – [HCO3].</strong></li>
+	<li>Normal AG = 8-12 mEq/L with a serum albumin of 4g/dl.
+	<ul>
+		<li>The normal AG depends on serum albumin. The expected "normal" range for AG can be calculated by 2.5 x albumin (g/dl) +/- 2.
+		<ul>
+			<li>For severe hypoalbuminemia (2.0 g/dl), the expected gap would be 5 +/- 2, and an AG of 8-12 would be abnormally elevated.</li>
+		</ul>
+		</li>
+		<li>Paraproteinemia (especially polyclonal or monoclonal IgG) can lower anion gap due to the abundance of cations added to the system; this should be accounted for when evaluating anion gap since it could obscure a truly elevated AG.</li>
+		<li>For calculation, &gt;12 is generally used as the cutoff for a high AG. Because 12 is the upper limit of normal, keep in mind that approach might increase specificity for elevated AG at the cost of sensitivity. Because of person-to-person variation in “normal” AG, it can be useful to review a patient’s previous values of AG to establish a baseline and give context to small, acute changes in AG. </li>
+	</ul>
+	</li>
+	<li>If the AG is elevated, there is an anion gap metabolic acidosis present. Proceed to step 2b.</li>
+	<li>If the AG not elevated, there is not an anion gap metabolic acidosis present. Proceed to step 3.</li>
+</ul>
+
+<h3>Step 2b: Calculate and Interpret the Excess Anion Gap</h3>
+
+<ul>
+	<li><strong>If there is an anion gap, </strong><strong>determine whether the excess in AG fully explains the drop in bicarbonate.</strong>
+
+	<ul>
+		<li>For every 1 unit increase in AG (△AG↑) from its upper limit of normal value (12), there is an expected 1 drop in HCO3 (△HCO3↓) from its “normal” value (24). </li>
+		<li>If the AG and HCO3 are balanced, (△HCO3 ± 5mmol/L ≈ △AG), there is no concurrent metabolic process.</li>
+		<li>If the HCO3 is <u>lower</u> than expected (△HCO3 ± 5mmol/L &gt; △AG), there is a concurrent non-elevated anion gap metabolic acidosis as evidenced by a <u>reduction</u> of HCO3.</li>
+		<li>If the HCO3 is <u>higher</u> than expected (△HCO3 ± 5mmol/L &lt; △AG), there is a concurrent metabolic alkalosis as evidenced by an <u>excess</u> of HCO3.</li>
+		<li>The 5mmol/L correction accounts for the normal range of bicarbonate.</li>
+	</ul>
+	</li>
+	<li>Alternate approach to answer this question: “correcting” the bicarb.
+	<ul>
+		<li>Corrected HCO3 = HCO3 + (AG - 12).</li>
+		<li>If the sum is greater than the usual bicarbonate range (&gt; 28), there is a concomitant metabolic alkalosis. If the sum is less than the usual bicarbonate range (&lt; 22), there is a concomitant non-elevated anion gap metabolic acidosis.</li>
+	</ul>
+	</li>
+	<li>Finally, there is a third approach to this same problem, “the delta-delta,” which is not discussed here.</li>
+</ul>
+
+<h3>Step 3: Evaluate for Compensation</h3>
+
+<p>Evaluate for physiologic compensation for the acid-base disorder. Any values above or below expected suggest an additional acid-base disturbance; a compensation should not normalize or overcorrect the pH. The following table gives a quick rule-of-thumb for evaluating compensation. More detailed formulas are listed below. </p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:624px;" width="624">
+	<thead>
+		<tr>
+			<th scope="col"> </th>
+			<th scope="col">
+			<p><strong>Primary disturbance</strong></p>
+			</th>
+			<th scope="col">
+			<p><strong>Compensatory change</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+			<p>Metabolic acidosis</p>
+			</td>
+			<td>
+			<p>1 ↓ HCO3</p>
+			</td>
+			<td>
+			<p>1 ↓ pCO2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Metabolic alkalosis</p>
+			</td>
+			<td>
+			<p>10 ↑ HCO3</p>
+			</td>
+			<td>
+			<p>7 ↑ pCO2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Acute respiratory acidosis</p>
+			</td>
+			<td>
+			<p>10 ↑ pCO2</p>
+			</td>
+			<td>
+			<p>1 ↑ HCO3</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Chronic respiratory acidosis</p>
+			</td>
+			<td>
+			<p>10 ↑ pCO2</p>
+			</td>
+			<td>
+			<p>4 ↑ HCO3</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Acute respiratory alkalosis</p>
+			</td>
+			<td>
+			<p>10 ↓ pCO2</p>
+			</td>
+			<td>
+			<p>2 ↓ HCO3</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Chronic respiratory alkalosis</p>
+			</td>
+			<td>
+			<p>10 ↓  pCO2</p>
+			</td>
+			<td>
+			<p>4 ↓ HCO3</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li><strong>Metabolic acidosis: </strong>
+
+	<ul>
+		<li>There are several methods for estimating pCO2 compensation:
+		<ul>
+			<li>Most precise: Winter’s formula.
+			<ul>
+				<li>Expected pCO2 = [(1.5 x serum HCO3) + 8] ± 2.
+				<ul>
+					<li>If measured pCO2 &gt; expected pCO2, concomitant respiratory acidosis is present.</li>
+					<li>If measured pCO2 &lt; expected pCO2 concomitant respiratory alkalosis is present.</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li>Less precise: expected pCO2 = [serum bicarbonate) + 15.</li>
+		<li>Least precise: expected pCO2 = last two digits of pH (e.g. pH 7.15, pCO2 should be 15).</li>
+	</ul>
+	</li>
+	<li><strong>Metabolic alkalosis:</strong>
+	<ul>
+		<li>pCO2 increases 0.7 mmHg for each mmol/L increase in HCO3.</li>
+		<li>Expected pCO2 = 0.7([HCO3] - 24) + 40 ± 2.</li>
+	</ul>
+	</li>
+	<li><strong>Respiratory acidosis:</strong>
+	<ul>
+		<li>Acute (&lt;3-5 days): HCO3 increases 0.1 mmol/L for every mmHg increase in pCO2.</li>
+		<li>Chronic (&gt;3-5 days): HCO3 increases 0.35 mmol/L for every mmHg increase in pCO2.</li>
+		<li>The reason respiratory disorders have acute/chronic phases is that it takes the kidneys several days to fully compensate. Respiratory compensation of metabolic pH disorders is nearly immediate.</li>
+	</ul>
+	</li>
+	<li><strong>Respiratory alkalosis:</strong>
+	<ul>
+		<li>Acute (&lt;3-5 days): HCO3 decreases 0.22 mmol/L for every mmHg decrease in pCO2.</li>
+		<li>Chronic (&gt;3-5 days): HCO3 decreases 0.4 mmol/L for every mmHg decrease in pCO2.</li>
+	</ul>
+	</li>
+	<li>No need to calculate compensation if you have a primary respiratory disorder as well as a gap acidosis, as that has already been done in step 2b.</li>
+	<li><em>Key point</em>: physiologic compensation never normalizes the pH; a normal pH indicates at least 2 primary acid-base disorders.</li>
+</ul>
+
+<h3>Differential Diagnosis for Each Disorder</h3>
+
+<p><strong>Respiratory alkalosis</strong></p>
+
+<ul>
+	<li>Anything that causes hyperventilation:
+	<ul>
+		<li>CNS: anxiety, pain, primary CNS disorders, Cheyne-Stokes respirations.</li>
+		<li>Pulmonary receptor stimulation (asthma, pneumonia, pulmonary edema, or embolism).</li>
+		<li>Systemic: chronic liver failure, pregnancy, sepsis, hyperthyroidism.</li>
+		<li>Drugs (salicylates, theophylline).</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Respiratory acidosis</strong></p>
+
+<ul>
+	<li>Respiratory center inhibition (sedatives, excessive supplemental O2 administration in chronic hypercarbic respiratory failure).</li>
+	<li>Neuromuscular disorder (Guillain–Barré, myasthenia gravis, myopathies, hypokalemia).</li>
+	<li>Chest wall or pleural disorders (scoliosis, ankylosing spondylitis, pneumothorax).</li>
+	<li>Airway obstruction (tracheal/laryngeal/bronchial).</li>
+	<li>Acute and chronic lung disease through several of the above mechanisms (obstructive sleep apnea, obesity hypoventilation syndrome, COPD, interstitial fibrosis).</li>
+	<li>Iatrogenic hypoventilation (insufficient respiratory rate or tidal volumes on mechanical ventilation).</li>
+</ul>
+
+<p><strong>Metabolic alkalosis</strong></p>
+
+<ul>
+	<li><u>Saline–responsive</u> (urine chloride &lt; 25 mEq/L): volume depletion, vomiting, anorexia, NG drainage, diuretic use, lingering compensation for resolved hypercapnia, cystic fibrosis, villous adenoma.</li>
+	<li><u>Saline–resistant</u> (urine chloride &gt; 40 mEq/L): hypokalemia (K&lt;2), primary hyperaldosteronism (Conn’s syndrome), secondary hyperaldosteronism (CHF, cirrhosis, ascites), Cushing’s disease, Bartter’s syndrome, Gitelman’s syndrome, Liddle’s syndrome, licorice ingestion.</li>
+	<li>Miscellaneous: poorly resorbed anion (high dose carbenicillin or other penicillin derivatives), refeeding alkalosis, administration of alkali (excessive treatment for acidosis, massive transfusions with citrate anticoagulant, milk alkali).</li>
+</ul>
+
+<p><strong>High anion gap metabolic acidosis</strong></p>
+
+<ul>
+	<li>Mnemonic for causes: the mnemonic <strong>GOLDMARK </strong>replaces the older MUDPILERS and is a more accurate reflection of common modern causes of anion gap acidosis. The starred conditions are the most common causes. 
+
+	<ul>
+		<li>G    glycols (ethylene and propylene)</li>
+		<li>O   5-oxoproline (from chronic acetaminophen use, often in those with malnutrition) </li>
+		<li>L    L-lactic acid*</li>
+		<li>D    D-lactic acid (from short-gut syndrome)</li>
+		<li>M   Methanol</li>
+		<li>A    Aspirin</li>
+		<li>R    Renal failure*</li>
+		<li>K    Ketones* (from diabetes, alcohol, or starvation)</li>
+	</ul>
+	</li>
+	<li><u>Helpful studies in building differential</u>:
+	<ul>
+		<li>Serum ketones (β-hydroxybutyrate level) and serum lactate.</li>
+		<li>Urine toxicology screen, serum salicylate levels, ethanol levels and possibly acetaminophen levels (if history/concern for ingestion).</li>
+		<li>Serum CK if there is suspicion for massive rhabdomyolysis.</li>
+		<li>If concerned for an ingestion, calculate the <strong>osmolal gap</strong> to assess for toxins such as glycols and methanol.
+		<ul>
+			<li>Osmolal gap = measured serum osmolality – calculated serum osmolality.</li>
+			<li>Calculated serum osmolality = (2 x Na) + (BUN / 2.8) + (Glucose / 18) + (EtOH / 3.7).</li>
+			<li>Normal gap = 0-6 (can be ~10 in ICU given other unknown osmoles).</li>
+			<li>If osmolal gap &gt; 10, consider ingestion of toxic alcohol, but note that osmolal gap is NOT very sensitive.
+			<ul>
+				<li>Isopropyl alcohol causes an osmolal gap but does NOT cause AG metabolic acidosis.</li>
+				<li>As toxic alcohol is metabolized, anion gap will increase as osmolal gap slowly decreases -- so an elevated anion gap with low osmolal gap can be seen in late phase of intoxication. Likewise, a very early ingestion may present with elevated osmolal gap but normal anion gap.</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Normal anion gap metabolic acidosis</strong></p>
+
+<ul>
+	<li>Renal causes
+	<ul>
+		<li>Chronic kidney disease.</li>
+		<li>Renal tubular acidosis (more detail in RTA section).</li>
+		<li>Urinary tract diversions (uretosigmoidostomy or fistula, ileal conduit).</li>
+	</ul>
+	</li>
+	<li>GI causes
+	<ul>
+		<li>Functional: diarrhea, ileus.</li>
+		<li>Structural: pancreatic fistula, villous adenoma.</li>
+	</ul>
+	</li>
+	<li>Iatrogenic causes
+	<ul>
+		<li>Administration of chloride (e.g. large volume resuscitation with normal saline), plasma exchange.</li>
+		<li>TPN.</li>
+		<li>Cholestyramine.</li>
+		<li>Acetazolamide.</li>
+	</ul>
+	</li>
+	<li>Determining the <strong>urine anion gap</strong> (UAG) helps to distinguish renal from GI causes. 
+	<ul>
+		<li>UAG is a surrogate for urine NH4+, the unmeasured cation in the urine.</li>
+		<li>UAG = UNa + UK – UCl.
+		<ul>
+			<li>UAG &lt; 0 suggests extrarenal cause: the kidney is appropriately compensating for the acidosis by secreting NH4+. Mnemonic: UAG <em>is ne-GUT-ive</em> in GI causes. </li>
+			<li>UAG &gt; 0 suggests renal cause (UAG may be negative in some cases of proximal RTA).</li>
+		</ul>
+		</li>
+		<li>Note: UAG should not be used if there is excretion of another anion (lactate, DKA anions, etc.) OR if urine sodium &lt;20 mEq/L (insufficient Na+ delivery to the distal tubule does not allow for H+ exchange required for urinary acidification).
+		<ul>
+			<li>If urine sodium &lt;20 mEq/L, consider calculating urine osmolal gap (UOG) instead.
+			<ul>
+				<li>UOG = 2(UNa +UK) + Uurea/2.8 + Uglucose/18. </li>
+				<li>UOG &lt;50 is suggestive of RTA.</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Common Questions in Metabolic Acidosis</h3>
+
+<p><strong>What is the pathophysiology of saline-induced normal anion gap (hyperchloremic) metabolic acidosis? </strong></p>
+
+<p>The normal anion gap metabolic acidosis resulting from large volume administration of normal saline (NS) can be explained as a dilutional effect on the existing bicarbonate level. This is because NS contains a supraphysiologic concentration of chloride (154 mEq/L) and no bicarbonate; thus it will raise serum chloride while diluting other anions - namely lowering bicarbonate - inducing a metabolic acidosis. This may be avoided by using a balanced intravenous solution such as Lactated Ringer’s or Plasmalyte. These solutions have a lower [Cl-] concentration compared to NS and, most importantly, contain lactate and acetate respectively, which are rapidly metabolized to an equimolar amount of bicarbonate.  </p>
+
+<p><strong>What are the disadvantages of giving bicarbonate in the setting of acute metabolic acidosis? </strong></p>
+
+<ul>
+	<li>Can cause an initial transient <em>worsening</em> of intracellular acidosis.</li>
+	<li>Can lead to generation of increased CO2 which causes respiratory acidosis (especially in patients with respiratory failure such as in ARDS).</li>
+	<li>Can represent a large sodium load that can exacerbate hypervolemia.</li>
+	<li>Can worsen hypokalemia.</li>
+</ul>
+
+<p>The <strong>2008 Surviving Sepsis guidelines recommend against its use in sepsis if pH &gt; 7.15</strong>. One can consider temporary NaHCO3 administration in the setting of severe metabolic acidosis (pH &lt; 7.1) or to facilitate permissive hypercarbia. In most cases of normal anion gap metabolic acidosis, it is probably safe. Consider renal replacement therapy in cases of severe acidosis refractory to medical therapy.</p>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>It is important to follow a systematic approach each time interpreting a blood gas. Establish the primary disorder. Calculate AG to reveal an anion gap metabolic acidosis (can be hidden when pH is normal but mixed disorders are present). Compare △AG and △HCO3 to look for concurrent metabolic alkalosis or normal anion gap metabolic acidosis. Use a compensation chart/formula to reveal “overcompensation” or “undercompensation” which indicates the presence of another disorder.</li>
+	<li>The presence of a normal pH with abnormal pCO2 and bicarbonate suggests a mixed acid-base disorder with counterbalancing acidosis and alkalosis.</li>
+	<li>The pCO2 and serum bicarbonate typically <em>move in parallel with an isolated acid-base disorder</em>; both are high OR both are low. For example, a respiratory acidosis will have an increased pCO2 with a compensatory increase in serum bicarbonate. If the pCO2 and serum bicarbonate <em>move in opposite directions</em> (one high and one low), then you should consider the possibility of <em>two simultaneous primary acid-base disorders </em>(i.e., a mixed acid-base disorder).</li>
+	<li>A mixed acid-based disorder consists of any combination of at least two disorders: two metabolic disturbances OR one respiratory and one metabolic. Triple acid-base disorders include one respiratory disorder (acidosis or alkalosis) with two metabolic disorders (high gap and normal gap metabolic acidosis OR high gap metabolic acidosis and metabolic alkalosis).</li>
+</ul>
+
+<p style="margin-left:.25in;"> </p>
+
+<p><em>Berend K, de Vries APJ, Gans ROB. Physiological Approach to Assessment of Acid–Base Disturbances. New England Journal of Medicine. 2014;371(15):1434-1445. Doi :</em><a href="https://doi.org/10.1056/NEJMra1003327"><em>10.1056/NEJMra1003327</em></a></p>
+
+<p><em>Haber RJ.  A practical approach to acid-base disorders.  West J Med 1991;155:146-151.</em></p>
+
+<p><em>Kraut JA, Nagami GT. The serum anion gap in the evaluation of acid-base disorders: what are its limitations and can its effectiveness be improved? Clin J Am Soc Nephrol 2013;8(11):2018–24.</em></p>
+
+<p><em>Kraut JA, Madias NE. Serum anion gap: its uses and limitations in clinical medicine. Clin J Am Soc Nephrol 2007;2(1):162–74.</em></p>
+
+<p><em>Kraut JA, Mullins ME. Toxic Alcohols. New England Journal of Medicine. 2018;378(3):270-280. doi:</em><a href="https://doi.org/10.1056/NEJMra1615295"><em>10.1056/NEJMra1615295</em></a> </p>
+
+<p><em>Rose &amp; Post. Clinical Physiology of Acid-Base and Electrolyte Disorders: 5th Edition. 2001</em></p>
+</h></div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="page-previous" title="Go to previous page">‹ 06. Acid-BaseIElectrolytes</a>
+                    <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/01-algorithm-acid-base-disorders-0" class="page-next" title="Go to next page">01. Algorithm For Acid-Base Disorders ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="expanded active-trail menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="active-trail">06. Acid-BaseIElectrolytes</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-3616"><a href="/content/01-algorithm-acid-base-disorders" class="active-trail active">01. Algorithm For Acid-Base Disorders</a></li>
+<li class="leaf menu-mlid-3621"><a href="/content/01-algorithm-acid-base-disorders-0">01. Algorithm For Acid-Base Disorders</a></li>
+<li class="leaf menu-mlid-3626"><a href="/content/02-renal-tubular-acidosis">02. Renal Tubular Acidosis</a></li>
+<li class="leaf menu-mlid-3631"><a href="/content/03-hyponatremia">03. Hyponatremia</a></li>
+<li class="leaf menu-mlid-3636"><a href="/content/04-hypernatremia">04. Hypernatremia</a></li>
+<li class="leaf menu-mlid-3641"><a href="/05-hypokalemia/05-hypokalemia">05. Hypokalemia</a></li>
+<li class="leaf menu-mlid-3646"><a href="/content/06-hyperkalemia">06. Hyperkalemia</a></li>
+<li class="leaf menu-mlid-3651"><a href="/07-hypomagnesemia/07-hypomagnesemia">07. Hypomagnesemia</a></li>
+<li class="leaf menu-mlid-3656"><a href="/content/08-hypermagnesemia">08. Hypermagnesemia</a></li>
+<li class="leaf menu-mlid-3661"><a href="/content/09-hypocalcemia">09. Hypocalcemia</a></li>
+<li class="leaf menu-mlid-3666"><a href="/content/10-hypercalcemia">10. Hypercalcemia</a></li>
+<li class="leaf menu-mlid-3671"><a href="/11-hypophosphatemia/11-hypophosphatemia">11. Hypophosphatemia</a></li>
+<li class="last leaf menu-mlid-3676"><a href="/content/12-hyperphosphatemia">12. Hyperphosphatemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,776 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/08-pain-management" />
+<link rel="shortlink" href="/node/311" />
+<link rel="prev" href="/content/07-symptom-management-palliative-care-0" />
+<link rel="up" href="/content/19-palliative-care" />
+<link rel="next" href="/content/09-self-care-0" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/08-pain-management" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/08-pain-management" />
+<meta property="twitter:title" content="08. Pain Management | Hospital Handbook" />
+<meta property="og:title" content="08. Pain Management" />
+  <title>08. Pain Management | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"9wCSAtxywtb2JLvPs9vbUXF8GwZSDPGW1i9zvHBEq9I","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/08-pain-management":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-311 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/08-pain-management" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vOT72PQVyj5QGNXOU2jdDF8UM4BcgIOriS9sa7-K2-I" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/19-palliative-care" class="active-trail">19. Palliative Care</a> > <span class="breadcrumb-page-title">08. Pain Management</span></div></div></div>
+                  <h1 class="title" id="page-title">08. Pain Management</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-311" class="node node-book clearfix" about="/content/08-pain-management" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="08. Pain Management" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Modified WHO 4-step ladder</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:624px;" width="625">
+	<tbody>
+		<tr>
+			<td style="width:157px;height:46px;">
+			<p><strong><em>Mild Pain</em></strong>       &gt;</p>
+			</td>
+			<td style="width:157px;height:46px;">
+			<p><strong><em>Mild-Moderate Pain</em></strong> <strong>&gt;</strong></p>
+			</td>
+			<td style="width:156px;height:46px;">
+			<p><strong><em>Moderate-Severe Pain </em></strong><strong>&gt;</strong></p>
+			</td>
+			<td style="width:156px;height:46px;">
+			<p><strong><em>Refractory Pain</em></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:157px;height:267px;">
+			<p><strong> Step 1: Non- opioids +/- adjuvant analgesics</strong></p>
+
+			<p>Acetaminophen (APAP)*</p>
+
+			<p>Non-steroidal Anti-inflammatory (NSAID)</p>
+			</td>
+			<td style="width:157px;height:267px;">
+			<p><strong>Step 2: Mild Opioids +/- adjuvant analgesics+/- non-opioids</strong></p>
+
+			<p>Codeine/APAP (Tylenol #3)</p>
+
+			<p>Hydrocodone/APAP* (Vicodin)</p>
+
+			<p>Oxycodone/APAP* (Percocet)</p>
+
+			<p>Tramadol (Ultram)</p>
+			</td>
+			<td style="width:156px;height:267px;">
+			<p><strong>Step 3: Strong Opioids +/- adjuvant analgesics +/- non-opioids</strong></p>
+
+			<p>Morphine</p>
+
+			<p>Oxycodone</p>
+
+			<p>Hydromorphone (Dilaudid)</p>
+
+			<p>Fentanyl Methadone</p>
+			</td>
+			<td style="width:156px;height:267px;">
+			<p><strong>Step 4: Interventional pain therapies +/- systemic therapy</strong></p>
+
+			<p>Injections</p>
+
+			<p>Neural blockade</p>
+
+			<p>Implant therapies</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*Remember dose limits for all acetaminophen-containing medications (&lt;4 grams/day or &lt;2 grams/day in liver disease). In hospitalized patients, split combination APAP-opioid medications into two separate orders to allow for better titration.</p>
+
+<h3>Adjuvant Analgesics</h3>
+
+<ul style="margin-left: 40px;">
+	<li>Neuropathic pain: Anti-convulsants (gabapentin, pregabalin), Tricyclic antidepressants (nortriptyline), Serotonin/norepinephrine reuptake inhibitors (venlafaxine, duloxetine), topical lidocaine, topical capsaicin, cannabinoids</li>
+	<li>Bone pain: Calcitonin, bisphosphonates, radionuclides, XRT, corticosteroids, NSAIDs</li>
+	<li>Bowel obstruction: NPO, consider need for NG tube, corticosteroids, anti-cholinergics, ranitidine (to decrease gastric secretions), octreotide (though expensive and evidence is mixed)</li>
+	<li>Non-pharmacologic: Heat, ice, massage, acupuncture/acupressure, distraction, PT/OT, biofeedback, mindfulness, manage anxiety</li>
+</ul>
+
+<h3>General Approach to Opioid Dosing</h3>
+
+<ul style="margin-left: 40px;">
+	<li>Pharmacokinetics.  Many opioids are metabolized by the liver and excreted by the kidney. While morphine is a preferred agent (well-studied, cheap, and easy to use), consider alternatives if renal or hepatic impairment is present:
+	<ul style="margin-left: 40px;">
+		<li>In renal failure:
+		<ul style="margin-left: 40px;">
+			<li>Avoid: morphine, codeine</li>
+			<li>Use with care and monitoring: hydromorphone, oxycodone</li>
+			<li>Generally safe: methadone, fentanyl</li>
+		</ul>
+		</li>
+		<li>In severe liver disease:
+		<ul style="margin-left: 40px;">
+			<li>Avoid: methadone</li>
+			<li>Other medications poorly studied, generally start at a lower dose and increase interval between doses.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<ul style="margin-left: 40px;">
+	<li>Route: 
+	<ul style="margin-left: 40px;">
+		<li>PO dosing is preferable if possible (given longer duration of action)
+		<ul style="margin-left: 40px;">
+			<li>Morphine or oxycodone concentrated oral solution can also be given sublingually to patients unable to swallow</li>
+		</ul>
+		</li>
+		<li>IV or SQ administration may be needed for severe pain</li>
+	</ul>
+	</li>
+	<li>Dosing and titration (Note: there is significant individual variation for effective opioid dose):
+	<ul style="margin-left: 80px;">
+		<li>For an opioid-naive patient in severe pain:</li>
+	</ul>
+	</li>
+</ul>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:612px;" width="612">
+	<tbody>
+		<tr>
+			<td style="width:304px;">
+			<p align="center">If taking PO:</p>
+
+			<p align="center">PO onset: 30-60 minutes</p>
+
+			<p align="center">Duration: 3-4 hours</p>
+			</td>
+			<td style="width:308px;">
+			<p align="center">If not taking PO</p>
+
+			<p align="center">IV onset: 15-30 minutes</p>
+
+			<p align="center">Duration: 2-3 hours</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:304px;">
+			<ul>
+				<li><u>Morphine</u> PO 5-15 mg q3-4h prn</li>
+			</ul>
+
+			<p style="margin-left:.5in;">(Elderly: Morphine 2.5-5 mg q4h prn)</p>
+
+			<ul>
+				<li><u>Oxycodone</u> PO 5-10 mg q4h prn</li>
+			</ul>
+
+			<p style="margin-left:.5in;">(Elderly: Oxycodone 2.5-5 mg q4h prn)</p>
+
+			<ul>
+				<li><u>Hydromorphone</u> (Dilaudid) PO 2-4 mg q3-4h prn</li>
+			</ul>
+
+			<p style="margin-left:.5in;">(Elderly: Dilaudid 1-2 mg q4h prn)</p>
+			</td>
+			<td style="width:308px;">
+			<ul>
+				<li><u>Morphine</u> IV 2-4 mg q2-3h prn </li>
+			</ul>
+
+			<p style="margin-left:.5in;">(Elderly: Morphine IV 1-2 mg q3h prn)</p>
+
+			<ul>
+				<li><u>Hydromorphone</u> 0.2-0.4 mg q2-3h prn</li>
+			</ul>
+
+			<p style="margin-left:.5in;">(Elderly: 0.1-0.2 mg q3h prn)</p>
+
+			<ul>
+				<li><u>Fentanyl</u> 25-50 mcg q15min prn </li>
+			</ul>
+
+			<p style="margin-left:.5in;">(Elderly: 12.5-25 mcg q15min prn)</p>
+
+			<p style="margin-left:.5in;">Onset:  1-3 minutes, duration: 1-2 hours</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:1.0in;">* Use immediate release (rapid onset, short acting) formulations for dose titrations</p>
+
+<p> </p>
+
+<ul style="margin-left: 80px;">
+	<li>If pain remains uncontrolled after 15-30 minutes and patient not showing signs of sedation, can repeat at the same dose as needed and increase the next dose by 50-100%. </li>
+	<li><strong>Every patient should get a bowel regimen when on opioids (see side effects below)</strong></li>
+	<li>Reassess requirements after 24 hours. If pain remains uncontrolled or if patient is using PRN frequently, convert the amount of opioids used as PRN into a standing dose with PRN breakthrough
+	<ul style="margin-left: 40px;">
+		<li>Breakthrough medications should be approximately 10-20% of total daily opioid use with similar PO/IV PRN frequency. </li>
+		<li>If a patient has chronic pain from an underlying etiology, convert to long-acting formulations (MS Contin, Oxycontin, Fentanyl patches, Methadone) with less frequent dosing for basal pain control. </li>
+		<li>Incident pain (from exercise, PT/OT, eating, defecation, socializing) may not require increase in baseline opioid requirements.  Instead, consider scheduled dose of PRN medication prior to these activities.</li>
+		<li>Continue to reassess pain relief and side effects each day. Goal is to identify the appropriate opioid dose that decreases pain to promote daily activity and function while minimizing side effects.</li>
+	</ul>
+	</li>
+</ul>
+
+<div>
+<h3>Opioid Equianalgesic Conversion</h3>
+</div>
+
+<p>When converting from one opioid to another, remember to reduce the equianalgesic dose by 25% to account for drug-specific incomplete cross tolerance (e.g. patient on 15 mg oxycodone q4h = 90 mg daily switching to morphine. Equianalgesic dose would be 135 mg daily, but should reduce by 25% and begin at ~100 mg daily or ~15mg q4h.)</p>
+
+<div>
+<p> </p>
+</div>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:563px;" width="563">
+	<tbody>
+		<tr>
+			<td style="width:228px;height:23px;">
+			<p><strong><em>Opioid Analgesic</em></strong></p>
+			</td>
+			<td style="width:192px;height:23px;">
+			<p><strong><em>Equianalgesic Dose (mg)</em></strong></p>
+			</td>
+			<td>
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:22px;"> </td>
+			<td style="width:192px;height:22px;">
+			<p><strong><em>Oral (PO)</em></strong></p>
+			</td>
+			<td style="width:144px;height:22px;">
+			<p><strong><em>Parenteral (IV)</em></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:23px;">
+			<p>Morphine</p>
+			</td>
+			<td style="width:192px;height:23px;">
+			<p>30</p>
+			</td>
+			<td style="width:144px;height:23px;">
+			<p>10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:22px;">
+			<p>Hydromorphone</p>
+			</td>
+			<td style="width:192px;height:22px;">
+			<p>7.5</p>
+			</td>
+			<td style="width:144px;height:22px;">
+			<p>1.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:23px;">
+			<p>Oxycodone</p>
+			</td>
+			<td style="width:192px;height:23px;">
+			<p>20</p>
+			</td>
+			<td style="width:144px;height:23px;">
+			<p>--</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:22px;">
+			<p>Hydrocodone</p>
+			</td>
+			<td style="width:192px;height:22px;">
+			<p>30</p>
+			</td>
+			<td style="width:144px;height:22px;">
+			<p>--</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:47px;">
+			<p>Codeine (tyco #2=15mg, #3=30mg, #4=60mg)</p>
+			</td>
+			<td style="width:192px;height:47px;">
+			<p>180-200</p>
+			</td>
+			<td style="width:144px;height:47px;">
+			<p>130</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:44px;">
+			<p>Fentanyl</p>
+			</td>
+			<td style="width:192px;height:44px;">
+			<p>--</p>
+			</td>
+			<td style="width:144px;height:44px;">
+			<p>0.1 (100 mcg)*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:228px;height:22px;">
+			<p>Fentanyl transdermal</p>
+			</td>
+			<td style="width:192px;height:22px;">
+			<p>See table below</p>
+			</td>
+			<td style="width:144px;height:22px;"> </td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left: 40px;">* For single dose conversion of IV fentanyl only.  For fentanyl patch, see separate conversion chart below.</p>
+
+<h3>Opioid continuous infusions (SQ or IV)</h3>
+
+<ul style="margin-left: 40px;">
+	<li>May be indicated in patients with depressed consciousness or inability to swallow</li>
+	<li>To determine basal/bolus infusion rate:
+	<ul style="margin-left: 40px;">
+		<li>Calculate total daily equianalgesic dose (TDD) of all opioids</li>
+		<li>Convert to IV equivalent: If switching between opioid classes, reduce dose by 25% to account for incomplete cross tolerance</li>
+		<li>Determine hourly drip rate by dividing TDD by 24 hours</li>
+		<li>Set Bolus PRN bolus to approximately the same to double the hourly rate</li>
+	</ul>
+	</li>
+	<li>Example: To convert oral MS Contin (extended release morphine) 60 mg q12h to drip
+	<ul style="margin-left: 40px;">
+		<li>TDD: ER morphine 60 mg q12h = 120 mg oral morphine/day</li>
+		<li>IV equivalent: 120 mg morphine PO = 40 mg Morphine IV</li>
+		<li>Drip rate: 40 mg Morphine IV/24 hours is ~ 2 mg/hr</li>
+		<li>Bolus PRN: If drip at 2 mg/hr, bolus would be 2-4 mg q30min PRN</li>
+	</ul>
+	</li>
+	<li><strong>Acute symptoms </strong>(e.g. worsening pain or dyspnea)<strong> should be treated with breakthrough bolus dose, NOT by increasing the continuous infusion rate.</strong>  The continuous infusion takes <em>many hours</em> to reach new steady state and will not adequately treat acute symptoms. </li>
+	<li>Changes to the rate of continuous infusion should not be made more often than every 6 hours and should be titrated based on symptom severity, frequency of boluses needed to maintain comfort, and the amount of opioid used. 
+	<ul style="margin-left: 40px;">
+		<li>New drip rates can be calculated by adding up total PRN use in the past 6+ hours, dividing by number of hours observed, and adding this to the existing drip rate.  For example, if patient is currently receiving morphine IV 2mg/hour and received three 4mg boluses over the past 6 hours, total PRN use during that time = 4mg x3 = 12mg, which divided by 6 = 2 mg/hr.  This would then be added to existing drip rate of 2mg/hr for a new rate of 4mg/hr.</li>
+		<li>As drip rates are increased, be sure to increase bolus PRN doses as needed.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Patient Controlled Analgesia (PCA)</h3>
+
+<ul style="margin-left: 40px;">
+	<li>Can provide more immediate relief of breakthrough pain and greater sense of patient control.</li>
+	<li>Extremely safe method for pain medication delivery if used <u>without</u> a continuous infusion, as sedation precedes respiratory depression so patient will be unable to administer additional boluses before reaching unsafe doses.</li>
+	<li>Not appropriate for patients who lack the cognitive ability to understand how to press the button or who have &lt;24 hour anticipated need for IV opioids.</li>
+	<li>Orders for PCA contains several components:
+	<ul style="margin-left: 40px;">
+		<li>PCA Demand Dose: dose given with button press</li>
+		<li>Delay Interval (“Lockout”): interval between demand doses before patient receives next dose (in minutes)</li>
+		<li>Provider bolus: used for breakthrough pain (see above)</li>
+		<li>One-hour limit: max amount of opioid dispensed per hour</li>
+		<li>Continuous rate: basal rate of opioid infusion (<strong>should be used with extreme caution outside of the palliative setting</strong>)</li>
+	</ul>
+	</li>
+	<li>Dosing for opioid naive patient:
+	<ul style="margin-left: 40px;">
+		<li>Initial Morphine PCA:
+		<ul style="margin-left: 40px;">
+			<li>PCA demand dose = Morphine 1-1.5 mg</li>
+			<li>Delay interval (“lockout”) = 6-10 min</li>
+			<li>Breakthrough bolus: 2 mg q30 min PRN</li>
+			<li>One-hour limit: 10 mg (if receiving 1 mg demand every 10 minutes and 2 breakthrough doses)</li>
+			<li>Continuous rate: 0 mg/hr</li>
+		</ul>
+		</li>
+		<li>Initial Hydromorphone PCA:
+		<ul style="margin-left: 40px;">
+			<li>PCA demand dose = 0.1-0.2 mg</li>
+			<li>Delay interval (“lockout”): 6-10 min,</li>
+			<li>Breakthrough bolus: 0.2-0.4 mg q30min PRN</li>
+			<li>One-hour limit: 1.0 mg (if receiving 0.1mg demand every 10 minutes and 2 breakthrough doses of 0.2mg)</li>
+			<li>Continuous rate: 0 mg/hr</li>
+		</ul>
+		</li>
+		<li>If starting a continuous infusion (CI), use the total dose given over 6+ hours to calculate an hourly rate (e.g. if 18 mg morphine is given over six hours = 3 mg/hour). A new PCA demand dose is then calculated at 50% of the hourly CI rate (3mg/hr / 2 = 1.5 mg PCA demand dose, Delay interval 6-10 min).</li>
+	</ul>
+	</li>
+	<li>Dosing for Non-naive patients: See “Opioid continuous infusions” above to set hourly CI rate. The PCA demand dose is initially calculated at 50% of the hourly rate.</li>
+</ul>
+
+<h3>Fentanyl patch</h3>
+
+<ul style="margin-left: 40px;">
+	<li>Only use for stable, chronic pain patients with demonstrated opioid tolerance receiving opioid therapy for longer than 1 week and requiring a total daily dose of ≥25mcg/hour fentanyl patch (equivalent of at least 60mg of oral morphine equivalents per day).</li>
+	<li>Continue other long-acting pain medications for the first 12 hours due to delay of onset of patch analgesia. The drug will continue to be released into the blood 12-18 hours after patch removal.</li>
+	<li>Do not increase dose more frequently than Q72 hours. If you have any questions, consult pharmacy regarding hospital policy on titrating the patch.</li>
+	<li>Patients using a fentanyl patch for pain control will still require breakthrough PRN opioids (10-20% of TDD).</li>
+	<li>For elderly patients or patients with liver or renal impairment, choose lower end of dosing spectrum as the risk of sedation/respiratory depression is higher in these populations due to impaired metabolism.</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:623px;" width="624">
+	<tbody>
+		<tr>
+			<td style="width:208px;height:41px;">
+			<ul>
+				<li><a><strong><em>Oral 24-Hour Morphine (mg/day)</em></strong></a></li>
+			</ul>
+			</td>
+			<td style="width:208px;height:41px;">
+			<p>EQUIVALENT TO:</p>
+			</td>
+			<td style="width:208px;height:41px;">
+			<p><strong><em>Transdermal Fentanyl</em></strong></p>
+
+			<p><strong><em>Initial Dose (mcg/hour)</em></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;height:20px;">
+			<p>60-134</p>
+			</td>
+			<td style="width:208px;height:20px;">
+			<p>à</p>
+			</td>
+			<td style="width:208px;height:20px;">
+			<p>25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;height:21px;">
+			<p>135-224</p>
+			</td>
+			<td style="width:208px;height:21px;">
+			<p>--&gt;</p>
+			</td>
+			<td style="width:208px;height:21px;">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;height:20px;">
+			<p>225-314</p>
+			</td>
+			<td style="width:208px;height:20px;">
+			<p>--&gt;</p>
+			</td>
+			<td style="width:208px;height:20px;">
+			<p>75</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;height:20px;">
+			<p>315-404</p>
+			</td>
+			<td style="width:208px;height:20px;">
+			<p>--&gt;</p>
+			</td>
+			<td style="width:208px;height:20px;">
+			<p>100</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>This table should only be used for converting from another opioid to a fentanyl patch.  It should NOT be used in reverse to convert from a fentanyl patch to another opioid as this conversion could result in too high a dose.</p>
+
+<h3>Methadone</h3>
+
+<ul style="margin-left: 40px;">
+	<li>Always consult with another physician (e.g. palliative care or pain management) or a pharmacist familiar with prescribing methadone, as its dosing is complex.</li>
+	<li>Patients who are on methadone as outpatients should have their dose continued in hospital to avoid inducing opioid withdrawal.
+	<ul style="margin-left: 40px;">
+		<li>If patients are unable to take methadone orally, ½ of the dose can be given IV with the same frequency as at home (e.g. 5mg PO q8 hrs -&gt; 2.5mg IV q8 hrs).</li>
+	</ul>
+	</li>
+	<li>Methadone prolongs QTc interval, so be mindful when prescribing other interacting, QTc-prolonging medications (i.e. anti-emetics).</li>
+</ul>
+
+<h3>Opioid side effects and toxicities</h3>
+
+<p>Tolerance eventually develops for all side effects except constipation.  If side effects are not excessively bothersome to patients in the short-term, can counsel to try treating through as we expect them to be temporary (days to short weeks).  If excessively bothersome, try rotating to alternative opioid, as side effects can be drug-specific and vary by patient.</p>
+
+<ul>
+	<li><strong>Constipation: </strong>
+
+	<ul style="margin-left: 40px;">
+		<li>Patient education is of utmost importance regarding importance of preventing constipation.</li>
+		<li><strong>For every patient on opioids, prescribe prophylactic senna two 8.6 mg tablets daily and titrate to 1-2 soft, unforced bowel movements at least every other day.</strong>
+		<ul style="margin-left: 40px;">
+			<li>Senna can be increased to maximum of twelve 8.6mg tabs per daily.</li>
+			<li>Can also add: bisacodyl, polyethylene glycol, lactulose, sorbitol, oral methylnaltrexone if failed laxative therapy (weight based dosing, usually 8-12 mg SQ for pts 38-114 kg per day), warm tap water enema, soap sud enemas.</li>
+			<li>Avoid phosphate or saline enemas and magnesium containing compounds (milk of magnesia, mag citrate) in patients with renal insufficiency.</li>
+			<li>Docusate sodium (Colace) not demonstrated to be efficacious in opioid induced constipation.</li>
+		</ul>
+		</li>
+		<li>Nausea/vomiting: Can use prochlorperazine, metoclopramide, scopolamine, haloperidol. Also consider switching to a different opioid.</li>
+		<li>Itching: Can trial diphenhydramine 25-50 mg</li>
+		<li>Sedation: Usually occurs during opioid initiation or dose increases, improves in 24-48 hours
+		<ul style="margin-left: 40px;">
+			<li>If sedation does not resolve, can consider increased caffeine intake or adjunctive treatment with methylphenidate or modafinil</li>
+		</ul>
+		</li>
+		<li>Respiratory depression: Usually develops after sedation. Treat with narcan, beginning with small dose of 0.04-0.1mg and titrating up to minimal effective dose, unless patient’s condition is critical.
+		<ul style="margin-left: 40px;">
+			<li>Narcan also reverses analgesia and administering may cause withdrawal symptoms and severe pain.</li>
+		</ul>
+		</li>
+		<li>Toxicities:
+		<ul style="margin-left: 40px;">
+			<li>Hallucinations: Decrease dose or change opioid class; treat with haloperidol 0.5-1 mg IV or PO <a>BID</a><a href="#_msocom_3" id="_anchor_3" name="_msoanchor_3" uage="JavaScript">[HJH3]</a> .</li>
+			<li>Myoclonus: Decrease dose or rotate opioid; can trial benzodiazepines, such as Ativan 0.5-1 mg PO/IV q6h.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>References:</u></strong></p>
+
+<p><em>Hanks G et al. Oxford Textbook of Palliative Medicine., 2010 Ed. Oxford, Oxford. Oxford University Press. ISBN 0-19-857029-5, ISBN 978-0-19-857029-5. STAT!Ref Online Electronic Medical Library. http://online.statref.com/document.aspx?fxid=109&amp;docid=314. </em></p>
+
+<p><em>Prommer, E. Patient Controlled Analgesia in Palliative Care.  Fast Facts and Concepts #92. June 2015.  </em></p>
+
+<p><em>Weissman DE, Rosielle DA. Subcutaneous Opioid Infusions, Fast Facts and Concepts. November 2014. Available at: mypcnow.org/fast-fact/converting-to-transdermal-fentanyl/</em></p>
+
+<p><em>Badke, A, Rosielle DA. Opioid Induced-Consitpation, 1<sup>st</sup> edition. Fast Facts and Concepts. April 2015. Available at: <a href="https://www.mypcnow.org/fast-fact/opioid-induced-constipation-part-1-established-management/">https://www.mypcnow.org/fast-fact/opioid-induced-constipation-part-1-established-management/</a></em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/07-symptom-management-palliative-care-0" class="page-previous" title="Go to previous page">‹ 07. Symptom Management in Palliative Care</a>
+                    <a href="/content/19-palliative-care" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/09-self-care-0" class="page-next" title="Go to next page">09. Self Care ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="expanded active-trail menu-mlid-2646"><a href="/content/19-palliative-care" class="active-trail">19. Palliative Care</a><ul class="menu"><li class="first collapsed menu-mlid-2651"><a href="/content/01-assessing-quality-life-and-goals-care">01. Assessing Quality of Life and Goals of Care</a></li>
+<li class="leaf menu-mlid-2691"><a href="/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings">02. Breaking Bad News and Family Meetings</a></li>
+<li class="leaf menu-mlid-2701"><a href="/content/03-communication-about-serious-illness-0">03. Communication About Serious Illness</a></li>
+<li class="leaf menu-mlid-2706"><a href="/content/04-hospice-and-outpatient-palliative-care-guide-providers-0">04. Hospice and Outpatient Palliative Care_ Guide for Providers</a></li>
+<li class="leaf menu-mlid-2711"><a href="/05-code-status/05-code-status">05. Code Status</a></li>
+<li class="leaf menu-mlid-2716"><a href="/06-prognosis/06-prognosis">06. Prognosis</a></li>
+<li class="leaf menu-mlid-2721"><a href="/content/07-symptom-management-palliative-care-0">07. Symptom Management in Palliative Care</a></li>
+<li class="leaf active-trail active menu-mlid-2686"><a href="/content/08-pain-management" class="active-trail active">08. Pain Management</a></li>
+<li class="last leaf menu-mlid-2726"><a href="/content/09-self-care-0">09. Self Care</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,553 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/21-bradyarrhythmia-and-pacemaker-indications/21-bradyarrhythmia-and-pacemaker-indications" />
+<link rel="shortlink" href="/node/2376" />
+<link rel="prev" href="/20-pulmonary-arterial-catheters-and-hemodynamic-monitoring/20-pulmonary-arterial-catheters-and" />
+<link rel="up" href="/content/03-cardiology" />
+<link rel="next" href="/22-implantable-cardioverter-defibrillators-icd/22-implantable-cardioverter-defibrillators-icd" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/21-bradyarrhythmia-and-pacemaker-indications/21-bradyarrhythmia-and-pacemaker-indications" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/21-bradyarrhythmia-and-pacemaker-indications/21-bradyarrhythmia-and-pacemaker-indications" />
+<meta property="twitter:title" content="21. Bradyarrhythmia and Pacemaker Indications | Hospital Handbook" />
+<meta property="og:title" content="21. Bradyarrhythmia and Pacemaker Indications" />
+  <title>21. Bradyarrhythmia and Pacemaker Indications | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_ALJhGIKhWaSjRBiq0LxRBTRzVNTvxrCfuqmG3OoEoTQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_pTA6geK2jzzMJqLhqHk0rrD9u1vN1P1J_BC-7zCbIbM.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"QhxqSH8ZXwEmkFpWMweR5tArXe7Ga9DKxgWXO_ms090","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/21-bradyarrhythmia-and-pacemaker-indications\/21-bradyarrhythmia-and-pacemaker-indications":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2376 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="http://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="http://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="http://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="http://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/21-bradyarrhythmia-and-pacemaker-indications/21-bradyarrhythmia-and-pacemaker-indications" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-fhkuBgw8CLxDp5wMFTtAiQX-5gmOWuoP_VhquJOMDT0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-4966"><a href="/01-dermatologic-exam/01-dermatologic-exam">1. Dermatologic exam</a></li>
+<li class="last leaf menu-mlid-1431"><a href="/">Home</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/03-cardiology" class="active-trail">03. Cardiology</a> > <span class="breadcrumb-page-title">21. Bradyarrhythmia and Pacemaker Indications</span></div></div></div>
+                  <h1 class="title" id="page-title">21. Bradyarrhythmia and Pacemaker Indications</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2376" class="node node-book clearfix" about="/21-bradyarrhythmia-and-pacemaker-indications/21-bradyarrhythmia-and-pacemaker-indications" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="21. Bradyarrhythmia and Pacemaker Indications" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>NOTE: for acute management of unstable bradycardia see section <em><a href="https://hospitalhandbook.ucsf.edu/content/20-advanced-cardiac-life-support">ACLS</a>.</em></p>
+
+<h3>Background and Key Definitions</h3>
+
+<p>The decision to treat a conduction disorder with permanent pacemaker implantation is driven by three central tenants:</p>
+
+<ol><li>Absolute indication for pacing (e.g. complete heart block, advanced infranodal block).</li>
+	<li>Clear correlation of symptoms with the arrhythmia.</li>
+	<li>Persistence despite addressing reversible causes.</li>
+</ol><p><strong>Definition of terms</strong></p>
+
+<ul><li>Sinus node dysfunction (SND): sinus rate &lt;50 bpm and/or pause &gt;3 seconds (in consideration with patient-specific factors).</li>
+	<li>Tachycardia-bradycardia syndrome: bradycardic rhythm (sinus brady, atrial or sinus pause) alternating with abnormal atrial tachycardic rhythm (atrial tachycardia, flutter, or fibrillation).</li>
+	<li>Chronotropic incompetence: failure to increase heart rate to expected level during increased period of demand.</li>
+	<li>First degree AV block: P waves conducting 1:1 with QRS, however PR &gt;200ms.</li>
+	<li>Second degree AV block: P waves with constant rate, and QRS present but not conducting 1:1
+	<ul><li>Mobitz type 1: periodic nonconducted P waves with prolonging PR intervals until a dropped beat.</li>
+		<li>Mobitz type 2: periodic nonconducted P wave with constant PR interval until a dropped beat</li>
+	</ul></li>
+	<li>Advanced AV block: two or more consecutive P waves without AV conduction.</li>
+	<li>Third degree AV block: no evidence of AV conduction (separate P waves and QRS).</li>
+	<li>Ventricular conduction disease includes LBBB, RBBB, non-specific intraventricular conduction delay, and fascicular blocks (left anterior or posterior).</li>
+</ul><h3>Evaluation</h3>
+
+<p><em>Reversible causes:</em></p>
+
+<ul><li>Medications: beta-blockers, calcium-channel blockers, anti-arrhythmics, and many others</li>
+	<li>Toxic-metabolic derangements: hyper/hypokalemia, digoxin toxicity</li>
+	<li>Myocardial ischemia/infarction</li>
+	<li>Cardiac trauma</li>
+	<li>Infection, including bacterial endocarditis</li>
+	<li>Obstructive sleep apnea</li>
+	<li>Increased vagal tone from any number of causes</li>
+</ul><p><em>Cardiac Rhythm Monitors</em></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:654px;" width="654"><thead><tr><th scope="col" style="width: 150px;">
+			<p> </p>
+			</th>
+			<th scope="col" style="width: 96px;">
+			<p align="center">Duration</p>
+			</th>
+			<th scope="col" style="width: 240px;">
+			<p align="center">Characteristics</p>
+			</th>
+			<th scope="col" style="width: 168px;">
+			<p align="center">Comments</p>
+			</th>
+		</tr></thead><tbody><tr><td style="width:150px;">
+			<p>Holter</p>
+			</td>
+			<td style="width:96px;">
+			<p>24 – 72 h</p>
+			</td>
+			<td style="width:240px;">
+			<p>Continuous recording</p>
+
+			<p>Patient-triggering capacity</p>
+			</td>
+			<td style="width:168px;">
+			<p>Use for frequent events</p>
+
+			<p>Must wear + carry</p>
+			</td>
+		</tr><tr><td style="width:150px;">
+			<p>Event Monitor</p>
+			</td>
+			<td style="width:96px;">
+			<p>2 – 6 wks</p>
+			</td>
+			<td style="width:240px;">
+			<p>Patient-activated or device-activated recordings</p>
+
+			<p> </p>
+			</td>
+			<td style="width:168px;">
+			<p>Limited use with incapacitating symptoms</p>
+			</td>
+		</tr><tr><td style="width:150px;">
+			<p>External Patch Recorder</p>
+			</td>
+			<td style="width:96px;">
+			<p>2 – 14 days</p>
+			</td>
+			<td style="width:240px;">
+			<p>Continuous recording</p>
+
+			<p>Patient-triggering capacity</p>
+			</td>
+			<td style="width:168px;">
+			<p>Leadless, water resistance, only 1-lead, not real time reporting</p>
+			</td>
+		</tr><tr><td style="width:150px;">
+			<p>External Loop Recorder</p>
+			</td>
+			<td style="width:96px;">
+			<p>Weeks - months</p>
+			</td>
+			<td style="width:240px;">
+			<p>Continuous recording</p>
+
+			<p>Patient-triggering capacity</p>
+
+			<p>Device-triggering capacity</p>
+			</td>
+			<td style="width:168px;">
+			<p>Useful for rarer events</p>
+			</td>
+		</tr><tr><td style="width:150px;">
+			<p>Mobile Outpatient Telemetry</p>
+			</td>
+			<td style="width:96px;">
+			<p>30 days</p>
+			</td>
+			<td style="width:240px;">
+			<p>Continuous recording with a central monitoring station that is attended</p>
+
+			<p>Patient-activated or device-activated</p>
+			</td>
+			<td style="width:168px;">
+			<p>High-risk patients</p>
+			</td>
+		</tr><tr><td style="width:150px;">
+			<p>Implantable Cardiac Monitor</p>
+			</td>
+			<td style="width:96px;">
+			<p>2 – 3 years</p>
+			</td>
+			<td style="width:240px;">
+			<p>Subcutaneously implanted</p>
+
+			<p>Continuous monitoring, triggered by patient or family member</p>
+			</td>
+			<td style="width:168px;">
+			<p>Recurrent infrequent symptoms</p>
+			</td>
+		</tr></tbody></table><h3>Temporary Cardiac Pacing</h3>
+
+<p>Transcutaneous: adhesive pads externally. Most rapidly available. Limited by capture and patient discomfort.</p>
+
+<ul><li>Identify needed voltage for capture before absolute need.</li>
+	<li>Ensure electric capture results in appropriate perfusion (i.e. feel patient’s pulse).</li>
+</ul><p>Transvenous: endocardial lead placement via central venous access (requires ICU). Can remain in place days-weeks, but may limit patient mobility. Transition to permanent pacemaker as soon as indicated.</p>
+
+<p>Epicardial leads: surgically placed.</p>
+
+<p><strong>Common indications</strong>: must weigh risks of placing a wire against potential benefits.</p>
+
+<ul><li>Temporary treatment of symptomatic bradyarrhythmia (until permanent pacemaker can be implanted or underlying condition reversed).</li>
+	<li>Restoration of AV synchrony in acute MI (inferior MI, right ventricular MI), heart failure, hypertrophic obstructive cardiomyopathy.</li>
+	<li>Prophylaxis for potential bradycardia which may produce symptoms or hemodynamic instability in acute MI or post-cardiac surgery.</li>
+	<li>Prophylaxis to prevent pause-dependent ventricular tachycardia.</li>
+</ul><p><strong>Transvenous pacing complications</strong>: suspect rupture of the intraventricular septum by the temporary pacer wire if any one of the following occur: chest pain, pericarditis (friction rub), transition from LBBB to RBBB pattern on ECG (except in temporary biventricular pacing).</p>
+
+<h3>Class I Indications for Permanent Pacemaker Implantation</h3>
+
+<p>Sinus dysfunction</p>
+
+<ul><li>SND or chronotropic incompetence with directly attributable symptoms (lightheadedness, syncope, fatigue, etc.).</li>
+	<li>Symptomatic sinus bradycardia due to guideline-directed therapy that is required and does not have an alternative.</li>
+</ul><p>AV block</p>
+
+<ul><li>Acquired second-degree Mobitz type II, high-grade, or third-degree AV block without reversible causes.</li>
+	<li>Permanent AF and symptomatic bradycardia.</li>
+	<li>Symptomatic AV block due to guideline-directed therapy that is required and does not have an alternative.</li>
+</ul><p>Conduction disorders</p>
+
+<ul><li>Syncope and bundle branch block with EP study demonstrating HV interval &gt;70ms or infranodal block.</li>
+	<li>Alternating bundle branch block.</li>
+</ul><p>Special circumstances</p>
+
+<ul><li>After acute MI with SND or AV block meeting criteria above, permanent pacemaker is indicated AFTER a waiting period (generally at least &gt;72 hours).</li>
+	<li>Post-surgical (CABG, afib, TAVR/SAVR, tricuspid valve surgery, mitral valve surgery, surgical myectomy, alcohol septal ablation) SND or AV block with persistent symptoms or hemodynamic instability.</li>
+	<li>Adult congenital heart disease with symptomatic SND, chronotropic incompetence, symptomatic bradycardia, or in specific cases with congenital complete AV block.</li>
+	<li>Certain patients with neuromuscular diseases and high degree block.</li>
+</ul><p>Of note, pacing is NOT indicated in reflex mediated syncope (carotid sinus hypersensitivity, vasovagal, or situational) except in the case of recurrent syncope with loop recorder asystole.</p>
+
+<h3>Cardiac Resynchronization Therapy</h3>
+
+<p>(CRT; biventricular pacing) can improve survival and quality of life in patients with ischemic or non-ischemic left ventricular systolic dysfunction.</p>
+
+<p><strong>Class I Indication: sinus rhythm, </strong>LVEF ≤ 35%, QRS ≥ 150 ms, and NYHA functional class II, III or ambulatory IV despite maximal medical therapy.</p>
+
+<ul><li>BLOCK-HF trial published after guidelines suggests CRT benefit specifically in patients with an indication for pacing (AV block), LVEF ≤ 50%, NYHA I, II, or II with sinus rhythm or atrial fibrillation.</li>
+</ul><p>His bundle pacing is an alternative option to biventricular pacing in patients with reduced EF or those at high risk for RV pacing induced cardiomyopathy.</p>
+
+<h3>Permanent Pacemakers</h3>
+
+<p>Transvenous: traditional technology, able to accommodate RV lead, atrial leads, biventricular leads, and ICD function.</p>
+
+<p>•  Generator (battery powered) subcutaneously implanted.</p>
+
+<p>•  Leads placed transvenously and connected to generator.</p>
+
+<p>Leadless: new technology, as of 2020 only able to accommodate RV lead pacing.</p>
+
+<p>•  Battery-powered devices “fixed” into RV.</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:617px;" width="617"><thead><tr><th colspan="4" scope="col" style="width: 617px;">
+			<p align="center"><strong>Generic Pacemaker Codes</strong></p>
+			</th>
+		</tr></thead><tbody><tr><td style="width:155px;">
+			<p><strong>Chamber Paced</strong></p>
+			</td>
+			<td style="width:154px;">
+			<p><strong>Chamber Sensed</strong></p>
+			</td>
+			<td style="width:154px;">
+			<p><strong>Response to Sensed Beat</strong></p>
+			</td>
+			<td style="width:154px;">
+			<p><strong>Rate–Response</strong></p>
+			</td>
+		</tr><tr><td style="width:155px;">
+			<p>O – none</p>
+			</td>
+			<td style="width:154px;">
+			<p>O – none</p>
+			</td>
+			<td style="width:154px;">
+			<p>O – none</p>
+			</td>
+			<td style="width:154px;">
+			<p>R – rate-response activated</p>
+			</td>
+		</tr><tr><td style="width:155px;">
+			<p>A – atrium</p>
+			</td>
+			<td style="width:154px;">
+			<p>A – atrium</p>
+			</td>
+			<td style="width:154px;">
+			<p>T – triggered</p>
+			</td>
+			<td style="width:154px;"> </td>
+		</tr><tr><td style="width:155px;">
+			<p>V – ventricle</p>
+			</td>
+			<td style="width:154px;">
+			<p>V – ventricle</p>
+			</td>
+			<td style="width:154px;">
+			<p>I – inhibited</p>
+			</td>
+			<td style="width:154px;"> </td>
+		</tr><tr><td style="width:155px;">
+			<p>D – both</p>
+			</td>
+			<td style="width:154px;">
+			<p>D – both</p>
+			</td>
+			<td style="width:154px;">
+			<p>D – triggered and initiated</p>
+			</td>
+			<td style="width:154px;"> </td>
+		</tr></tbody></table><p><strong>Pacing modes</strong>: chosen based on pacemaker indication and device used.</p>
+
+<ul><li><strong>VVI</strong>: ventricular pacing on demand; output inhibited by sensed QRS. Indicated in patients with a-fib with complete AV block or symptomatic bradycardia. VVIR pacers can increase and decrease in response to sensor input, up to a programmed level, and are used for those with a-fib who do not mount a heart rate during exercise. Don't use in patients with sinus rhythm because of the loss of AV synchrony during pacing; in addition, retrograde atrial activation can induce atrial fibrillation in these patients.</li>
+	<li><strong>AAI</strong>: atrial pacing is inhibited by sensed P-wave events. Indicated for sick sinus syndrome with intact AV node conduction. Use AAIR in patients with chronotropic incompetence. Do not use in patients with extensive conduction system disease and those with atrial flutter/fibrillation. Yearly, up to 5% of patients with sick sinus syndrome will develop AV block, which could make this pacer inadequate in the future.</li>
+	<li><strong>DDD</strong>: the generator can sense and pace both atria and ventricles. During sinus bradycardia, atrial and, if necessary, ventricular pacing occurs. During AV block, ventricular pacing occurs following either a spontaneous or paced atrial impulse. Indicated for AV block with intact sinus node function. Use DDDR in patients with chronotropic incompetence. Rapid ventricular response can occur during atrial tachycardias—this is prevented by setting an upper rate limit or using a mode-switching device.</li>
+	<li><strong>DDI</strong>: similar to DDD but during atrial tachycardias, the device effectively operates in VVI mode as the atrial impulse is inhibited. Indicated in sick sinus syndrome, hypersensitive carotid sinus syndrome, and malignant vasovagal syndrome. The disadvantage is that this DDI cannot maintain AV synchrony during AV block. </li>
+	<li><strong>VDD</strong>: devices with a single ventricular lead can also have sensing electrodes in the right atrium that allow tracking of atrial rhythm. This allows for atrioventricular synchrony with only one lead. Implantation is simpler than for dual-chamber devices, with less risk of lead displacement and implantation-associated trauma. Indicated for high-grade AV block with intact sinus node function.</li>
+</ul><p><em>Brignole M, Auricchio A, Baron-esquivias G, et al. 2013 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy: the Task Force on cardiac pacing and resynchronization therapy of the European Society of Cardiology (ESC). Developed in collaboration with the European Heart Rhythm Association (EHRA). Eur Heart J. 2013;34(29):2281-329.</em></p>
+
+<p><em>Curtis AB, Worley SJ, Adamson PB, et al. Biventricular pacing for atrioventricular block and systolic dysfunction. N Engl J Med. 2013;368(17):1585-93.</em></p>
+
+<p><em>Epstein AE, Dimarco JP, Ellenbogen KA, et al. 2012 ACCF/AHA/HRS focused update incorporated into the ACCF/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm abnormalities: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2013;61(3):e6-75.</em></p>
+
+<p><em>Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2019;140(8):e382-e482.</em></p>
+
+<p><em>Tjong FV, Reddy VY. Permanent Leadless Cardiac Pacemaker Therapy: A Comprehensive Review [published correction appears in Circulation. 2017 Jul 18;136(3):e24]. Circulation. 2017;135(15):1458-1470. doi:10.1161/CIRCULATIONAHA.116.025037</em></p>
+
+<p><em>Trohman R, Kim M, Pinski S. Cardiac pacing: the state of the art. Lancet 2004;364:1701-1719.</em></p>
+
+<p><em>Varosy PD, Chen LY, Miller AL, Noseworthy PA, Slotwiner DJ, Thiruganasambandamoorthy V. Pacing as a Treatment for Reflex-Mediated (Vasovagal, Situational, or Carotid Sinus Hypersensitivity) Syncope: A Systematic Review for the 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2017;70(5):664-679.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/20-pulmonary-arterial-catheters-and-hemodynamic-monitoring/20-pulmonary-arterial-catheters-and" class="page-previous" title="Go to previous page">‹ 20. Pulmonary Arterial Catheters and Hemodynamic Monitoring</a>
+                    <a href="/content/03-cardiology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/22-implantable-cardioverter-defibrillators-icd/22-implantable-cardioverter-defibrillators-icd" class="page-next" title="Go to next page">22. Implantable cardioverter-defibrillators (ICD) ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Handbooks</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="expanded active-trail menu-mlid-2116"><a href="/content/03-cardiology" class="active-trail">03. Cardiology</a><ul class="menu"><li class="first leaf menu-mlid-5721"><a href="/01-definitions-mi-and-acs/01-definitions-mi-and-acs">01. Definitions of MI and ACS</a></li>
+<li class="leaf menu-mlid-5716"><a href="/02-diagnosis-suspected-acs/02-diagnosis-suspected-acs">02. Diagnosis of Suspected ACS</a></li>
+<li class="leaf menu-mlid-5711"><a href="/03-ste-acs-management/03-ste-acs-management">03. STE-ACS Management</a></li>
+<li class="leaf menu-mlid-5706"><a href="/04-nste-acs-management/04-nste-acs-management">04. NSTE-ACS Management</a></li>
+<li class="leaf menu-mlid-2176"><a href="/05-right-ventricular-rv-myocardial-infarction/05-right-ventricular-rv-myocardial-infarction">05. Right Ventricular (RV) Myocardial Infarction</a></li>
+<li class="leaf menu-mlid-2181"><a href="/06-complications-acute-myocardial-infarction/06-complications-acute-myocardial-infarction">06. Complications of Acute Myocardial Infarction</a></li>
+<li class="leaf menu-mlid-2191"><a href="/07-cocaine-associated-chest-pain/07-cocaine-associated-chest-pain">07. Cocaine-Associated Chest Pain</a></li>
+<li class="leaf menu-mlid-2201"><a href="/08-atrial-fibrillation/08-atrial-fibrillation">08. Atrial Fibrillation</a></li>
+<li class="leaf menu-mlid-2196"><a href="/09-heart-failure-hf/09-heart-failure-hf">09. Heart Failure (HF)</a></li>
+<li class="leaf menu-mlid-2206"><a href="/10-acute-pericarditis/10-acute-pericarditis">10. Acute Pericarditis</a></li>
+<li class="leaf menu-mlid-2211"><a href="/11-pericardial-effusion-and-cardiac-tamponade/11-pericardial-effusion-and-cardiac-tamponade">11. Pericardial Effusion and Cardiac Tamponade</a></li>
+<li class="leaf menu-mlid-2216"><a href="/12-pulmonary-hypertension-ph/12-pulmonary-hypertension-ph">12. Pulmonary Hypertension (PH)</a></li>
+<li class="leaf menu-mlid-2221"><a href="/13-syncope/13-syncope">13. Syncope</a></li>
+<li class="leaf menu-mlid-2226"><a href="/14-jugular-venous-pulsations/14-jugular-venous-pulsations">14. Jugular Venous Pulsations</a></li>
+<li class="leaf menu-mlid-5701"><a href="/15-valvular-heart-disease/15-valvular-heart-disease">15. Valvular Heart Disease</a></li>
+<li class="leaf menu-mlid-2236"><a href="/16-ecg-reading-made-easy/16-ecg-reading-made-easy">16. ECG Reading Made Easy</a></li>
+<li class="leaf menu-mlid-2241"><a href="/17-diagnosis-wide-complex-tachycardia-vt-vs-svt-brugada-criteria/17-diagnosis-wide-complex">17. Diagnosis of Wide-Complex Tachycardia (VT vs SVT, Brugada Criteria)</a></li>
+<li class="leaf menu-mlid-2246"><a href="/18-stress-testing-and-cardiac-imaging/18-stress-testing-and-cardiac-imaging">18. Stress Testing and Cardiac Imaging</a></li>
+<li class="leaf menu-mlid-3571"><a href="/19-cardiac-catheterization/19-cardiac-catheterization">19. Cardiac Catheterization</a></li>
+<li class="leaf menu-mlid-3576"><a href="/20-pulmonary-arterial-catheters-and-hemodynamic-monitoring/20-pulmonary-arterial-catheters-and">20. Pulmonary Arterial Catheters and Hemodynamic Monitoring</a></li>
+<li class="leaf active-trail active menu-mlid-5576"><a href="/21-bradyarrhythmia-and-pacemaker-indications/21-bradyarrhythmia-and-pacemaker-indications" class="active-trail active">21. Bradyarrhythmia and Pacemaker Indications</a></li>
+<li class="leaf menu-mlid-5571"><a href="/22-implantable-cardioverter-defibrillators-icd/22-implantable-cardioverter-defibrillators-icd">22. Implantable cardioverter-defibrillators (ICD)</a></li>
+<li class="leaf menu-mlid-5566"><a href="/23-cardiogenic-shock/23-cardiogenic-shock">23. Cardiogenic Shock</a></li>
+<li class="last leaf menu-mlid-3601"><a href="/24-focused-cardiac-ultrasound/24-focused-cardiac-ultrasound">24. Focused Cardiac Ultrasound</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2022 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

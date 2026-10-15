@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/01-rheumatology-labs-101" />
+<link rel="shortlink" href="/node/851" />
+<link rel="prev" href="/content/12-rheumatology" />
+<link rel="up" href="/content/12-rheumatology" />
+<link rel="next" href="/content/02-approach-arthritic-joint-pain" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/01-rheumatology-labs-101" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/01-rheumatology-labs-101" />
+<meta property="twitter:title" content="01. Rheumatology Labs 101 | Hospital Handbook" />
+<meta property="og:title" content="01. Rheumatology Labs 101" />
+  <title>01. Rheumatology Labs 101 | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"F6c4BO63D41NscNGRyO_nLhk1P3X37ft1SXcYrK_fcM","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/01-rheumatology-labs-101":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-851 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/01-rheumatology-labs-101" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-kYduXh5A39h9asiHqjY3Gp5uzCR6YPzcf20uuQn84-0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/12-rheumatology" class="active-trail">12. Rheumatology</a> > <span class="breadcrumb-page-title">01. Rheumatology Labs 101</span></div></div></div>
+                  <h1 class="title" id="page-title">01. Rheumatology Labs 101</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-851" class="node node-book clearfix" about="/content/01-rheumatology-labs-101" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Rheumatology Labs 101" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Approach to Rheumatology Labs</h3>
+
+<p><strong> Bottom line</strong></p>
+
+<ul>
+	<li>Rheumatologic lab testing is of little value in patients in whom there is a low pre-test likelihood for a specific autoimmune condition</li>
+	<li>ESR and CRP have limited diagnostic utility but may be useful in tracking the severity of known autoimmune or infectious conditions</li>
+	<li>A negative ANA essentially rules out SLE</li>
+	<li>Do NOT test for ANA sub-serologies without a positive ANA and clinical suspicion of an immune-mediated disease</li>
+	<li>Beware of diseases without antibodies, antibodies due to another disease, and antibodies without disease</li>
+</ul>
+
+<p><strong>Basic approach prior to ordering any rheumatologic lab:</strong></p>
+
+<ul>
+	<li>What autoimmune condition are you testing for?</li>
+	<li>What is the pre-test probability of the patient having the disease you’re testing for?</li>
+	<li>What are the limitations of the test you are ordering?</li>
+	<li>Consider the basic framework for rheumatologic disease, which can simplify the diagnostic workup:
+	<ul>
+		<li><strong>Inflammatory arthritis: </strong>RA, SpA, PMR, crystalline disease, infection</li>
+		<li><strong>Connective tissue disease: </strong>SLE, SjS, MCTD, SSc, myositis</li>
+		<li><strong>Vasculitis: </strong>Small vessel, medium vessel, large vessel, variable vessel</li>
+		<li><strong>Other:</strong> Infiltrative (Sarcoidosis, IgG4-RD), autoinflammatory (Still’s, periodic fever syndromes)</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Nonspecific Inflammatory Markers</h3>
+
+<ul>
+	<li><strong>Erythrocyte Sedimentation Rate (ESR): </strong>measures the distance fallen by erythrocytes in a test tube over one-hour. Acute phase reactants cause RBCs to clump and precipitate at a faster rate
+
+	<ul>
+		<li>Nonspecific, indirect marker of inflammation that can be elevated in infectious, autoimmune, or neoplastic conditions
+		<ul>
+			<li>Causes of elevated ESR: anemia, hypoalbuminemia, hypergammaglobulinemia, ESRD, DM, pregnancy, any state with presence of acute phase reactants</li>
+			<li>Causes of decreased ESR: polycythemia, CHF, cryoglobulinemia, hypofibrinogenemia</li>
+		</ul>
+		</li>
+		<li>Does <u>not</u> have specific diagnostic utility for rheumatic diseases, with the exception of <strong>polymyalgia rheumatica</strong> and <strong>giant cell arteritis</strong></li>
+		<li>Some clinical utility in monitoring disease activity or response to therapy in rheumatoid arthritis, temporal arteritis, and osteomyelitis</li>
+		<li>ESR rises with age: to calculate the upper limit of normal: <strong>ESR ≤ age/2 (+5 in women)</strong></li>
+	</ul>
+	</li>
+	<li><strong>C-reactive protein (CRP): </strong>an acute phase reactant produced in the liver
+	<ul>
+		<li>Changes at faster rate than ESR
+		<ul>
+			<li>Increases in 4-6 hours and normalizes within 1 week</li>
+		</ul>
+		</li>
+		<li>Causes of elevated CRP: CHF, smoking, DM, obesity (chronic inflammatory states)</li>
+		<li>Not affected by anemia, gender, pregnancy, renal failure, smoking (unlike ESR)</li>
+	</ul>
+	</li>
+	<li><strong>Complements: </strong>proteins of the complement cascade, activated by antigen-antibody immune complexes and microbial pathogens. C3/C4 have most clinical significance
+	<ul>
+		<li>Decreased level with increased immune complex-mediated activity</li>
+		<li>Increased levels with other inflammatory disorders as they are acute phase reactants</li>
+		<li>C4&gt;&gt;C3 may indicate cryoglobulins</li>
+		<li>Other causes of low complements: endocarditis, post-strep glomerulonephritis, and inherited deficiencies</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Autoantibodies</h3>
+
+<ul>
+	<li><strong>Anti-Nuclear Antibody (ANA): </strong>autoantibodies directed against intra-nuclear antigens (NOT for specific antigen, just detects the presence of the antibody)
+
+	<ul>
+		<li>Positive ANA: can then use more specific testing (the “sub-serologies”) to look for the specific antigen
+		<ul>
+			<li>Testing the sub-serologies can help to narrow the diagnosis and determine the clinical significance of the positive ANA (e.g. anti-dsDNA, anti-histone, anti-Smith, anti-RNP, anti-SSA, anti-SSB, anti-RNP, anti-centromere, SCL-70)</li>
+			<li>Once positive, ANA does not need to be rechecked; fluctuating titers have no clinical significance</li>
+			<li>Titers ≥ 1:160: more likely to represent true-positive results</li>
+			<li>Titers ≤ 1:40: unlikely to represent true rheumatologic diseases</li>
+			<li>Staining pattern has clinical significance (gives a clue as to which molecules are being recognized by the antibodies): nuclear, cell cycle-associated, cytoplasmic</li>
+			<li>Nearly 100% sensitive for SLE (ANA ≧1:80 is now part an entry criterion in the most recent classification criteria for SLE)</li>
+		</ul>
+		</li>
+		<li>Negative ANA: generally no indication to test for other antibodies
+		<ul>
+			<li><em>Exception</em>: test for anti-SSA when there is high suspicion for Sjögren’s Syndrome and consider a myositis antibody panel if high suspicion for idiopathic inflammatory myopathy (PM/DM)</li>
+		</ul>
+		</li>
+		<li>When should I think about sending an ANA? Remember the broad framework of rheumatologic disease:
+		<ul>
+			<li>Inflammatory arthritis (RA, SpA): no utility</li>
+			<li>Primary Vasculitis: no utility (unless you suspect secondary vasculitis)</li>
+			<li>Connective tissue disease: sensitivity in SLE: &gt;95%; SSc: 90%; MCTD: &gt;95%; SjS: 50-70%; myositis: 50-70%</li>
+		</ul>
+		</li>
+		<li>Common non-lupus related causes of a positive ANA: 3-30% of healthy people have positive ANA (highly non-specific), increasingly found in older persons, pregnant women, family history of SLE, can be drug-induced (hydralazine&gt;&gt;procainamide, quinidine, isoniazid, minocycline, TNFi), other rheumatological diseases (RA, SSc, SjS, MCTD, polymyositis, dermatomyositis), other AI disease (AI thyroiditis, type 1 DM, pulmonary fibrosis, MS), and non-autoimmune diseases (HIV and other viral infections, liver disease, malignancy, endocarditis)
+		<ul>
+			<li><strong>Pearl</strong>: TNFi-induced antibodies are not associated with anti-histone antibodies but can be associated with anti-dsDNA </li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>ANA sub-serologies </strong>
+	<ul>
+		<li><strong>Anti-RNP: </strong>100% sensitivity for mixed-connective tissue disease (part of diagnostic criterion)</li>
+		<li><strong>Anti-DS DNA</strong>: DS = double-stranded. High titers highly specific for SLE, 60% sensitive. Titers are monitored as they often parallel disease activity and have prognostic significance in lupus nephritis</li>
+		<li><strong>Anti-SSA (Ro) and Anti-SSB (La): </strong>fairly specific for Sjögren’s syndrome. Patients with primary Sjögren’s syndrome are usually dual-antibody positive. Less often antibody positive in secondary Sjogren’s syndrome (e.g., 60% of SLE patients are SSA positive and 10-30% are SSB positive)</li>
+		<li><strong>Anti-Sm</strong>: Sm = Smith, 99% specific for SLE, 30% sensitivity</li>
+		<li><strong>Anti-centromere: </strong>classically associated with limited scleroderma (lcSSc) “CREST” syndrome</li>
+	</ul>
+	</li>
+	<li><strong>Rheumatoid Factor (RF): </strong>an IgM (less commonly IgG and IgA) antibody directed against the Fc portion of self-IgG
+	<ul>
+		<li>80% sensitive for RA: commonly positive in many other conditions (see below), order only when there is clinical suspicion for RA (not as a general screening tool). All RF-positive arthritis is not RA!</li>
+		<li>Up to 40% of RA patients may be RF negative early in their disease course, but many seroconvert over time</li>
+		<li>High RF titers correlate with disease severity and extra-articular manifestations of RA. Once positive, serial RF titers are not useful for following disease progression</li>
+		<li>Common causes of a positive RF: old age, other AI disease (SLE, SjS, cryoglobulinemia, SSc, MCTD, PM/DM), non-AI disease (chronic infections [HCV, endocarditis, osteomyelitis, tuberculosis, HIV], liver disease [especially PBC], sarcoidosis, malignancy [especially multiple myeloma, MGUS]), any disease process with chronic antigenic stimulation</li>
+		<li><strong>Pearl</strong>: RF is <strong>not</strong> required to make the diagnosis of rheumatoid arthritis (serology is just one component of the classification criteria)</li>
+	</ul>
+	</li>
+	<li><strong>Anti-citrullinated peptide (anti-CCP): </strong>antibodies against proteins with post-translational modification of arginine, which may have a role in pathogenesis of RA
+	<ul>
+		<li>Newer generation of tests with similar sensitivity (80%) and improved specificity (95%) for RA compared to RF (should be ordered simultaneously in the appropriate clinical setting)</li>
+		<li>Often detected earlier than RF</li>
+		<li>Associated with more aggressive and erosive disease</li>
+		<li>Not associated with disease activity or extra-articular disease</li>
+	</ul>
+	</li>
+	<li><strong>Cryoglobulins: </strong>immunoglobulins that reversibly precipitate at cold temperatures. Precipitation can lead to microvascular occlusion or immune-complex mediated vasculitis
+	<ul>
+		<li>Types of cryoglobulins (Brouet classification):
+		<ul>
+			<li>Type I: monoclonal Ig (often IgM or IgG isotypes) usually result from monoclonal expansion of malignant clone (i.e. multiple myeloma, Waldenström’s, lymphoma), but can also be indolent (MGUS), or secondary to lymphoproliferative disorder (CLL)</li>
+			<li>Type II: monoclonal Ig + polyclonal Ig (mixed)
+			<ul>
+				<li>RF activity of monoclonal cryoglobulin with binding to Fc portion of polyclonal IgG (immune <em>complex </em>formation). Activates complement and is associated with small and medium-sized vessel vasculitis</li>
+				<li>Often secondary to chronic infections: HCV (most common), HIV, HBV, bacterial, parasitic</li>
+				<li>Seen in other autoimmune conditions: Sjögren’s, SLE, RA</li>
+			</ul>
+			</li>
+			<li>Type III: polyclonal Ig + polyclonal Ig (mixed)
+			<ul>
+				<li>Often secondary to chronic infections: HCV, HBV, HIV, bacterial, parasitic</li>
+				<li>Seen in other autoimmune conditions: Sjogren’s, SLE, RA</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Anti-neutrophil cytoplasmic antibody (ANCA): </strong>antibodies against cytoplasmic granules of neutrophils (similar to ANA except against neutrophil-specific antigen)
+	<ul>
+		<li>Indirect immunofluorescence (C-ANCA and P-ANCA): sensitive, but not specific. In particular p-ANCA pattern can be seen with many antigens</li>
+		<li>ELISA (PR3 and MPO): more specific. Directed against target antigens proteinase-3 (PR3) and myeloperoxidase (MPO)</li>
+		<li>Immunofluorescence patterns:
+		<ul>
+			<li>C-ANCA: correlates with serine proteinase-3 (PR-3) cytoplasmic protein, strongly associated with GPA (&gt;90% sensitivity, specificity), EGPA (rarely)</li>
+			<li>P-ANCA: correlates with myeloperoxidase (MPO) peri-nuclear protein, associated with MPA (75% of patients are P-ANCA+), EGPA (~40% of patients are P-ANCA+), renal-limited vasculitis
+			<ul>
+				<li>P-ANCA/MPO is less specific than C-ANCA/PR3</li>
+			</ul>
+			</li>
+			<li>Atypical pattern: may be seen in immune-mediated conditions other than vasculitis (i.e. IBD, PSC, autoimmune hepatitis, connective tissue diseases)</li>
+		</ul>
+		</li>
+		<li>Extreme caution with interpretation:
+		<ul>
+			<li>Immunofluorescence results <em>must</em> be confirmed by ELISAs for PR-3 and MPO</li>
+			<li>Pre-test probability is key when testing for rare diseases such as vasculitis, and positive tests should be interpreted with caution <em>by experts</em></li>
+			<li>False positives associated with: infection (HIV, TB, endocarditis, viral), drugs (e.g. PTU, hydralazine, minocycline), other autoimmune conditions</li>
+			<li>Titers may normalize with treatment and when disease is quiescent (beware the false negative in the setting of high pre-test probability!)</li>
+		</ul>
+		</li>
+		<li>Drug-induced ANCA-associated vasculitis:
+		<ul>
+			<li>Reported with PTU, methimazole, hydralazine, minocycline, levamisole</li>
+			<li>Associated with MPO/P-ANCA</li>
+			<li>Clinical presentation: constitutional symptoms, arthralgias, and cutaneous vasculitis</li>
+			<li>Dual MPO/PR-3 positivity associated with Levamisole-induced vasculitis (e.g. contaminant in &gt;80% of US cocaine)</li>
+		</ul>
+		</li>
+		<li>ANCA antibody titer can correlate with disease activity and can normalize with treatment in some patients, though not a reliable biomarker in isolation</li>
+	</ul>
+	</li>
+	<li><strong>Anti-phospholipid antibody syndrome (APLS): </strong>seen in various rheumatologic conditions. Work-up might include other antibody serologies including anti-cardiolipin, anti-beta 2 glycoprotein (see hematology)</li>
+</ul>
+
+<h3>References</h3>
+
+<p><em>Adapted from 2018 UCSF Outpatient Handbook, Agile MD (Resident Editor: Megan Lockwood, Faculty Editor: Jon Graf) Updated 6/2020 (ML)</em></p>
+
+<p><em>Yazdany J, Schmajuk G, Robbins M, et al. Choosing wisely: the American College of Rheumatology’s Top 5 list of things physicians and patients should question. Arthritis Care Res. 2013;65(3):329-339.</em></p>
+
+<p><em>Kolopp-Sarda MN, Miossec P. Cryoglobulins: An update on detection, mechanisms and clinical contribution. Autoimmun Rev. Epub ahead of print: 2018 Mar 8.</em></p>
+
+<p><em>Seo P, Stone JH. The antineutrophil cytoplasmic antibody-associated vasculitides. Am J Med. 2004;117(1):39-50.</em></p>
+
+<p><em>Graf J. Interpreting Rheumatologic Lab Tests. 41<sup>st</sup> Annual Advances in Internal Medicine in San Francisco, CA, May 2013. Oral Presentation.</em></p>
+
+<p><em>Sox HC Jr, Liang MH.  The erythrocyte sedimentation rate. Guidelines for rational use.  Ann Intern Med 1986; 104:515-523.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/12-rheumatology" class="page-previous" title="Go to previous page">‹ 12. Rheumatology</a>
+                    <a href="/content/12-rheumatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/02-approach-arthritic-joint-pain" class="page-next" title="Go to next page">02. Approach to Arthritic Joint Pain ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="expanded active-trail menu-mlid-3211"><a href="/content/12-rheumatology" class="active-trail">12. Rheumatology</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-3216"><a href="/content/01-rheumatology-labs-101" class="active-trail active">01. Rheumatology Labs 101</a></li>
+<li class="leaf menu-mlid-3221"><a href="/content/02-approach-arthritic-joint-pain">02. Approach to Arthritic Joint Pain</a></li>
+<li class="leaf menu-mlid-3226"><a href="/content/03-acute-mono-arthritis-and-synovial-fluid-analysis">03. Acute Mono-Arthritis and Synovial Fluid Analysis</a></li>
+<li class="leaf menu-mlid-3231"><a href="/content/04-systemic-lupus-erythematosus-sle">04. Systemic Lupus Erythematosus (SLE)</a></li>
+<li class="leaf menu-mlid-3236"><a href="/content/05-vasculitis">05. Vasculitis</a></li>
+<li class="leaf menu-mlid-3241"><a href="/content/06-rheumatoid-arthritis">06. Rheumatoid Arthritis</a></li>
+<li class="leaf menu-mlid-3246"><a href="/content/07-inflammatory-myopathies">07. Inflammatory Myopathies</a></li>
+<li class="leaf menu-mlid-3251"><a href="/content/08-seronegative-sponyloarthropathies-inflammatory-back-pain">08. Seronegative Sponyloarthropathies (Inflammatory Back Pain)</a></li>
+<li class="leaf menu-mlid-3256"><a href="/09-crystal-related-joint-diseases/09-crystal-related-joint-diseases">09. Crystal-Related Joint Diseases</a></li>
+<li class="leaf menu-mlid-3261"><a href="/content/10-joint-injection-steroids">10. Joint Injection with Steroids</a></li>
+<li class="last leaf menu-mlid-3266"><a href="/content/11-osteoporosis">11. Osteoporosis</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/06-acetaminophen-overdose" />
+<link rel="shortlink" href="/node/596" />
+<link rel="prev" href="/content/05-drug-induced-hyperthermia" />
+<link rel="up" href="/content/14-toxicology" />
+<link rel="next" href="/07-salicylate-overdose/07-salicylate-overdose" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/06-acetaminophen-overdose" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/06-acetaminophen-overdose" />
+<meta property="twitter:title" content="06. Acetaminophen Overdose | Hospital Handbook" />
+<meta property="og:title" content="06. Acetaminophen Overdose" />
+  <title>06. Acetaminophen Overdose | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"hLrK4oov-q9XtmzvGZHmpDshhljO936qrc3RtPAtH1M","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/06-acetaminophen-overdose":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-596 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/06-acetaminophen-overdose" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-7bhK6Ac6C4tWDmcRAzDzwHguBrW-7RO3cE1tfO6ynek" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/14-toxicology" class="active-trail">14. Toxicology</a> > <span class="breadcrumb-page-title">06. Acetaminophen Overdose</span></div></div></div>
+                  <h1 class="title" id="page-title">06. Acetaminophen Overdose</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-596" class="node node-book clearfix" about="/content/06-acetaminophen-overdose" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="06. Acetaminophen Overdose" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Mechanism and Pharmacokinetics</h3>
+
+<p style="margin-left: 40px;">Acetaminophen is absorbed by the duodenum; metabolized by the liver. Normally safely metabolized by glucuronidation and sulfonation (&gt;90%); even at appropriate doses a small fraction will be metabolized to a highly toxic reactive intermediate (NAPQI), which is normally detoxified by conjugation with glutathione for renal excretion. Overdose will lead to excess NAPQI, which depletes glutathione supply, and reactive intermediates damage hepatocytes. N-acetylcysteine (NAC, Mucomyst®) works by repleting glutathione, enhancing sulfate conjugation, and may directly bind to NAPQI.</p>
+
+<ul style="margin-left: 80px;">
+	<li>Serum acetaminophen peaks at 4 hours.</li>
+	<li>Toxicity is likely in adults after single, acute ingestion of &gt;250mg/kg or &gt;12g per 24h; blood level &gt;150 mg/L after 4 hours is toxic and will require treatment.</li>
+	<li>Toxicity is worsened by starvation (low glutathione) and chronic alcohol use (induces P450 enzymes which creates more toxic metabolites). Kidneys also have P450 enzymes and can sustain damage from toxic intermediates.</li>
+	<li>Acetaminophen is found in combination with opioids (e.g. Percocet) and as part of many over the counter cold medications (e.g. Sudafed); can lead to accidental overdose.</li>
+</ul>
+
+<h3>Signs and Symptoms</h3>
+
+<ul style="margin-left: 80px;">
+	<li><strong>Stage I – 0-24 hours:</strong> anorexia, nausea, vomiting, diaphoresis, lethargy, malaise, pallor; may also be asymptomatic, especially early. Massive ingestions (e.g., serum levels &gt;500 mg/L) can cause acute CNS depression, AGMA, and hypotension. Serum aminotransferases are often normal, but can rise as early as 8-12h after massive ingestion.</li>
+	<li><strong>Stage II – 24-72 hours:</strong> stage I symptoms may improve, but laboratory values will worsen, with elevated hepatic aminotransferases (usually AST first, then ALT) by 36 hours. Will develop RUQ pain, tenderness, and liver enlargement. Abnormalities in renal function and coagulopathy may also begin to appear.</li>
+	<li><strong>Stage III – 72-96 hours:</strong> same symptoms as in stage I return, along with jaundice, hepatic encephalopathy, drastic LFT rise, elevated ammonia, and coagulopathy. Patients with severe hepatotoxicity will have transaminases &gt;10K, increased INR, hypoglycemia, lactic acidosis, total bilirubin &gt;4. May also have acute renal failure. If death occurs, it is in this stage, usually from multiorgan failure.</li>
+	<li><strong>Stage IV – 96 hours-2 weeks:</strong> recovery phase. Usually is complete by 7 days post-ingestion, but can be prolonged in very ill patients. Resolution of symptoms and labs may take longer.</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul style="margin-left: 80px;">
+	<li>If possible, determine dose, single ingestion or recurrent, time since ingestion, intentional vs accidental, baseline liver disease or risk factors.</li>
+	<li>Obtain serum acetaminophen concentration immediately and at 4 hours from ingestion (if known) or presentation (if not known).</li>
+	<li>Obtain BMP, LFTs, coagulation factors, urinalysis, urine toxicology; consider other causes of acute liver failure.</li>
+	<li>Evaluate 4-hour serum concentration on Rumack-Matthew nomogram: if value is above the treatment line, NAC should be administered.
+	<ul style="margin-left: 40px;">
+		<li>Note that the nomogram is only validated for a single ingestion with a known time of ingestion, and is not accurate in cases of repeat or chronic ingestion. It assumes rapid absorption, so may be unreliable when absorption is delayed by sustained-release formulation, co-ingestion of opioids, or anticholinergic drugs.</li>
+	</ul>
+	</li>
+	<li>Note that very elevated bilirubin or creatinine can cause false positive acetaminophen level; if any doubt, treat as true positive.<em> </em></li>
+</ul>
+
+<p><img alt="" height="922" src="https://hospitalhandbook.ucsfsitebuilder.acsitefactory.com/sites/g/files/tkssra6536/f/Picture1_14.png" width="922" /></p>
+
+<h3>Initial Management</h3>
+
+<ul style="margin-left: 80px;">
+	<li><strong>Activated charcoal</strong>: single dose activated charcoal at 1g/kg (or 50g) PO or via NG tube to all patients within 4 hours of ingestion. May be helpful &gt;4h if co-ingestion is present.</li>
+	<li><strong>N-acetylcysteine (NAC):</strong> low threshold to treat, given low toxicity and cost. Best if given within 8 hours of ingestion and before ALT rise. Can give with charcoal.
+	<ul style="margin-left: 40px;">
+		<li><strong>Oral dosing:</strong> 140mg/kg loading dose, followed by 17 doses of 70mg/kg q4h (72 hours). If patient vomits within 1 hour of administration, immediately give full dose again.</li>
+		<li><strong>IV dosing:</strong> can give IV if unable to tolerate PO/NG. If no evidence of liver failure, 20-hour IV protocol (150mg/kg IV loading dose in the first hour). If evidence of liver failure (INR&gt;2), 20-hour IV protocol + continuous infusion until INR&lt;2. Watch for allergic or anaphylactic reaction (in up to 20%!).</li>
+		<li>When to give NAC:
+		<ul style="margin-left: 40px;">
+			<li>Serum APAP concentration for indicated hour post-ingestion above treatment line on nomogram.</li>
+			<li>Serum APAP concentration is unable to be obtained and suspected ingestion of &gt;150mg/kg or &gt;7.5g regardless of weight.</li>
+			<li>Serum APAP &gt;10mcg/mL for unknown time of ingestion.</li>
+			<li>APAP ingestion with any evidence of liver injury.</li>
+			<li>When in doubt, treat!</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Antiemetics</strong>: ondansetron, metoclopramide; especially important to give with PO NAC.</li>
+	<li><strong>Call Poison Control (800-222-1222) </strong>for further guidance.</li>
+</ul>
+
+<h3>Monitoring</h3>
+
+<ul style="margin-left: 80px;">
+	<li>Check LFTs and INR q12h; if ALT&gt;1000, also check BMP q12h to monitor for renal failure. Severe illness may require more frequent lab monitoring.</li>
+	<li>Check serial APAP levels if concerned for delayed absorption; can continue NAC until APAP levels undetectable and LFTs and coagulopathy improving.</li>
+	<li>Normal transaminases 24 hours after ingestion indicate very low risk of hepatotoxicity (assuming APAP now undetectable).</li>
+	<li>Evaluate potential need for liver transplant: consult GI <strong>early</strong> for severe transaminitis with rising INR and bilirubin. Calculate Kings College criteria for liver transplant, which include pH &lt;7.3, creatinine &gt;3.4, INR &gt;6.5, and grade III or IV hepatic encephalopathy.</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul style="margin-left: 80px;">
+	<li>Amount of ingestion and time to treatment are most prognostic of subsequent hepatotoxicity.</li>
+	<li>Low threshold to initiate treatment with N-acetylcysteine, with greatest benefit of intervention within 8 hours of ingestion.</li>
+</ul>
+
+<p> </p>
+
+<p><em>AUGreen JL, Heard KJ, Reynolds KM, Albert D. Oral and Intravenous Acetylcysteine for Treatment of Acetaminophen Toxicity: A Systematic Review and Meta-analysis. J Emerg Med. 2013 May;14(3):218-26.</em></p>
+
+<p><em>Beuhler MC, Curry SC. False positive acetaminophen levels associated with hyperbilirubinemia. Clin Toxicol. 2005; 43(3): 167-70.</em></p>
+
+<p><em>Chun LJ, Tong MJ, Busuttil RW, Hiatt JR. Acetaminophen hepatotoxicity and acute liver failure. J Clin Gastroenterol. 2009; 43(4): 342-9.</em></p>
+
+<p><em>Hodgman MJ, Garrard AR. A review of acetaminophen poisoning. Crit Care Clin. 2012;28(4):499‐516.</em></p>
+
+<p><em>Larson AM. Acetaminophen hepatotoxicity. Clin Liver Dis. 2007;11:525-5.</em></p>
+
+<p> </p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/05-drug-induced-hyperthermia" class="page-previous" title="Go to previous page">‹ 05. Drug-Induced Hyperthermia</a>
+                    <a href="/content/14-toxicology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/07-salicylate-overdose/07-salicylate-overdose" class="page-next" title="Go to next page">07. Salicylate Overdose ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="expanded active-trail menu-mlid-2926"><a href="/content/14-toxicology" class="active-trail">14. Toxicology</a><ul class="menu"><li class="first leaf menu-mlid-2931"><a href="/01-toxicology-basics/01-toxicology-basics">01. Toxicology Basics</a></li>
+<li class="leaf menu-mlid-2936"><a href="/content/02-urine-toxicology-screening">02. Urine Toxicology Screening</a></li>
+<li class="leaf menu-mlid-2946"><a href="/content/03-toxidromes">03. Toxidromes</a></li>
+<li class="leaf menu-mlid-2951"><a href="/04-medications-cause-qt-prolongation/04-medications-cause-qt-prolongation">04. Medications That Cause QT Prolongation</a></li>
+<li class="leaf menu-mlid-2956"><a href="/content/05-drug-induced-hyperthermia">05. Drug-Induced Hyperthermia</a></li>
+<li class="leaf active-trail active menu-mlid-2961"><a href="/content/06-acetaminophen-overdose" class="active-trail active">06. Acetaminophen Overdose</a></li>
+<li class="leaf menu-mlid-2966"><a href="/07-salicylate-overdose/07-salicylate-overdose">07. Salicylate Overdose</a></li>
+<li class="leaf menu-mlid-2971"><a href="/08-tricyclic-antidepressant-overdose/08-tricyclic-antidepressant-overdose">08. Tricyclic Antidepressant Overdose</a></li>
+<li class="leaf menu-mlid-2976"><a href="/09-ssri-and-noncyclic-antidepressant-overdose/09-ssri-and-noncyclic-antidepressant-overdose">09. SSRI and Noncyclic Antidepressant Overdose</a></li>
+<li class="leaf menu-mlid-2981"><a href="/content/10-lithium-toxicity">10. Lithium Toxicity</a></li>
+<li class="leaf menu-mlid-2986"><a href="/11-stimulant-cocaine-amphetamine-overdose-and-intoxication/11-stimulant-cocaine-amphetamine-overdose">11. Stimulant (Cocaine, Amphetamine) Overdose and Intoxication</a></li>
+<li class="leaf menu-mlid-2991"><a href="/12-g-hydroxybutyrate-ghb-overdose-and-withdrawal/12-g-hydroxybutyrate-ghb-overdose-and-withdrawal">12. G-Hydroxybutyrate (GHB) Overdose and Withdrawal</a></li>
+<li class="leaf menu-mlid-2996"><a href="/13-mdma-ecstasy-intoxication/13-mdma-ecstasy-intoxication">13. MDMA (Ecstasy) Intoxication</a></li>
+<li class="leaf menu-mlid-3001"><a href="/content/14-acute-alcohol-toxicity">14. Acute Alcohol Toxicity</a></li>
+<li class="leaf menu-mlid-3006"><a href="/content/15-opioid-overdose">15. Opioid Overdose</a></li>
+<li class="leaf menu-mlid-3011"><a href="/content/16-carbon-monoxide-inhalation">16. Carbon Monoxide Inhalation</a></li>
+<li class="leaf menu-mlid-3021"><a href="/content/17-beta-blocker-overdose">17. Beta Blocker Overdose</a></li>
+<li class="last leaf menu-mlid-3026"><a href="/content/18-calcium-channel-blocker-overdose">18. Calcium Channel Blocker Overdose</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

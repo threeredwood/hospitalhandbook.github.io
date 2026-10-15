@@ -1,0 +1,555 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/02-renal-tubular-acidosis" />
+<link rel="shortlink" href="/node/1261" />
+<link rel="prev" href="/content/01-algorithm-acid-base-disorders-0" />
+<link rel="up" href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" />
+<link rel="next" href="/content/03-hyponatremia" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/02-renal-tubular-acidosis" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/02-renal-tubular-acidosis" />
+<meta property="twitter:title" content="02. Renal Tubular Acidosis | Hospital Handbook" />
+<meta property="og:title" content="02. Renal Tubular Acidosis" />
+  <title>02. Renal Tubular Acidosis | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"CkbLRkwC8s9oWWLjArvOCNqUi9iNdCVsGFksjOUh54U","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/02-renal-tubular-acidosis":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1261 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/02-renal-tubular-acidosis" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-3dTXUyFb_VF0Tv9FqS3ByBARFfBXBwZeNXZouWOL6Xw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="active-trail">06. Acid-BaseIElectrolytes</a> > <span class="breadcrumb-page-title">02. Renal Tubular Acidosis</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Renal Tubular Acidosis</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1261" class="node node-book clearfix" about="/content/02-renal-tubular-acidosis" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Renal Tubular Acidosis" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3>
+
+<ul>
+	<li>Renal tubular acidosis refers to an impaired acid-base metabolism by the kidney in the setting of normal glomerular filtration. These conditions are characterized by a non-elevated anion gap (hyperchloremic) metabolic acidosis.</li>
+	<li>Kidney disease must be excluded as etiology of inappropriate acid-base metabolism.
+	<ul>
+		<li>Chronic kidney disease (CKD) is associated with a non-elevated anion gap acidosis early in its course due to decreased generation of NH3 and decreased medullary trapping of NH4+. </li>
+		<li>As CKD progresses, elevated anion gap acidosis tends to predominate as the kidney loses the ability to excrete anions (phosphate, sulfate, urate, etc.).</li>
+	</ul>
+	</li>
+	<li>Note: in the setting of acidemia, the expected urine pH is between 4.5-5.0 as virtually no HCO3 should be excreted.</li>
+</ul>
+
+<h3>Categories</h3>
+
+<ul>
+	<li><strong>Type I RTA (distal)</strong></li>
+	<li>Etiology: type I RTA represents a failure to secrete H+ in the distal nephron, where urinary acidification takes place. This leads to metabolic acidosis with higher than appropriate urine pH, as the body is unable to acidify the urine to eliminate systemic acid.</li>
+	<li>Causes
+	<ul>
+		<li><u>Most common:</u> in adult patients, urinary obstruction or Sjogren’s/SLE</li>
+		<li>Primary (genetic)</li>
+		<li>RA</li>
+		<li>Myeloma</li>
+		<li>Marked volume depletion</li>
+		<li>Drugs
+		<ul>
+			<li>Cyclosporine toxicity</li>
+			<li>Amphotericin</li>
+			<li>TMP/SMX can impair Na channels leading to a functional type I RTA.</li>
+		</ul>
+		</li>
+		<li>Features/diagnosis
+		<ul>
+			<li>Serum HCO3 may be &lt;10 mEq/L as there is no way to excrete the acid load and bicarbonate is depleted by buffering the excess serum acid.</li>
+			<li>Urine pH &gt; 5.5, reflecting defect in urinary acidification. If a small amount H+ is secreted, it will be buffered by NH3. </li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Type II RTA (proximal)</strong>
+	<ul>
+		<li>Etiology: type II RTA represents a failure to reabsorb filtered bicarbonate in the proximal tubule, causing substantial HCO3 wasting. Normally, reclamation of 80-90% of filtered HCO3 occurs in the proximal tubule; the distal nephron only absorbs a modest amount of bicarbonate. </li>
+		<li>Causes
+		<ul>
+			<li><u>Most common</u>: for adult patients, multiple myeloma or nucleotide analogues (e.g., tenofovir), which causes a proximal tubule injury that manifests as Fanconi syndrome.</li>
+			<li>Primary (genetic) </li>
+			<li>Acetazolamide</li>
+			<li>Heavy metals (Pb, Cd, Hg, Cu, others)</li>
+			<li>Inherited and acquired Fanconi syndrome: generalized proximal tubular dysfunction with impaired ability to reabsorb one or more substrates that normally should be reabsorbed (e.g., bicarbonate, potassium, low molecular weight protein, glucose). It may be caused by any of the above etiologies.</li>
+		</ul>
+		</li>
+		<li>Features/diagnosis
+		<ul>
+			<li>Serum HCO3 levels are usually maintained between 12-20 mEq/L. The serum HCO3 level approximates the tubule’s absorptive capacity: as the serum HCO3 level drops, the filtered load of HCO3 into the proximal tubule will decrease to the point that it can be fully reabsorbed. </li>
+			<li>Urine pH can be variable, depending on the level of serum HCO3. Bicarbonate administration may affect the urine pH, as described below.
+			<ul>
+				<li>If enough HCO3 is given, it may raise serum HCO3 level enough to overwhelm the reabsorptive capacity of the proximal tubule. This leads to HCO3 loss (spillover) in the urine, raising urine pH &gt; 5.5.</li>
+				<li>If serum HCO3 remains low, all of the filtered HCO3 can be reabsorbed, and there will be less HCO3 in the urine. Urine pH will be &lt;5.3 due to normal H+ secretion by the functioning distal nephron. 
+				<ul>
+					<li>Look for accompanying electrolyte abnormalities in type II RTA, like hypokalemia, hypophosphatemia, and glucosuria.</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Type IV RTA - </strong><em>most common type of RTA in adults.</em>
+	<ul>
+		<li>Etiology: in type IV RTA, aldosterone deficiency or resistance in the intercalated and principal cells of the distal nephron leads to hyperkalemia and impaired NH3/NH4+ production, thus causing metabolic acidosis.</li>
+		<li>Causes
+		<ul>
+			<li>Hypoaldosteronism-mediated
+			<ul>
+				<li>Diabetic nephropathy (most common cause).</li>
+				<li>Chronic interstitial nephropathy.</li>
+				<li>Drugs (NSAIDS, heparin, ACEI/ARB, trimethoprim, calcineurin inhibitors).</li>
+				<li>Addison's disease.</li>
+			</ul>
+			</li>
+			<li>Aldosterone-resistance mediated
+			<ul>
+				<li>Sickle cell anemia (most common cause of aldosterone resistance).</li>
+				<li>Urinary tract obstruction.</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li>Features/diagnosis
+		<ul>
+			<li>Serum HCO3 usually &gt; 15 mEq/L.</li>
+			<li>Urine pH &lt; 5.3. In contrast to type I RTA, there is insufficient NH3 production in type IV RTA, leaving the few H+ produced to be left unbuffered, thus leading to a lower urinary pH.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul>
+	<li><strong>Labs</strong>
+
+	<ul>
+		<li>Serum: ABG, serum chemistry.
+		<ul>
+			<li>Urine: UA/urine culture (UTI from urea-producing organisms can raise urine pH by metabolism of HCO3 and NH4+), urine lytes (Na, K, Cl).</li>
+			<li>Can also use expanded urine lytes to calculate urinary osmolar gap (Na, Cl, K, BUN, glucose, osmolality); see discussion below.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Serum potassium</strong>
+	<ul>
+		<li>Hypokalemia: type II RTA (proximal) or type I RTA (distal).</li>
+		<li>Hyperkalemic: type IV RTA (hypoaldosteronism) or type I RTA (distal).</li>
+	</ul>
+	</li>
+	<li><strong>Calculate urine anion gap (UAG): </strong>
+	<ul>
+		<li>UAG is a surrogate for urine NH4+, the unmeasured cation in the urine.</li>
+		<li>UAG = UNa + UK – UCl. 
+		<ul>
+			<li>UAG &lt; 0 suggests extrarenal cause of normal anion gap metabolic acidosis. The kidney is appropriately compensating for the acidosis by secreting NH4+.</li>
+			<li>UAG &gt; 0 suggests renal cause (UAG may be negative in some cases of proximal RTA).</li>
+			<li>UAG should not be used if there is excretion of another anion (lactate, DKA anions, etc.) OR if urine sodium &lt;20 mEq/L (insufficient Na+ delivery to distal tubule does now allow for H+ exchange required for urinary acidification).
+			<ul>
+				<li>If urine sodium &lt;20 mEq/L, consider calculating urine osmolal gap (UOG) instead.</li>
+				<li>UOG = 2(UNa +UK) + Uurea/2.8 + Uglucose/18. </li>
+				<li>UOG &lt;50 is suggestive of RTA.</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Treatment</h3>
+
+<ul>
+	<li><strong>Type I and II</strong>: aggressive K supplementation followed by HCO3 supplementation (initial HCO3 supplementation can worsen hypokalemia, especially in proximal RTA).
+
+	<ul>
+		<li>Use NaHCO3 or Na-citrate to replete.</li>
+		<li>Bicarbonate goals
+		<ul>
+			<li>Type I: normal serum HCO3.</li>
+			<li>Type II: HCO3 &gt;20 mEq/L.</li>
+		</ul>
+		</li>
+		<li>Note: may also need close monitoring/repletion of calcium and phosphate.</li>
+	</ul>
+	</li>
+	<li><strong>Type IV</strong>: treat hyperkalemia.
+	<ul>
+		<li>Restrict dietary potassium, avoid potassium-sparing diuretics.</li>
+		<li>Use loop diuretics and thiazides for potassium excretion.</li>
+		<li>Can consider fludrocortisone in severe cases (recommend nephrology consultation before initiating).</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:631px;" width="631">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 158px;"> </th>
+			<th scope="col" style="width: 158px;">
+			<p><strong>Type I</strong></p>
+			</th>
+			<th scope="col" style="width: 158px;">
+			<p><strong>Type II</strong></p>
+			</th>
+			<th scope="col" style="width: 157px;">
+			<p><strong>Type IV</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:158px;">
+			<p>Location</p>
+			</td>
+			<td style="width:158px;">
+			<p>Distal</p>
+			</td>
+			<td style="width:158px;">
+			<p>Proximal</p>
+			</td>
+			<td style="width:157px;">
+			<p>Distal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;height:1px;">
+			<p>Defect</p>
+			</td>
+			<td style="width:158px;height:1px;">
+			<p>Impaired distal H+ secretion or inability to lower urine pH</p>
+			</td>
+			<td style="width:158px;height:1px;">
+			<p>Diminished HCO3 resorption</p>
+			</td>
+			<td style="width:157px;height:1px;">
+			<p>Aldosterone deficiency/resistance</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p>Urine pH</p>
+			</td>
+			<td style="width:158px;">
+			<p>&gt; 5.3</p>
+			</td>
+			<td style="width:158px;">
+			<p>Variable (depending on HCO3 resorptive threshold and bicarbonate supplementation)</p>
+			</td>
+			<td style="width:157px;">
+			<p>Usually &lt; 5.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p>Plasma K+</p>
+			</td>
+			<td style="width:158px;">
+			<p>Low or normal</p>
+			</td>
+			<td style="width:158px;">
+			<p>Low or normal</p>
+			</td>
+			<td style="width:157px;">
+			<p>High</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;height:0px;">
+			<p>Plasma HCO3</p>
+			</td>
+			<td style="width:158px;height:0px;">
+			<p>Very low (may be &lt; 10 mEq/L)</p>
+			</td>
+			<td style="width:158px;height:0px;">
+			<p>Moderately low (12-20 mEq/L)</p>
+			</td>
+			<td style="width:157px;height:0px;">
+			<p>Usually &gt;15 mEq/L</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;height:0px;">
+			<p>Clinical features</p>
+			</td>
+			<td style="width:158px;height:0px;">
+			<p>Nephrolithiasis, nephrocalcinosis</p>
+			</td>
+			<td style="width:158px;height:0px;">
+			<p>Small stature, osteodystrophy/osteomalacia</p>
+			</td>
+			<td style="width:157px;height:0px;">
+			<p>Variable; most commonly associated with DM2</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p> </p>
+
+<p><em>Reilly, Robert, Nephrology in 30 days. 2005.</em></p>
+
+<p><em>Soriano JR. Renal Tubular Acidosis: The Clinical Entity. J Am Soc Nephrol 13: 2160–2170, 2002.</em></p>
+
+<p><em>Smulders YM, Frissen PH, Slaats EH, Silberbusch J. Renal tubular acidosis. Pathophysiology and diagnosis. Arch Intern Med 1996;156:1629-1636.</em></p>
+
+<p><em>Sterns RH.  Fluid, electrolyte, and acid-base disturbances.  J Am Soc Nephrol 2003;2:1-7.</em></p>
+
+<p><em>Laing CM, Unwin RJ. Renal tubular acidosis. J Nephrol 2006;19 Suppl 9:S46-52.</em></p>
+
+<p><em>Rose &amp; Post. Clinical Physiology of Acid-Base and Electrolyte Disorders: 5th Edition. 2001.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/01-algorithm-acid-base-disorders-0" class="page-previous" title="Go to previous page">‹ 01. Algorithm For Acid-Base Disorders</a>
+                    <a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/03-hyponatremia" class="page-next" title="Go to next page">03. Hyponatremia ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="expanded active-trail menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes" class="active-trail">06. Acid-BaseIElectrolytes</a><ul class="menu"><li class="first leaf menu-mlid-3616"><a href="/content/01-algorithm-acid-base-disorders">01. Algorithm For Acid-Base Disorders</a></li>
+<li class="leaf menu-mlid-3621"><a href="/content/01-algorithm-acid-base-disorders-0">01. Algorithm For Acid-Base Disorders</a></li>
+<li class="leaf active-trail active menu-mlid-3626"><a href="/content/02-renal-tubular-acidosis" class="active-trail active">02. Renal Tubular Acidosis</a></li>
+<li class="leaf menu-mlid-3631"><a href="/content/03-hyponatremia">03. Hyponatremia</a></li>
+<li class="leaf menu-mlid-3636"><a href="/content/04-hypernatremia">04. Hypernatremia</a></li>
+<li class="leaf menu-mlid-3641"><a href="/05-hypokalemia/05-hypokalemia">05. Hypokalemia</a></li>
+<li class="leaf menu-mlid-3646"><a href="/content/06-hyperkalemia">06. Hyperkalemia</a></li>
+<li class="leaf menu-mlid-3651"><a href="/07-hypomagnesemia/07-hypomagnesemia">07. Hypomagnesemia</a></li>
+<li class="leaf menu-mlid-3656"><a href="/content/08-hypermagnesemia">08. Hypermagnesemia</a></li>
+<li class="leaf menu-mlid-3661"><a href="/content/09-hypocalcemia">09. Hypocalcemia</a></li>
+<li class="leaf menu-mlid-3666"><a href="/content/10-hypercalcemia">10. Hypercalcemia</a></li>
+<li class="leaf menu-mlid-3671"><a href="/11-hypophosphatemia/11-hypophosphatemia">11. Hypophosphatemia</a></li>
+<li class="last leaf menu-mlid-3676"><a href="/content/12-hyperphosphatemia">12. Hyperphosphatemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

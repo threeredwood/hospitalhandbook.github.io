@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/07-incontinence" />
+<link rel="shortlink" href="/node/426" />
+<link rel="prev" href="/content/06-falls-0" />
+<link rel="up" href="/content/18-geriatrics" />
+<link rel="next" href="/content/08-elder-abuse" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/07-incontinence" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/07-incontinence" />
+<meta property="twitter:title" content="07. Incontinence | Hospital Handbook" />
+<meta property="og:title" content="07. Incontinence" />
+  <title>07. Incontinence | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"jl0b3op89FdWh34kD3B7qObQ6_PP98OUi_othzd-U6U","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/07-incontinence":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-426 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/07-incontinence" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cZvGx3RbDr5zaudsfXBNKd7kMTfLP-t2TQHKy1j8Mlg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/18-geriatrics" class="active-trail">18. Geriatrics</a> > <span class="breadcrumb-page-title">07. Incontinence</span></div></div></div>
+                  <h1 class="title" id="page-title">07. Incontinence</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-426" class="node node-book clearfix" about="/content/07-incontinence" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="07. Incontinence" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3>
+
+<p style="margin-left: 40px;">Involuntary loss of urine severe enough to have social or hygienic consequences.</p>
+
+<p style="margin-left: 40px;">It is NOT an inevitable part of aging, although physiologic changes of aging (BPH, decreased estrogen) increase risk.</p>
+
+<h3>Relevance</h3>
+
+<p style="margin-left: 40px;">Individuals with urinary incontinence have higher utilization of healthcare and worse quality of life. UI is also significantly associated with a patient’s ability to complete ADLs. Treatment of incontinence can decrease risk of falls.</p>
+
+<h3>Differential Diagnosis</h3>
+
+<p style="margin-left: 40px;">Concern for specific etiologies depends on whether incontinence is acute (in which case ruling out overflow incontinence and neurogenic bladder are paramount) vs chronic.</p>
+
+<ul style="margin-left: 40px;">
+	<li><strong>D</strong>: delirium</li>
+	<li><strong>I</strong>: infection (symptomatic)</li>
+	<li><strong>A</strong>: atrophic urethritis/vaginitis</li>
+	<li><strong>P</strong>: pharmaceuticals (diuretics, sedatives), psychiatric cause (depression)</li>
+	<li><strong>E</strong>: excessive urinary output (hyperglycemia, hypercalcemia, CHF)</li>
+	<li><strong>R</strong>: restricted mobility</li>
+	<li><strong>S</strong>: stool impaction, sensation (i.e. neurogenic bladder)</li>
+</ul>
+
+<h3>Indications for Catheter Use</h3>
+
+<p>Incontinence alone is <strong>NOT</strong> an indication for catheter placement!</p>
+
+<p>Catheters may be Indicated for:</p>
+
+<ul style="margin-left: 40px;">
+	<li>Inability to void: outlet obstruction (e.g. BPH), neurogenic bladder with retention, medications</li>
+	<li>Severe cases of gross hematuria or pyuria with concerns for obstruction, monitoring and/or irrigation</li>
+	<li>After anesthesia (short term only)</li>
+	<li>Incontinence AND open wounds needing protection (pressure ulcers)</li>
+	<li> Severe illness requiring close monitoring of I/O</li>
+	<li> Palliative care AND patient preference</li>
+</ul>
+
+<p>Bladder catheters should <strong>NOT</strong> be placed for the following reasons:</p>
+
+<ul style="margin-left: 40px;">
+	<li>Routinely on admission</li>
+	<li>Patient request</li>
+	<li>Limited mobility</li>
+	<li>Pain</li>
+	<li>Dementia/delirium</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<p>History</p>
+
+<ul style="margin-left: 40px;">
+	<li>Ask every patient about incontinence (35% of community-dwelling elderly have incontinence, but only half of incontinent persons have told a physician).
+	<ul style="margin-left: 40px;">
+		<li>During the last 3 months, have you leaked urine, even a small amount?</li>
+	</ul>
+	</li>
+	<li>If the patient is incontinent, focus the history by type of incontinence.
+	<ul style="margin-left: 40px;">
+		<li>Stress UI: physical activity, coughing, sneezing, lifting, or exercise.</li>
+		<li>Urge UI (aka detrusor instability): urge, feeling need to empty but could not get to the toilet fast enough.</li>
+		<li>Overflow UI: frequent or constant leakage or dribbling, losing urine without warning.</li>
+	</ul>
+	</li>
+	<li>Focused ROS:
+	<ul style="margin-left: 40px;">
+		<li>Endo: polyphagia, polydipsia, polyuria</li>
+		<li>Neuro: weakness, sensation changes, mobility</li>
+		<li>Abd: pain, constipation, stool incontinence</li>
+		<li>GU: hematuria, dysuria</li>
+		<li>Psych</li>
+	</ul>
+	</li>
+	<li>Medication review</li>
+</ul>
+
+<p>Exam</p>
+
+<ul style="margin-left: 40px;">
+	<li>Abdominal: palpate for bladder.</li>
+	<li>POCUS for bladder size and hydronephrosis (enlargement of calices, cortical thinning) or ask RN to bladder scan.
+	<ul style="margin-left: 40px;">
+		<li>Post-void residual: &gt;200mL indicates inadequate emptying.</li>
+	</ul>
+	</li>
+	<li>GU: examine women for vaginal atrophy, mass, uterine prolapse, cystocele, rectocele; examine men for prostate size.</li>
+	<li>Rectal: r/o stool impaction, evaluate for tone, prostate size.</li>
+	<li>Neuro: saddle area sensation, distal strength</li>
+</ul>
+
+<p>Labs</p>
+
+<ul style="margin-left: 40px;">
+	<li>UA with micro, urine culture</li>
+	<li>Chemistries: BUN, Cr, glucose, calcium</li>
+</ul>
+
+<p>Radiology</p>
+
+<ul style="margin-left: 40px;">
+	<li>MRI L/S spine if concern for neurologic etiology (especially for acute onset incontinence and/or focal neuro exam)</li>
+	<li>Ultrasound kidney if concern for hydronephrosis</li>
+	<li>Voiding cystourethrogram if suspect fistula tract</li>
+</ul>
+
+<h3>Management</h3>
+
+<p><strong>Acute presentation of urinary incontinence requires neurosurgery evaluation.</strong> Consider dexamethasone if possible spinal compression.</p>
+
+<p><strong>Conservative</strong> <strong>strategies for all types of chronic UI:</strong></p>
+
+<p style="margin-left: 40px;">1. Fluid restrict at night (no fluids within 2-4 hrs of bedtime).</p>
+
+<p style="margin-left: 40px;">2. Avoid caffeine and alcohol in evening.</p>
+
+<p style="margin-left: 40px;">3. Bedside commode or urinal.</p>
+
+<p style="margin-left: 40px;">4. Time diuretics for the daytime.</p>
+
+<p style="margin-left: 40px;">5. Timed voids: instruct patient to go on toilet every 3-4 hours regardless of sensation of needing to void.</p>
+
+<p style="margin-left: 40px;">6. Catheterization / diapers</p>
+
+<p style="margin-left: 80px;">a. For chronic neurogenic bladder: intermittent catheterization q6hr is preferred to bladder catheter.</p>
+
+<p style="margin-left: 80px;">b. Consider absorbent pads or frequent diaper changes to help prevent skin breakdown.</p>
+
+<p style="margin-left: 40px;">7. Medications</p>
+
+<p style="margin-left: 80px;">a. Vary by type of incontinence, but often have significant side effects in the elderly.</p>
+
+<p style="margin-left: 80px;">b. Urge incontinence</p>
+
+<p style="margin-left: 120px;">i. Oxybutynin, tolterodine, trospium (less drug-drug interactions), solifenacin and darifenacin (maybe less drowsiness), imipramine (less prescribed due to new medications with less side effects).</p>
+
+<p style="margin-left: 120px;">ii. These medications are generally anticholinergic and must be used with caution in the elderly. Use lowest dose possible.</p>
+
+<p style="margin-left: 80px;">c. Stress incontinence: pseudoephedrine, topical estrogen for atrophy</p>
+
+<p style="margin-left: 80px;">d. Overflow incontinence: alpha-blocker, finasteride, temporary bethanechol for urinary retention while addressing underlying cause</p>
+
+<p style="margin-left: 40px;">8. Consults</p>
+
+<p style="margin-left: 80px;">a. Urology consultation if elevated PVR, hematuria</p>
+
+<p style="margin-left: 80px;">b. Surgical options may be appropriate after outpatient evaluation</p>
+
+<p><em><u>References</u></em></p>
+
+<p><a href="http://coe.ucsf.edu/wcc/">http://coe.ucsf.edu/wcc/</a><em>  (UCSF Women’s Continence Center)</em></p>
+
+<p><em>Holroyd-Leduc JM, Tannenbaum C, Thorpe KE. What type of urinary incontinence does this woman have? JAMA. 2008; 299(12): 1446-1456.</em></p>
+
+<p><em>Thirugnanasothy S. Managing urinary incontinence in older people. BMJ. 2010; 341.</em></p>
+
+<p><em>Tang DH, Colayco D, Piercy J, Patel V, Globe D, and Chancellor MB. Impact of urinary incontinence on health-related quality of life, daily activities, and healthcare resource utilization in patients with neurogenic detrusor overactivity. BMC Neurology 2014; 14: 17.</em></p>
+
+<p><em>De Gagne JC, So A, Oh J, Park S, Palmer MH. Sociodemographic and health indicators of older women with urinary incontinence: 2010 National Survey of Residential Care Facilities. J Am Geratr Soc. 2013 Jun; 61 (6): 981-6.</em></p>
+
+<p><em>Goepel M, Kirschner-Hermanns R, Welz-Barth A, Klaus-Christian S, and Rubben H. Urinary Incontinence in the Elderly. Dtsch Arztebl Int. 2010 Jul; 107(30): 531–536</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/06-falls-0" class="page-previous" title="Go to previous page">‹ 06. Falls</a>
+                    <a href="/content/18-geriatrics" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/08-elder-abuse" class="page-next" title="Go to next page">08. Elder Abuse ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="expanded active-trail menu-mlid-2761"><a href="/content/18-geriatrics" class="active-trail">18. Geriatrics</a><ul class="menu"><li class="first leaf menu-mlid-2766"><a href="/01-admission-and-discharge-checklist-hospitalized-elders/01-admission-and-discharge-checklist">01. Admission and Discharge Checklist for Hospitalized Elders</a></li>
+<li class="leaf menu-mlid-2771"><a href="/02-dementia/02-dementia">02. Dementia</a></li>
+<li class="leaf menu-mlid-2776"><a href="/content/03-prescribing-geriatric-patients">03. Prescribing in Geriatric Patients</a></li>
+<li class="leaf menu-mlid-2781"><a href="/content/04-malnutrition-and-weight-loss-elderly">04. Malnutrition and Weight Loss in the Elderly</a></li>
+<li class="leaf menu-mlid-2786"><a href="/content/05-pressure-ulcers">05. Pressure Ulcers</a></li>
+<li class="leaf menu-mlid-2796"><a href="/content/06-falls-0">06. Falls</a></li>
+<li class="leaf active-trail active menu-mlid-2801"><a href="/content/07-incontinence" class="active-trail active">07. Incontinence</a></li>
+<li class="last leaf menu-mlid-2806"><a href="/content/08-elder-abuse">08. Elder Abuse</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

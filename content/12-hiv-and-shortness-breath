@@ -1,0 +1,399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/12-hiv-and-shortness-breath" />
+<link rel="shortlink" href="/node/781" />
+<link rel="prev" href="/11-managing-antiretrovirals-hospitalized-patient/11-managing-antiretrovirals-hospitalized-patient" />
+<link rel="up" href="/content/11-infectious-diseases" />
+<link rel="next" href="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/12-hiv-and-shortness-breath" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/12-hiv-and-shortness-breath" />
+<meta property="twitter:title" content="12. HIV and Shortness of Breath | Hospital Handbook" />
+<meta property="og:title" content="12. HIV and Shortness of Breath" />
+  <title>12. HIV and Shortness of Breath | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"IMAfHYx16AUVROsKEAYjE_PFGzfMUoJrb_w_t8fm8vQ","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/12-hiv-and-shortness-breath":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-781 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/12-hiv-and-shortness-breath" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-LqBGnCIuyLTC7yDQe3FsEokyMtMqW-wzsrv4d8199nc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/11-infectious-diseases" class="active-trail">11. Infectious Diseases</a> > <span class="breadcrumb-page-title">12. HIV and Shortness of Breath</span></div></div></div>
+                  <h1 class="title" id="page-title">12. HIV and Shortness of Breath</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-781" class="node node-book clearfix" about="/content/12-hiv-and-shortness-breath" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="12. HIV and Shortness of Breath" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Overview</h3>
+
+<p>In the age of ART, the incidence of AIDS-related opportunistic infections (OIs) is decreasing and the prevalence of chronic illnesses, such as COPD and CAD, is rising. </p>
+
+<h3>Differential Diagnosis</h3>
+
+<ul>
+	<li>Despite the broad differential for shortness of breath in an HIV-positive patient, ~ 85% of all pulmonary infections in this population are caused by three etiologies: bacterial pneumonia (45%), PCP (30%), and TB (10%)</li>
+	<li><em>Infectious</em>: influenza, community-acquired bacterial pneumonia, PCP, TB, other fungal infections (<em>Coccidiodes spp</em>, <em>Histoplasma capsulatum</em>, <em>Crytpococcus), </em>and IRIS (ARVs initiated &lt; 3 months)
+	<ul>
+		<li>Bacterial pneumonia (especially due to <em>S. pneumoniae </em>and<em> H. influenzae</em>) and influenza are the most frequent HIV-associated pulmonary infections reported</li>
+	</ul>
+	</li>
+	<li><em>Non-infectious causes</em>: lymphoma, Kaposi sarcoma, lung cancer, and COPD</li>
+	<li><em>Non-pulmonary causes</em>: CAD, pulmonary artery hypertension, HIV cardiomyopathy, lactic acidosis from treatment with nucleoside analogues (rare), pulmonary embolism, and methemoglobinemia secondary to dapsone</li>
+</ul>
+
+<p>The differential depends on the CD4 count:</p>
+
+<ul>
+	<li>&lt;500: bacterial pneumonia, increased incidence of non-tuberculosis mycobacterial infections (e.g. <em>M. kansasii</em>)</li>
+	<li>&lt;200: bacterial pneumonia more often accompanied by bacteremia and sepsis. Greater risk of extra-pulmonary or disseminated <em>M. tuberculosis</em> infection. Increased concern for <em>Pneumocystis </em>and <em>Cryptococcus neoformans</em> pneumonia</li>
+	<li>&lt;100: consider pulmonary involvement with Kaposi sarcoma and <em>Toxoplasma gondii</em></li>
+	<li>&lt;50: occurrence of disease from endemic fungi (<em>Histoplasma capsulatum </em>and<em> Coccidiodes </em>spp<em>)</em>, and non-endemic fungi (<em>Aspergillus spp</em>.)</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul>
+	<li>The clinical history can provide clues:
+	<ul>
+		<li>Fever &lt; 7 days suggests bacterial pneumonia (odds ratio 6.6)</li>
+		<li>Fever &gt; 7 days suggests mycobacterium tuberculosis (odds ratio 3.6)</li>
+	</ul>
+	</li>
+	<li>If the prior CD4 count is unknown, it can be sent in the acute setting but note CD4 levels can be acutely low in patients with active infections</li>
+	<li>The CXR findings can be helpful:
+	<ul>
+		<li>A lobar infiltrate suggests bacterial pneumonia (odds ratio 5.8)</li>
+		<li>Diffuse, bilateral, symmetric interstitial infiltrates suggests PCP (odds ratio 10.2)</li>
+	</ul>
+	</li>
+	<li>In addition to the usual evaluation for shortness of breath, additional workup may depend on the organisms being considered:
+	<ul>
+		<li>PCP: LDH, Beta-D-glucan, induced sputum for PCP; gold-standard for diagnosis is bronchoscopy</li>
+		<li>Fungal: serum CrAg, urinary histoplasmosis antigen, cocci immunodiffusion/complement fixation</li>
+		<li>Viral: PCR assays by nasal swab</li>
+		<li>Tuberculosis: sputum AFB smear/culture and GeneXpert</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Note, patients with HIV and acute pulmonary disease may warrant early CT scanning, pulmonary consultation, or bronchoscopy.</p>
+
+<p><strong><em>Pneumocystis jirovecii</em></strong><strong> pneumonia (PCP):</strong></p>
+
+<ul>
+	<li>PCP is still the most common opportunistic infection in HIV patients</li>
+	<li>Uncommon in those on prophylaxis (failure rate ~5% on TMP-SMX but ~15% on other regimens)</li>
+	<li>Suspect PCP if there is a subacute (i.e. days to weeks) onset of fever, non-productive cough, and dyspnea</li>
+	<li>Up to 50% will have a normal pulmonary examination</li>
+	<li>The CXR classically shows bilateral interstitial opacities. 10-20% will have a normal CXR. Pleural effusions are not associated with PCP and should increase suspicion for bacterial or fungal pneumonia, TB, or Kaposi sarcoma</li>
+	<li>Elevated serum LDH with &gt;80% sensitivity, but poor specificity for PCP. Markedly elevated LDH or increasing LDH despite appropriate therapy are poor prognostic markers</li>
+	<li>Beta-D-glucan has a sensitivity of &gt;90% but specificity of only 65-90%</li>
+	<li>Chest CT (noncontrast) may be useful in suspected PCP with normal or unchanged CXR, though patchy GGO are non-specific; useful in <em>ruling out</em> PCP (NPV ~100%)</li>
+	<li>95% of patients with PCP have CD4 count &lt; 200, but PCP can occur in those with CD4 &gt; 200, especially if the patient is asplenic, pregnant, or postpartum</li>
+</ul>
+
+<h3>Management</h3>
+
+<ul>
+	<li>Use clinical suspicion and exposures to guide empiric treatment</li>
+	<li>Empiric treatment for bacterial CAP is the same in HIV and non-HIV patients</li>
+	<li>PCP: preferred treatment regardless of degree of illness is TMP-SMX (Septra®, Bactrim®)
+	<ul>
+		<li>Recommended duration of therapy 21 days</li>
+		<li>Oral or IV: TMP/SMX (dose by TMP component at 15 -20 mg/kg/day divided q6 – 8h)
+		<ul>
+			<li>Mild-moderate disease with TMP-SMX allergy: atovaquone or childamycin + primaquine (must check G6PD status before giving primaquine)</li>
+			<li>Severe disease with TMP-SMX allergy: clindamycin + primaquine (first choice) or IV pentamidine</li>
+		</ul>
+		</li>
+		<li>Initiate steroids for suspected severe PCP based on room-air PaO2 &lt; 70 mmHg or A-a gradient &gt; 35
+		<ul>
+			<li>May prevent the inflammation (and associated hypoxia) associated with initiating PCP treatment</li>
+			<li>Dose: prednisone 40 mg PO BID x 5 days, 40 mg PO DAILY x 5 days, then 20 mg PO DAILY x 11 days</li>
+			<li>Initiate as early as possible, ideally before the first dose of antibiotics</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li>Strongly consider airborne isolation and testing for TB</li>
+	<li>Avoid fluoroquinolones if high suspicion for TB as this can breed resistance over time</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>Bacterial pneumonia is the most frequent HIV associated pulmonary disease reported, but the differential broadens as the CD4 count decreases</li>
+	<li>If uncertain as to whether to start steroids for PCP obtain an ABG</li>
+</ul>
+
+<p><em>Kaplan JE, Benson C, Holmes KK, et al.  Guidelines for prevention and treatment of opportunitic infections in HIV-infected adults and adolescents. MMWR 2009 58(RR04):1-198.</em></p>
+
+<p><em>Huang L Pulmonary manifestations of HIV.  HIVInSite January 2009</em></p>
+
+<p><em>Feldman C.  Pneumonia associated with HIV infection. Curr Opin Infect Dis 2005,18:165-170.</em></p>
+
+<p><em>Thomas CF Jr., Limper AH. Pneumocystis pneumonia. N Engl J Med 2004;350:2487-2495</em></p>
+
+<p><em>Zaman MK, White DA. Serum lactate dehydrogenase levels and Pneumocystis carinii pneumonia. Diagnostic and prognostic significance. Am Rev Respir Dis 1988;137(4):796-800.</em></p>
+
+<p><em>Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: Recommendations from the Centers for Disease Control and Prevention, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America. http://aidsinfo.nih.gov/contentfiles/lvguidelines/adult_oi.pdf (Accessed on June 1, 2020).</em></p>
+
+<p>Key words: Pneumocystis pneumonia, pneumonia-HIV, PCP-treatment, IRIS</p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/11-managing-antiretrovirals-hospitalized-patient/11-managing-antiretrovirals-hospitalized-patient" class="page-previous" title="Go to previous page">‹ 11. Managing Antiretrovirals in a Hospitalized Patient</a>
+                    <a href="/content/11-infectious-diseases" class="page-up" title="Go to parent page">up</a>
+                    <a href="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome" class="page-next" title="Go to next page">13. Immune Reconstitution Inflammatory Syndrome (IRIS) ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="expanded active-trail menu-mlid-3086"><a href="/content/11-infectious-diseases" class="active-trail">11. Infectious Diseases</a><ul class="menu"><li class="first leaf menu-mlid-3091"><a href="/01-id-resources-and-general-principles-management-id/01-id-resources-and-general-principles">01. ID Resources and General Principles in Management of ID</a></li>
+<li class="leaf menu-mlid-3096"><a href="/content/02-osteomyelitis">02. Osteomyelitis</a></li>
+<li class="leaf menu-mlid-3101"><a href="/content/03-endocarditis">03. Endocarditis</a></li>
+<li class="leaf menu-mlid-3106"><a href="/04-bacterial-meningitis/04-bacterial-meningitis">04. Bacterial Meningitis</a></li>
+<li class="leaf menu-mlid-3111"><a href="/content/05-csf-fluid-diagnostics">05. CSF Fluid Diagnostics</a></li>
+<li class="leaf menu-mlid-3116"><a href="/content/06-active-pulmonary-tuberculosis-tb">06. Active Pulmonary Tuberculosis (TB)</a></li>
+<li class="leaf menu-mlid-3121"><a href="/content/07-invasive-aspergillosis">07. Invasive Aspergillosis</a></li>
+<li class="leaf menu-mlid-3126"><a href="/content/08-candidemia">08. Candidemia</a></li>
+<li class="leaf menu-mlid-3131"><a href="/content/09-coccidioidomycosis">09. Coccidioidomycosis</a></li>
+<li class="leaf menu-mlid-3136"><a href="/10-hiv-and-neurologic-deficits/10-hiv-and-neurologic-deficits">10. HIV and Neurologic Deficits</a></li>
+<li class="leaf menu-mlid-3141"><a href="/11-managing-antiretrovirals-hospitalized-patient/11-managing-antiretrovirals-hospitalized-patient">11. Managing Antiretrovirals in a Hospitalized Patient</a></li>
+<li class="leaf active-trail active menu-mlid-3146"><a href="/content/12-hiv-and-shortness-breath" class="active-trail active">12. HIV and Shortness of Breath</a></li>
+<li class="leaf menu-mlid-3151"><a href="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome">13. Immune Reconstitution Inflammatory Syndrome (IRIS)</a></li>
+<li class="leaf menu-mlid-3156"><a href="/content/14-initiation-antiretrovirals-acute-oi">14. Initiation of Antiretrovirals in Acute OI</a></li>
+<li class="leaf menu-mlid-3161"><a href="/content/15-primary-and-secondary-prophylaxis-against-opportunistic-infections-hiv-aids">15. Primary and Secondary Prophylaxis Against Opportunistic Infections in HIV AIDS</a></li>
+<li class="leaf menu-mlid-3166"><a href="/content/16-catheter-related-bloodstream-infection-crbsi">16. Catheter-Related Bloodstream Infection (CRBSI)</a></li>
+<li class="leaf menu-mlid-3171"><a href="/content/17-fever-person-who-injects-drugs">17. Fever in a Person Who Injects Drugs</a></li>
+<li class="leaf menu-mlid-3176"><a href="/content/18-fever-unknown-origin-fuo">18. Fever of Unknown Origin (FUO)</a></li>
+<li class="leaf menu-mlid-3181"><a href="/19-approach-potentially-infected-solid-organ-transplant-recipient/19-approach-potentially-infected">19. Approach to the Potentially Infected Solid-Organ Transplant Recipient</a></li>
+<li class="leaf menu-mlid-3186"><a href="/content/20-fever-critically-ill-patients">20. Fever in Critically Ill Patients</a></li>
+<li class="leaf menu-mlid-3191"><a href="/content/21-fever-returning-traveler">21. Fever in a Returning Traveler</a></li>
+<li class="leaf menu-mlid-3196"><a href="/22-infectious-diarrhea/22-infectious-diarrhea">22. Infectious Diarrhea</a></li>
+<li class="leaf menu-mlid-3201"><a href="/content/23-procalcitonin">23. Procalcitonin</a></li>
+<li class="last leaf menu-mlid-3206"><a href="/content/24-covid-19-l-sars-cov-2">24. COVID-19 l SARS-CoV-2</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

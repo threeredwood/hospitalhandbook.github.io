@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="canonical" href="https://hospitalhandbook.ucsf.edu/appendix-formulas/appendix-formulas-0" />
+<link rel="shortlink" href="https://hospitalhandbook.ucsf.edu/node/2756" />
+
+    <title>Appendix A: Formulas | Hospital Handbook</title>
+    <link rel="stylesheet" media="all" href="/sites/g/files/tkssra10826/files/css/css_WeQ-5FzB1wn50cU6VCJnWGwLgfHqvoCUmWDREFW7TQs.css?delta=0&amp;language=en&amp;theme=sb_nine&amp;include=eJxVzEEKAyEMRuELObjogSRqRkJjUvwzDPb03Q109_gWr725S_gq-xVSPnoNMeRb-uBAwkbwzJXAqSkB-68nAzQYqfnibL4mqXw5oRYT4zzUK-mB2Co2Hj7d4qCb4fNZmXf-ARhRNns" />
+<link rel="stylesheet" media="all" href="/sites/g/files/tkssra10826/files/css/css_7hIZze4S3c-WXSeoMgz3btCiBG2zXcbkFhqhFE5yI-E.css?delta=1&amp;language=en&amp;theme=sb_nine&amp;include=eJxVzEEKAyEMRuELObjogSRqRkJjUvwzDPb03Q109_gWr725S_gq-xVSPnoNMeRb-uBAwkbwzJXAqSkB-68nAzQYqfnibL4mqXw5oRYT4zzUK-mB2Co2Hj7d4qCb4fNZmXf-ARhRNns" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v6.6.0/css/all.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2756","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"2a63d172892000173ce71308164a0504784504ed685166b641559d1f50515bd7"}}</script>
+<script src="/sites/g/files/tkssra10826/files/js/js_oIszPb6pa6uhQ3duWtGwimR1rWa-slDBPX-Hf8pCqb0.js?scope=header&amp;delta=0&amp;language=en&amp;theme=sb_nine&amp;include=eJx9ykEOwyAMAMEPEXHog5ABh1p1bISdVPy-UXOrol53trywkutI8-GUOu-NxOIbc9Gtq6C4hXL_UG14agUHhokjZnzCQTosWE5CgrGxZuDFfDJJC3uxNRk50taHHhh_w3VA1YwJBHg6Fbuu0-sf_sYP8_lRyw"></script>
+<script src="/modules/contrib/ucsf_adobe_analytics/js/ucsf-data-layer.js?t8m20d" defer></script>
+<script src="/modules/contrib/ucsf_adobe_analytics/js/ucsf-mag-marketing-data-layer.js?t8m20d" defer></script>
+<script src="https://assets.adobedtm.com/db5f13cb240b/b1130ce1ceae/launch-db8f55f3e131.min.js" defer></script>
+<script src="/modules/contrib/ckeditor_y3ti_plugins/js/build/customElements.bundle.js?t8m20d"></script>
+<script src="/sites/g/files/tkssra10826/files/js/js_IZRR434h15xmr-XfLAkOFB-TdETF62clkjs6PnoH1BM.js?scope=header&amp;delta=5&amp;language=en&amp;theme=sb_nine&amp;include=eJx9ykEOwyAMAMEPEXHog5ABh1p1bISdVPy-UXOrol53trywkutI8-GUOu-NxOIbc9Gtq6C4hXL_UG14agUHhokjZnzCQTosWE5CgrGxZuDFfDJJC3uxNRk50taHHhh_w3VA1YwJBHg6Fbuu0-sf_sYP8_lRyw"></script>
+
+    <!-- link name="polymer_platform" href="" rel="import" / -->
+  </head>
+  <body class="font--header--granjon ucsf-b1gfoot no-sidebar no-sidebar--right profile--grid path-node page-node-type-book page-book" data-color-primary="navy" data-color-secondary="teal">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper" class="layout-container">
+<div id="page">
+  <header>
+    <div class="ucsf-top-header row-full-width ">
+  <nav class="inside" aria-label="UCSF">
+    
+    <ul class="menu">
+      <li class="first">
+        <a href="https://www.ucsf.edu">University of California San Francisco</a>
+      </li>
+              <li>
+          <a href="https://www.ucsfhealth.org/">UCSF Health</a>
+        </li>
+        <li>
+          <a href="https://www.ucsf.edu/search">Search UCSF</a>
+        </li>
+        <li>
+          <a href="https://www.ucsf.edu/about">About UCSF</a>
+        </li>
+      
+              <li class="last header-give">
+          <a href="https://giving.ucsf.edu">Give to UCSF</a>
+        </li>
+          </ul>
+  </nav>
+</div>
+
+    
+    <section id="header" class="row-full-width">
+      <div class="inside clearfix">
+
+        
+          <div class="region region-header">
+        <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-sb-nine-search" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." placeholder="Search..." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" /><span class="search-icon fa fa-search" aria-hidden=""></span>
+</div>
+
+</form>
+
+  </div>
+<div id="block-sb-nine-branding" class="block block-system block-system-branding-block">
+  
+    
+            <a href="/" rel="home" id="logo" title="Hospital Handbook homepage">
+      <img src="/themes/custom/sb_nine/logo.svg" alt="Hospital Handbook homepage" height="100" width="200" />
+    </a>
+  
+      </div>
+<nav role="navigation" aria-labelledby="block-sb-nine-main-menu-menu" id="block-sb-nine-main-menu" class="block-menu-block block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-sb-nine-main-menu-menu">Main navigation</h2>
+  
+
+    <div class="content">
+  <div class="menu-block-wrapper">
+    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a>
+              </li>
+                <li class="menu-item">
+        <a href="/content/outpatient-handbook">Outpatient Handbook</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</div>
+
+</nav>
+
+  </div>
+
+      </div>
+    </section>
+
+      <div class="region region-page-title">
+    <div id="block-sb-nine-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+        <nav id="breadcrumb" class="row-full-width" aria-labelledby="system-breadcrumb">
+    <div class="inside">
+      <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+      <ol class="breadcrumb breadcrumb-separator">
+              <li>
+                      <a href="/">Home</a>
+                  </li>
+              <li>
+                      Appendix A: Formulas
+                  </li>
+            </ol>
+    </div>
+  </nav>
+
+    </div>
+  </div>
+<div id="block-sb-nine-page-title" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      
+  <h1 id="page-title" class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Appendix A: Formulas</span>
+</h1>
+
+
+    </div>
+  </div>
+
+  </div>
+
+  </header>
+
+  <main>
+    <div class="content-top">
+      
+    </div>
+
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+
+        <div id="content" class="column">
+          <div class="inside">
+                          <div id="highlighted">
+                  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+              </div>
+            
+            <a id="main-content" tabindex="-1"></a>
+                        
+
+              <div class="region region-content">
+    <div id="block-sb-nine-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article class="node node--type-book node-book node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+          
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h4>Electrolytes</h4>
+
+<p><strong>Na+ (corrected for hyperglycemia):</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Corrected Na+ = measured Na+ + [(glucose – 100) x 0.024]</li>
+</ul>
+
+<p><strong>Ca2+ (corrected for hypoalbuminemia):</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Corrected Ca2+ = [(4 – serum albumin) x 0.8] + measured Ca2+</li>
+</ul>
+
+<p><strong>Free Water Deficit:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Water deficit = wt (kg) x&nbsp;<em>k</em>&nbsp;x [(plasma Na+ / 140) – 1]; where&nbsp;<em>k</em>&nbsp;= 0.5 for males and 0.4 for females</li>
+</ul>
+
+<p><strong>Osmolality:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Calculated Osm = (2 x Na+) + (glucose / 18) + (BUN / 2.8) + (EtOH / 4.6)&nbsp;</li>
+	<li>normal: 270–290</li>
+	<li>Osm gap = measured Osm – calculated Osm {normal &lt; 10}</li>
+	<li>&gt;10 is abnormal: caused by renal failure, methanol, ethylene glycol, sorbitol, mannitol, isopropanol, radiocontrast dye</li>
+</ul>
+
+<p><strong>Anion Gaps:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Serum AG = [Na+] – [Cl-] – [HCO3] {normal 10-14}</li>
+	<li>Corrected AG (for hypoalbuminemia)</li>
+	<li>Corrected AG = serum AG + [(4 – serum albumin) x 2.5]</li>
+	<li>∆AG = (AG – 12) + HCO3 {normal 23–30}.</li>
+	<li>∆AG &gt;30: concomitant metabolic alkalosis (excessively high HCO3).</li>
+	<li>∆AG &lt;23: concomitant non-AG metabolic acidosis (excessively low HCO3).</li>
+	<li>Urine AG = U[Na+] + U[K+] – U[Cl-]</li>
+	<li>NH4+ is the major unmeasured cation, so a strongly negative UAG suggests high urine NH4+.</li>
+	<li>Urine AG &lt;0: GI HCO3 loss.</li>
+	<li>Urine AG &gt;0: Renal HCO3loss (RTA).&nbsp;</li>
+</ul>
+
+<h4>Body Fluid / IV Fluids</h4>
+
+<p><strong>Body fluid composition:</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li><strong>Total Body Water</strong>&nbsp;= 0.6 x wt (kg) for males 0.5 x wt (kg) for females</li>
+	<li>Extracellular fluid (<strong>ECF</strong>) = 0.2 x wt (kg)</li>
+	<li>Intravascular<strong>:&nbsp;</strong>1/3 ECF&nbsp;</li>
+	<li>Interstitial<strong>:</strong>&nbsp;2/3 ECF</li>
+	<li>Intracellular fluid (<strong>ICF</strong>) = 0.4 x wt (kg)</li>
+</ul>
+
+<p><strong>IVF and tonicity:</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:89px;">
+			<p><strong>Plasma</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>142</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>4</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>104</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>27</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>29</strong></p>
+			</td>
+			<td style="width:89px;">
+			<p><strong>306</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>NS</p>
+			</td>
+			<td style="width:89px;">
+			<p>154</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>154</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>308</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>D5W</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>278</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>D5 1⁄2NS</p>
+			</td>
+			<td style="width:89px;">
+			<p>77</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>77</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>421</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>1 amp NaHCO3</p>
+			</td>
+			<td style="width:89px;">
+			<p>50</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>50</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:89px;">
+			<p>20 mEq KCl</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>20</p>
+			</td>
+			<td style="width:89px;">
+			<p>20</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>-</p>
+			</td>
+			<td style="width:89px;">
+			<p>40</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>e.g. 1⁄4NS + 20 mEq KCl + 1⁄2 amp NaHCO3 = (308/4) + 40 + (100/2) = 167 mOsm/L, or roughly equivalent in tonicity to 1⁄2NS</li>
+</ul>
+
+<p><strong>IVF effect on plasma Na:</strong></p>
+
+<ul>
+	<li>∆Na per liter IVF given = [NaIVF(mEq/l) + KIVF(mEq/l) – Naserum (mmol/l)] / [Total Body Water + 1]</li>
+</ul>
+
+<h4>Renal</h4>
+
+<p><strong>Creatinine Clearance:</strong></p>
+
+<ul>
+	<li>Estimated CrCl (Cockcroft-Gault Equation)* = [(140 – age) x (wt in kg)] / [serum Cr x 72]</li>
+	<li>*multiply by 0.85 for females</li>
+	<li>{normal 100–125 ml/min (M) or 85–105 ml/min (F)}</li>
+	<li>Measured CrCl = [urine Cr x urine volume (ml/24hr)] / [serum Cr x 1440 (min/24hr)]</li>
+</ul>
+
+<p><strong>Fraction Na excretion:</strong></p>
+
+<ul>
+	<li>FENa = [(urine Na+ / serum Na+) x 100] / [(urine Cr / serum Cr)]</li>
+	<li>&lt;1% suggests pre-renal</li>
+	<li>FENa interpretable only in oliguric states (UOP &lt; 400 cc/day)</li>
+</ul>
+
+<p><strong>Transtubular Potassium Gradient:</strong></p>
+
+<ul>
+	<li>TTKG = (urine K+ / serum K+) / (urine Osm / serum Osm)</li>
+	<li>With hyperkalemia:</li>
+	<li>&lt; 7 suggestive decreased aldosterone activity.</li>
+	<li>&gt; 7 suggestive effective volume depletion with normal aldosterone activity.&nbsp;</li>
+</ul>
+
+<h4>Hemodynamics</h4>
+
+<p><strong>Cardiac Output:</strong></p>
+
+<ul>
+	<li>CO = HR x stroke volume</li>
+	<li>CI = CO / BSA (in m2); where BSA= √([ht (cm) x wt (kg)] / 3600)</li>
+	<li>Fick Technique: CO =&nbsp;&nbsp;estimated O2 consumption or VO2 (ml/min)*&nbsp;/&nbsp;arteriovenous O2 difference**&nbsp;</li>
+</ul>
+
+<p><strong>Resistance</strong>:</p>
+
+<ul>
+	<li>SVR = [(MAP – CVP) / CO] x 80&nbsp;</li>
+	<li>{normal 700–1600 dynes*s/cm5}</li>
+	<li>PVR = [(MPAP – PCWP) / CO] x 80&nbsp;</li>
+	<li>{normal 20–120 dynes*s/cm5}</li>
+</ul>
+
+<p><strong>Pressure:</strong></p>
+
+<ul>
+	<li>Pulse Pressure = SBP – DBP</li>
+	<li>MAP = [SBP + (DBP x 2)] / 3</li>
+</ul>
+
+<h4>Pulmonary</h4>
+
+<p><strong>Alveolar-arterial O2 gradient:</strong></p>
+
+<ul>
+	<li>A–a O2 gradient = [FiO2 x (pAtm – pH2O)] – (pCO2 / R) – pO2</li>
+	<li>= [FiO2 x (760 – 47)] – (pCO2 / 0.8) – pO2</li>
+	<li>= 150 – (pCO2 / 0.8) – pO2</li>
+	<li>{normal 5–25 or age/3} *at sea level on RA</li>
+</ul>
+
+<h4>Statistics</h4>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:208px;">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:208px;">
+			<p><strong>Disease (+)</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p><strong>Disease (–)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Test (+)&nbsp;</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p>A True Positive</p>
+			</td>
+			<td style="width:208px;">
+			<p>B False Positive&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Test (–)&nbsp;</strong></p>
+			</td>
+			<td style="width:208px;">
+			<p>C False Negative&nbsp;</p>
+			</td>
+			<td style="width:208px;">
+			<p>D True Negative&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Sensitivity = A / (A + C)</li>
+	<li>Specificity = D / (D + B)</li>
+	<li>Positive Predictive Value = A / (A + B)</li>
+	<li>Negative Predictive Value = D / (C + D)</li>
+	<li>Positive Likelihood Ratio = sensitivity / (1 – specificity)&nbsp;</li>
+	<li>Negative Likelihood Ratio = (1 – sensitivity) / specificity&nbsp;</li>
+	<li>Number needed to treat (NNT) = 1 / (absolute risk reduction)</li>
+</ul>
+</div>
+      <section class="field field--name-comment-node-book field--type-comment field--label-hidden comment-wrapper">
+  
+  
+
+  
+</section>
+
+      </div>
+
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+            
+          </div>
+        </div>
+
+              </div>
+    </div>
+  </main>
+
+  <footer id="footer">
+    <div class="section">
+      
+
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                          <li>
+                <a href="/contact">Contact Us</a>
+              </li>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2026 The Regents of the University of California</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</div>
+</div>
+  </div>
+
+    <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"Hospital Handbook","entityCreated":"1660066074","entityLangcode":"en","entityStatus":"1","entityUid":"66","entityUuid":"02b9465b-82a9-48bd-bb87-c2e98f23e05f","entityVid":"2756","entityName":"matt.hreha@ucsf.edu","entityType":"node","entityBundle":"book","entityId":"2756","entityTitle":"Appendix A: Formulas","userUid":0});</script>
+
+    <script src="/sites/g/files/tkssra10826/files/js/js_NryuGo6x4gVhYb-w37KwSWC1arZheCX_CiSBNsRRsYU.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=sb_nine&amp;include=eJx9ykEOwyAMAMEPEXHog5ABh1p1bISdVPy-UXOrol53trywkutI8-GUOu-NxOIbc9Gtq6C4hXL_UG14agUHhokjZnzCQTosWE5CgrGxZuDFfDJJC3uxNRk50taHHhh_w3VA1YwJBHg6Fbuu0-sf_sYP8_lRyw"></script>
+
+  </body>
+</html>

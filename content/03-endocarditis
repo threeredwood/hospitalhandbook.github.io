@@ -1,0 +1,598 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/03-endocarditis" />
+<link rel="shortlink" href="/node/736" />
+<link rel="prev" href="/content/02-osteomyelitis" />
+<link rel="up" href="/content/11-infectious-diseases" />
+<link rel="next" href="/04-bacterial-meningitis/04-bacterial-meningitis" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/content/03-endocarditis" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/content/03-endocarditis" />
+<meta property="twitter:title" content="03. Endocarditis | Hospital Handbook" />
+<meta property="og:title" content="03. Endocarditis" />
+  <title>03. Endocarditis | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"oDcZH9CwCqen_DogSq_N_a_Yf9ssSnvqtB5CKuo4x18","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/content\/03-endocarditis":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-736 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/content/03-endocarditis" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vFbJ6cgde69_lhn1_jJHQHiStFeYovb-RV_4LCaftP4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/11-infectious-diseases" class="active-trail">11. Infectious Diseases</a> > <span class="breadcrumb-page-title">03. Endocarditis</span></div></div></div>
+                  <h1 class="title" id="page-title">03. Endocarditis</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-736" class="node node-book clearfix" about="/content/03-endocarditis" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="03. Endocarditis" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Overview</h3>
+
+<p>Diagnosis requires 2 major, 1 major with 3 minor, or 5 minor criteria from the modified Duke Criteria listed below:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:704px;" width="705">
+	<tbody>
+		<tr>
+			<td style="width:352px;height:18px;">
+			<p><strong>MAJOR CLINICAL CRITERIA:</strong></p>
+			</td>
+			<td style="width:352px;height:18px;">
+			<p><strong>MINOR CLINICAL CRITERIA:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:352px;height:160px;">
+			<ol>
+				<li>Blood cultures with typical IE organisms (see below) on &gt;2 separate cultures.</li>
+				<li>Evidence of valvular vegetation, or abscess, or dehiscence on TEE/TTE.</li>
+				<li><u>New</u> regurgitant murmur.</li>
+				<li>Serologic dx (<em>Coxiella</em> IgG titer &gt;1:800 or positive <em>Bartonella</em> or <em>C.psittaci</em> titers) or single positive culture of <em>Coxiella</em> <em>burnetii</em> (Q fever).</li>
+			</ol>
+			</td>
+			<td style="width:352px;height:160px;">
+			<ol>
+				<li>Predisposing condition (see below).</li>
+				<li>Fever (temperature &gt;38.0 C).</li>
+				<li>Vascular events (septic emboli, pulmonary emboli, mycotic aneurysm, CNS or conjunctival, and Janeway lesions).</li>
+				<li>Immunologic events (Osler’s nodes, glomerulonephritis, Roth spots, + Rheum Factor).</li>
+				<li>Microbiologic data not meeting major criteria.</li>
+			</ol>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Bacteremia is continuous and high grade.</li>
+	<li>Two blood cultures are positive &gt; 90% of the time.</li>
+	<li>Repeat the blood cultures every 48 hours until sterile.</li>
+	<li>Prevalence of endocarditis among patients with <em>S. aureus</em> bacteremia is approximately (13-25%); TTE is now recommended in all patients with <em>S. aureus</em> bacteremia.</li>
+</ul>
+
+<h3>Etiology / Risk Factors</h3>
+
+<p><strong>Predisposing conditions</strong> include prosthetic valves, previous IE, IDU, structural heart disease (e.g., valvular abnormalities including MV prolapse), hemodialysis and indwelling catheters.</p>
+
+<h3>Evaluation</h3>
+
+<ul>
+	<li><strong>Clinical manifestations</strong> are protean, so suspect the condition in those with risk factors. Fever may be absent in up to 10% of patients. 70% have heart murmurs (50% new murmur, 20% worsening of old murmur). Only ~10% of patients have classic peripheral stigmata of endocarditis (Janeway lesions, Osler nodes, splinter hemorrhages).</li>
+	<li><strong>Physical Exam</strong>
+	<ul>
+		<li>Cardiac: exam can be dynamic so reassess for <em>new or changing regurgitant murmurs</em>.</li>
+		<li>Skin: the most common rash is <em>petechiae</em>; can be on the conjunctiva, palate, or buccal mucosal surfaces. <em>Splinter hemorrhages</em> are non-blanching, often at distal nail bed. <em>Osler nodes</em> are small tender nodules on fingers and/or toes. <em>Janeway lesions</em> are small, macular, painless hemorrhages on palms or soles.</li>
+		<li>Eyes: <em>Roth spots</em> are pale, oval retinal lesions surrounded by hemorrhage.</li>
+		<li>Full neurologic exam to document baseline and to evaluate for focal findings.</li>
+		<li>Other: evaluate for arthritis in all joints, vertebral tenderness, and tender splenomegaly.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Microbiology</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:533px;" width="533">
+	<tbody>
+		<tr>
+			<td style="width:171px;height:31px;"> </td>
+			<td style="width:160px;height:31px;">
+			<p>Native Valve (%)</p>
+			</td>
+			<td style="width:112px;height:31px;">
+			<p>Prosthetic</p>
+
+			<p>Valve (%)</p>
+			</td>
+			<td>
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:17px;"> </td>
+			<td style="width:160px;height:17px;">
+			<p>Non-IDU</p>
+			</td>
+			<td style="width:112px;height:17px;">
+			<p>IDU</p>
+			</td>
+			<td style="width:89px;height:17px;"> </td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:16px;">
+			<p>Staph aureus</p>
+			</td>
+			<td style="width:160px;height:16px;">
+			<p>28</p>
+			</td>
+			<td style="width:112px;height:16px;">
+			<p>68*</p>
+			</td>
+			<td style="width:89px;height:16px;">
+			<p>23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:17px;">
+			<p>CoNS (coag-neg staph)</p>
+			</td>
+			<td style="width:160px;height:17px;">
+			<p>9</p>
+			</td>
+			<td style="width:112px;height:17px;">
+			<p>3</p>
+			</td>
+			<td style="width:89px;height:17px;">
+			<p>17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:17px;">
+			<p>Strep viridans</p>
+			</td>
+			<td style="width:160px;height:17px;">
+			<p>21</p>
+			</td>
+			<td style="width:112px;height:17px;">
+			<p>10</p>
+			</td>
+			<td style="width:89px;height:17px;">
+			<p>12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:16px;">
+			<p>Other strep (incl. bovis)</p>
+			</td>
+			<td style="width:160px;height:16px;">
+			<p>14</p>
+			</td>
+			<td style="width:112px;height:16px;">
+			<p>3</p>
+			</td>
+			<td style="width:89px;height:16px;">
+			<p>10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:17px;">
+			<p>Enterococcus</p>
+			</td>
+			<td style="width:160px;height:17px;">
+			<p>11</p>
+			</td>
+			<td style="width:112px;height:17px;">
+			<p>5</p>
+			</td>
+			<td style="width:89px;height:17px;">
+			<p>12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:16px;">
+			<p>HACEK</p>
+			</td>
+			<td style="width:160px;height:16px;">
+			<p>2</p>
+			</td>
+			<td style="width:112px;height:16px;">
+			<p>0</p>
+			</td>
+			<td style="width:89px;height:16px;">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:17px;">
+			<p>Fungi/yeast</p>
+			</td>
+			<td style="width:160px;height:17px;">
+			<p>1</p>
+			</td>
+			<td style="width:112px;height:17px;">
+			<p>1</p>
+			</td>
+			<td style="width:89px;height:17px;">
+			<p>4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:16px;">
+			<p>Culture negative</p>
+			</td>
+			<td style="width:160px;height:16px;">
+			<p>9</p>
+			</td>
+			<td style="width:112px;height:16px;">
+			<p>5</p>
+			</td>
+			<td style="width:89px;height:16px;">
+			<p>12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:17px;">
+			<p><em>Surgical Therapy</em></p>
+			</td>
+			<td style="width:160px;height:17px;">
+			<p><em>48</em></p>
+			</td>
+			<td style="width:112px;height:17px;">
+			<p><em>38</em></p>
+			</td>
+			<td style="width:89px;height:17px;">
+			<p><em>49</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171px;height:16px;">
+			<p><em>In-hospital mortality</em></p>
+			</td>
+			<td style="width:160px;height:16px;">
+			<p><em>17</em></p>
+			</td>
+			<td style="width:112px;height:16px;">
+			<p><em>10</em></p>
+			</td>
+			<td style="width:89px;height:16px;">
+			<p><em>23</em></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><em>Adapted from Murdoch et al. Arch Int Med (5) 2009</em></p>
+
+<ul>
+	<li><strong>Early vs Late prosthetic valve infection</strong><strong>s:</strong> early infections are typically acquired from surgical-related bacteremia within days to weeks. Because the valve and sutures are not yet endothelialized, bacteria easily adhere to these surfaces. They are more likely to cause valve dehiscence or abscess.
+
+	<ul>
+		<li>Early organisms (&lt;2 mo): Staph &gt; CoNS (Staph epidermidis).</li>
+		<li>Late organisms: CoNS and Staph aureus are roughly equivalent.</li>
+		<li>Infections in valves &gt; 12 mo after surgery are similar to those of native valves, with the exception of bioprosthetic valves, which may breakdown over time and become more susceptible to infection.</li>
+	</ul>
+	</li>
+	<li><strong>Echo:</strong> in native valve endocarditis, the sensitivity of TTE is ~60% and TEE is ~90%. Specificity is ~99% for both. Guidelines recommend TEE first but practically, we usually begin with TTE and consider TEE if negative if there remains a high pre-test probability. Consider TEE in patients with:
+	<ul>
+		<li>High concern for native-valve endocarditis and a negative TTE.</li>
+		<li>Prosthetic valves (TTE is 15-30% sensitive), cardiac device (e.g. pacemaker, AICD) or prior IE.</li>
+		<li>Limited thoracic windows (obesity, COPD, mechanical ventilation).</li>
+		<li>Concern for perivalvular complications (e.g. myocardial abscess).</li>
+	</ul>
+	</li>
+	<li><strong>Culture negative endocarditis</strong>: defined as negative cultures after 7 days. One of the most common causes is antibiotic administration before cultures. The most common infectious causes in America are <em>Bartonella</em> spp and <em>Coxiella burnetii</em> (Q fever). Other pathogens: <em>Chlamydia</em>, <em>Legionella</em>, <em>Brucella</em>. Note, the HACEK organisms are no longer a common cause of culture negative endocarditis as they can be cultured by most microbiology labs. </li>
+</ul>
+
+<h3>Management</h3>
+
+<ul>
+	<li>All patients need prolonged courses of antibiotics and may need surgery.</li>
+	<li>ID should be consulted for all cases of documented endocarditis. Please also refer to AHA/IDSA guidelines (<a href="https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000296">https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000296</a>)</li>
+	<li>Empiric therapy for native valve IE in most patients is vancomycin (targeted to a goal trough of 15-20) plus ceftriaxone 2gm IV q24h, started after cultures have been drawn. Subsequently tailor antibiotics to culture results.</li>
+	<li>Oral antibiotic step-down therapy: Not the standard of care but POET study (<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1808312">https://www.nejm.org/doi/full/10.1056/NEJMoa1808312</a>) found that oral step down therapy was noninferior in their population to full-course IV therapy. Caveats include only Streptococcus, MSSA, CoNS, or Enterococcus faecalis organisms and few PWID.</li>
+	<li><strong>Surgical indications</strong> in native valves include:
+	<ul>
+		<li>Valve dysfunction (i.e. aortic or mitral) causing heart failure.</li>
+		<li>Perivalvular extension with development of abscess, fistula, and/or heart block.</li>
+		<li>Fungi or other highly resistant organisms that are difficult to treat with antibiotics alone.</li>
+		<li>Persistent bacteremia despite maximal treatment, indicating a lack of source control.</li>
+		<li>Recurrent embolization with persistent vegetations despite appropriate treatment.</li>
+		<li>Large vegetations (&gt;1cm) with severe valvular regurgitation (Kang et al, NEJM 2012).</li>
+	</ul>
+	</li>
+	<li><strong>Complications</strong>: suspect with persistent fever for &gt; 48 hours despite treatment or persistent bacteremia despite appropriate treatment.
+	<ul>
+		<li><em><u>Cardiac</u></em>: remember to obtain baseline ECG to assess for heart block or conduction delay (e.g. PR prolongation) due to perivalvular abscess (more common in aortic valve disease). Other complications include cardiac ischemia (embolism to coronary ostia). <em>Heart failure is now the most common cause of death in endocarditis</em>.</li>
+		<li><em><u>Embolic</u></em>: systemic embolization is usually due to left-sided endocarditis or via PFO. Can occur in up to 30% of patients with <em>Staph aureus</em> endocarditis. Risk factors include <em>S. aureus</em>, <em>S. bovis</em>, mitral valve disease, veg &gt; 10mm and increased veg mobility on echo. While a history of aspirin use may be protective, starting anti-platelet treatment after diagnosis may cause increased bleeding (e.g. hemorrhagic conversion of septic emboli) and is <em>not</em> recommended.</li>
+		<li><em><u>Persistent fever</u></em> while on antibiotics for endocarditis: consider metastatic infection including abscess (splenic, perivalvular, renal, and psoas), septic pulmonary emboli, pleural effusion, CNS infection, vertebral osteomyelitis, septic arthritis (esp. sacroiliac, pubic, manubriosternal joints), drug fever, and catheter-associated phlebitis.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>Predisposing factors include prosthetic valves, previous IE, IDU and catheters.</li>
+	<li>Monitor for EKG changes, evidence of heart failure and systemic emboli.</li>
+	<li>The microbiology for native versus prosthetic valves differs slightly, although <em>Staph aureus</em> is the most common organism in both.</li>
+	<li>Consider surgery in cases of heart failure, severe AI/MR, fungi or highly resistant organisms, perivalvular disease, &gt;10mm mobile vegetation, or failed medical therapy.</li>
+</ul>
+
+<p><em>Baddour LM, Wilson WR, Bayer AS, et al. Infective Endocarditis in Adults:</em></p>
+
+<p><em>Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific</em></p>
+
+<p><em>Statement for Healthcare Professionals From the American Heart Association.</em></p>
+
+<p><em>Circulation. 2015 Oct 13;132(15):1435-86.</em></p>
+
+<p><em>Durack DT, Lukes AS, Bright DK. New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service.  Am J Med 1994;96:200-209.</em></p>
+
+<p><em>Fowler VG Jr, Miro JM, Hoen B, et al. Staphylococcus aureus endocarditis: a consequence of medical progress. JAMA 2005;293:3012-3021.</em></p>
+
+<p><em>Li JS, Sexton DJ, Mick N, et al. Proposed modifications to the Duke criteria for the diagnosis of infective endocartiditis. Clin Infect Dis 2000;30:633-638.</em></p>
+
+<p><em>Murdoch DR et al. Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis-Prospective Cohort Study. Arch Intern Med. 2009;169:463-73.</em></p>
+
+<p><em>Hoen B, Duval X. Clinical practice. Infective endocarditis. N Engl J Med 2013; 368:1425–33. </em></p>
+
+<p><em>Wang A et al. Contemporary clinical profile and outcome of prosthetic valve endocarditis. JAMA. 2007;297:1354-61.</em></p>
+
+<p><em>Kang et al, Early Surgery versus Conventional Treatment for Infective Endocarditis, N Engl J Med 2012; 366;26: 2466-73.</em></p>
+
+<p><em>Iversen K, Ihlemann N, Gill SU, et al. Partial Oral versus Intravenous Antibiotic Treatment of</em></p>
+
+<p><em>Endocarditis. N Engl J Med. 2019 Jan 31;380(5):415-424.</em></p>
+
+<p>Key words: Endocarditis, staph aureus, prosthetic valve, echo</p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/02-osteomyelitis" class="page-previous" title="Go to previous page">‹ 02. Osteomyelitis</a>
+                    <a href="/content/11-infectious-diseases" class="page-up" title="Go to parent page">up</a>
+                    <a href="/04-bacterial-meningitis/04-bacterial-meningitis" class="page-next" title="Go to next page">04. Bacterial Meningitis ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="expanded active-trail menu-mlid-3086"><a href="/content/11-infectious-diseases" class="active-trail">11. Infectious Diseases</a><ul class="menu"><li class="first leaf menu-mlid-3091"><a href="/01-id-resources-and-general-principles-management-id/01-id-resources-and-general-principles">01. ID Resources and General Principles in Management of ID</a></li>
+<li class="leaf menu-mlid-3096"><a href="/content/02-osteomyelitis">02. Osteomyelitis</a></li>
+<li class="leaf active-trail active menu-mlid-3101"><a href="/content/03-endocarditis" class="active-trail active">03. Endocarditis</a></li>
+<li class="leaf menu-mlid-3106"><a href="/04-bacterial-meningitis/04-bacterial-meningitis">04. Bacterial Meningitis</a></li>
+<li class="leaf menu-mlid-3111"><a href="/content/05-csf-fluid-diagnostics">05. CSF Fluid Diagnostics</a></li>
+<li class="leaf menu-mlid-3116"><a href="/content/06-active-pulmonary-tuberculosis-tb">06. Active Pulmonary Tuberculosis (TB)</a></li>
+<li class="leaf menu-mlid-3121"><a href="/content/07-invasive-aspergillosis">07. Invasive Aspergillosis</a></li>
+<li class="leaf menu-mlid-3126"><a href="/content/08-candidemia">08. Candidemia</a></li>
+<li class="leaf menu-mlid-3131"><a href="/content/09-coccidioidomycosis">09. Coccidioidomycosis</a></li>
+<li class="leaf menu-mlid-3136"><a href="/10-hiv-and-neurologic-deficits/10-hiv-and-neurologic-deficits">10. HIV and Neurologic Deficits</a></li>
+<li class="leaf menu-mlid-3141"><a href="/11-managing-antiretrovirals-hospitalized-patient/11-managing-antiretrovirals-hospitalized-patient">11. Managing Antiretrovirals in a Hospitalized Patient</a></li>
+<li class="leaf menu-mlid-3146"><a href="/content/12-hiv-and-shortness-breath">12. HIV and Shortness of Breath</a></li>
+<li class="leaf menu-mlid-3151"><a href="/13-immune-reconstitution-inflammatory-syndrome-iris/13-immune-reconstitution-inflammatory-syndrome">13. Immune Reconstitution Inflammatory Syndrome (IRIS)</a></li>
+<li class="leaf menu-mlid-3156"><a href="/content/14-initiation-antiretrovirals-acute-oi">14. Initiation of Antiretrovirals in Acute OI</a></li>
+<li class="leaf menu-mlid-3161"><a href="/content/15-primary-and-secondary-prophylaxis-against-opportunistic-infections-hiv-aids">15. Primary and Secondary Prophylaxis Against Opportunistic Infections in HIV AIDS</a></li>
+<li class="leaf menu-mlid-3166"><a href="/content/16-catheter-related-bloodstream-infection-crbsi">16. Catheter-Related Bloodstream Infection (CRBSI)</a></li>
+<li class="leaf menu-mlid-3171"><a href="/content/17-fever-person-who-injects-drugs">17. Fever in a Person Who Injects Drugs</a></li>
+<li class="leaf menu-mlid-3176"><a href="/content/18-fever-unknown-origin-fuo">18. Fever of Unknown Origin (FUO)</a></li>
+<li class="leaf menu-mlid-3181"><a href="/19-approach-potentially-infected-solid-organ-transplant-recipient/19-approach-potentially-infected">19. Approach to the Potentially Infected Solid-Organ Transplant Recipient</a></li>
+<li class="leaf menu-mlid-3186"><a href="/content/20-fever-critically-ill-patients">20. Fever in Critically Ill Patients</a></li>
+<li class="leaf menu-mlid-3191"><a href="/content/21-fever-returning-traveler">21. Fever in a Returning Traveler</a></li>
+<li class="leaf menu-mlid-3196"><a href="/22-infectious-diarrhea/22-infectious-diarrhea">22. Infectious Diarrhea</a></li>
+<li class="leaf menu-mlid-3201"><a href="/content/23-procalcitonin">23. Procalcitonin</a></li>
+<li class="last leaf menu-mlid-3206"><a href="/content/24-covid-19-l-sars-cov-2">24. COVID-19 l SARS-CoV-2</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>
