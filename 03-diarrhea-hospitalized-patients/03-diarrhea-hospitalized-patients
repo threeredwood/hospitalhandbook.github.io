@@ -1,0 +1,450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" />
+<link rel="shortlink" href="/node/1336" />
+<link rel="prev" href="/02-acute-abdominal-pain/02-acute-abdominal-pain" />
+<link rel="up" href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" />
+<link rel="next" href="/04-acute-liver-failure/04-acute-liver-failure" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" />
+<meta property="twitter:title" content="03. Diarrhea in Hospitalized Patients | Hospital Handbook" />
+<meta property="og:title" content="03. Diarrhea in Hospitalized Patients" />
+  <title>03. Diarrhea in Hospitalized Patients | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"Qy-HMD7xGGQvDYbclIbXiVSa5B3omgjTPvAlBReFyMc","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/03-diarrhea-hospitalized-patients\/03-diarrhea-hospitalized-patients":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1336 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vd5P49nCaiJktTW-xDA4i49QN5hv-7mi5eR8VvBp_W4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a> > <span class="breadcrumb-page-title">03. Diarrhea in Hospitalized Patients</span></div></div></div>
+                  <h1 class="title" id="page-title">03. Diarrhea in Hospitalized Patients</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1336" class="node node-book clearfix" about="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="03. Diarrhea in Hospitalized Patients" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Etiology</h3>
+
+<ul>
+	<li>Nosocomial, or hospital acquired diarrhea, is defined as acute development of &gt;3 loose stools in a day after 3 or more days of hospitalization.</li>
+	<li>Community-acquired causes of diarrhea (e.g. viral or bacterial diarrhea) are unlikely to develop after 3 days of hospitalization.</li>
+	<li>Most commonly patients develop non-bloody diarrhea, which is often due to:
+	<ul>
+		<li>Medications:
+		<ul>
+			<li>Antibiotics (independent of their ability to facilitate <em>C. difficile </em>infection).</li>
+			<li>ARVs.</li>
+			<li>NSAIDs.</li>
+			<li>Antidepressants.</li>
+			<li>Antipsychotics.</li>
+			<li>Anti-epileptics.</li>
+			<li>Anti-arrhythmics.</li>
+			<li>Medications containing magnesium, potassium, or sorbitol.</li>
+		</ul>
+		</li>
+		<li><em>Clostridium difficile</em> <em>infection (CDI).</em></li>
+		<li>Enteral feeding.</li>
+		<li>Underlying illnesses.</li>
+	</ul>
+	</li>
+	<li>Less common causes include other infectious agents, opioid withdrawal, malabsorption (from tube feeds and lactose-containing supplementation or pancreatic insufficiency due to pancreatitis), and hyperthyroidism.</li>
+	<li>A very constipated patient (older, on opioids) can have overflow diarrhea around a fecalith.</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul style="list-style-type:circle;">
+	<li>Send stool sample for <em>C. difficile</em> testing. In general, toxin positivity = infection; PCR positivity may indicate colonization.
+
+	<ul>
+		<li>Only send if 3+ unformed stools in 24 hours (asymptomatic carriage of C. diff is common).</li>
+	</ul>
+	</li>
+	<li>Stool cultures and ova and parasites should be sent in immunocompromised patients and individuals with inflammatory bowel disease.
+	<ul>
+		<li>If high suspicion (e.g., HIV+), collecting multiple samples (3+) increases diagnostic yield.</li>
+	</ul>
+	</li>
+	<li>In patients who develop diarrhea after being hospitalized for more than 3 days (&gt;72 hours), cause is usually nosocomial; there is low utility in sending stool ova and parasites and stool cultures.</li>
+	<li>Routine stool cultures do not test for <em>Giardia, Cryptosporidium, Entamoeba, Microsporidia </em>species, and <em>E. coli O157:H7</em>, so request these studies if there is increased clinical suspicion (e.g. immunocompromised patients, bloody diarrhea).</li>
+	<li>If pancreatic insufficiency is suspected, send fecal fat testing to check for malabsorption.</li>
+	<li>Consider consulting GI for:
+	<ul>
+		<li>Bloody diarrhea.</li>
+		<li>If studies are negative and diarrhea persists.</li>
+		<li>Have a lower threshold for consultation if the patient is immunocompromised, has suspected IBD, or recurrent or severe CDI.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Management</h3>
+
+<ul>
+	<li>Discontinue offending medication, if possible.</li>
+	<li>Do not use anti-motility agents initially; if diarrhea is secondary to <em>C. diff</em>, retention of toxin can precipitate toxic megacolon.</li>
+	<li>Once <em>C. diff</em> infection has been ruled out, anti-motility therapy includes:
+	<ul>
+		<li>Loperamide (4mg initially followed by 2mg with each stool, max 16mg/day).</li>
+		<li>Lomotil.</li>
+	</ul>
+	</li>
+	<li>Bismuth subsalicylates can help control mild diarrhea and is overall fairly benign.</li>
+	<li>Consider changing TF formulation.</li>
+	<li>There is no therapeutic role for probiotics. However, probiotics may be considered for <em>prevention</em> of CDI associated with antibiotic use.</li>
+</ul>
+
+<h3><em>Clostridium </em><em>d</em><em>ifficile</em> Infection</h3>
+
+<ul>
+	<li>Clinical presentation:
+	<ul>
+		<li>Diarrhea (typically non-bloody).</li>
+		<li>Abdominal discomfort.</li>
+		<li>More severe infection:
+		<ul>
+			<li>Leukocytosis (particularly over 15,000).</li>
+			<li>Fever.</li>
+			<li>Abdominal distension / ileus.</li>
+			<li>Signs of peritonitis.</li>
+		</ul>
+		</li>
+		<li>Lack of diarrhea is rare, but possible (1-2% of all cases).</li>
+	</ul>
+	</li>
+	<li>Risk factors:
+	<ul>
+		<li>Current or recent antibiotic use (higher risk antibotics include penicillins, cephalosporins, clindamycin, fluoroquinolones).</li>
+		<li>Prior <i>C. diff</i> infection.</li>
+		<li>Advanced age.</li>
+		<li>Immunosuppression.</li>
+		<li>Chemotherapy.</li>
+		<li>IBD.</li>
+		<li>Nursing home residence.</li>
+		<li>Recent hospitalization.</li>
+	</ul>
+	</li>
+	<li>IDSA Clinical Practice Guidelines suggest the following for treatment of an initial episode of CDI:</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:679px;" width="679">
+	<tbody>
+		<tr>
+			<td style="width:339px;height:19px;">
+			<p><strong>Symptom Severity</strong></p>
+			</td>
+			<td style="width:339px;height:19px;">
+			<p><strong>Recommended Treatment</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:339px;height:37px;">
+			<p>Mild – Moderate</p>
+
+			<p>(WBC &lt;15K, Cr &lt;1.5 x baseline)</p>
+			</td>
+			<td style="width:339px;height:37px;">
+			<p>Vancomycin 125mg orally 4 times daily for 10 days or fidaxomixin 200mg 2 times daily for 10 days</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:339px;height:38px;">
+			<p>Severe</p>
+
+			<p>(WBC &gt;15K, Cr &gt;1.5 x baseline)</p>
+			</td>
+			<td style="width:339px;height:38px;">
+			<p>Vancomycin 125mg orally 4 times daily for 10 days</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:339px;height:57px;">
+			<p>Severe, with complications</p>
+
+			<p>(hypotension, shock, ileus, megacolon, pseudomembranous colitis)</p>
+			</td>
+			<td style="width:339px;height:57px;">
+			<p>Vancomycin 500mg PO/NGT QID + metronidazole 500mg IV q8h. If complete ileus, add vancomycin 125mg PR QID</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Discontinue other antimicrobials as soon as possible, as this may increase the risk of CDI recurrence.</li>
+	<li>Meticulous hand washing and contact precautions with gloves and gown are vital to minimize spread of this organism. <strong>Alcohol-based hand gels are NOT effective in killing <em>C. diff</em> spores</strong>.</li>
+	<li>Contact precautions should be maintained until stool is formed for 24h.</li>
+	<li>Toxin assay can remain positive for several weeks, no utility in repeating assay after treatment.</li>
+</ul>
+
+<h3>Recurrent <em>Clostridium difficile</em> Infection (CDI)</h3>
+
+<ul>
+	<li>Recurrence (up to 20% after first course of treatment and then approximately 50% after subsequent treatments) is due to re-ingestion of spores or spores remaining in the GI tract after therapy. </li>
+	<li>Antibiotic resistance has been reported but is rare.</li>
+	<li>First recurrence: vancomycin pulsed/tapered OR fidaxomicin.</li>
+	<li>Second recurrence: vancomycin pulsed/tapered OR fidaxomicin OR vancomycin + rifaximin OR fecal microbiota transplant.</li>
+	<li>No current role for probiotics.</li>
+	<li>There is no evidence to support the use of cholestyramine or rifampin as adjunctive therapy.</li>
+</ul>
+
+<p> </p>
+
+<p><em>Fehér et al., </em><em>A Comparison of Current Guidelines of Five International Societies on <em>Clostridium difficile</em> Infection Management. </em><em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5019978/">Infect Dis Ther</a>. 2016 Sep; 5(3): 207–230.</em></p>
+
+<p><em>Johnson S et al. Interruption of recurrent Clostridium difficile-associated diarrhea episodes by serial therapy with vancomycin and rifaximin. Clin Infect Dis 2007;44(6):846-848.</em></p>
+
+<p><em>Leffler DA, Lamont JT. Treatment of Clostridium difficile-associated disease. Gastroenterology 2009 May;136(6):1899-1912.</em></p>
+
+<p><em>Louie TJ, Miller MA, Mullane KM, et al. Fidaxomicin versus vancomycin for Clostridium difficile infection. N Engl J Med 2011; 364:422.</em></p>
+
+<p><em>McDonald CL et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults: IDSA and SHEA 2017 guideline update. </em></p>
+
+<p><em>Polage, CR, et. al. Nosocomial Diarrhea: Evaluation and Treatmetn of Causes Other than Clostridium difficile. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3657522/">Clin Infect Dis</a>. 2012 Oct 1; 55(7): 982–989.</em></p>
+
+<p><em>Surawicz CM et. al.,C. Difficile infection, American College of Gastroenterology clnical guideline update, July 2016.</em></p>
+
+<p><em>Van Nood E, Vrieze A, Nieuwdorp M, et al. Duodenal infusion of donor feces for recurrent Clostridium difficile. N Engl J Med 2013; 368:407.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/02-acute-abdominal-pain/02-acute-abdominal-pain" class="page-previous" title="Go to previous page">‹ 02. Acute Abdominal Pain</a>
+                    <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/04-acute-liver-failure/04-acute-liver-failure" class="page-next" title="Go to next page">04. Acute Liver Failure ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="expanded active-trail menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a><ul class="menu"><li class="first leaf menu-mlid-3986"><a href="/01-gi-bleed/01-gi-bleed">01. GI Bleed</a></li>
+<li class="leaf menu-mlid-3991"><a href="/02-acute-abdominal-pain/02-acute-abdominal-pain">02. Acute Abdominal Pain</a></li>
+<li class="leaf active-trail active menu-mlid-3996"><a href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" class="active-trail active">03. Diarrhea in Hospitalized Patients</a></li>
+<li class="leaf menu-mlid-4001"><a href="/04-acute-liver-failure/04-acute-liver-failure">04. Acute Liver Failure</a></li>
+<li class="leaf menu-mlid-4006"><a href="/05-acetaminophen-toxicity/05-acetaminophen-toxicity">05. Acetaminophen Toxicity</a></li>
+<li class="leaf menu-mlid-4011"><a href="/06-acute-alcoholic-hepatitis/06-acute-alcoholic-hepatitis">06. Acute Alcoholic Hepatitis</a></li>
+<li class="leaf menu-mlid-4016"><a href="/07-abnormal-liver-chemistry-tests/07-abnormal-liver-chemistry-tests">07. Abnormal Liver Chemistry Tests</a></li>
+<li class="leaf menu-mlid-4021"><a href="/08-acute-pancreatitis/08-acute-pancreatitis">08. Acute Pancreatitis</a></li>
+<li class="leaf menu-mlid-4026"><a href="/09-end-stage-liver-disease/09-end-stage-liver-disease">09. End Stage Liver Disease</a></li>
+<li class="leaf menu-mlid-4031"><a href="/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent">10. Abdominal Pain: Non-emergent</a></li>
+<li class="leaf menu-mlid-4036"><a href="/11-diarrhea-patients-hiv/11-diarrhea-patients-hiv">11. Diarrhea in Patients with HIV</a></li>
+<li class="last leaf menu-mlid-4041"><a href="/12-acute-cholangitis/12-acute-cholangitis">12. Acute Cholangitis</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/05-adrenal-insufficiency/05-adrenal-insufficiency" />
+<link rel="shortlink" href="/node/691" />
+<link rel="prev" href="/content/04-hyperthyroidism-thyrotoxicosis-and-thyroid-storm" />
+<link rel="up" href="/content/10-endocrine" />
+<link rel="next" href="/content/06-adrenal-incidentaloma-and-tumors" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/05-adrenal-insufficiency/05-adrenal-insufficiency" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/05-adrenal-insufficiency/05-adrenal-insufficiency" />
+<meta property="twitter:title" content="05. Adrenal Insufficiency | Hospital Handbook" />
+<meta property="og:title" content="05. Adrenal Insufficiency" />
+  <title>05. Adrenal Insufficiency | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"YkhxvD-V24wF2pKGvnjJGFfjYVnBXtQGyjBlZRW6Wt8","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/05-adrenal-insufficiency\/05-adrenal-insufficiency":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-691 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/05-adrenal-insufficiency/05-adrenal-insufficiency" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-KhxqHaEfYLN2YcZ9o_qF3fEcFmwMDWDOSlxlWOn2Tiw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/10-endocrine" class="active-trail">10. Endocrine</a> > <span class="breadcrumb-page-title">05. Adrenal Insufficiency</span></div></div></div>
+                  <h1 class="title" id="page-title">05. Adrenal Insufficiency</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-691" class="node node-book clearfix" about="/05-adrenal-insufficiency/05-adrenal-insufficiency" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="05. Adrenal Insufficiency" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3>
+
+<p>Impairment of adrenal glands, rendering them unable to produce adequate steroid hormones. Typically referring to cortisol, but can also indicate aldosterone deficiency.</p>
+
+<h3>Adrenal Anatomy </h3>
+
+<ul>
+	<li>Can be remembered as: salty, sweet, sex hormones.</li>
+	<li>Outermost zone = zona glomerulosa: secretes aldosterone.
+	<ul>
+		<li>Responsible for renin-angiotensin system.</li>
+		<li>Not impaired in secondary and tertiary AI.</li>
+	</ul>
+	</li>
+	<li>Middle zone = zona fasciculata: secretes cortisol.
+	<ul>
+		<li>Regulated by CRH and ACTH.</li>
+	</ul>
+	</li>
+	<li>Innermost zone = zona reticularis: secretes adrenal androgens.</li>
+</ul>
+
+<h3>Etiologies</h3>
+
+<p><strong>Primary adrenal insufficiency (Addison’s disease): </strong>adrenal glands fail to produce cortisol.</p>
+
+<ul>
+	<li>Autoimmune adrenalitis: destruction of adrenal cortex, most common in developed countries. Can be isolated or as part of a polyglandular autoimmune syndrome.</li>
+	<li>Infectious: TB (most common in world), histoplasmosis, paracoccus, HIV, CMV.</li>
+	<li>Vascular: hemorrhage/infarction (seen in sepsis/meningococcemia, coagulopathy or trauma) or thrombosis (in APLS).</li>
+	<li>Drugs: ketoconazole (impairs steroidogenesis), etomidate (even single dose can interfere with cortisol synthesis for 24 hours), rifampin (increases cortisol metabolism).</li>
+	<li>Infiltrative disease: sarcoidosis, hemochromatosis, or amyloidosis.</li>
+	<li>Malignancy: rare because must destroy ~90% of glands to lead to insufficiency.</li>
+</ul>
+
+<p><strong>Secondary adrenal insufficiency: </strong>pituitary failure to produce ACTH.</p>
+
+<ul>
+	<li>Iatrogenic: most commonly from exogenous steroids (feedback suppression of ACTH).</li>
+	<li>Primary pituitary problem (usually pan-hypopituitarism): pituitary adenoma, pituitary apoplexy, Sheehan’s syndrome, infiltrative pituitary disease, empty sella syndrome, autoimmune pituitary destruction, pituitary metastases.</li>
+	<li>Drugs: megestrol acetate (suppresses ACTH at doses &gt;160 mg/day), ipilimumab.</li>
+</ul>
+
+<p><strong>Tertiary adrenal insufficiency:</strong> hypothalamic failure to produce CRH.</p>
+
+<ul>
+	<li>Chronic steroid exposure: exogenous from high dose chronic steroid use or endogenous in Cushing’s syndrome. Seen during withdrawal of chronic exogenous steroids or cure of Cushing’s’ syndrome.</li>
+	<li>Tumors.</li>
+	<li>Cranial radiation.</li>
+	<li>Infiltrative diseases as above.</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<p><strong>Chronic symptoms: </strong>can be vague and nonspecific including weakness, fatigue, malaise, anorexia, weight loss, abdominal discomfort, nausea, or salt cravings.</p>
+
+<p><strong>Acute symptoms: </strong>hypotension/shock (in adrenal crisis), altered mental status, fever, abdominal/flank/back pain.</p>
+
+<p><strong>Physical exam</strong></p>
+
+<ul>
+	<li>Orthostatic hypotension, distributive shock (in adrenal crisis).</li>
+	<li>Abdominal/flank/back tenderness.</li>
+	<li>Skin hyperpigmentation (in primary adrenal insufficiency as ACTH stimulates melanocytes).</li>
+	<li>May see signs of other autoimmune process such as vitiligo, tender thyroid, pale skin/conjunctiva.</li>
+	<li>Fever/hypothermia.</li>
+</ul>
+
+<p><strong>Laboratory evaluation in hospitalized patients</strong></p>
+
+<ul>
+	<li>Hyponatremia, hyperkalemia, hypoglycemia, eosinophilia (rare).</li>
+	<li>ACTH: increased in primary AI, decreased in secondary AI. If concern for secondary AI or planning to start steroids immediately, get ACTH with initial cortisol. See CST below.</li>
+	<li>Cortisol
+	<ul>
+		<li>Has a diurnal variation and is higher in the morning.</li>
+		<li><u>Random level</u> &gt;18 mcg/dL reflects intact adrenal function.</li>
+		<li><u>Morning level</u> (better test) &lt;3 mcg/dL is strongly suggestive of AI and &lt;10 is suggestive. Level &gt;18 consistent with normal adrenal function.</li>
+		<li>Cosyntropin stimulation test (CST) (see below for order details)
+		<ul>
+			<li>Post-stimulation cortisol &gt;18 mcg/dL confirms intact adrenal function.</li>
+			<li>In early acute secondary or tertiary adrenal insufficiency, the test is not reliable because it takes several days for the adrenal cortex to atrophy.</li>
+			<li>A percentage of cortisol is bound to albumin. Hypoalbuminemia makes this test difficult to interpret.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Laboratory evaluation in critically ill patients (functional adrenal insufficiency)</strong></p>
+
+<ul>
+	<li>Cortisol
+	<ul>
+		<li>No established consensus, but a random level &lt;10 mcg/dL is suggestive of AI and treatment would be reasonable. If &gt;34 mcg/dL, there is sufficient adrenal function. In between these values, or to further assess a value &lt;10 mcg/dL, do a CST.</li>
+	</ul>
+	</li>
+	<li>CST: if the cortisol does not increase by at least 9 mcg/dL, AI is likely.</li>
+</ul>
+
+<p><strong>Cosyntropin stimulation test (CST)</strong></p>
+
+<ul>
+	<li>Patient must be off glucocorticoids for ≥12 hours.</li>
+	<li>Dexamethasone is not detected by many cortisol assays. Use for initial therapy if CST will be performed after the initial dose of steroids is given (unstable patient).</li>
+	<li>Performing CST:
+	<ul>
+		<li>Draw baseline serum cortisol level and ACTH level, and send to lab immediately on ice.</li>
+		<li>Immediately after labs are drawn, inject cosyntropin 0.25 mg IV x 1 <em>(it can also be given IM)</em>.</li>
+		<li>Draw repeat serum cortisol 45 minutes after dose.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Imaging</strong></p>
+
+<ul>
+	<li>CT of adrenals if suspected primary AI.
+	<ul>
+		<li>Especially if acute onset or immunosuppressed/HIV with higher risk of infection.</li>
+	</ul>
+	</li>
+	<li>Pituitary protocol MRI if suspected secondary AI and not steroid-induced.</li>
+</ul>
+
+<h3>Management </h3>
+
+<p><strong>Chronic treatment</strong></p>
+
+<ul>
+	<li><u>Primary AI:</u>
+
+	<ul>
+		<li>Must replace both glucocorticoid and mineralocorticoid.</li>
+		<li>Typically, glucocorticoid maintenance: 15-25 mg hydrocortisone daily = 5 mg prednisone daily = 0.5 mg dexamethasone daily. Hydrocortisone is usually dosed 2/3 in the AM and 1/3 in afternoon, other steroids are once daily.</li>
+		<li>Mineralocorticoid maintenance: 0.05-0.20 mg fludrocortisone daily depending on type of glucocorticoid used.</li>
+	</ul>
+	</li>
+	<li><u>Secondary AI:</u> only require glucocorticoid replacement given that there is loss of ACTH but mineralocorticoid activity remains normal. May require replacement for other pituitary hormone deficiencies.</li>
+	<li>Glucocorticoids are metabolized by the P450 CYP3A4 system. Higher doses are needed if the patient is on phenytoin, rifampin, or barbiturates. Lower doses needed if on protease inhibitors.</li>
+</ul>
+
+<p><strong>Stress dosing</strong></p>
+
+<ul>
+	<li>When a patient on chronic steroids presents with mild to moderate acute illness, frequent practice is to double the maintenance dose for three days and taper back to baseline as illness improves (little evidence).</li>
+	<li><u>Acute adrenal crisis:</u> give hydrocortisone 100 mg IV stat followed by 50 mg IV q6. Continue q4-6 hours while tapering dose over the next 3-5 days as patient improves. However, if a patient has persistent complications maintain or increase to a daily total of 200-300 mg.</li>
+	<li><u>Relative adrenal insufficiency/septic shock:</u> no consensus. Can consider hydrocortisone 50-100 mg IV q8 hours with a rapid taper if patient improves and stabilizes. This may help with treatment of shock but may not improve mortality. Also see <em><a href="https://hospitalhandbook.ucsf.edu/17-adrenal-insufficiency-critically-ill-patient/17-adrenal-insufficiency-critically-ill-patient">Critical Care: Corticosteroid Supplementation in the Critically Ill Patient</a>.</em></li>
+	<li><u>Mineralocorticoid replacement:</u> only needed in primary AI. Not needed if hydrocortisone dose &gt; 50mg per 24h. If total daily hydrocortisone is reduced to 50 mg or below, give mineralocorticoid replacement with fludrocortisone 0.1 mg daily.</li>
+</ul>
+
+<p><strong>Patients with AI undergoing surgery: </strong>no clear consensus.</p>
+
+<ul>
+	<li><u>Minor procedures</u> (e.g., hernia repair): can double or triple the usual replacement dose the day of and day after surgery before returning to maintenance.</li>
+	<li><u>Intermediate procedures</u> (e.g., joint replacement): hydrocortisone 50 mg IV x 1 immediately prior to surgery, then 25 mg IV q 8 hours x 24 hours, then resume normal dose.</li>
+	<li><u>Major procedures</u> (e.g., CABG): patient’s usual dose 2 hours before surgery, plus hydrocortisone 100 mg IV x 1 with induction of anesthesia, then hydrocortisone 50 mg IV q 8 hours x 48-72 hours after surgery, then taper of 50% each day down to maintenance dose.</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>If you suspect AI in an unstable patient, give steroids first. Dexamethasone is a good initial steroid since it does not cross-react with cortisol assay. Perform a CST ASAP. Once the cortisol is measured, switch to a more typical steroid (e.g. hydrocortisone).</li>
+	<li>Best way to diagnose AI in the hospital is with a morning cortisol level followed by CST.</li>
+</ul>
+
+<p>*</p>
+
+<p><em>Axelrod L. Perioperative management of patients treated with glucocorticoids. Endocrinol Metab Clin North Am 2003;32:367-383.</em></p>
+
+<p><em>Cohen J. Relative adrenal insufficiency in the intensive care population. Anaesth Intensive Care 2010;38(3):425-36.</em></p>
+
+<p><em>Chramandari E, Nicolaides N, Chrousos G. Adrenal Insufficiency. The Lancet 2014: 383:2152-2167.</em></p>
+
+<p><em>Neary N. Adrenal insufficiency: etiology, diagnosis and treatment. Cur Op Endocrinol, Diab &amp; Obes 2010; 17(3):217–223</em></p>
+
+<p><em>Salvatori R. Adrenal insufficiency. JAMA 2005;294:2481-2488.</em></p>
+
+<p><em>Annane D, Sébille V, Charpentier C, et al. Effects of treatment with low doses of hydrocortisone and fludrocortisone on mortality in patients with septic shock. JAMA 2002;288:862-871.</em></p>
+
+<p><em>Sprung CL, Annane D, Keh D, et al. Hydrocortisone therapy for patients with septic shock. NEJM 2008;358:111-24. </em></p>
+
+<p> </p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/04-hyperthyroidism-thyrotoxicosis-and-thyroid-storm" class="page-previous" title="Go to previous page">‹ 04. Hyperthyroidism, Thyrotoxicosis, and Thyroid Storm</a>
+                    <a href="/content/10-endocrine" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/06-adrenal-incidentaloma-and-tumors" class="page-next" title="Go to next page">06. Adrenal Incidentaloma and Tumors ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="expanded active-trail menu-mlid-3031"><a href="/content/10-endocrine" class="active-trail">10. Endocrine</a><ul class="menu"><li class="first leaf menu-mlid-3036"><a href="/01-miscellaneous-thyroid-tips/01-miscellaneous-thyroid-tips">01. Miscellaneous Thyroid Tips</a></li>
+<li class="leaf menu-mlid-3041"><a href="/content/02-hypothyroidism-and-myxedema">02. Hypothyroidism and Myxedema</a></li>
+<li class="leaf menu-mlid-3046"><a href="/content/03-non-thyroidal-illness-syndrome-sick-euthyroid-syndrome">03. Non-Thyroidal Illness Syndrome (Sick Euthyroid Syndrome)</a></li>
+<li class="leaf menu-mlid-3051"><a href="/content/04-hyperthyroidism-thyrotoxicosis-and-thyroid-storm">04. Hyperthyroidism, Thyrotoxicosis, and Thyroid Storm</a></li>
+<li class="leaf active-trail active menu-mlid-3056"><a href="/05-adrenal-insufficiency/05-adrenal-insufficiency" class="active-trail active">05. Adrenal Insufficiency</a></li>
+<li class="leaf menu-mlid-3061"><a href="/content/06-adrenal-incidentaloma-and-tumors">06. Adrenal Incidentaloma and Tumors</a></li>
+<li class="leaf menu-mlid-3066"><a href="/content/07-inpatient-diabetes-guidelines">07. Inpatient Diabetes Guidelines</a></li>
+<li class="leaf menu-mlid-3071"><a href="/content/08-diabetic-ketoacidosis">08. Diabetic Ketoacidosis</a></li>
+<li class="collapsed menu-mlid-3076"><a href="/09-hyperosmolar-non-ketotic-coma-honkc-or-hyperglycemic-hyperosmolar-state-hhs/09-hyperosmolar-non">09. Hyperosmolar Non-Ketotic Coma (HONKC) or Hyperglycemic Hyperosmolar State (HHS)</a></li>
+<li class="last leaf menu-mlid-3606"><a href="/content/10-hypoglycemia-0">10. Hypoglycemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,655 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-blurred-vision/02-blurred-vision" />
+<link rel="shortlink" href="/node/2206" />
+<link rel="prev" href="/01-eye-anatomy-and-physical-exam/01-eye-anatomy-and-physical-exam" />
+<link rel="up" href="/15-ophthalmology/15-ophthalmology" />
+<link rel="next" href="/03-painful-eye/03-painful-eye" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-blurred-vision/02-blurred-vision" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-blurred-vision/02-blurred-vision" />
+<meta property="twitter:title" content="02. Blurred Vision | Hospital Handbook" />
+<meta property="og:title" content="02. Blurred Vision" />
+  <title>02. Blurred Vision | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"1aoq4cJ_A4bRPslBq7O9eq-EYWfSi5oEVEYk9_GMAPg","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-blurred-vision\/02-blurred-vision":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2206 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-blurred-vision/02-blurred-vision" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-y5cLcmZeSZAGA62Vz-AnG0sgJHCdT-2E4bucvGXUE-M" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/15-ophthalmology/15-ophthalmology" class="active-trail">15. Ophthalmology</a> > <span class="breadcrumb-page-title">02. Blurred Vision</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Blurred Vision</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2206" class="node node-book clearfix" about="/02-blurred-vision/02-blurred-vision" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Blurred Vision" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Patrick Azcarate, MD</p>
+
+<p align="right">Faculty Editor: Jennifer Tu, OD, FAAO</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:775px;" width="775">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Evaluate for emergency causes first</p>
+
+			<p>✔ Ask about time course, prior episodes, and associated symptoms</p>
+
+			<p>✔ Avoid topical anesthetics or corticosteroids until recommended by Ophthalmology</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Sudden visual acuity change or vision loss can be an ophthalmologic emergency.</li>
+	<li>The key is to promptly identify potentially vision-threatening conditions and refer early as appropriate. </li>
+</ul>
+
+<ul>
+	<li>If concurrent red eye, consider: anterior uveitis, corneal abrasion/ulcer, trauma, foreign body, hyphema, episcleritis, scleritis, keratitis, orbital cellulitis, angle-closure glaucoma, chemical burn, and thermal/UV keratopathy.</li>
+	<li>This chapter will focus on etiologies not detailed in <em>The Red Eye</em>.</li>
+</ul>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<p>Assess:</p>
+
+<ul>
+	<li>Tempo: acute <strong>vs</strong> chronic; recurrent <strong>vs</strong> non-recurrent</li>
+	<li><strong>Unilateral vs. Bilateral</strong></li>
+	<li>Visual acuity loss <strong>vs</strong> visual field deficit vs diplopia (see <em>Figure 2</em>)</li>
+	<li>Associated symptoms (e.g., eye pain, floaters or other abnormal spots, headache, neurologic deficits, constitutional symptoms)</li>
+	<li>Pertinent Co-morbidities (e.g., migraine, DM, HTN, CVA, inflammatory disorder, malignancy)</li>
+	<li>Relevant Meds (e.g., anticholinergics, rifabutin, hydroxychloroquine, sildenafil)</li>
+	<li>Recent Procedures/trauma/psychological stress</li>
+	<li>Use of corrective lenses, esp. contact lenses</li>
+</ul>
+
+<p><strong><u>Etiologies of Blurred Vision</u></strong></p>
+
+<p>Chronic:</p>
+
+<ul>
+	<li><strong>Refractive error</strong>: myopia, hyperopia, astigmatism, presbyopia</li>
+	<li><strong>Related to ocular disease</strong>: cataract, macular degeneration or other macular disorder, glaucoma, corneal dystrophy/degeneration/scar, strabismus,  pterygium, blepharitis, dry eyes</li>
+	<li><strong>Related to systemic disease or condition</strong>: poorly-controlled DM, trauma, pituitary adenoma, idiopathic intracranial hypertension (IIH), stroke</li>
+	<li><strong>Related to medication use</strong>: Plaquenil, Ethambutol, Topamax, Corticosteroids</li>
+</ul>
+
+<p>Acute:</p>
+
+<ul>
+	<li><strong>Trauma</strong>: (micro)hyphema, iritis, cataract, retinal detachment, macular hole</li>
+	<li><strong>Infectious</strong>: conjunctivitis, corneal ulcer, endophthalmitis, retinitis</li>
+	<li><strong>Inflammatory</strong>: uveitis (episcleritis, scleritis, iritis, trabeculitis, vitritis, retinitis, optic neuritis)</li>
+	<li><strong>Vascular</strong>: ischemic optic neuropathy, retinal artery/vein occlusion, cranial neuropathy</li>
+	<li><strong>Neoplastic</strong>: ocular melanoma, choroidal metastasis, cancer-associated retinopathy</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>See the <em>Ocular Exam</em> section under <em>Eye Anatomy and Physical Exam</em> chapter for details of tests, with a focus on: visual acuity, direct observation, and ophthalmoscopy.</li>
+	<li>Be sure to check if visual acuity improves with pinhole occlusion—this indicates refractive error</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li>Determine the cause of the vision change and if emergent intervention is needed to preserve vision</li>
+	<li>Manage underlying co-morbidities or stop potentially offending medications contributing to blurred vision. Never prescribe topical anesthetics/corticosteroids alone or with antibiotics unless done in consultation with an ophthalmologist.</li>
+</ul>
+
+<p><strong><u>General approach</u></strong></p>
+
+<ul>
+	<li>See flow chart</li>
+</ul>
+
+<p style="text-align:center"><img alt="" height="810" src="/sites/g/files/tkssra6536/f/wysiwyg/blurredvision.png" width="1375" /></p>
+
+<h3 style="text-align: center;">Common Causes</h3>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 117px;">
+			<p><strong>Cause</strong></p>
+			</th>
+			<th scope="col" style="width: 203px;">
+			<p><strong>Specific Etiologies</strong></p>
+			</th>
+			<th scope="col" style="width: 160px;">
+			<p><strong>Typical Presentation</strong></p>
+			</th>
+			<th scope="col" style="width: 160px;">
+			<p><strong>Management</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Refractive Error</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p>Myopia (nearsightedness), hyperopia (farsightedness), astigmatism, presbyopia (age related loss of accommodation leading to impaired near vision)</p>
+			</td>
+			<td style="width:160px;">
+			<p>Gradual onset, painless, bilateral, responsive to correction with pinhole occluder or refractive lenses</p>
+			</td>
+			<td style="width:160px;">
+			<p>Routine referral for prescription corrective lenses</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Acquired Cataracts</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p>Age-related, metabolic (e.g., DM), trauma, chronic anterior uveitis, meds (steroids, phenothiazines,), prior ocular surgery (glaucoma filter, vitrectomy)</p>
+			</td>
+			<td style="width:160px;">
+			<p>Progressive blurring over months to years with both near and far vision affected, glare, decreased color vision</p>
+
+			<p>diminished red reflex, difficulty visualizing fundus</p>
+			</td>
+			<td style="width:160px;">
+			<p>Routine referral for surgical extraction</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Age-Related Macular Degeneration</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p>Idiopathic but risk factors include: age, genetics, HTN, hyperlipidemia, smoking</p>
+
+			<p>Dry: accumulation of drusen/macular atrophy</p>
+
+			<p>Wet: Dry signs AND choroidal neovascularization</p>
+			</td>
+			<td style="width:160px;">
+			<p>Rapid or gradual onset of central vision loss with central scotomas</p>
+
+			<p>Drusen (yellow macular exudates), macular or vitreous hemorrhage</p>
+			</td>
+			<td style="width:160px;">
+			<p>Amsler grid test</p>
+
+			<p>Urgent referral for  intravitreal anti-VEGF</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Migraine</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p>Classic migraine with aura</p>
+
+			<p>Possible precipitants: OCPs, EtOH, stress, tyramine foods</p>
+			</td>
+			<td style="width:160px;">
+			<p>Temporary visual defects usually precede migraine HA sxs but can occur without (acephalegic migraine). Normal neuro exam.</p>
+			</td>
+			<td style="width:160px;">
+			<p>Identify and avoid precipitants</p>
+
+			<p>Prophylactic and/or abortive migraine therapy</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Medications</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p><strong>Reversible</strong>: amiodarone, retinoids, tamoxifen, linezolid, sildenafil</p>
+
+			<p><strong>Irreversible:</strong> ethambutol, hydroxychloroquine</p>
+			</td>
+			<td style="width:160px;">
+			<p>Varies</p>
+			</td>
+			<td style="width:160px;">
+			<p>Stop offending meds and seek alternatives if possible</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Optic Neuritis</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p>MS, other demyelinating conditions, viral infections, syphilis, granulomatous disorders, meds (e.g., ethambutol), idiopathic</p>
+			</td>
+			<td style="width:160px;">
+			<p>Onset over days, usually unilateral, pain with eye movement, focal neuro sxs</p>
+
+			<p>Visual field defects, decreased color vision, afferent pupillary defect, normal or edematous optic disc</p>
+			</td>
+			<td style="width:160px;">
+			<p>Assess full neuro exam for MS</p>
+
+			<p>Consider CBC, RPR, ESR, CRP</p>
+
+			<p>Brain MRI with gadolinium</p>
+
+			<p>High-dose pulse systemic steroids</p>
+
+			<p>Urgent referral: eval for other ocular disease</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:117px;">
+			<p><strong>Functional Loss</strong></p>
+			</td>
+			<td style="width:203px;">
+			<p>Conversion disorder</p>
+
+			<p>Malingering</p>
+			</td>
+			<td style="width:160px;">
+			<p>Acute onset, recent severe psychological trauma, history of seeking personal gain</p>
+			</td>
+			<td style="width:160px;">
+			<p>Reassurance, possible Psych referral</p>
+
+			<p>Routine referral for further evaluation to r/o organic blindness</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3 style="text-align: center;">Ophthalmologic Emergencies</h3>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 119px;">
+			<p><strong>Cause</strong></p>
+			</th>
+			<th scope="col" style="width: 187px;">
+			<p><strong>Specific Etiologies</strong></p>
+			</th>
+			<th scope="col" style="width: 152px;">
+			<p><strong>Typical Presentation</strong></p>
+			</th>
+			<th scope="col" style="width: 181px;">
+			<p><strong>Management</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:119px;">
+			<p><strong>Retinal Artery Occlusion</strong></p>
+			</td>
+			<td style="width:187px;">
+			<p>Emboli, atherosclerotic, hypercoaguable states, meds (e.g., OCPs, diuretics), collagen vascular diseases, giant cell arteritis</p>
+			</td>
+			<td style="width:152px;">
+			<p>Acute painless vision loss/field defect, can be transient (amaurosis fugax) or permanent</p>
+
+			<p>Afferent papillary defect, retinal whitening, retinal arteriolar “box-carring”, Hollenhorst plaques, cherry-red spot</p>
+			</td>
+			<td style="width:181px;">
+			<p><strong>Urgent ophtho referral</strong></p>
+
+			<p style="margin-left:12.0pt;"> </p>
+
+			<p>Check BP, foused PE on carotids, CV, and neuro.</p>
+
+			<p> </p>
+
+			<p>If age&gt;50:</p>
+
+			<p>-If embolus identified, perform embolic W/U: carotid U/S, cardiac echo, Holter, EKG and start ASA</p>
+
+			<p> </p>
+
+			<p>-If concurrent headache/PMR, jaw claudication: GCA evaluation and start high dose steroids</p>
+
+			<p> </p>
+
+			<p>If age&lt;50: hypercoag W/U and start anticoagulation</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:119px;">
+			<p><strong>Retinal Vein Occlusion</strong></p>
+			</td>
+			<td style="width:187px;">
+			<p>HTN, atherosclerotic, hypercoaguable states, meds (e.g., OCPs, diuretics)</p>
+			</td>
+			<td style="width:152px;">
+			<p>Subacute onset, usually unilateral, can be transient or permanent</p>
+
+			<p>+/- afferent pupillary defect, extensive retinal hemorrhage, dilated/tortuous veins, cotton wool spots, optic disc swelling</p>
+			</td>
+			<td style="width:181px;">
+			<p><strong>Urgent ophtho referral</strong> for possible photocoagulation/intravitreal anti-VEGF injections</p>
+
+			<p> </p>
+
+			<p>Check BP and other pertinent PE based on suspected etiology</p>
+
+			<p> </p>
+
+			<p>Consider fasting glucose, A1c, CBC, coags, lipid panel, ESR, ANA</p>
+
+			<p> </p>
+
+			<p>Stop offending meds</p>
+
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:119px;">
+			<p><strong>Retinal Detachment</strong></p>
+			</td>
+			<td style="width:187px;">
+			<p>Recent eye surgery or trauma, DM or sickle cell retinopathy, high myopia, malignant HTN, neoplasm, may be spontaneous without clear inciting cause</p>
+			</td>
+			<td style="width:152px;">
+			<p>“Flashing lights” , floaters, “curtain” moving over to obscure field of vision, periph/central visual field loss</p>
+
+			<p>Abnormal visual acuity and visual field testing, +/- afferent pupillary defect</p>
+			</td>
+			<td style="width:181px;">
+			<p>Emergent referral for surgical repair</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:119px;">
+			<p><strong>Giant Cell Arteritis</strong></p>
+			</td>
+			<td style="width:187px;">
+			<p>Inflammation of medium and large vessels with elastic lamina, primarily of the head (but also aortic arch and branches)</p>
+			</td>
+			<td style="width:152px;">
+			<p>Usually unilateral but can progress to bilateral, HA, scalp tenderness, jaw claudication, fever</p>
+
+			<p>Palpable but nontender and nonpulsatile temporal artery, afferent pupillary defect, pale swollen optic disc, possible flame-shaped hemorrhages, +/- CN 3/4/6 palsies</p>
+			</td>
+			<td style="width:181px;">
+			<p>Immediate steroids (Solumedrol 250mg IV q6h x 12 doses, then prednisone 80-100mg PO daily until path returns), and consider ulcer ppx</p>
+
+			<p>Check ESR and CRP stat, temporal artery biopsy can still be done within 1 week of starting steroids</p>
+
+			<p>Emergent referral</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:119px;">
+			<p><strong>Endophthalmitis</strong></p>
+			</td>
+			<td style="width:187px;">
+			<p>Recent eye surgery or trauma, retained foreign body, septic emboli, fungemia</p>
+			</td>
+			<td style="width:152px;">
+			<p>Eye redness, floaters, +/- pain</p>
+
+			<p>Conjunctival injection, discharge, hypopyon, diminished red reflex</p>
+			</td>
+			<td style="width:181px;">
+			<p>Emergent referral for intravitreal antibiotics or vitrectomy if severe</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>References</u></strong></p>
+
+<p style="margin-left:18.0pt;">Eva PR, Pascoe PT, Vaughan DG. Refractive change in hyperglycaemia: hyperopia, not myopia. Br J Ophthalmol 1982;66:500-505.</p>
+
+<p style="margin-left:18.0pt;">Fraunfelder FW and Fraunfelder FT. Adverse ocular drug reactions recently identified by the National Registry of Drug-Induced Ocular Side Effects. Ophthalmology. 2004. 111(7): 1275 – 1279.</p>
+
+<p style="margin-left:18.0pt;">Li J, Tripathi RC, Tripathi BJ. Drug-induced ocular disorders. Drug Safety 2008;31(2):127-141.</p>
+
+<p style="margin-left:18.0pt;">Palay DA and Krachmer JH (2005). Primary Care Ophthalmology. 2<sup>nd</sup> Edition. Elsevier Mosby.</p>
+
+<p style="margin-left:18.0pt;">Shingleton BJ and O’Donoghue MW. Blurred vision. N Eng J Med 2000;343:556-562.</p>
+
+<p style="margin-left:18.0pt;">Skuta GL, Cantor LB, Weiss JS. Fundamentals and Principles of Ophthalmology. 2012. American Academiy of Ophthalmology.</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/01-eye-anatomy-and-physical-exam/01-eye-anatomy-and-physical-exam" class="page-previous" title="Go to previous page">‹ 01. Eye Anatomy and Physical Exam</a>
+                    <a href="/15-ophthalmology/15-ophthalmology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/03-painful-eye/03-painful-eye" class="page-next" title="Go to next page">03. Painful Eye ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="expanded active-trail menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology" class="active-trail">15. Ophthalmology</a><ul class="menu"><li class="first leaf menu-mlid-5401"><a href="/01-eye-anatomy-and-physical-exam/01-eye-anatomy-and-physical-exam">01. Eye Anatomy and Physical Exam</a></li>
+<li class="leaf active-trail active menu-mlid-5406"><a href="/02-blurred-vision/02-blurred-vision" class="active-trail active">02. Blurred Vision</a></li>
+<li class="leaf menu-mlid-5411"><a href="/03-painful-eye/03-painful-eye">03. Painful Eye</a></li>
+<li class="last leaf menu-mlid-5416"><a href="/04-red-eye/04-red-eye">04. Red Eye</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

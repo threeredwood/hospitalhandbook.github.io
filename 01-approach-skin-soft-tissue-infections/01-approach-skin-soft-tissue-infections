@@ -1,0 +1,680 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections" />
+<link rel="shortlink" href="/node/2116" />
+<link rel="prev" href="/12-infectious-disease/12-infectious-disease" />
+<link rel="up" href="/12-infectious-disease/12-infectious-disease" />
+<link rel="next" href="/02-acute-hiv-infection/02-acute-hiv-infection" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections" />
+<meta property="twitter:title" content="01. Approach to Skin &amp;amp; Soft Tissue Infections | Hospital Handbook" />
+<meta property="og:title" content="01. Approach to Skin &amp;amp; Soft Tissue Infections" />
+  <title>01. Approach to Skin & Soft Tissue Infections | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"ClEce2OfpG3jXWLOQ7kPTe3pAO1YGQfZeGcgh0aWX64","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/01-approach-skin-soft-tissue-infections\/01-approach-skin-soft-tissue-infections":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2116 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-DKj5hcLXBp-vHWF6PENmkImov_LIpVzloWMufPO7lks" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/12-infectious-disease/12-infectious-disease" class="active-trail">12. Infectious Disease</a> > <span class="breadcrumb-page-title">01. Approach to Skin &amp; Soft Tissue Infections</span></div></div></div>
+                  <h1 class="title" id="page-title">01. Approach to Skin &amp; Soft Tissue Infections</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2116" class="node node-book clearfix" about="/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Approach to Skin &amp; Soft Tissue Infections" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Nadine Pardee, MD</p>
+
+<p style="text-align: right;">Faculty Editor:  Jennifer Babik, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Most simple abscesses in the absence of SIRS, immunocompromised status, or recurrent disease can be managed with I&amp;D alone.</p>
+
+			<p>✔ If a necrotizing soft tissue infection is suspected, emergent surgical consultation warranted in addition to IV antibiotics</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>The etiologic agent of a soft tissue infection depends on the epidemiologic setting and the patient’s comorbid conditions. </li>
+	<li>It is important to obtain information about the patient’s immune status, geographical locale, travel history, recent trauma or surgery, lifestyle, hobbies, and animal exposure.</li>
+</ul>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li>An area of skin erythema, edema, and warmth, with or without an obvious site of bacterial entry. Features such as abscess, involvement of hair follicles, crusting, sharp demarcation and degree of systemic illness are key to determine the most likely inciting pathogen(s) and appropriate management. </li>
+</ul>
+
+<p><strong>Differential Diagnosis: Non-Purulent Skin and Soft Tissue Infections</strong></p>
+
+<p><em>Non-purulent Cellulitis</em></p>
+
+<ul>
+	<li>Spreading skin infection that extends more deeply to involve the subcutaneous tissues. Tends to have insidious onset.</li>
+	<li>Major pathogens: Group A streptococcus &gt; other beta-hemolytic streptococci &gt;&gt;&gt; <em>Staphylococcus aureus</em></li>
+	<li>Predisposing factors: obesity, venous insufficiency, lymphatic obstruction, trauma, preexisting skin infections, fissured toe webs from maceration or fungal infection and inflammatory dermatosis.
+	<ul>
+		<li>Note bilateral lower extremity cellulitis is vanishingly rare. Consider venous stasis dermatitis, lipodermatosclerosis, contact dermatitis and only treat as cellulitis if high index of suspicion</li>
+	</ul>
+	</li>
+	<li>Cultures: In the absence of abscess, purulence, or severe systemic infection, limited utility (blood culture positive &lt; 5%, punch biopsies of inflamed tissue 20-30% yield)</li>
+	<li>Treatment: 
+	<ul>
+		<li>Limb elevation to facilitate resolution of edema</li>
+		<li>Oral versus IV antibiotics depending on ability to tolerate PO and severity of infection (see Figure 1.). </li>
+		<li>Cover primarily for Streptococci. Add MRSA coverage if severe infection or immunocompromised, trauma (surgery, injection drug use) or concurrent MRSA elsewhere. If purulent, see Purulent Cellulitis below.</li>
+		<li>If perioral, orbital, or perirectal, possible connection with a pressure ulcer, surgical site infection in abdomen or axilla, prominent skin necrosis, or severe infection or immunocompromised, consider covering GNRs and anerobes with the addition of amoxicillin-clavulanate or levofloxacin and metronidazole</li>
+		<li>Duration: For uncomplicated cellulitis a 5-day course of treatment is as effective as a 10-day course. However, if there is no improvement, longer courses of antibiotics are indicated.</li>
+	</ul>
+	</li>
+	<li>Recurrence: Manage predisposing conditions such as edema, obesity, eczema, venous insufficiency, tinea pedis or other toe web abnormalities. 
+	<ul>
+		<li>For patients who have 3-4 episodes of cellulitis per year despite management of predisposing conditions, consider oral penicillin 250 mg twice daily or IM benzathine penicillin every 2-4 weeks.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><em>Erysipelas</em></p>
+
+<ul>
+	<li>Most common in young children and older adults. Non-purulent, spreading skin infection involving the upper dermis and superficial lymphatics. Tends to have acute onset with systemic symptoms.</li>
+	<li>Lesions are raised above the level of the surrounding skin, and there is a clear line of demarcation between involved and uninvolved tissue.</li>
+	<li>Major pathogen: Almost always caused by group A beta hemolytic streptococci.</li>
+	<li>Treatment: Streptococcus-active antibiotics, first choice being penicillin or amoxicillin. If staphylococcal infection is suspected, a penicillinase-resistant semisynthetic penicillin (dicloxacillin, oxacillin, nafcillin) or a first-generation cephalosporin should be selected (cephalexin). If there are systemic manifestations, IV cefazolin or ceftriaxone should be selected. </li>
+</ul>
+
+<p><em>Necrotizing Skin and Soft Tissue Infections</em></p>
+
+<ul>
+	<li>Deep infections involving the fascial and/or muscle compartments: Necrotizing Fasciitis, Fournier Gangrene, and Clostridial Myonecrosis</li>
+	<li>Major pathogens: 
+	<ul>
+		<li>Monomicrobial: Streptococcus &gt;&gt; S. aureus (MRSA), anaerobes (Clostridia), rarely gram negatives (Aeromonas, Vibrio) OR</li>
+		<li>Polymicrobial: mixed gram +/ gram-, aerobic/ anaerobic infection.</li>
+	</ul>
+	</li>
+	<li>Need to maintain a high index of suspicion for this life-threatening entity, as most patients are not recognized as having a necrotizing skin or soft tissue infection on admission. Clues to suggest severe deep soft tissue infection:
+	<ul>
+		<li>Pain disproportionate to physical findings</li>
+		<li>Violaceous bullae</li>
+		<li>Cutaneous hemorrhage</li>
+		<li>Skin sloughing</li>
+		<li>Skin anesthesia</li>
+		<li>Rapid progression</li>
+		<li>Gas in the tissue</li>
+		<li>Systemic toxicity (fever, leukocytosis, delirium and renal failure)
+		<ul>
+			<li>LRINEC (Laboratory Risk Indictor for Necrotizing Fasciitis): low risk (≤5 points), intermediate risk (6-7 points); and high risk (≥8 points). Initial studies showed excellent test characteristics, however subsequently demonstrated PPV of 38-85%, NPV 86-95%.
+			<ul>
+				<li>Do not wait for a LRINEC score or be falsely reassured by a low LRINEC score: if high clinical suspicion, urgent surgical evaluation is indicated</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Treatment: suspected necrotizing soft tissue infection warrants emergent surgical consultation in addition to broad spectrum IV antibiotic therapy with Vancomycin + Clindamycin 600-900 mg IV Q8h + one of Piperacillin-tazobactam / Ertapenem / Meropenem</li>
+</ul>
+
+<p><strong><u>Differential Diagnosis: Purulent Skin and Soft Tissue Infections</u></strong></p>
+
+<p><em>Purulent Cellulitis</em></p>
+
+<ul>
+	<li>See Non-Purulent cellulitis above, with the following exceptions: </li>
+	<li>Major pathogens: <em>Staphylococcus aureus</em></li>
+	<li>Treatment: cover for Staphylococci</li>
+</ul>
+
+<p><em>Abscesses</em></p>
+
+<ul>
+	<li>Cutaneous abscesses are collections of pus within the dermis and deeper skin tissues, causing a fluctuant, tender, erythematous nodule
+	<ul>
+		<li>Major pathogen: <em>S. aureus</em>, with MRSA accounting for a substantial proportion of these infections. May be polymicrobial, with GNRs and anaerobes more common in abscesses involving perioral, perirectal, or vulvovaginal areas and among injection drug users. Sterile abscesses may result from injected irritants</li>
+	</ul>
+	</li>
+	<li>Treatment: I&amp;D. If complicated infection or high risk patient, may need gram stain/culture of abscess and systemic antibiotics that cover MRSA
+	<ul>
+		<li>There is a growing body of evidence tha antibiotics improve cure rates for abscesses after I&amp;D, but the benefit (improved cure rates of 7-14%) should be balanced against possible side effects of antibiotics. 
+		<ul>
+			<li>Daum et al. NEJM 2017: Baseline cure rate for small abscesses treated with I&amp;D was 69-73% without antibiotics and rose to 80-83% with antibiotics</li>
+		</ul>
+		</li>
+		<li>Definitely give antibiotics if: Abscess &gt;2-3 cm or incompletely drained, significant surrounding cellulitis (extending &gt;5 cm from abscess), signs of systemic infection, disease at multiple sites, immunocompromised status, extremes of age, sensitive area (face, hand, genitals), or in the presence of an indwelling medical device</li>
+	</ul>
+	</li>
+	<li>Recurrence: 
+	<ul>
+		<li>If repeat abscess at same site, consider predisposing factor such as pilonidal cyst, hiradenitis suppurativa, or presence of foreign material. May require surgical exploration</li>
+	</ul>
+	</li>
+</ul>
+
+<p><em>Furuncle/Carbuncle</em></p>
+
+<ul>
+	<li>Furuncle (“boil”) is an infection of the hair follicle which suppuration extends through the dermis into the subcutaneous tissues. Carbuncle is an infection involving adjacent follicles with coalescent inflammatory mass.</li>
+	<li>Major pathogen: <em>S. aureus</em></li>
+	<li>Treatment: 
+	<ul>
+		<li>Small furuncles: moist heat to promote drainage.</li>
+		<li>Larger furuncles and all carbuncles: I&amp;D required. Antibiotics are not necessary unless fever or systemic signs of infection are present (see abscess above).</li>
+	</ul>
+	</li>
+	<li>Recurrent furunculosis:  eradicate <em>S. aureus</em> (nasal mupirocin BID x5 days, daily chlorhexidine baths; wash towels, sheets, clothes daily)</li>
+</ul>
+
+<p><em>Impetigo</em></p>
+
+<ul>
+	<li>Discrete purulent lesions on exposed areas of the body (face, extremities)</li>
+	<li>Major pathogens:  <em>S. pyogenes</em> and/or <em>S. aureus</em> (bullous impetigo)</li>
+	<li>Treatment: topical mupirocin BID (5 days) or systemic antimicrobials for multiple lesions (7 days). Dicloxacillin or cephalexin are appropriate unless MRSA is confirmed or suspected.</li>
+</ul>
+
+<p><strong>Evaluation</strong></p>
+
+<ul>
+	<li>IDSA guidelines recommend that patients with SSTI accompanied by signs of systemic toxicity (fever/hypothermia, tachycardia, hypotension) have blood drawn to classify severity of infection (blood cultures, CBC, renal panel, CPK and CRP).</li>
+	<li>Imaging is overutilized in the evaluation of SSTIs, however it can be helpful when concerned about a necrotizing infection (see Necrotizing Skin and Soft Tissue Infections)</li>
+</ul>
+
+<p><strong>Treatment</strong></p>
+
+<ul>
+	<li>Elevation as possible for cellulitis and erysipelas</li>
+	<li>See “Differential Diagnosis” above for indications for I&amp;D, table below for antibiotic therapy by pathogen. </li>
+	<li>Attention to weight-based dosing is important, particularly in obese patients who may be under dosed by standard values</li>
+</ul>
+
+<p> </p>
+
+<p><img alt="SSTI Management" height="609" src="/sites/g/files/tkssra6536/f/wysiwyg/ssti-mnagement.png" width="1000" /></p>
+
+<p><img alt="" height="39" src="https://myfiles.space/user_files/86262_daf1f4582277f275/86262_custom_files/img162249458391.png" width="1" /></p>
+
+<p style="text-align: right;"><em>Adapted from Stevens, et al, Clin Infec Dis 2014</em></p>
+
+<p>For both purulent and non-purulent cellulitis:</p>
+
+<ul>
+	<li>Mild: no systemic symptoms</li>
+	<li>Moderate: may have systemic signs, but milder clinical picture than severe</li>
+	<li>Severe: patients who have failed incision and drainage plus <em>oral</em> antibiotics, those with several systemic signs of infection [e.g. temperature &gt;38°C, heart rate &gt;90 beats per minute, respiratory rate &gt;24 breaths per minute, white blood cell count &gt;12 000 or &lt;4000 cells/μL], immunocompromised patients, or those with rapid progression of erythema.</li>
+</ul>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="720">
+	<tbody>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p><strong>SSTI Pathogen</strong></p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p><strong>Dosage</strong></p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p><strong>Comments</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" valign="top" width="100%">
+			<p><strong>Streptococcus</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Amoxicillin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>500mg PO TID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Dicloxacillin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>250mg PO QID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Cephalexin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>500 mg PO QID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Clindamycin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>300 mg PO TID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" valign="top" width="100%">
+			<p> <strong>Methicillin-Sensitive Staph Aureus</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Dicloxacillin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>500mg PO QID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Cephalexin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>500mg PO QID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Oral agent of choice for methicillin-susceptible strains</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Clindamycin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>300mg PO TID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bacteriostatic. Check biogram, increasing resistance to MSSA and MRSA. Prefer dicloxacillin or cephalexin for known MSSA.</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Doxycycline</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>100mg PO BID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bacteriostatic. Poor antistreptococcal activity. Prefer dicloxacillin or cephalexin for known MSSA.</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>TMP-SMZ</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>1-2 DS tabs BID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bactericidal. Poor antistreptococcal activity. Prefer dicloxacillin or cephalexin for known MSSA.</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Cefazolin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>1 g IV q8h</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Parenteral drug of choice for treatment of infections caused by MSSA</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" valign="top" width="100%">
+			<p><strong>Methicillin-Resistant Staph Aureus</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Doxycycline</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>100mg PO BID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bacteriostatic. Poor antistreptococcal activity. </p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>TMP-SMZ</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>1-2 DS tabs PO BID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bactericidal. Poor antistreptococcal activity.</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Clindamycin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>300-450mg PO TID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bacteriostatic, inducible resistance with MRSA. Check antibiogram; increasing resistance to MSSA and MRSA.</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Linezolid</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>600mg PO BID</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p>Bacteriostatic, no cross resistance with other antibiotic classes, expensive</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="32.083333333333336%">
+			<p>Vancomycin</p>
+			</td>
+			<td valign="top" width="22.083333333333332%">
+			<p>15mg/kg IV Q12 (adjust for renal fxn)</p>
+			</td>
+			<td valign="top" width="45.833333333333336%">
+			<p> Parenteral drug of choice for treatment of infections caused by MRSA</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p> When should cellulitis improve? </p>
+
+<ul>
+	<li>Expect symptomatic improvement in 24-48 hrs, visible arrest of spread after 48-72 hrs, and closer to 72 hrs for defervescence and improved leukocytosis</li>
+	<li>In the outpatient setting, repeat evaluation in 48 hrs to monitor clinical response </li>
+	<li>Not improving as expected? Consider resistant organisms, deeper infection, or organism not covered by current antibiotic regimen</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Daum et al. A Placebo-Controlled Trial of Antibiotics for Smaller Skin Abscesses. NEJM 2017; 376(26): 2545-2555</em></p>
+
+<p><em>Miller et al. Clindamycin versus Trimethoprim-Sulfamethoxazole for Uncomplicated Skin Infections. NEJM. 2015; 372(12):1093-1103</em></p>
+
+<p><em>Moran GJ et al. </em><em>Effect of Cephalexin Plus Trimethoprim-Sulfamethoxazole vs Cephalexin Alone on Clinical Cure of Uncomplicated Cellulitis: A Randomized Clinical Trial. JAMA. 2017; 317(20):2088-2096</em></p>
+
+<p><em>Stevens DL et al. Executive summary: practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infec Dis 2014:59; 147-159</em><em> </em></p>
+
+<p><em>Wong, CH, et al.The LRINEC (Laboratory Risk Indicator for Necrotizing Fasciitis) score: a tool for distinguishing necrotizing fasciitis from other soft tissue infections. Crit Care Med. 2004. Jul;32(7):1535-41</em></p>
+
+<div id="_com_1" language="JavaScript">
+<p> </p>
+</div>
+
+<div id="_com_3" language="JavaScript"> </div>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/12-infectious-disease/12-infectious-disease" class="page-previous" title="Go to previous page">‹ 12. Infectious Disease</a>
+                    <a href="/12-infectious-disease/12-infectious-disease" class="page-up" title="Go to parent page">up</a>
+                    <a href="/02-acute-hiv-infection/02-acute-hiv-infection" class="page-next" title="Go to next page">02. Acute HIV infection ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="expanded active-trail menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease" class="active-trail">12. Infectious Disease</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-5316"><a href="/01-approach-skin-soft-tissue-infections/01-approach-skin-soft-tissue-infections" class="active-trail active">01. Approach to Skin &amp; Soft Tissue Infections</a></li>
+<li class="leaf menu-mlid-5321"><a href="/02-acute-hiv-infection/02-acute-hiv-infection">02. Acute HIV infection</a></li>
+<li class="leaf menu-mlid-5326"><a href="/03-primary-care-hiv-infected-adults/03-primary-care-hiv-infected-adults">03. Primary Care for HIV-infected Adults</a></li>
+<li class="leaf menu-mlid-5331"><a href="/04-prep-pep/04-prep-pep">04. PREP &amp; PEP</a></li>
+<li class="leaf menu-mlid-5336"><a href="/05-tuberculosis/05-tuberculosis">05. Tuberculosis</a></li>
+<li class="leaf menu-mlid-5341"><a href="/06-hepatitis-virus/06-hepatitis-virus">06. Hepatitis A Virus</a></li>
+<li class="leaf menu-mlid-5346"><a href="/07-hepatitis-b-virus/07-hepatitis-b-virus">07. Hepatitis B Virus</a></li>
+<li class="leaf menu-mlid-5351"><a href="/08-hepatitis-c-virus/08-hepatitis-c-virus">08. Hepatitis C Virus</a></li>
+<li class="last leaf menu-mlid-5356"><a href="/09-sexually-transmitted-infections-stis/09-sexually-transmitted-infections-stis">09. Sexually Transmitted Infections (STIs)</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

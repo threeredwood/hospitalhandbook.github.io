@@ -1,0 +1,790 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias" />
+<link rel="shortlink" href="/node/2251" />
+<link rel="prev" href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" />
+<link rel="up" href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" />
+<link rel="next" href="/02-rheumatoid-arthritis/02-rheumatoid-arthritis" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias" />
+<meta property="twitter:title" content="01. Approach to Joint Pain + Myalgias  | Hospital Handbook" />
+<meta property="og:title" content="01. Approach to Joint Pain + Myalgias " />
+  <title>01. Approach to Joint Pain + Myalgias  | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"qRElik-ZDrYq9JIfGmefMAUaxZA75l6kKoAS8SEUvnU","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/01-approach-joint-pain-myalgias\/01-approach-joint-pain-myalgias":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2251 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cl2g0xiVxBz0s0cnfxeT4OLfsvDB22DhNIM3qYJtLU0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="active-trail">18. Rheumatology/Orthopedics</a> > <span class="breadcrumb-page-title">01. Approach to Joint Pain + Myalgias </span></div></div></div>
+                  <h1 class="title" id="page-title">01. Approach to Joint Pain + Myalgias </h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2251" class="node node-book clearfix" about="/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Approach to Joint Pain + Myalgias " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Megan Lockwood, MD</p>
+
+<p style="text-align: right;">Faculty Editor: Sarah Goglin, MD</p>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>It is crucial to differentiate between intra-articular pain vs peri-articular pain (such as pain in the soft tissue), as the differential diagnosis and management is different
+	<ul>
+		<li>Use a range of motion to help distinguish an intra-articular process from a peri-articular process:
+		<ul>
+			<li>Difficulty with passive ROM suggests an intra-articular process</li>
+			<li>Difficulty with active ROM suggests a peri-articular process</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Use a step-wise process to evaluate inflammatory joint pain:</li>
+</ul>
+
+<p> </p>
+
+<p><strong>Step 1: Is there inflammation present?</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="595">
+	<tbody>
+		<tr>
+			<td valign="top" width="17.310924369747898%">
+			<p> </p>
+			</td>
+			<td valign="top" width="38.319327731092436%">
+			<p><strong>History</strong></p>
+			</td>
+			<td valign="top" width="25.210084033613445%">
+			<p><strong>Exam</strong></p>
+			</td>
+			<td valign="top" width="19.159663865546218%">
+			<p><strong>Synovial Fluid</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="17.310924369747898%">
+			<p><strong>Inflammatory joint pain</strong></p>
+			</td>
+			<td valign="top" width="38.319327731092436%">
+			<p>Marked joint stiffness in the morning or with inactivity (“gelling phenomenon”); both pain and stiffness improved with mild to moderate activity</p>
+			</td>
+			<td valign="top" width="25.210084033613445%">
+			<p>Warm, swollen joints with effusions; if markedly inflamed (septic or crystalline disease) there may be overlying erythema</p>
+			</td>
+			<td valign="top" width="19.159663865546218%">
+			<p>&gt;2000 WBC/mm<sup>3</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="17.310924369747898%">
+			<p><strong>Non-inflammatory joint pain</strong></p>
+			</td>
+			<td valign="top" width="38.319327731092436%">
+			<p>Limited amount of morning stiffness &lt;30 minutes; pain worsens with activity</p>
+
+			<p> </p>
+			</td>
+			<td valign="top" width="25.210084033613445%">
+			<p>Cool joints with either small or no effusions, crepitus</p>
+			</td>
+			<td valign="top" width="19.159663865546218%">
+			<p>&lt;2000 WBC/mm<sup>3</sup></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong>Step 2: What is the rate of onset?</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td valign="top" width="35.91836734693877%">
+			<p><strong>Hyperacute</strong></p>
+			</td>
+			<td valign="top" width="64.08163265306122%">
+			<p>Hours to days</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="35.91836734693877%">
+			<p><strong>Acute</strong></p>
+			</td>
+			<td valign="top" width="64.08163265306122%">
+			<p>&lt;2 weeks</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="35.91836734693877%">
+			<p><strong>Subacute</strong></p>
+			</td>
+			<td valign="top" width="64.08163265306122%">
+			<p>2-6 weeks</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="35.91836734693877%">
+			<p><strong>Chronic</strong></p>
+			</td>
+			<td valign="top" width="64.08163265306122%">
+			<p>&gt;6 weeks</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong>Step 3: Categorize the type of joint involvement</strong></p>
+
+<p><strong>A. Number of joints involved: </strong>Monoarthritis (1) vs. Oligoarthritis (2-4) vs. Polyarthritis (&gt;4)</p>
+
+<p><strong>B. Distribution: </strong>Peripheral vs. Axial (spine, shoulders, hips)</p>
+
+<p><strong>C. Symmetry: </strong>Symmetric vs. Asymmetric</p>
+
+<p><strong>D. Pattern: </strong>Additive vs. Migratory vs. Intermittent</p>
+
+<p><strong> </strong></p>
+
+<p><strong>Step 4: Assess for extra-articular manifestations</strong>:</p>
+
+<div>
+<ul>
+	<li>A rheumatologic ROS includes fevers, weight loss; eye pain, redness, or sicca; oral/nasal ulcers; lymphadenopathy; serositis; dysphagia; dysuria, hematuria, frothy urine; diarrhea, bloody stool; rashes, photosensitivity; Raynaud’s phenomenon</li>
+</ul>
+</div>
+
+<p> </p>
+
+<p><u><em>Acute Monoarthritis</em></u></p>
+
+<p><strong>Differential diagnosis:</strong></p>
+
+<ul>
+	<li>Infection:
+	<ul>
+		<li>Non-gonoccocal Septic Arthritis (NGSA)– Staph, Strep, and gram negatives
+		<ul>
+			<li>Synovial fluid analysis usually &gt;50K WBC though may exceed 100K; gram stain is relatively insensitive (25-50%) though culture is highly sensitive (~ 90%)</li>
+		</ul>
+		</li>
+		<li>Gonococcal Septic Arthritis – often associated with migratory tenosynovitis or oligoarthritis
+		<ul>
+			<li>Average WBC count in synovial fluid is 35K; gram stain is more sensitive than NGSA but culture of joint fluid is only 20-50% sensitive</li>
+			<li>Diagnosis often made by culture or nucleic acid amplification assays of samples obtained from other sites (urethra, cervix, rectum, throat)</li>
+		</ul>
+		</li>
+		<li>Mycobacterial – rare, often associated with immunocompromise and travel to endemic areas</li>
+		<li>Fungal – rare, often associated with immunocompromise and travel to endemic areas
+		<ul>
+			<li>Also consider as a sterile extra-pulmonary manifestation of endemic myocoses</li>
+		</ul>
+		</li>
+		<li>Lyme disease
+		<ul>
+			<li>Monoarticular synovitis occurs in ~10% of patients with late-stage Lyme disease, most commonly the knee</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Crystal-induced disease (Gout and CPPD):
+	<ul>
+		<li>Synovial fluid analysis can result in WBC counts that range from 30-100K although WBC counts &gt;100K are uncommon</li>
+	</ul>
+	</li>
+	<li>Trauma: can result in hemarthrosis, especially if there is a propensity for bleeding</li>
+	<li>Systemic disorders – can present as an acute monoarthritis
+	<ul>
+		<li>Seronegative spondyloarthritides, sarcoidosis, rheumatoid arthritis, hematologic malignancies</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Evaluation</strong>: assess risk factors for infection; assess for possible mechanisms of injury and ensure that if present, the type of injury is sufficient to explain symptoms and exam</p>
+
+<ul>
+	<li><strong>Lab: <u>All patients with acute inflammatory monoarthritis should have an arthrocentesis if possible</u></strong>. At UCSF, a purple top tube is sent for cell count and differential as well as crystal analysis. A black top tube is sent for gram stain and culture. if only a few drops of fluid are aspirated may place a drop on a slide for crystal analysis and another for gram stain.</li>
+	<li><strong>Imaging</strong>: helpful primarily in ruling out fractures or dislocation; may see chondrocalcinosis, erosions or joint space narrowing. Always order bilateral views if there is a left and right joint affected for comparison.</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Synovial Fluid Analysis*</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" width="569">
+	<tbody>
+		<tr>
+			<td valign="top" width="14.586994727592268%">
+			<p><strong>Measure</strong></p>
+			</td>
+			<td valign="top" width="18.804920913884008%">
+			<p><strong>Normal</strong></p>
+			</td>
+			<td valign="top" width="26.71353251318102%">
+			<p><strong>Non-inflammatory</strong></p>
+			</td>
+			<td valign="top" width="20.38664323374341%">
+			<p><strong>Inflammatory</strong></p>
+			</td>
+			<td valign="top" width="19.507908611599298%">
+			<p><strong>Septic</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="14.586994727592268%">
+			<p>Color</p>
+			</td>
+			<td valign="top" width="18.804920913884008%">
+			<p>Transparent</p>
+			</td>
+			<td valign="top" width="26.71353251318102%">
+			<p>Transparent</p>
+			</td>
+			<td valign="top" width="20.38664323374341%">
+			<p>Translucent-Opaque</p>
+			</td>
+			<td valign="top" width="19.507908611599298%">
+			<p>Opaque/pus</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="14.586994727592268%">
+			<p>WBC (/mm3)</p>
+			</td>
+			<td valign="top" width="18.804920913884008%">
+			<p>&lt;200</p>
+			</td>
+			<td valign="top" width="26.71353251318102%">
+			<p>200-2,000</p>
+			</td>
+			<td valign="top" width="20.38664323374341%">
+			<p>2,000-50,000</p>
+			</td>
+			<td valign="top" width="19.507908611599298%">
+			<p>&gt;50,000</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="14.586994727592268%">
+			<p>% PMNs</p>
+			</td>
+			<td valign="top" width="18.804920913884008%">
+			<p>&lt;25</p>
+			</td>
+			<td valign="top" width="26.71353251318102%">
+			<p>&lt;25</p>
+			</td>
+			<td valign="top" width="20.38664323374341%">
+			<p>Variable</p>
+			</td>
+			<td valign="top" width="19.507908611599298%">
+			<p>&gt;75</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="14.586994727592268%">
+			<p>Culture</p>
+			</td>
+			<td valign="top" width="18.804920913884008%">
+			<p>Negative</p>
+			</td>
+			<td valign="top" width="26.71353251318102%">
+			<p>Negative</p>
+			</td>
+			<td valign="top" width="20.38664323374341%">
+			<p>Negative</p>
+			</td>
+			<td valign="top" width="19.507908611599298%">
+			<p>Often positive</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p>*Tips on synovial fluid analysis:</p>
+
+<ul>
+	<li>Although the numbers above are true in general, they are not necessarily the rule. In early infection, you can have &lt;50,000 WBC, and in long standing inflammation (especially with lower WBC), it can be less PMN predominant.</li>
+	<li>You never need a synovial fluid glucose.</li>
+	<li>Pseudogout crystals are often missed by the lab, as they are more difficult to visualize; by contrast, uric acid crystals are more strongly bi-refringent</li>
+	<li>The gold standard for an acute crystalline process is “intracellular” crystals. In patients with non-acute flares, you can still find crystals outside the cells.</li>
+</ul>
+
+<p> </p>
+
+<p> </p>
+
+<p><u><em>Acute Oligoarthritis</em></u></p>
+
+<p><strong>Differential diagnosis:</strong></p>
+
+<ul>
+	<li>Infection:
+	<ul>
+		<li>Gonococcal Septic Arthritis – often migratory</li>
+		<li>Non-gonoccocal Septic Arthritis – up to 25% of cases involve &gt;1 joint</li>
+		<li>Lyme Disease – most often intermittent and affecting the knees; must have appropriate exposure history with travel to endemic areas to warrant testing (note: Lyme is <em>not</em> endemic in CA)</li>
+		<li>Bacterial Endocarditis – due to circulating immune complex (IC) deposition in synovium</li>
+		<li>Viral – usually polyarthritis; also likely due to circulating IC’s though certain viruses may also directly infect the synovium</li>
+	</ul>
+	</li>
+	<li>Post-Infectious:
+	<ul>
+		<li>Reactive Arthritis – history of urethritis or colitis</li>
+		<li>Rheumatic Fever / Post Strep</li>
+	</ul>
+	</li>
+	<li>Spondyloarthritis (SpA)
+	<ul>
+		<li>Reactive Arthritis – can occur independent of known infection</li>
+		<li>Psoriatic Arthritis</li>
+		<li>Ankylosing Spondylitis – always with axial involvement</li>
+		<li>IBD-associated Arthritis</li>
+	</ul>
+	</li>
+	<li>Crystal disease (Gout and CPPD)</li>
+	<li>Oligoarticular presentation of conditions associated with polyarthritis
+	<ul>
+		<li>RA</li>
+		<li>SLE</li>
+		<li>Adult-onset Stills</li>
+		<li>Relapsing Polychondritis</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Evaluation</strong>: primary goal is to exclude life or limb threatening infections</p>
+
+<ul>
+	<li><strong>Lab</strong>: basic blood and serum tests should be obtained including CRP and ESR; arthrocentesis should be performed if possible; patients should have extensive evaluation for GC, including culture or nucleic acid amplification assays of sample obtained from other sites (urethra, cervix, rectum, throat) which improves sensitivity of diagnosis; similarly, patients should have site-appropriate Chlamydial swabs sent</li>
+	<li><strong>Imaging</strong>: often of limited utility but can identify some forms of trauma as well as chondrocalcinosis</li>
+</ul>
+
+<p> </p>
+
+<p> </p>
+
+<p><strong><em><u>Acute Polyarthritis</u></em></strong></p>
+
+<p><strong>Differential diagnosis:</strong></p>
+
+<ul>
+	<li>Acute Viral Infections – parvovirus B19, subacute HBV infection at pre-icteric phase, HCV, HIV</li>
+	<li>Disseminated Lyme</li>
+	<li>Secondary Syphilis</li>
+	<li>RA</li>
+	<li>SLE</li>
+	<li>Acute Sarcoid – often in the setting of Lofgren’s syndrome with concurrent E. nodosum and hilar adenopathy</li>
+	<li>Adult Still’s disease</li>
+	<li>Systemic Vasculitis</li>
+	<li>Paraneoplastic (rare)</li>
+	<li>Whipple’s disease (rare)</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Evaluation</strong>: often appropriate to follow clinically as most viral forms of polyarthritis will resolve without intervention</p>
+
+<ul>
+	<li><strong>Lab</strong>: basic blood and serum tests should be obtained including CRP and ESR, may consider RF as well as CCP and ANA particularly if persistent; consider evaluation for Hep B / Hep C if risk factors</li>
+	<li><strong>Imaging</strong>: often of limited utility in the acute setting</li>
+</ul>
+
+<p><strong><em><u>Chronic Monoarthritis</u></em></strong></p>
+
+<p><strong>Differential diagnosis: Inflammatory</strong></p>
+
+<ul>
+	<li>Infectious:
+	<ul>
+		<li>Lyme Disease</li>
+		<li>Syphilis</li>
+		<li>Fungal</li>
+		<li>Mycobacterial</li>
+	</ul>
+	</li>
+	<li>Crystal disease:
+	<ul>
+		<li>Gout</li>
+		<li>CPPD (pseudogout)</li>
+		<li>Hydroxyapatite</li>
+	</ul>
+	</li>
+	<li>Monoarticular presentation of normally oligo/polyarticular process
+	<ul>
+		<li>RA</li>
+		<li>Spondyloarthritis</li>
+	</ul>
+	</li>
+	<li>Sarcoid (can also be non-inflammatory)</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Differential diagnosis: Non-inflammatory</strong></p>
+
+<ul>
+	<li>Osteoarthritis</li>
+	<li>Internal derangements (meniscal injury, osteititis dessicans)</li>
+	<li>Osteonecrosis</li>
+	<li>Neuropathic arthropathy (Charcot Joint)</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong><u>:</u></p>
+
+<ul>
+	<li><strong>Lab</strong>: If inflammatory: arthrocentesis; basic blood and serum tests should be obtained including CRP and ESR; may consider RF as well as CCP and ANA, particularly if persistent; many infections in this category require synovial biopsy for diagnosis (mycobacterial, fungal, and etc.)</li>
+	<li><strong>Imaging</strong>: often important in differentiating chronic processes
+	<ul>
+		<li>Hands – three views including PA/Oblique (Norgard views)/ Lateral</li>
+		<li>Elbows – three views</li>
+		<li>Shoulder – five views PA/PA with 15 degrees rotation/ Internal Rotation/External Rotation/ Axillary View</li>
+		<li>Hip – two views including AP/Lateral (ideally “frog leg” which includes some external rotation)</li>
+		<li>Knee – three views including Weight Bearing AP, Lateral in 15 degrees flexion, Sunrise or Merchant’s View</li>
+		<li>Foot – three views including AP, oblique, and lateral weight bearing films</li>
+		<li>SI – single AP view of Pelvis is sufficient (gives you both hips)</li>
+		<li>L-Spine – two views of AP/Lateral</li>
+	</ul>
+	</li>
+</ul>
+
+<p> </p>
+
+<p><strong><em><u>Chronic Oligoarthritis</u></em></strong></p>
+
+<p><strong>Differential diagnosis:</strong></p>
+
+<ul>
+	<li>Osteoarthritis</li>
+	<li>Spondyloarthritis (SpA)
+	<ul>
+		<li>Psoriatic Arthritis</li>
+		<li>Reactive Arthritis</li>
+		<li>Ankylosing Spondylitis</li>
+		<li>Enteropathic / IBD associated arthritis</li>
+	</ul>
+	</li>
+	<li>Atypical Presentation of RA / SLE</li>
+	<li>Crystalline Arthritis – primarily gout</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Evaluation</strong>: assess for inflammatory back pain (see section below); assess for extra-articular manifestations of disease including skin, eye, and bowel disease</p>
+
+<ul>
+	<li><strong>Lab</strong>: consider ANA and RF/CCP only if patient has peripheral arthritis; HLAB27 if suspecting AS (this haplotype is associated with recurrent anterior uveitis in AS <a class="msocomanchor" href="applewebdata://0A47872E-F50F-43B2-B247-4296944BAE30#_msocom_1" id="_anchor_1" language="JavaScript" name="_msoanchor_1">[GS1]</a> )</li>
+	<li><strong>Imaging</strong>: obtain plain film imaging of involved joints including AP Pelvis and L-Spine images if suspecting SpA; if plain radiography is negative and clinical suspicion remains high then consider MRI and rheumatology referral for further evaluation</li>
+</ul>
+
+<p><strong><em><u>Chronic Polyarthritis</u></em></strong></p>
+
+<p><strong>Differential diagnosis:</strong></p>
+
+<ul>
+	<li>Osteoarthritis</li>
+	<li>Rheumatoid Arthritis</li>
+	<li>Systemic Lupus</li>
+	<li>Spondyloarthritis</li>
+	<li>Drug Induced</li>
+	<li>HCV-associated</li>
+	<li>Sjogren’s Syndrome</li>
+	<li>Adult-Onset Still’s</li>
+	<li>Systemic Vasculitis</li>
+	<li>Paraneoplastic</li>
+	<li>Viral Infections other than HCV</li>
+	<li>Whipple’s disease</li>
+</ul>
+
+<p><strong> </strong></p>
+
+<p><strong>Evaluation</strong>:</p>
+
+<ul>
+	<li><strong>Lab</strong>: If inflammatory: consider CRP, ESR, RF/anti-CCP and ANA; consider evaluation for HBV / HCV based on risk factors</li>
+	<li><strong>Imaging</strong>: should be obtained of symptomatic areas; recommend obtaining bilateral hand and foot films if significant concern for RA</li>
+</ul>
+
+<p><strong><em><u>Inflammatory Back Pain</u></em></strong></p>
+
+<ul>
+	<li>It is important to distinguish back pain from inflammation in the lower spine/sacroiliac joint from other etiologies of back pain</li>
+	<li>Application of the IBP criteria aids in the early diagnosis of axial spondyloarthritis, especially as a referral screening tool in the primary care setting.</li>
+	<li>Classic parameters for IBP:
+	<ul>
+		<li>Age of onset &lt;40</li>
+		<li>Insidious symptom onset</li>
+		<li>Stiffness improved with exercise, stiffness worsened with rest</li>
+		<li>Nocturnal back pain, awakening the patient in the second half of the night</li>
+		<li>Marked improvement with NSAIDs</li>
+	</ul>
+	</li>
+	<li>The pain described by patients is typically a dull ache, worst in the lower back and/or buttocks, though may also present in the hips and shoulders</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Helfgott, S. Overview of monoarthritis in adults. Last updated October 25, 2017. UpToDate. Accessed July 29 ,2018. </em></p>
+
+<p><em>Imboden, J. “Approach to the Patient with Arthritis.” Current Diagnosis and Treatment: Rheumatology. 3<sup>rd</sup> edition. Ed. John Imboden, David Hellman, John Stone. The Mc-Graw-Hill Companies, 2013. </em></p>
+
+<p><em>Margaretten ME, et al. Does this adult have septic arthritis? JAMA. 2007 Apr 4;297(13):1478-88.</em></p>
+
+<p><em>Richie AM, Francis L. Diagnostic Approach to Polyarticular Joint Pain. Am Fam Physician. 2003 Sep 15;68(6):1151-1160.</em></p>
+
+<p><em>Shmerling RH. Evaluation of the adult with polyarticular pain. Last updated May 31, 2017. UpToDate. Accessed July 29, 2018.</em></p>
+
+<p><em> </em><em>Sieper, J, et al. New criteria for inflammatory back pain in patients with chronic back pain: A real patient exercise by experts from the Assessment of SpondyloArthritis international Society (ASAS). Ann Rheum Dis. 2009;68(6):784–8. </em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="page-previous" title="Go to previous page">‹ 18. Rheumatology/Orthopedics</a>
+                    <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="page-up" title="Go to parent page">up</a>
+                    <a href="/02-rheumatoid-arthritis/02-rheumatoid-arthritis" class="page-next" title="Go to next page">02. Rheumatoid Arthritis ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="expanded active-trail menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="active-trail">18. Rheumatology/Orthopedics</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-5451"><a href="/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias" class="active-trail active">01. Approach to Joint Pain + Myalgias </a></li>
+<li class="leaf menu-mlid-5456"><a href="/02-rheumatoid-arthritis/02-rheumatoid-arthritis">02. Rheumatoid Arthritis</a></li>
+<li class="leaf menu-mlid-5461"><a href="/03-basics-sle-incld-meds/03-basics-sle-incld-meds">03. Basics of SLE (incld meds)</a></li>
+<li class="leaf menu-mlid-5466"><a href="/04-approach-rheumatology-labs/04-approach-rheumatology-labs">04. Approach to Rheumatology Labs</a></li>
+<li class="leaf menu-mlid-5471"><a href="/05-approach-shoulder-pain/05-approach-shoulder-pain">05. Approach to Shoulder Pain</a></li>
+<li class="leaf menu-mlid-5476"><a href="/06-approach-knee-pain/06-approach-knee-pain">06. Approach to Knee Pain</a></li>
+<li class="leaf menu-mlid-5481"><a href="/07-approach-ankle-pain/07-approach-ankle-pain">07. Approach to Ankle Pain</a></li>
+<li class="leaf menu-mlid-5486"><a href="/08-approach-foot-pain/08-approach-foot-pain">08. Approach to Foot Pain</a></li>
+<li class="leaf menu-mlid-5491"><a href="/09-acute-low-back-pain/09-acute-low-back-pain">09. Acute Low Back Pain</a></li>
+<li class="leaf menu-mlid-5496"><a href="/10-osteoarthritis/10-osteoarthritis">10. Osteoarthritis</a></li>
+<li class="last leaf menu-mlid-5501"><a href="/11-gout-pseudogout/11-gout-pseudogout">11. Gout &amp; Pseudogout</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

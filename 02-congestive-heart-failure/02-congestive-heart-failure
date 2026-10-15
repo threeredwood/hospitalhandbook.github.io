@@ -1,0 +1,774 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-congestive-heart-failure/02-congestive-heart-failure" />
+<link rel="shortlink" href="/node/1736" />
+<link rel="prev" href="/01-coronary-artery-disease/01-coronary-artery-disease" />
+<link rel="up" href="/03-cardiology/03-cardiology" />
+<link rel="next" href="/03-atrial-fibrillation/03-atrial-fibrillation" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-congestive-heart-failure/02-congestive-heart-failure" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-congestive-heart-failure/02-congestive-heart-failure" />
+<meta property="twitter:title" content="02. Congestive Heart Failure | Hospital Handbook" />
+<meta property="og:title" content="02. Congestive Heart Failure" />
+  <title>02. Congestive Heart Failure | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"r2atwFhUatsenFj0IBuZOkkZf4VI4eMFYjZ5plr6gwo","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-congestive-heart-failure\/02-congestive-heart-failure":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1736 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-congestive-heart-failure/02-congestive-heart-failure" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-xk2DdOVtTneZrXOFH0LiZGoFRUH1AeWL_G5aZJr_ZSA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/03-cardiology/03-cardiology" class="active-trail">03. Cardiology</a> > <span class="breadcrumb-page-title">02. Congestive Heart Failure</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Congestive Heart Failure</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1736" class="node node-book clearfix" about="/02-congestive-heart-failure/02-congestive-heart-failure" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Congestive Heart Failure" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><u>Background</u></strong></p>
+
+<p><strong>Classification and Causes </strong></p>
+
+<ul>
+	<li>HFpEF (EF &gt;50%): HCM, DM, HTN, restrictive and infiltrative CM</li>
+	<li>HFmrEF (EF 40-50%): new entity, still being studied</li>
+	<li>HFrEF (EF &lt;40%): ischemia, HTN, structural disease, genetic, viral, tachycardia, etc</li>
+</ul>
+
+<p>​<strong>Definition and Epidemiology</strong></p>
+
+<ul>
+	<li>5 million people in the United States have heart failure (HF), with 53,000 deaths per year; there are 550,000 new cases per year</li>
+	<li>Clinical syndrome that results from impaired ventricular filling or ejection of blood</li>
+	<li>Split 50/50 between systolic (heart failure with reduced ejection fraction – HFrEF) and diastolic failure (heart failure with preserved ejection fraction – HFpEF)</li>
+	<li>Definition of HFpEF is technically EF&gt;50%.</li>
+</ul>
+
+<p>• <em>NYHA Class</em>: Symptomatic classification; can change from day to day</p>
+
+<table align="left" border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 59px; height: 23px;">
+			<p align="center"><strong>NYHA </strong></p>
+			</th>
+			<th scope="col" style="width: 462px; height: 23px;">
+			<p align="center"><strong>Symptomatic definitions</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:59px;height:18px;">
+			<p align="center"><strong>I</strong></p>
+			</td>
+			<td style="width:462px;height:18px;">
+			<p align="center">Symptomatic with exercise</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:59px;height:18px;">
+			<p align="center"><strong>II</strong></p>
+			</td>
+			<td style="width:462px;height:18px;">
+			<p align="center">Symptomatic with walking</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:59px;height:18px;">
+			<p align="center"><strong>III</strong></p>
+			</td>
+			<td style="width:462px;height:18px;">
+			<p align="center">Symptomatic with minimal activity (ADLs, getting out of chair)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:59px;height:18px;">
+			<p align="center"><strong>IV</strong></p>
+			</td>
+			<td style="width:462px;height:18px;">
+			<p align="center">Symptomatic at rest</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>• ACCF/AHA <em>Stages of HF</em>: classification by structural heart disease +/- symptoms. Most common is Stage C</p>
+
+<table align="left" border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 58px; height: 19px;">
+			<p align="center"><strong>STAGE </strong></p>
+			</th>
+			<th scope="col" style="width: 463px; height: 19px;">
+			<p align="center"><strong>Structural heart disease +/- Symptoms </strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:58px;height:15px;">
+			<p align="center"><strong>A</strong></p>
+			</td>
+			<td style="width:463px;height:15px;">
+			<p align="center">No structural disease but high risk: HTN, DM, CAD, toxins</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:58px;height:15px;">
+			<p align="center"><strong>B</strong></p>
+			</td>
+			<td style="width:463px;height:15px;">
+			<p align="center">Structural disease (LVH, poor wall motion, low EF, valve dysfunction), WITHOUT symptoms</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:58px;height:15px;">
+			<p align="center"><strong>C</strong></p>
+			</td>
+			<td style="width:463px;height:15px;">
+			<p align="center">Any structural disease WITH symptoms</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:58px;height:15px;">
+			<p align="center"><strong>D</strong></p>
+			</td>
+			<td style="width:463px;height:15px;">
+			<p align="center">End stage: requiring LV-assist device, inotropes, pre-transplant</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li>Symptoms: SOB, DOE, orthopnea, PND, chest pain, fatigue, palpitations, pre-syncope, <u>interference with ADLs</u>.</li>
+	<li>Signs of left HF: rales or pleural effusions, pulmonary edema, cold extremities with hypotension, displaced and/or sustained PMI, S3 (systolic dysfunction) or S4 (diastolic dysfunction), Cheyne-Stokes respiration, JVD, dependent edema, ascites, orthostatic BP</li>
+</ul>
+
+<ul>
+	<li>Signs of right HF: JVD, hepatojugular reflux, peripheral edema, RV heave, ascites, pulsatile liver/hepatomegaly, palpable pulmonary artery
+	<ul>
+		<li>Signs of valvular dysfunction: murmurs</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>Goal is to confirm the diagnosis, quantify the severity, determine the etiology, assess volume status and monitor treatment response/side effects</li>
+	<li>Review risk factors in history – <u>PMH</u>: HTN, DM, HL, valvular disease, CAD, rheumatic fever, OSA, chemo exposure; <u>FH</u>: cardiomyopathy, sudden death, CAD; <u>SH</u>: tobacco, ETOH, other toxins, diet and sodium intake.
+	<ul>
+		<li>Labs – CBC, UA &amp; Utox, Chem-7, Ca, Mg, Phos, TSH, LFTs, lipid profile, HbA1c, ferritin, HIV; BNP and troponin to establish prognosis.</li>
+		<li>Studies –CXR, EKG (look for LBBB and at QRS duration); TTE (consider repeat in patients who have marked change in symptoms, experience or recover from illness, may be candidates for device therapy). Will need ischemic evaluation, can consider stress test in low risk patients but most patients should get left heart catheterization. Consider 6-minute walk test referral for prognostication, treatment efficacy and functional capacity.</li>
+		<li>Consider sleep study if patient at risk for OSA; workup amyloid, rheumatologic disease, sarcoidosis if clinically indicated.</li>
+	</ul>
+	</li>
+</ul>
+
+<p align="center"><strong>Assessing volume status on exam and adjusting treatment</strong></p>
+
+<table align="left" border="1" cellpadding="0" cellspacing="0" width="599">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 43px; height: 25px;">
+			<p align="center"> </p>
+			</th>
+			<th scope="col" style="width: 210px; height: 25px;">
+			<p align="center" style="margin-left:.1in;"><strong>Warm on upper arm </strong></p>
+
+			<p align="center" style="margin-left:.1in;"><strong>(good perfusion)</strong></p>
+			</th>
+			<th scope="col" style="width: 347px; height: 25px;">
+			<p align="center" style="margin-left:.1in;"><strong>Cold on upper arm </strong></p>
+
+			<p align="center" style="margin-left:.1in;"><strong>(or other signs of poor CO, e.g. low urine output)</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:43px;height:20px;">
+			<p align="center"><strong>Dry</strong></p>
+			</td>
+			<td style="width:210px;height:20px;">
+			<p style="margin-left:.1in;">Normal, euvolemic: continue current treatment</p>
+			</td>
+			<td style="width:347px;height:20px;">
+			<p style="margin-left:.1in;">Admit to hospital: gentle fluids, inotropes and/or afterload reducers. </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:43px;height:20px;">
+			<p align="center"><strong>Wet</strong></p>
+			</td>
+			<td style="width:210px;height:20px;">
+			<p style="margin-left:.1in;">Hypervolemic: increase diuresis</p>
+			</td>
+			<td style="width:347px;height:20px;">
+			<p style="margin-left:.1in;">Admit to hospital: often needs HF specialist consultation.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Key to treatment is lifestyle modification</p>
+
+			<p>✔ ACE-I/ARB, beta-blockers, aldosterone antagonists, and nitrates/ hydralazine (in AA pts) have mortality benefits; other meds may improve symptoms</p>
+
+			<p>✔ Remember to evaluate for implantable cardiac defibrillator or biventricular pacemaker and refer to EP, as these devices have mortality benefits.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Treatment based on ACCF/AHA Stage of heart failure (see table above)</u></strong></p>
+
+<ol style="list-style-type:upper-alpha;">
+	<li><strong>Stage A </strong>
+
+	<ul>
+		<li>Patients: Hx of HTN, atherosclerotic disease, DM, obesity, metabolic syndrome, cardiotoxin use, family history of cardiomyopathy</li>
+		<li>Goals: Aggressive control of modifiable risk factors: low sodium diet, HTN, cholesterol, DM, tobacco, ETOH, cocaine. Consider nutrition consult, scales for daily weights.</li>
+		<li>Drugs: 
+		<ul style="list-style-type:circle;">
+			<li>ACE-I or ARB as indicated for DM or vascular disease</li>
+			<li>Statin as indicated</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ol>
+
+<p><strong>B. Stage B  </strong></p>
+
+<ul>
+	<li>Patients: Hx of MI, LV remodeling including LVH and low EF,  valvular disease</li>
+	<li>Goal: Prevent development of symptomatic HF and further cardiac remodeling</li>
+	<li>Drugs:         
+	<ul>
+		<li>If hx of MI and reduced EF, then ASA, ACE-I, BB, and statin</li>
+		<li>If reduced EF, then ACE-I and BB</li>
+		<li>ICD if 40 days from ischemic event and LVEF is &lt;30% despite good medical management</li>
+	</ul>
+	</li>
+	<li>Consider exercise tolerance test: Exercise training has been shown to improve exercise time and 6 minute walk distance</li>
+</ul>
+
+<p><strong>C. Stage C </strong></p>
+
+<ul>
+	<li>HFpEF
+	<ul>
+		<li>Control systolic and diastolic blood pressure (Class I, Level B)</li>
+		<li>Diuretics to relieve symptoms of congestion (Class I, Level C)</li>
+		<li>Use of aldosterone antagonists can be considered in patients with elevated BNP, HF admission within the past year, Cr &lt;2.5, K &lt;5. This is based on results of recent TOPCAT trial.</li>
+	</ul>
+	</li>
+	<li>HFrEF
+	<ul>
+		<li>Heart failure education</li>
+		<li>Consider exercise training or cardiac rehabilitation</li>
+		<li>Consider sodium restriction if significant congestive symptoms (poor evidence)</li>
+		<li>Renin-Angiotensin Inhibition</li>
+	</ul>
+	</li>
+	<li>ACE-I/ARB (Class I, Level A) – Well-studied, morbidity and mortality benefit. First-line medication. Start low and double every 2 weeks as tolerated as outpatient. Check renal function and electrolytes initially and every 1-2 weeks as you are titrating. Aim for target dose OR highest tolerated dose. OK for K to be ≤5.5 or Cr ≤3 or up to 50% increase. If K or Cr rises excessively, can consider halving dose and re-checking in 1 week. STOP if K &gt;5.5 or Cr &gt;3.5 or 100% increase. Asymptomatic low blood pressure is OK! ACE-I cough is not that common, only switch to ARB if cough is troublesome, evaluation is negative, and cough returns after ACE-I withdrawal and re-challenge.</li>
+	<li>ARNI (Class I, Level B-R) – Valsartan/sacubitril (Entresto) approved for use. Improved morbidity and mortality over that of ACE-I in recent PARADIGM trial. Patient has to be off ACE-I for at least 36 hours before starting ARNI. Don’t give to patients with history of angioedema.
+	<ul>
+		<li>Beta Blockers (Class I, Level A)</li>
+	</ul>
+	</li>
+	<li>Mortality benefit and reduced progression of HF in patients w/ reduced EF or CAD proven for metoprolol succinate, carvedilol, and bisoprolol. Start BB prior to titrating up ACE-I to max dose, as studies show benefit to BB + low dose ACE-I over high dose ACE-I alone. Do not start if patient is fluid overloaded.</li>
+	<li>Start low and double every 2 weeks as tolerated as outpatient. Aim for target dose OR highest tolerated dose. IF increasing congestion, increase diuretic or halve dose of beta blocker. If marked fatigue or HR &lt;50bpm, halve dose of beta blocker or stop if concern for severe deterioration.
+	<ul>
+		<li> Mineralocorticoid Receptor Antagonists (Class I, Level A)</li>
+	</ul>
+	</li>
+	<li>Aldosterone antagonists (e.g. spironolactone, eplerenone) – Consider in patients with moderate to severe symptoms already on RAS inhibition and beta blockade. Mortality benefit in patients with low EF. All patients should be on a loop diuretic, follow K<sup>+</sup> closely (don’t start if &gt;5, stop all supplementation when starting).</li>
+	<li>Start with a low dose and uptitrate after 4-8 weeks. Pay close attention to K and Cr; if K &gt;5.5 or Cr &gt;2.5, halve dose and recheck in 1 week. If K &gt;6 or Cr &gt;3.5, STOP! Switch to eplerenone if concerned for gynecomastia.
+	<ul>
+		<li>Other classes of medications</li>
+	</ul>
+	</li>
+	<li>Nitrates/hydralazine (Class I, Level A) – Improves outcomes in AA patients after BB, ACE-I, diuretics optimized.</li>
+	<li>Digoxin (Class IIa, Level B) – decreases symptoms, reduces hospitalization in patients with systolic dysfunction. No mortality benefit. Follow levels. Use cautiously in CKD patients. </li>
+	<li>Ivabradine – can reduce HF hospitalization for symptomatic patients with chronic HFrEF who are on beta blocker at maximum tolerated dose, and who are in sinus rhythm with a resting heart rate of ≥70 bpm.</li>
+	<li>Diuretics improve cardiac function, symptoms, and hospitalization rate but no mortality benefit. Start with a loop diuretic – furosemide and bumetanide should be dosed twice daily, torsemide can be dosed once daily. Can add thiazide-type diuretics if higher doses needed for maintenance.
+	<ul>
+		<li>Other considerations</li>
+	</ul>
+	</li>
+	<li>Implantable cardiac defibrillator (ICD) – Indications: non-ischemic cardiomyopathy with LVEF&lt;30-35% and NYHA II-III HF symptoms despite medical therapy or ischemic cardiomyopathy with LVEF&lt;35%, history of unstable VT, VF arrest, cardiac arrest (40 days post-MI).  This should only be considered once patient has been on appropriate medical therapy for 90 days.</li>
+	<li>Resynchronization Therapy (biventricular pacemaker) – indicated in patients with QRS&gt;120 msec (a sign of dysynchrony; greatest benefit for &gt;150msec and LBBB morphology not RBBB) and LVEF&lt;35% with LV dilation and class III-IV symptoms. This should only be considered once patient has been on appropriate medical therapy for 90 days.</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:642px;" width="642">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 208px;">
+			<p> </p>
+			</th>
+			<th scope="col" style="width: 158px;">
+			<p><strong>Starting Dose</strong></p>
+			</th>
+			<th scope="col" style="width: 276px;">
+			<p><strong>Target Dose</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>ACE-Is and ARBs</strong></p>
+			</td>
+			<td style="width:158px;">
+			<p> </p>
+			</td>
+			<td style="width:276px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Lisinopril</p>
+			</td>
+			<td style="width:158px;">
+			<p>2.5-5mg daily</p>
+			</td>
+			<td style="width:276px;">
+			<p>20-40mg daily</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Losartan</p>
+			</td>
+			<td style="width:158px;">
+			<p>25-50mg daily</p>
+			</td>
+			<td style="width:276px;">
+			<p>150mg daily</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Valsartan</p>
+			</td>
+			<td style="width:158px;">
+			<p>40mg BID</p>
+			</td>
+			<td style="width:276px;">
+			<p>160mg BID</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>ARNI</strong></p>
+			</td>
+			<td style="width:158px;">
+			<p> </p>
+			</td>
+			<td style="width:276px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Valsartan-sacubitril</p>
+			</td>
+			<td style="width:158px;">
+			<p>24/26mg BID</p>
+			</td>
+			<td style="width:276px;">
+			<p>97/103mg BID</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Beta Blockers</strong></p>
+			</td>
+			<td style="width:158px;">
+			<p> </p>
+			</td>
+			<td style="width:276px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Carvedilol</p>
+			</td>
+			<td style="width:158px;">
+			<p>3.125mg BID</p>
+			</td>
+			<td style="width:276px;">
+			<p>25mg BID (&lt;85kg), 50mg BID (&gt;85kg)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Metoprolol succinate</p>
+			</td>
+			<td style="width:158px;">
+			<p>12.5-25mg daily</p>
+			</td>
+			<td style="width:276px;">
+			<p>200mg daily</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Aldosterone Antagonists</strong></p>
+			</td>
+			<td style="width:158px;">
+			<p> </p>
+			</td>
+			<td style="width:276px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Spironolactone</p>
+			</td>
+			<td style="width:158px;">
+			<p>12.5-25mg daily</p>
+			</td>
+			<td style="width:276px;">
+			<p>25-50mg daily</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;height:21px;">
+			<p>Eplerenone</p>
+			</td>
+			<td style="width:158px;height:21px;">
+			<p>25mg daily</p>
+			</td>
+			<td style="width:276px;height:21px;">
+			<p>50mg daily</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p><strong>Vasodilators</strong></p>
+			</td>
+			<td style="width:158px;">
+			<p> </p>
+			</td>
+			<td style="width:276px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Hydralazine</p>
+			</td>
+			<td style="width:158px;">
+			<p>25mg TID</p>
+			</td>
+			<td style="width:276px;">
+			<p>75mg TID</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Isosorbide dinitrate</p>
+			</td>
+			<td style="width:158px;">
+			<p>20mg TID</p>
+			</td>
+			<td style="width:276px;">
+			<p>40mg TID</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Ivabradine</p>
+			</td>
+			<td style="width:158px;">
+			<p>2.5-5mg BID</p>
+			</td>
+			<td style="width:276px;">
+			<p>Titrate to HR 50-60bpm. Max 7.5mg BID.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong>D. Stage D </strong></p>
+
+<ul>
+	<li><strong>Patients: </strong>refractory HF to medical management, multiple admissions despite medical therapy, symptoms at rest</li>
+	<li>Goals: Control symptoms, reduce admissions, determine end of life goals</li>
+	<li>Determine if patient is eligible for destination therapy with LVAD or transplantation</li>
+	<li>Options: Refer for advanced therapy, palliative care referral</li>
+</ul>
+
+<p><strong><u>When to refer</u></strong></p>
+
+<ul>
+	<li>Definite referral: Patients that meet indications for any device (ICD, biventricular pacemaker), continue to be symptomatic despite basic medical therapy, Stage C heart failure with ongoing symptoms or difficulty titrating medications, stage D heart failure, evaluation for transplantation or LVAD.</li>
+	<li>Consider referral: Symptomatic patients with EF&lt;35%, patients with other uncontrolled cardiovascular comorbidities (e.g., arrhythmia, valvular dysfunction)​</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Yancy CW, Jessup M, Bozkurt B, Butler J, Casey DE Jr, Drazner MH, Fonarow GC, Geraci SA, Horwich T, Januzzi JL, Johnson MR, Kasper EK, Levy WC, Masoudi FA, McBride PE, McMurray JJV, Mitchell JE, Peterson PN, Riegel B, Sam F, Stevenson LW, Tang WHW, Tsai EJ, Wilkoff BL. 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. 2013;128:e240–e327.</em><em> Udelson JE. Heart Failure with Preserved Ejection Fraction. Circulation. 2011; 124:e540-e543.</em></p>
+
+<p><em>Ponikowski P, Voors AA, Anker SD, et al. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2016;37(27):2129-2200m. doi:10.1093/eurheartj/ehw128.</em></p>
+
+<p><em>Yancy CW, Jessup M, Bozkurt B,Butler J, Casey DE Jr, Colvin MM, Drazner MH, Filippatos GS, Fonarow GC, Givertz MM, Hollenberg SM, Lindenfeld J, Masoudi FA, McBride PE, Peterson PN, Stevenson LW, Westlake C. 2017 ACC/AHA/HFSA focused update of the 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America. Circulation. 2017</em>;<em>000:e000–e000.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/01-coronary-artery-disease/01-coronary-artery-disease" class="page-previous" title="Go to previous page">‹ 01. Coronary Artery Disease</a>
+                    <a href="/03-cardiology/03-cardiology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/03-atrial-fibrillation/03-atrial-fibrillation" class="page-next" title="Go to next page">03. Atrial Fibrillation ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="expanded active-trail menu-mlid-4916"><a href="/03-cardiology/03-cardiology" class="active-trail">03. Cardiology</a><ul class="menu"><li class="first leaf menu-mlid-4921"><a href="/01-coronary-artery-disease/01-coronary-artery-disease">01. Coronary Artery Disease</a></li>
+<li class="leaf active-trail active menu-mlid-4931"><a href="/02-congestive-heart-failure/02-congestive-heart-failure" class="active-trail active">02. Congestive Heart Failure</a></li>
+<li class="leaf menu-mlid-4936"><a href="/03-atrial-fibrillation/03-atrial-fibrillation">03. Atrial Fibrillation</a></li>
+<li class="leaf menu-mlid-4941"><a href="/04-heart-murmurs/04-heart-murmurs">04. Heart Murmurs</a></li>
+<li class="leaf menu-mlid-4946"><a href="/05-hypertension/05-hypertension">05. Hypertension</a></li>
+<li class="leaf menu-mlid-4951"><a href="/06-preoperative-cardiac-evaluation/06-preoperative-cardiac-evaluation">06. Preoperative Cardiac Evaluation</a></li>
+<li class="last leaf menu-mlid-4956"><a href="/07-peripheral-vascular-disease/07-peripheral-vascular-disease">07. Peripheral Vascular Disease</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,545 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/01-common-male-gu-disorders/01-common-male-gu-disorders" />
+<link rel="shortlink" href="/node/2226" />
+<link rel="prev" href="/19-urology/19-urology" />
+<link rel="up" href="/19-urology/19-urology" />
+<link rel="next" href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/01-common-male-gu-disorders/01-common-male-gu-disorders" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/01-common-male-gu-disorders/01-common-male-gu-disorders" />
+<meta property="twitter:title" content="01. Common Male GU Disorders | Hospital Handbook" />
+<meta property="og:title" content="01. Common Male GU Disorders" />
+  <title>01. Common Male GU Disorders | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"hJtbf7Mjj57ma8ZnuA94rhC3SdAFAJgKlvra3_V4Uwc","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/01-common-male-gu-disorders\/01-common-male-gu-disorders":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2226 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/01-common-male-gu-disorders/01-common-male-gu-disorders" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-CXS-e6b2B17aqzbVLvRWFFrNwWbVrDUanIRFyXq0IqA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/19-urology/19-urology" class="active-trail">19. Urology</a> > <span class="breadcrumb-page-title">01. Common Male GU Disorders</span></div></div></div>
+                  <h1 class="title" id="page-title">01. Common Male GU Disorders</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2226" class="node node-book clearfix" about="/01-common-male-gu-disorders/01-common-male-gu-disorders" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Common Male GU Disorders" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Scott R. Bauer, MD, ScM</p>
+
+<p align="right">Faculty Editor: Maria E. Garcia, MD, MPH, MAS</p>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<div>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Intra-testicular masses are cancer until proven otherwise! Always order ultrasound unless mass is clearly extratesticular.</p>
+
+			<p>✔ Testicular torsion is a GU emergency.</p>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><!--[endif]----><!--![endif]----></p>
+
+<p><strong>A. Scrotal Masses</strong></p>
+
+<p><strong>Background</strong></p>
+
+<ul>
+	<li>Scrotal masses can arise from the testicle, epididymis, and/or spermatic cord.</li>
+	<li>Masses from the testis are usually malignant, whereas masses from epididymis (extratesticular) are benign.</li>
+	<li>Painful scrotal masses are more likely to require urgent intervention.</li>
+</ul>
+
+<p><strong>Signs and Symptoms</strong></p>
+
+<p><em>History</em>: the cornerstone of diagnosis</p>
+
+<ul>
+	<li>Associated trauma</li>
+	<li>Pain: location, radiation, alleviating/aggravating factors</li>
+	<li>Dysuria or discharge</li>
+	<li>Recent infections or fevers</li>
+	<li>Size of mass</li>
+	<li>Family history of scrotal masses</li>
+	<li>Sexual history and history of STIs</li>
+</ul>
+
+<p><em>Evaluation</em>:</p>
+
+<ul>
+	<li>Scrotal Exam
+	<ul>
+		<li>Inspect: Evaluate for masses, scrotal asymmetry or genital lesions. </li>
+		<li>Examine the scrotum systematically: 1) testes, 2) epididymis, 3) spermatic cord, and 4) inguinal lymph nodes.</li>
+		<li>Palpate: testes should be firm but not hard, 4-5 cm long in an adult male. 
+		<ul>
+			<li>Epididymis: located posterolateral to the testes; there should be a palpable sulcus between the epididymis and the testis. Palpate vasa and vascular cord structures bilaterally.  If the scrotum is swollen, first assess for an inguinal hernia.</li>
+		</ul>
+		</li>
+		<li>Prehn sign: relief of pain with elevation of testes (suggestive of epididymitis but may be positive with testicular torsion as well)</li>
+		<li>Hernia exam: use your index finger to invaginate the scrotal skin adjacent to the external inguinal ring and direct your finger up toward the pubic tubercle.  Instruct the patient to cough or bear down (Valsalva). Test is positive if there is a bulge against your finger. </li>
+		<li>Cremasteric reflex: stroke or pinch the medial thigh and observe contraction of the cremaster muscle, which elevates the ipsilateral testis in a normal exam.</li>
+		<li>Characterize any masses: location/size/texture/tenderness</li>
+	</ul>
+	</li>
+	<li>Ultrasound
+	<ul>
+		<li>Principle radiologic study to distinguish intra-testicular vs extra-testicular masses, also 90% sensitive for testicular torsion.</li>
+		<li>Doppler can show abnormalities in testicular and epididymal blood flow (increased in inflammatory processes such as epididymitis and orchitis, decreased with testicular torsion).</li>
+	</ul>
+	</li>
+</ul>
+
+<p><em>Differential Diagnosis</em></p>
+
+<ul>
+	<li><strong>Intra-testicular masses are considered cancer until proven otherwise, regardless of associated pain</strong>. Any intra-testicular mass merits ultrasound; if suspicious for malignancy, urgent referral to urology for biopsy.</li>
+	<li><em><u>Painful scrotal mass</u></em>
+	<ul>
+		<li>Testicular Torsion: <strong>Urologic emergency</strong><strong></strong><strong>send patient to ED</strong>
+		<ul>
+			<li>Acute onset, severe, constant, unilateral testicular pain, with elevated testis, abnormal cremasteric reflex</li>
+			<li>More common in young men</li>
+			<li>Timely diagnosis is needed to preserve testicular function (salvage rate 80-100% if repaired within 6 hours of symptom onset)</li>
+		</ul>
+		</li>
+		<li>Epididymitis: characterized by acute unilateral pain, swelling; may be bacterial, viral, fungal or idiopathic (see chapter on <em>Sexually Transmitted Infections</em>)
+		<ul>
+			<li>Common organisms
+			<ul>
+				<li>Younger men: Chlamydia trachomatis, Neisseria gonorrhoeae</li>
+				<li>Older men: Escherichia coli</li>
+			</ul>
+			</li>
+			<li>Associated with increased blood flow on ultrasound</li>
+			<li>Prehn’s sign: alleviation of pain with scrotal elevation</li>
+			<li>Cremasteric reflex remains intact, in contrast to testicular torsion</li>
+			<li>Treat sexually active men &lt;35yo empirically with ceftriaxone 250mg IM and doxycycline 100mg BID x10d</li>
+		</ul>
+		</li>
+		<li>Hematocele or Testicular Rupture
+		<ul>
+			<li>Caused by severe scrotal trauma</li>
+			<li>Evaluate with ultrasound and possible surgical exploration</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><em>Painless scrotal mass</em>
+	<ul>
+		<li><u>Intra-testicular</u>
+		<ul>
+			<li>Testicular Cancer
+			<ul>
+				<li>Most common cancer in men age 15–34 years</li>
+				<li>Annual incidence: 5.4 cases per 100,000 males</li>
+				<li>Five times more common in White versus Black men</li>
+				<li>Typical history: painless mass, incidentally identified, firm, nodular, discrete from normal testicle</li>
+				<li>Screening: Grade D recommendation. USPSTF concludes that there is moderate certainty that screening for testicular cancer in asymptomatic men by clinical examination or patient self-examination has no net benefit.</li>
+				<li>Risk factors: family and personal history of germ cell tumor, cryptorchidism, previous orchitis, Klinefelter syndrome</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li><u>Para-testicular: </u>most paratesticular masses are benign
+		<ul>
+			<li>Epididymal cyst and Spermatocele: benign cystic structures containing lymphatic fluid and spermatozoa, respectively
+			<ul>
+				<li>Occurs in up to 40% of men</li>
+				<li>Refer to urology for excision if significant pain</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li><u>Spermatic Cord</u>: the vas deferens + testicular vascular pedicle (venous plexus + testicular artery + lymphatics)
+		<ul>
+			<li>Hydrocele and Inguinal Hernia: 
+			<ul>
+				<li>Caused by failure of the processus vaginalis to obliterate, resulting in peritoneal fluid (hydrocele) or viscera (hernia) entering the inguinal canal</li>
+				<li>Most patients with inguinal hernias (direct or indirect) complain of heaviness in the groin with straining or lifting</li>
+				<li>Refer to general surgery if significant pain</li>
+			</ul>
+			</li>
+			<li>Varicocele: dilation of the venous pampiniform plexus which coalesces into a single testicular vein
+			<ul>
+				<li>First occurs in mid-puberty, affects up to 15% of men</li>
+				<li>Often described as feeling a “bag of worms” on exam, +/- pain or dull ache</li>
+				<li>Usually left-sided, occasionally bilateral</li>
+				<li>Refer to urology if significant pain or subfertility</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li><u>Scrotal Wall</u>
+		<ul>
+			<li>Benign lesions: epidermoid cysts, skin tags, nevi, &amp; lipomas; may refer to dermatology or general surgery for excision</li>
+			<li>STIs:  condyloma, herpes, primary syphilis, molluscum, chancroid, and lymphogranuloma venereum (LGV) (see chapter on <em>Sexually Transmitted Infections</em>)</li>
+			<li>Malignancy: melanoma is rare; squamous cell carcinomas are usually related to occupational exposures (industrial oils); if suspicion of malignancy, refer to dermatology for biopsy</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>B. Genital Lesions</strong></p>
+
+<p><strong>Background</strong></p>
+
+<ul>
+	<li>Genital lesions most commonly arise from sexually transmitted infections (STIs)</li>
+	<li>Other causes include noninfectious disorders and neoplasms</li>
+</ul>
+
+<p><strong>Signs and Symptoms</strong></p>
+
+<p><em>History</em>:</p>
+
+<ul>
+	<li>Location</li>
+	<li>Pain</li>
+	<li>Associated trauma</li>
+	<li>Dysuria or discharge</li>
+	<li>Recent infections or fevers</li>
+	<li>Medication use</li>
+	<li>Sexual history</li>
+	<li>Comorbidities: psoriasis, Behcet syndrome</li>
+</ul>
+
+<p><em>Differential diagnosis</em></p>
+
+<ul>
+	<li><u>Infectious</u>
+
+	<ul>
+		<li>Sexually Transmitted Infections (STIs): Genital herpes and condyloma accuminata are most common in the US; primary syphilis and scabies are common in high-risk populations; chancroid, lymphogranuloma venereum, and granuloma inguinale are very rare except in certain immigrant populations (see chapter on <em>Sexually Transmitted Infections)</em></li>
+		<li>Fungal Infections: candida (causes balanitis in uncircumcised men) and dermatophytes (tinea cruris) (see chapter on <em>Common Dermatologic Disorders)</em></li>
+	</ul>
+	</li>
+	<li><u>Noninfectious</u>
+	<ul>
+		<li><strong>Refer to Dermatology to confirm diagnosis before treating!</strong></li>
+		<li>Inflammatory and Papulosquamous Lesions
+		<ul>
+			<li>Psoriasis: 
+			<ul>
+				<li>Genital involvement in up to 40% of patients with psoriasis</li>
+				<li><em>Evaluation</em>: pruritic, red/salmon-colored, circular plaques often with silvery scale</li>
+				<li><em>Treatment</em>: daily ultrapotent topical corticosteroid use x 2 weeks, then limit to weekend dosing to prevent skin atrophy</li>
+			</ul>
+			</li>
+			<li>Lichen Sclerosis:
+			<ul>
+				<li><em>History</em>: phimosis, painful erections, obstructive voiding, itching, pain, bleeding</li>
+				<li><em>Evaluation</em>: hypopigmented lesions w/ cellophane-like texture, primarily affects glans and foreskin</li>
+				<li>Associated with squamous cell carcinoma in 4-6% of patients, must monitor for malignant transformation</li>
+				<li><em>Treatment</em>: moderate to ultrapotent fluorinated topical corticosteroids; may consider circumcision if limited to foreskin</li>
+			</ul>
+			</li>
+			<li>Balanitis:
+			<ul>
+				<li>Inflammation of the glans penis, in uncircumsized men</li>
+				<li><em>Risk factors</em>: poor hygiene, STI exposure, diabetes</li>
+				<li><em>Evaluation</em>: screen for diabetes, STIs</li>
+				<li><em>Treatment</em>: soap and water, topical antibiotics or steroids if symptoms are severe. Consider referral to Urology for circumcision if recurrent or bothersome to patient.</li>
+			</ul>
+			</li>
+			<li>Lichen Planus: 
+			<ul>
+				<li>25% of patients have genital lesions</li>
+				<li><em>History: </em>pruritus and soreness</li>
+				<li><em>Evaluation:</em> raised, violaceous, flat-topped, polygonal papules (may assume a lacy, white, reticulated pattern in uncircumcised patients). Typically systemic, affecting mucous membranes, nails, acral sites, and the scalp</li>
+				<li><em>Treatment</em>: topical corticosteroids</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li>Neoplastic Lesions
+		<ul>
+			<li>Carcinoma In Situ: 
+			<ul>
+				<li>HPV-associated, premalignant lesions; progress to squamous cell carcinoma in ~5-30% of patients</li>
+				<li>Affects uncircumcised men &gt;60 years old</li>
+				<li><em>Evaluation</em>: raised, beefy red, velvety, irregular plaques, +/- ulceration; velvety plaques on glans penis (erythroplasia of Queyrat); keratotic plaques on penile shaft, scrotum or perineum (Bowen disease)</li>
+				<li><em>Treatment:</em> circumcision if restricted to foreskin, otherwise Mohs surgery</li>
+			</ul>
+			</li>
+			<li>Invasive Squamous Cell Carcinoma: 
+			<ul>
+				<li>2-3 cases per 100,000 men, peak incidence in men &gt; 70 years old</li>
+				<li><em>Risk factors</em>: HPV infection, lichen sclerosus, smegma (sebaceous secretion in the folds of the skin, particularly the foreskin), smoking, age, poor hygiene, presence of foreskin</li>
+				<li><em>Evaluation:</em> variable presentation, from painless lump or ulcer to thickened, wart-like growth</li>
+				<li>Diagnosis by biopsy</li>
+				<li><em>Treatment</em>:  Mohs surgery for lower-stage tumors, penectomy for higher-stage tumors</li>
+			</ul>
+			</li>
+			<li>Behcet syndrome: 
+			<ul>
+				<li>Systemic vasculitis characterized by recurrent aphthous oral ulcers (100% of cases) and at least one of the following: genital ulcers (70-90% of cases), eye lesions, cutaneous lesions</li>
+				<li>More common in males and young people aged 20-30 years</li>
+				<li>If suspected, refer to Rheumatology</li>
+			</ul>
+			</li>
+			<li>Fixed Drug Eruptions: 
+			<ul>
+				<li><em>Evaluation:</em> localized erythema, may progress to vesicles or ulcers, most frequently affects genitals and acral areas</li>
+				<li>Most frequent causative agents: trimethoprim-sulfamethoxazole, tetracyclines, pyrazolones, sulfadiazines, dipyrines, acetaminophen and metronidazole</li>
+				<li><em>Treatment:</em> lesions resolve with withdrawal of drug</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p>Crawford P, Crop J. <em>Evaluation of Scrotal Masses</em>. Am Fam Physician. 2014 May 1;89(9):723-727.</p>
+
+<p>Montgomery JS, Bloom DA. <em>The diagnosis and management of scrotal masses</em>. The Medical Clinics of North America 2011; 95(1), 235-244.</p>
+
+<p>Roett MA, Mayor MT, Uduhiri KA. <em>Diagnosis and management of genital ulcers</em>. American Family Physician 2012; 85(3), 254-262.</p>
+
+<p>Teichman JM, Sea J, Thompson IM, Elston DM. <em>Noninfectious penile lesions</em>. American Family Physician 2010; 81(2), 167-174.</p>
+
+<p>U.S. Preventive Services Task Force. <em>Screening for testicular cancer: U.S. preventive services task force reaffirmation recommendation statement</em>. Annals of Internal Medicine 2011; 154(7), 483-486.</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/19-urology/19-urology" class="page-previous" title="Go to previous page">‹ 19. Urology</a>
+                    <a href="/19-urology/19-urology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract" class="page-next" title="Go to next page">02. Lower Urinary Tract Symptoms including Benign Prostatic Hypertrophy (BPH) ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="expanded active-trail menu-mlid-5421"><a href="/19-urology/19-urology" class="active-trail">19. Urology</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-5426"><a href="/01-common-male-gu-disorders/01-common-male-gu-disorders" class="active-trail active">01. Common Male GU Disorders</a></li>
+<li class="leaf menu-mlid-5431"><a href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract">02. Lower Urinary Tract Symptoms including Benign Prostatic Hypertrophy (BPH)</a></li>
+<li class="leaf menu-mlid-5436"><a href="/03-erectile-dysfunction/03-erectile-dysfunction">03. Erectile Dysfunction</a></li>
+<li class="last leaf menu-mlid-5441"><a href="/04-urinary-incontinence/04-urinary-incontinence">04. Urinary Incontinence</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

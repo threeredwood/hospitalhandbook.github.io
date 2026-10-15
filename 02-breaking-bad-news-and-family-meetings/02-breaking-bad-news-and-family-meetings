@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings" />
+<link rel="shortlink" href="/node/316" />
+<link rel="prev" href="/content/07-symptom-management-palliative-care" />
+<link rel="up" href="/content/19-palliative-care" />
+<link rel="next" href="/content/03-communication-about-serious-illness-0" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings" />
+<meta property="twitter:title" content="02. Breaking Bad News and Family Meetings | Hospital Handbook" />
+<meta property="og:title" content="02. Breaking Bad News and Family Meetings" />
+  <title>02. Breaking Bad News and Family Meetings | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"yLwIsW6kJYAyUbqCSbOjEk9NT11ns_2kxSDFCWV7piw","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-breaking-bad-news-and-family-meetings\/02-breaking-bad-news-and-family-meetings":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-316 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-3M4saTo1iPBkFPXuSEmCFS67svQcaOJ9fSElW9yDqsU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/19-palliative-care" class="active-trail">19. Palliative Care</a> > <span class="breadcrumb-page-title">02. Breaking Bad News and Family Meetings</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Breaking Bad News and Family Meetings</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-316" class="node node-book clearfix" about="/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Breaking Bad News and Family Meetings" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Introduction:</h3>
+
+<p>Goals of care conversations and sharing bad news are some of the most challenging responsibilities in medicine. However, good, patient-centered communication can be very meaningful for patients and their families. The following is a framework to help guide these conversations. </p>
+
+<h3>Step 1: Prepare </h3>
+
+<p>Prepare for family meetings in advance. Involve other members of the clinical team when necessary (e.g. consultants, social workers, nursing staff) and discuss the following questions prior to the meeting. In-person meetings with the patient/family are preferred.</p>
+
+<p>What:</p>
+
+<ul>
+	<li>What are your goals for the meeting?
+	<ul>
+		<li>Examples include sharing a new diagnosis, disclosing prognostic information, deciding between treatment options.</li>
+		<li>If the meeting has more than one goal (e.g. sharing a new diagnosis AND deciding between treatment options), consider breaking the discussion up into multiple meetings if time allows, as it can be hard for patients and families to make decisions if they are emotionally spent after receiving bad news.</li>
+	</ul>
+	</li>
+	<li>Anticipate and prepare answers to questions. This can help clarify which providers should be invited to the meeting.</li>
+</ul>
+
+<p>Who:</p>
+
+<ul>
+	<li>Who needs to be at the meeting?
+	<ul>
+		<li>Patient/Family:
+		<ul>
+			<li>Ask the patient/family who would like to be present.  Important people may include surrogate decision maker, family members, friends.</li>
+			<li>If many people are identified, ask yourself and the patient/family whether a more intimate discussion or a larger group would be better for the initial conversation.</li>
+		</ul>
+		</li>
+		<li>Providers/Clinicians:
+		<ul>
+			<li>At least one representative from the primary team and from the consulting services most relevant to the planned discussion (e.g. palliative care, social work, oncology) should be present.  Depending on the situation, it may also be helpful to include the patient’s PCP or other outpatient providers.</li>
+			<li>If English is not everyone’s preferred language, arrange for a professional interpreter in advance (ideally to be present in-person).</li>
+			<li>Let key support disciplines (bedside nurse, social worker, chaplain) know when and where the meeting will be and invite them. These clinicians can support the family during and after the meeting and can reinforce information that is discussed in the meeting.</li>
+			<li><strong>Keep in mind that large meetings with many providers may be intimidating for families.</strong>  Include only the minimum number of providers necessary for the discussion at hand.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p>How:</p>
+
+<ul>
+	<li>How will the meeting be conducted?
+	<ul>
+		<li>In-person meetings are strongly preferred, followed by video conferences, and lastly telephone conversations.</li>
+		<li>If technology is needed to connect participants, prepare in advance and leave time to troubleshoot.</li>
+	</ul>
+	</li>
+	<li>Who will lead the meeting?</li>
+	<li>Who will document the meeting afterwards?</li>
+</ul>
+
+<p>Where:</p>
+
+<ul>
+	<li>Identify a quiet meeting location.</li>
+	<li>Turn off or hand off pagers to other team members if possible.</li>
+	<li>Sit at eye level with family members in a circular fashion.</li>
+	<li>Prepare tissues, water or other items for comfort.</li>
+</ul>
+
+<p>When:</p>
+
+<ul>
+	<li>Establish time and location with all participants in advance.</li>
+	<li>Allot adequate time not just for the meeting itself but also for a premeeting and a debrief among providers before and afterwards.</li>
+</ul>
+
+<h3>Step 2: Start the Meeting</h3>
+
+<ul>
+	<li>Introductions:
+	<ul>
+		<li>Ask family/friends to share their name and relation to the patient.</li>
+		<li>Ask clinicians to share their name and their role in the patient’s care.</li>
+	</ul>
+	</li>
+	<li>Establish ground rules:
+	<ul>
+		<li>Give everyone a chance to ask questions and to express their views.</li>
+		<li>Commit to reducing interruptions and acknowledge time limitations (if present) at the outset.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Step 3: Set the Agenda</h3>
+
+<ul>
+	<li>State your goals for the meeting at the start.</li>
+	<li>Ask the patient/family what else they want to cover: 
+	<ul>
+		<li><em>“We also want to make sure this conference meets your goals.  What other topics or questions are most important to you that we address?”</em></li>
+		<li>Don’t dive into these questions as they are asked, simply list them all before proceeding.</li>
+	</ul>
+	</li>
+	<li>Summarize the new jointly created agenda:
+	<ul>
+		<li>Prioritize items based on urgency.</li>
+		<li>Ensure that at least some of the patient/family’s goals are included.</li>
+		<li>If not all of the suggested topics/questions can be discussed during the meeting, acknowledge their importance and commit to addressing them soon afterwards.</li>
+	</ul>
+	</li>
+	<li><strong>Explicitly state if decision-making is urgent or non-urgent.</strong>
+	<ul>
+		<li><em>“[The patient] is in a critical stage of illness and it is necessary for us to come to a conclusion during this meeting.”</em></li>
+		<li><em>“You have time to decide on how you would like to proceed with your care and no decisions are needed today.”</em></li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Step 4: Assess Understanding/Experience with Illness</h3>
+
+<ul>
+	<li>Ask open ended questions to learn more about what the patient/family already know about their illness/hospitalization.  This will help you modulate how much and what type of information you need to share later.
+	<ul>
+		<li><em>“What have your medical providers told you about your illness?”</em></li>
+		<li><em>“How have things been going here in the hospital?”</em></li>
+	</ul>
+	</li>
+	<li>Invite the patient/family to share their experience with the illness to understand what their life is like outside of the hospital/clinic. 
+	<ul>
+		<li><em>“How do you spend your days?”</em></li>
+		<li><em>“Can you tell me what life is like for you right now/recently?”</em></li>
+		<li><em>“How would you describe your current quality of life?”</em></li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Step 5: Assess Communication Preferences and Share Information</h3>
+
+<p>Assess the patient/family’s preferences about <u>what information they want to know, how they would like information disclosed, and who they want to receive the information</u>. This is particularly important when sharing certain diagnoses (e.g. cancer) or prognosis, as some feel disclosure of bad news can cause a patient to lose hope and die sooner.</p>
+
+<ul>
+	<li>Who:
+	<ul>
+		<li><em>“How do you prefer to discuss medical information in your family?”</em></li>
+		<li>Whether due to cultural variation or individual preference, some patients/families prefer for someone other than the patient to receive medical information and make medical decisions – even when the patient is physically and cognitively able to do so.  It is ethically sound to accommodate this request as long as the patient is aware and consents to the practice. </li>
+		<li>Establish who is the health care DPOA or surrogate decision-maker: “<em>If you were to get so sick that you couldn’t talk to me directly, with whom should I talk to help me make decisions about your care?”</em></li>
+	</ul>
+	</li>
+	<li>What:
+	<ul>
+		<li>Assess what the patient/family want to know: <em>“I have information about your condition. Some patients want to know all the details; other patients prefer to hear just the main points. How do you feel?”</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p>Disclose relevant information in accordance with the patient/family’s established communication preferences and the following principles.</p>
+
+<ul>
+	<li><strong>Communicate clearly and concisely.</strong>
+
+	<ul>
+		<li>Give the information in a one-sentence headline that summarizes the most important piece of information you want them to take away. </li>
+		<li><strong>Avoid medical jargon.</strong></li>
+		<li>After giving the headline, STOP to allow for emotions (See Step 6) even if you need to give more information later.</li>
+		<li>Pause frequently to allow time for reflection/reaction.</li>
+	</ul>
+	</li>
+	<li>Clarify any information or miscommunication: <em>“Is there anything that isn’t clear, which we can help to explain?”</em></li>
+	<li><strong>In prognosticating, ask for permission first </strong><em>(</em><em>“Do you have a sense of how much time is left? Is this something you would like to talk about?”</em>) <strong>and offer general time frames</strong> (e.g. hours to days, days to weeks, weeks to months, months to years) rather than specific predictions.
+	<ul>
+		<li>State that prognosticating is difficult and the course of illness can be unpredictable.</li>
+		<li>See <a href="https://hospitalhandbook.ucsf.edu/content/06-prognosis-0"><em>Prognosis</em></a> section for more details on prognostic disclosure.</li>
+	</ul>
+	</li>
+	<li><strong>Convey empathy </strong>and be transparent when conveying your personal concerns and hopes for the patient.
+	<ul>
+		<li><em>“I know this is not what you expected to hear today.”</em></li>
+		<li>Consider “I wish, I worry” phrasing like:<em> “I wish that she will turn the corner, but with her kidneys failing, I worry that she’ll continue to get worse.”</em></li>
+	</ul>
+	</li>
+	<li><strong>Avoid phrases that suggest abandonment of care</strong>, like <em>“There is nothing more we can do.”</em></li>
+</ul>
+
+<p><u>Keep in mind:</u></p>
+
+<ul>
+	<li>Communication preferences (particularly for bad news) can vary by culture.  It is important both to be aware of these differences and to not assume that all patients/families from the same background will share the same values.</li>
+	<li>Recognize and support various patient/family preferences, particularly around faith/religion, culture, race.</li>
+	<li><em>“Can you please help me to understand what I need to know about [the patient’s] beliefs and practices to take the best care of [the patient]?”</em></li>
+</ul>
+
+<p>Step 6: Respond</p>
+
+<p>Everyone has their own way of responding to bad news, but most will have some type of emotional reaction, and it will be hard to move the conversation forward without first acknowledging it.</p>
+
+<ul>
+	<li>After breaking bad news, listen quietly and attentively.
+	<ul>
+		<li>Silence and being present can have immense value during challenging moments and will allow space and time for expression of emotion.</li>
+		<li>Resist the urge to respond to statements that sound like questions but may actually be an expression of emotion (e.g. <em>“So you’re saying there’s nothing else you can do for [the patient]?”</em>)</li>
+	</ul>
+	</li>
+	<li>Encourage description of feelings, use reflective listening techniques, and ask open ended questions.
+	<ul>
+		<li><em>“What you are feeling now?”</em></li>
+		<li><em>“How were you hoping we could help [the patient]?”</em></li>
+		<li><em>“From what I am hearing, [reflect what you heard to the listener].”</em></li>
+	</ul>
+	</li>
+	<li>Naming emotions can promote dialogue: “<em>You seem overwhelmed/frustrated/angry/sad.”</em>
+	<ul>
+		<li>Don’t be afraid to name the emotion you suspect even if you are not sure.  If you get it wrong, they will correct you and you will understand better how to proceed.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Step 7: Clarify Values and Make Decisions</h3>
+
+<p>Skip this step if no decision-making is needed and the meeting was for information sharing only.  If both are needed, consider separating them into separate conversations if time allows, as it can be hard for patients and families to make decisions if they are emotionally spent after receiving bad news.</p>
+
+<ul>
+	<li>Although it can be tempting to jump right from information sharing to decision-making, it is vital to <strong>clarify the patient/family’s goals and values first.</strong>
+
+	<ul>
+		<li><em>“Based on [information just shared], what feels most important to you now?”</em></li>
+		<li><em>“What are you hoping for?”</em></li>
+		<li><em>“Thinking about the future, what worries you most?”</em></li>
+		<li>Encourage the patient/family to consider multiple goals/values, by asking <em>“What else?”</em></li>
+	</ul>
+	</li>
+	<li>Use summary statements to restate the patient/family’s goals/values both to ensure you heard them correctly and to demonstrate your understanding.
+	<ul>
+		<li><em>“It sounds like making it to your partner’s 50<sup>th</sup> birthday party is really important to you.”</em></li>
+		<li><em>“I heard that being at home and spending time with family is most important to you now.”</em></li>
+	</ul>
+	</li>
+	<li>After your understanding of the goals/values have been confirmed, use them to guide which options you offer. For example, if the patient has just told you that being at home is the most important to them, do not focus on treatment options that require prolonged hospitalizations.
+	<ul>
+		<li><strong>Emphasize what CAN be done instead of what cannot</strong>: “<em>There are many things we can do to help you feel comfortable and live each day to the fullest.”</em></li>
+	</ul>
+	</li>
+	<li>Incorporate the patient/family’s goals and values and your understanding of the available medical options to <strong>make a recommendation</strong>.  Then check in for agreement and buy-in.
+	<ul>
+		<li><em>“To give you the best shot of making it to your partner’s 50<sup>th</sup> birthday party, I’d recommend we move forward with the biliary drain.  How does this plan sit with you?”</em></li>
+		<li><em>“Since being at home and spending time with your family is most important to you, I’d recommend that we consider enlisting support from a hospice team.  Can I tell you more about what that is and why I think it could help?”</em></li>
+	</ul>
+	</li>
+</ul>
+
+<p><u>Special Circumstances</u></p>
+
+<ul>
+	<li>If the patient is unable to participate in the conversation, remind surrogate decision makers that they are not being asked to make the “right” decision but rather to clarify that patient’s goals/values and help us understand the decision they would make if they were able to do so themselves.
+	<ul>
+		<li><em>“Did [patient] ever say how [he/she] felt about certain situations or treatments, such as nursing home care, or long-term life support?”</em></li>
+		<li><em>“If [patient] were able to communicate with us now, what might he/she think about what we should do?”</em></li>
+	</ul>
+	</li>
+	<li>If the patient/family are experiencing difficulties with decision-making, consider:
+	<ul>
+		<li>Naming and acknowledging the challenges associated with decision-making.</li>
+		<li>Assessing and addressing the barriers (e.g. waiting for a family member to weigh in, waiting for additional testing results).</li>
+		<li>Clarifying any questions around the decision.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Step 8: Close the Meeting</h3>
+
+<ul>
+	<li><strong>Summarize </strong>decisions, plan, consensus, disagreements: “<em>To recap—today we have reviewed the medical aspects of your mother’s care and talked about what plan of care seems to fit best with her wishes. I will plan on treating her pain, giving her medications to prevent nausea, and helping her to eat foods she enjoys. Tomorrow, we can meet again to discuss whether another round of chemotherapy is in keeping with her wishes</em>.”</li>
+	<li><strong>Describe the next steps and any planned follow up</strong>: <em>“I’ll check in on you later this afternoon to see how you are doing after having some time to absorb all of this</em>.”</li>
+	<li>Identify a family representative for ongoing communication, if needed.</li>
+	<li>Provide patient/family with a contact person from the medical team (name and contact information) to follow up with if questions arise.</li>
+	<li>Discuss and offer sources of support (e.g. Chaplain, social worker, palliative care service).</li>
+	<li>Close the meeting: <em>“I appreciate how difficult this must be. Your being here reflects how important [the patient] is to you. We will we provide [patient] with the best possible care.”</em></li>
+</ul>
+
+<p>Step 9: Debrief and Document</p>
+
+<ul>
+	<li><strong>Team debrief</strong>:
+
+	<ul>
+		<li>After the meeting, convene the clinicians who participated to clarify what was agreed on in the meeting and who will take the needed next steps.</li>
+		<li>Use this opportunity to learn from one another by reviewing what went well and what might be done differently at future meetings.</li>
+	</ul>
+	</li>
+	<li><strong>Document the meeting:</strong>
+	<ul>
+		<li>Use established locations and formats for documentation of family meetings at your institution (e.g. an “ACP note” or “.ACP dotphrase” at UCSF) to ensure that clinicians who were not at the meeting are aware of what was discussed.</li>
+		<li>Be sure to include the following:
+		<ul>
+			<li>Date of conversation</li>
+			<li>Participants (clinicians, patient representatives, interpreter)</li>
+			<li>Summary of discussion</li>
+			<li>Important clinical decisions (e.g. code status, treatments)</li>
+			<li>Additional comments that would help other providers better support the family (e.g. family is still hoping for cure, DPOA is the patient’s daughter, patient/family would like to defer further decision-making until additional family members arrive this weekend)</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/07-symptom-management-palliative-care" class="page-previous" title="Go to previous page">‹ 07. Symptom Management in Palliative Care</a>
+                    <a href="/content/19-palliative-care" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/03-communication-about-serious-illness-0" class="page-next" title="Go to next page">03. Communication About Serious Illness ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="expanded active-trail menu-mlid-2646"><a href="/content/19-palliative-care" class="active-trail">19. Palliative Care</a><ul class="menu"><li class="first collapsed menu-mlid-2651"><a href="/content/01-assessing-quality-life-and-goals-care">01. Assessing Quality of Life and Goals of Care</a></li>
+<li class="leaf active-trail active menu-mlid-2691"><a href="/02-breaking-bad-news-and-family-meetings/02-breaking-bad-news-and-family-meetings" class="active-trail active">02. Breaking Bad News and Family Meetings</a></li>
+<li class="leaf menu-mlid-2701"><a href="/content/03-communication-about-serious-illness-0">03. Communication About Serious Illness</a></li>
+<li class="leaf menu-mlid-2706"><a href="/content/04-hospice-and-outpatient-palliative-care-guide-providers-0">04. Hospice and Outpatient Palliative Care_ Guide for Providers</a></li>
+<li class="leaf menu-mlid-2711"><a href="/05-code-status/05-code-status">05. Code Status</a></li>
+<li class="leaf menu-mlid-2716"><a href="/06-prognosis/06-prognosis">06. Prognosis</a></li>
+<li class="leaf menu-mlid-2721"><a href="/content/07-symptom-management-palliative-care-0">07. Symptom Management in Palliative Care</a></li>
+<li class="leaf menu-mlid-2686"><a href="/content/08-pain-management">08. Pain Management</a></li>
+<li class="last leaf menu-mlid-2726"><a href="/content/09-self-care-0">09. Self Care</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

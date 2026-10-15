@@ -1,0 +1,395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus" />
+<link rel="shortlink" href="/node/1976" />
+<link rel="prev" href="/04-approach-dyspepsia/04-approach-dyspepsia" />
+<link rel="up" href="/07-gastroenterology/07-gastroenterology" />
+<link rel="next" href="/06-h-pylori-infection/06-h-pylori-infection" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus" />
+<meta property="twitter:title" content="05. GERD and Barrett&#039;s Esophagus | Hospital Handbook" />
+<meta property="og:title" content="05. GERD and Barrett&#039;s Esophagus" />
+  <title>05. GERD and Barrett's Esophagus | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"WksZ_rloi41ZqV9iUHa-sm89g10M1evftq6RTHWwEUQ","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/05-gerd-and-barretts-esophagus\/05-gerd-and-barretts-esophagus":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1976 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-uSDjUiE8QjMn1S6WnVPoNmdm_YW9Zs4QQWrOnPqc3zs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/07-gastroenterology/07-gastroenterology" class="active-trail">07. Gastroenterology</a> > <span class="breadcrumb-page-title">05. GERD and Barrett&#039;s Esophagus</span></div></div></div>
+                  <h1 class="title" id="page-title">05. GERD and Barrett&#039;s Esophagus</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1976" class="node node-book clearfix" about="/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="05. GERD and Barrett&#039;s Esophagus" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editors: Cameron M. Thompson, M.D.</p>
+
+<p align="right">Faculty Editor: Sarah Summerville, M.D.</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ GERD is a chronic disease often requiring lifetime therapy</p>
+
+			<p>✔ Lifestyle modifications are key to treatment</p>
+
+			<p>✔ Screen patients with GERD for Barrett’s only if they meet criteria</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Definition: Gastroesophageal Reflux Disease (GERD) – Defined as reflux of gastric contents that causes troublesome symptoms and/or complications – troublesome means mild symptoms <u>&gt;2 </u>days/week, or moderate/severe symptom  <u>&gt;</u>1 days/week</li>
+	<li>20% of Westerners in prevalence studies experience at least weekly heartburn or acid regurgitation</li>
+	<li><em>Physiologic reflux</em> – postprandial, short-lived, asymptomatic, rarely occurs during sleep</li>
+	<li><em>Pathologic reflux</em> (GERD) – associated with symptoms of heartburn and mucosal injury, often with nocturnal episodes</li>
+	<li>GERD is thought to be due to one of three mechanisms: 1) transient lower esophageal sphincter relaxation; 2) hypotensive lower esophageal sphincter; 3) anatomic disruption of the gastro-esophageal junction (i.e. hiatal hernia)</li>
+	<li>Other factors associated with GERD: obesity, pregnancy, poor esophageal emptying (scleroderma), or reduced salivary function due to relative lack of saliva (Sjögren's syndrome, anticholinergic medications, oral radiation therapy).</li>
+	<li>There is no clear evidence that <em>H. pylori</em> infection contributes to GERD.  Eradication of <em>H. pylori</em> infection does not reliably improve symptoms, and in some cases, worsens symptoms. </li>
+</ul>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li><em>Typical</em> – “heartburn/dyspepsia,” regurgitation, acidic taste, symptoms that worsen when supine or bending over</li>
+	<li><em>Atypical</em> – chest pain (GERD causes 50% of non-cardiac chest pain), waterbrash (hypersalivation), chronic cough/laryngitis, hoarseness, dyspnea, globus sensation, wheezing/asthma, nausea, odynophagia</li>
+	<li><em>Alarm symptoms</em> – weight loss, melena, hematochezia, anemia, dysphagia, odynophagia, early satiety</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>Important to distinguish GERD from other types of esophageal damage/injury (e.g. infectious esophagitis, pill esophagitis, stricture or eosinophilic esophagitis) as well as peptic ulcer disease, non-ulcer dyspepsia, esophageal web, biliary tract disease, CAD, or motility disorders. If CAD and GERD are your top diagnostic considerations, rule out CAD first.</li>
+	<li>If the patient has no alarm symptoms, no diagnostic testing is necessary and one should proceed to empiric treatment. </li>
+	<li>For alarm symptoms, if the diagnosis is in doubt and/or if the patient fails empiric therapy (i.e. PPI BID), refer to GI for further evaluation.  Testing options include:</li>
+</ul>
+
+<ul>
+	<li>EGD: best for evaluating mucosal damage (i.e. esophagitis), diagnosing structural lesion and opportunity for diagnostic (i.e biopsy) and intervention (i.e esophageal dilitation, banding, etc), and screening for Barrett's esophagus (see below).
+	<ul>
+		<li>Barium esophagram: best in patients with dysphagia or concern for mechanical or structural lesion.  This is an insensitive test for detecting mucosal damage and should not be used to diagnose GERD.</li>
+		<li>24-hour esophageal pH monitoring with impedance: the gold standard for GERD diagnosis. It is cumbersome for patients and indicated only in certain circumstances: to document acid or non-acid reflux in patients with normal mucosa on EGD with continued symptoms despite adequate acid suppression therapy; to further evaluate patients with atypical symptoms; or to help clarify the diagnosis if refractory to usual medical therapy.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<p><strong><em>Lifestyle Modifications </em></strong></p>
+
+<ul>
+	<li>Weight loss and head of bed elevation are the only lifestyle modifications supported by evidence</li>
+	<li>Others include food avoidance (fatty foods, chocolate, excessive alcohol, coffee, spicy foods, citrus, carbonated beverages), refraining from assuming supine position at least 2-3 hours if nocturnal symptoms, alcohol and smoking cessation. Given breadth of recommendations, these should be tailored to patient-specific history, however global food avoidance is not recommended.</li>
+</ul>
+
+<p><strong><em>Pharmacotherapy</em></strong></p>
+
+<ul>
+	<li>Potency: PPI &gt; H2 blockers &gt; OTC antacids and sucralfate</li>
+	<li>PPIs are the most effective and lead to more rapid healing and symptom relief and the American Gastroenterology Association (AGA) recommends them as first line therapy.</li>
+</ul>
+
+<ul style="list-style-type:circle;">
+	<li>“Step up” therapy – daily H2 blocker -&gt; BID H2 blocker -&gt; PPI if symptoms are inadequately controlled – is an acceptable approach for patients with mild symptoms.</li>
+	<li>If typical GERD symptoms (heartburn and regurgitation), a presumptive diagnosis cab be made and PPI therapy is recommended in this setting (AJG Guidelines 2013).</li>
+	<li>Patient with severe esophagitis on EGD or severe symptoms should start with a PPI.
+	<ul>
+		<li>85-90% of patients experience relief when PPI taken daily before breakfast. For refractory symptoms, UCSF GI will increase medical therapy to PPI 30 minutes before breakfast and dinner, with bedtime H2 blocker if persistent nocturnal symptoms (Of note, tachyphylaxis has been reported after &gt;2-6 weeks of H2 blocker use). Can also consider sucralfate suspension, 1 tablespoon BID (early AM/bedtime) for continued symptoms or in pregnant women.</li>
+		<li>PPI choice: Based on multiple RCTs, there were no consistent major differences in efficacy (symptom resolution or esophagitis healing rate) among PPI agents. A few studies suggest improved efficacy with robeprazole and pantoprazole over esomeprazole.</li>
+		<li>PPI in Pregnancy: PPIs are safe in pregnancy if indicated (most are Category B)</li>
+		<li>PPIs have long-term adverse effects including: Increased risk of <em>Clostridium difficile</em> diarrhea, osteoporosis, community acquired pneumonia.  Every effort should be made to minimize unnecessary PPI exposure including:
+		<ul>
+			<li>Discontinuing PPIs with referral to GI if BID dosing is ineffective.</li>
+			<li>Weaning patients to lowest effective dose vs. on-demand or intermittent therapy</li>
+			<li>Trial off PPIs after 6-8 weeks of therapy. If symptoms recur &lt; 3 months, then need maintenance therapy and consider additional testing (i.e. EGD). If &gt; 3 months, then repeated courses of acute therapy as needed.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Barrett’s Esophagus</u></strong></p>
+
+<ul>
+	<li>Metaplasia of the lower esophagus due to repeated exposure to acidic gastric contents, causing the normal squamous epithelium of the distal esophagus to change to specialized columnar epithelium—conveys a 30 to 125-fold increased risk of esophageal cancer.</li>
+	<li>No specific symptoms; often GERD symptoms improve after its development, owing to decreased acid sensitivity of the Barrett's epithelium. </li>
+	<li>Risk factors: longstanding GERD (&gt;5 years) and increased age (&gt;50 years old); mean age of diagnosis ~55 years old, male sex and white race.</li>
+	<li>Evidence to screen for Barrett’s esophagus is weak and it has not been conclusively proven that screening reduces mortality. NOT recommended routinely in patients with GERD.
+	<ul>
+		<li>The American College of Physicians (ACP) recommends screening in patients with GERD symptoms for at least 5 years AND who have other risk factors for esophageal adenocarcinoma (nocturnal reflux, hiatal hernia, overweight/obesity, tobacco use, high visceral adiposity).</li>
+		<li>American Gastroenterological Society has similar guidelines but also includes white race and male sex as risk factors.</li>
+	</ul>
+	</li>
+	<li>Once Barrett’s is diagnosed, GI should follow patient with repeat EGDs at intervals determined by the severity of disease.</li>
+</ul>
+
+<p><u><strong>When to refer</strong></u></p>
+
+<ul>
+	<li>Refer for EGD if your patient meets the criteria above for screening for Barrett’s, if they fail PPI therapy and lifestyle modification, or if they have alarm symptoms.</li>
+</ul>
+
+<p><u><strong>Refrences</strong></u></p>
+
+<p><em>Camilleri M, Dubois D, Coulie B, et al. Prevalence and socioeconomic impact of upper gastrointestinal disorders in the United States: results of the US Upper Gastrointestinal Study. Clin Gastroenterol Hepatol 2005; 3:543.</em></p>
+
+<p><em>Katz PO, Gerson LB, Vela MF. Guidelines for the diagnosis and management of gastroesophageal reflux disease. Am J Gastroenterol 2013; 108:308.</em></p>
+
+<p><em>Moayyedi P, Talley NJ. Gastro-oesophageal reflux disease. Lancet 2006; 367:2086.</em></p>
+
+<p><em>Vakil N, van Zanten SV, Kahrilas P, et al. The Montreal definition and classification of gastroesophageal reflux disease: a global evidence-based consensus. Am J Gastroenterol 2006; 101:1900.</em></p>
+
+<p><i>Ip S, Bonis P, Tatsioni A, et al. Comparative Effectiveness of Management Strategies for Gastroesophageal Reflux Disease. Comparative Effectiveness Review No. 1. (Prepared by Tufts-New England Medical Center Evidence-based Practice Center under Contract No. 290-02-0022.) Rockville, MD: Agency for Healthcare Research and Quality. December 2005.<br />
+<a href="http://www.effectivehealthcare.ahrq.gov/reports/final.cfm">www.effectivehealthcare.ahrq.gov/reports/final.cfm</a>.  </i></p>
+
+<p><em>Ip S, Chung M, Moorthy D, et al. Comparative Effectiveness of Management Strategies for Gastroesophageal Reflux Disease: Update. Comparative Effectiveness Review No. 29. (Prepared by Tufts Medical Center Evidence-based Practice Center under Contract No. HHSA 290-2007-10055-I.) AHRQ Publication No. 11-EHC049-EF. Rockville, MD: Agency for Healthcare Research and Quality. September 2011.  </em><a href="http://www.effectivehealthcare.ahrq.gov/reports/final.cfm"><em>www.effectivehealthcare.ahrq.gov/reports/final.cfm</em></a><em>.  </em></p>
+
+<p><em>Komazawa Y, Adachi K, Mihara T, et al. Tolerance to famotidine and ranitidine treatment after 14 days of administration in healthy subjects without Helicobacter pylori infection. J Gastroenterol Hepatol 2003; 18:678.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/04-approach-dyspepsia/04-approach-dyspepsia" class="page-previous" title="Go to previous page">‹ 04. Approach to dyspepsia</a>
+                    <a href="/07-gastroenterology/07-gastroenterology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/06-h-pylori-infection/06-h-pylori-infection" class="page-next" title="Go to next page">06. H. pylori infection ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="expanded active-trail menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology" class="active-trail">07. Gastroenterology</a><ul class="menu"><li class="first leaf menu-mlid-5156"><a href="/01-constipation/01-constipation">01. Constipation</a></li>
+<li class="leaf menu-mlid-5161"><a href="/02-diarrhea/02-diarrhea">02. Diarrhea</a></li>
+<li class="leaf menu-mlid-5166"><a href="/03-dysphagia/03-dysphagia">03. Dysphagia</a></li>
+<li class="leaf menu-mlid-5171"><a href="/04-approach-dyspepsia/04-approach-dyspepsia">04. Approach to dyspepsia</a></li>
+<li class="leaf active-trail active menu-mlid-5176"><a href="/05-gerd-and-barretts-esophagus/05-gerd-and-barretts-esophagus" class="active-trail active">05. GERD and Barrett&#039;s Esophagus</a></li>
+<li class="leaf menu-mlid-5181"><a href="/06-h-pylori-infection/06-h-pylori-infection">06. H. pylori infection</a></li>
+<li class="leaf menu-mlid-5186"><a href="/07-peptic-ulcer-disease/07-peptic-ulcer-disease">07. Peptic ulcer disease</a></li>
+<li class="leaf menu-mlid-5191"><a href="/08-inflammatory-bowel-disease/08-inflammatory-bowel-disease">08. Inflammatory bowel disease*****</a></li>
+<li class="leaf menu-mlid-5196"><a href="/09-approach-abnormal-lfts/09-approach-abnormal-lfts">09. Approach to abnormal LFTs</a></li>
+<li class="last leaf menu-mlid-5201"><a href="/10-approach-cirrhosis/10-approach-cirrhosis">10. Approach to cirrhosis*****</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

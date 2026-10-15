@@ -1,0 +1,473 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/04-urinary-incontinence/04-urinary-incontinence" />
+<link rel="shortlink" href="/node/2241" />
+<link rel="prev" href="/03-erectile-dysfunction/03-erectile-dysfunction" />
+<link rel="up" href="/19-urology/19-urology" />
+<link rel="next" href="/20-office-based-procedures/20-office-based-procedures" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/04-urinary-incontinence/04-urinary-incontinence" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/04-urinary-incontinence/04-urinary-incontinence" />
+<meta property="twitter:title" content="04. Urinary Incontinence | Hospital Handbook" />
+<meta property="og:title" content="04. Urinary Incontinence" />
+  <title>04. Urinary Incontinence | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"atoNoAQ_1kp4JW4rIbm518OMhsWQBd4wORloRYI07fg","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/04-urinary-incontinence\/04-urinary-incontinence":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2241 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/04-urinary-incontinence/04-urinary-incontinence" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-eh-HQfdwzMKtpdq13UTcAMeas8quNw9JxieLthnLylI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/19-urology/19-urology" class="active-trail">19. Urology</a> > <span class="breadcrumb-page-title">04. Urinary Incontinence</span></div></div></div>
+                  <h1 class="title" id="page-title">04. Urinary Incontinence</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2241" class="node node-book clearfix" about="/04-urinary-incontinence/04-urinary-incontinence" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="04. Urinary Incontinence" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Scott R. Bauer, MD, ScM</p>
+
+<p align="right">Faculty Editor: Alison Huang, MD</p>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<div>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Screen all parous women, patients over 65, high-risk pts</p>
+
+			<p>✔ Rule out and treat reversible causes</p>
+
+			<p>✔ Start with lifestyle changes and behavioral treatment; refer if  red flags or conservative therapies not effective</p>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Urinary incontinence (UI) occurs in both men and women, risk increases with age, and it is very common among people living in nursing homes (~50-70%).</li>
+	<li>Incontinence is NOT a normal part of aging and can result in significant impairment in quality of life.</li>
+	<li>Incontinence is classified in 5 types, which are usually based on symptoms (stress and urge subtypes are the most common):
+	<ol style="list-style-type:upper-alpha;">
+		<li><strong>Stress incontinence (SUI):</strong> involuntary leakage with maneuvers that increase intraabdominal pressure. Due to poorly functioning urethral closure, often related to vaginal childbirth, obesity, or chronically elevated intraabdominal pressure (constipation, heavy lifting, intense exercise). More common in women, rare in men without prior prostate surgery.</li>
+		<li><strong>Urge incontinence (UUI):</strong> involuntary leakage preceeded by a sudden compelling desire to urinate that is difficult to defer. Primarily idiopathic but can be due to neurologic conditions (Parkinson’s, MS, spinal cord injury).</li>
+		<li><strong>Mixed incontinence:</strong> mixture of both UUI and SUI.</li>
+		<li><strong>Overflow incontinence:</strong> Urine dribbling and/or continuous leakage from an overfilled bladder. Due to incomplete empyting of bladder. More common in men (due to BPH), rare in women (without organic or post-surgical urethral abnormality, neurologic disease)</li>
+		<li><strong>Functional incontinence:</strong> Impaired ability to use toilet. Usually caused by functional, cognitive, or mobility difficulties resulting in physical or environmental barriers. No dysfunction of bladder control.</li>
+	</ol>
+	</li>
+</ul>
+
+<p><strong><u>Differential Diagnosis</u></strong></p>
+
+<p><em>•</em> Transient causes of UI (“DIAPPERS”): consider if sudden onset and duration &lt; 6 weeks</p>
+
+<ul>
+	<li>D - Delerium: cognitive dysfunction</li>
+	<li>I - Infection: irritation results in incontinence</li>
+	<li>A - Atrophic Vaginitis: postmenopausal status is associated with frequency, UUI</li>
+	<li>P - Pharmaceuticals: diuretics (increase urine output - consider timing); anticholinergics, narcotics, or calcium channel blockers (impair bladder contraction); sedatives (cause delirium); alpha agonists (increase urinary spincther tone  retention); alpha-antagonists (decrease spincther tone  SUI)</li>
+	<li>P - Psychological: anxiety and depression are associated with impaired voiding and increased bother from urinary symptoms</li>
+	<li>E - Excessive urine production: untreated diabetes, increased fluid intake (&gt;2L/day or large episodic intakes), alcohol, caffeine, hypercalcemia, DI</li>
+	<li>R - Restricted mobility: patients cannot reach bathroom in time</li>
+	<li>S - Stool: constipation</li>
+</ul>
+
+<p><em>• Other causes of UI</em></p>
+
+<ul>
+	<li>Neurologic disease: MS, stroke, Parkinson’s, lumbar disc disease</li>
+	<li>Post-surgical: nerve dysfunction after pelvic surgery, post prostatectomy</li>
+	<li>GU anatomic abnormalities: pelvic prolapse, urethral strictures, bladder diverticulum, BPH, overactive bladder</li>
+	<li>Multipartity with multiple vaginal deliveries, traumatic delivery</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<p><em>• History</em></p>
+
+<ul>
+	<li>Precipitating factors (physical activity, coughing, laughing) – Use 3IQ below</li>
+	<li>Severity (number of pads per day and amount of wetness)</li>
+	<li>Concominant symptoms (dysuria, hematuria, urgency, weak stream, neurologic symptoms)</li>
+	<li>Obstetrical history</li>
+	<li>Surgical history (particularly pelvic surgery)</li>
+	<li>Comorbidities (obesity, neurologic disease, diabetes, BPH)</li>
+	<li>Rule out reversible causes of UI (see “Differential Diagnosis” above)</li>
+	<li>If etiology not clear based on initial history, have patient complete a bladder diary for 3 days: record timing and volume of voids/incontinence, liquid intake, activities or situations that prompt UI.</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th colspan="2" scope="col" style="width: 631px;">
+			<p><strong>The 3 Incontinence Questionnaire (3IQ)</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:213px;">
+			<p>1) During the past three months, have you leaked urine (even a small amount)?</p>
+			</td>
+			<td style="width:418px;">
+			<p>Yes-&gt; continue to #2</p>
+
+			<p>No-&gt; questionnaire completed</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:213px;">
+			<p>2) During the past three months, did you leak urine:</p>
+			</td>
+			<td style="width:418px;">
+			<p style="margin-left:2.4pt;">A. When you were performing some physical activity, such as coughing, sneezing, lifting, or exercising?</p>
+
+			<p style="margin-left:2.4pt;">B. When you had the urge or the feeling that you needed to empty your bladder, but you could not get to the toilet fast enough?</p>
+
+			<p style="margin-left:2.4pt;">C. Without physical activity and without a sense of urgency?</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:213px;">
+			<p>3) During the past three months, did you leak urine most often:</p>
+			</td>
+			<td style="width:418px;">
+			<p style="margin-left:2.4pt;">A. When you were performing some physical activity, such as coughing, sneezing, lifting, or exercising?</p>
+
+			<p style="margin-left:2.4pt;">B. When you had the urge or feeling that you needed to empty your bladder, but you could not get to the toilet fast enough?</p>
+
+			<p style="margin-left:2.4pt;">C. Without physical activity and without a sense of urgency?</p>
+
+			<p style="margin-left:2.4pt;">D. About equally as often with physical activity as with a sense of urgency?</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width:631px;">
+			<p>Scoring based on response to question 3: A: SUI; B:UUI; C: other causes; D: Mixed</p>
+
+			<p>Note: mainly developed and validated in women</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><em>• Physical Exam: Keep focused</em></p>
+
+<ul>
+	<li>Neuro: Mental status, mobility</li>
+	<li>Men: prostate exam</li>
+	<li>Women
+	<ul>
+		<li>Consider pelvic exam if patient endorses symptoms of prolapse: look for vaginal atrophy, pelvic organ prolapse (high-risk for retention if beyond the hymen), pelvic masses. Can assess pelvic floor muscle integrity by asking patient to contract pelvic floor muscles during bimanual exam.</li>
+		<li>Urinary stress test (optional): while standing over chuck/pad or in pelvic exam position, the patient strains or coughs with a comfortably full bladder while the clinician directly observes the urethral meatus for urine leakage (PPV 80-97% for SUI).</li>
+		<li>If no symptoms of prolapse, reasonable to treat empirically without a pelvic exam.</li>
+	</ul>
+	</li>
+	<li>Consider rectal exam if fecal symptoms (evaluate for masses, fecal impaction, rectal tone)</li>
+</ul>
+
+<p><em>• Labs/tests</em></p>
+
+<ul>
+	<li>Urinalysis: evaluate for pyuria, hematuria, or glycosuria.</li>
+	<li>Consider urine culture if signs or symptoms of infection. Note: asymptomatic bacteriuria common in older women and is not necessarily a cause of incontinence.</li>
+	<li>Consider PSA in men (esp if severe or acute onset of symptoms, used as a marker of prostate size and to r/o prostate cancer, this is not prostate cancer screening since the patient is symptomatic).</li>
+	<li>Post-void Residual (PVR): recommended for patients who report incomplete voiding, woman with pelvic organ prolapse beyond the hymen, or men with severe voiding symptoms. PVR &lt; 100mL or &lt;1/3 of total voided volume is considered adequate emptying.</li>
+	<li>Routine urodynamic testing not recommended, but may be used by urologists for pre-surgical evaluation.</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li><strong>For all types of UI:</strong> consider and treat transient or reversible causes (Ddx above), smoking cessation, reduce large volume fluid intake (goal 4-5oz/hr, &lt;2L per day, avoid large episodic intakes), avoid diuretics (caffeine, alcohol, carbonated or diet beverages), treat cough and constipation, promote weight loss, timed voiding (patients deliberately empty their bladder starting every 1-2 hours, then gradually increase time between voids), pelvic floor muscle training.</li>
+	<li><strong>Stress incontinence:</strong></li>
+</ul>
+
+<ul>
+	<li><u>Pelvic Floor Muscle Training:</u> First line treatment. Consists of Kegel exercises (3 sets of 10 slow contractions held for 10 seconds each, for least 4 months). Supervised training may improve adherence and can involve vaginal weighted cones, biofeedback, or other types of feedback to improve cure rates (~60%).</li>
+	<li><u>Pessaries</u>: may be preferable for women with SUI during specific situations like exercise.</li>
+	<li><u>Medications:</u> none FDA approved.</li>
+	<li><u>Surgical treatments:</u> pelvic organ prolapse repair, bladder neck suspension, urethral sling, artificial urinary spinchter, urethral bulking injection.</li>
+</ul>
+
+<ul>
+	<li><strong>Urge incontinence: </strong></li>
+</ul>
+
+<ul>
+	<li><u>Bladder Training (1<sup>st</sup> line after treating reversible causes)</u>: Begins with scheduled voids and recording a bladder diary (urine volume measurements). If strong urge occurs, there are cognitive techniques for urgency suppression/distraction (patients should stand or sit still when an urge occurs, perform 3 quick pelvic muscle contractions, then walk to bathroom when urge passes).  Pelvic floor muscle training exercises are also helpful, but not as effective as for SUI<strong>.</strong></li>
+	<li><u>Medications (2<sup>nd</sup> line)</u>:
+	<ul>
+		<li>Anitcholinergics (darifenacin, fesoterodine, oxybutynin, solifenacin, tolterodine, and trospium) are moderately effective at reducing urgency, frequency, and UI episodes, although there is a significant placebo effect. Contraindicated in untreated narrow-angle glaucoma, may exacerbate existing cardiac arrthymias. Common side effects include dry mouth, constipation, and dry eyes (50% self-discontinuation within 6 months). Extended release forms may reduce side effects. Start elderly patients on half of lowest dose, uptitrate slowly and monitor for subclinical urinary retention and other anticholinergic side effects. <strong>Note: </strong>Most anticholinergics appear to have similar efficacy, but oxybutynin has the highest rates of discontinuation due to side effects.</li>
+		<li>Beta-3 Agonist (e.g. mirabegron): useful for older adults who cannot or should not take anitcholinergics due to high risk of cognitive decline. Can also provide syngistic effects for patients not controlled with anticholinergic monotherapy. Side effects include elevated blood pressure.</li>
+		<li><u>Potential invasive treatments</u>: OnabotulinumtoxinA bladder injection, sacral neuromodulation, percutaneous tibial nerve stimulation, and anatomic correction (augmentation cystoplasty).</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li><strong>Mixed incontinence:</strong> focus initially on treating the most dominant or bothersome UI subtype.</li>
+	<li><strong>Overflow incontinence:</strong> focus on treating the underlying condition (i.e. meds/surgery for BPH, pessary/surgery for cystocele).</li>
+</ul>
+
+<p><strong><u>When to refer</u></strong></p>
+
+<ul>
+	<li>For all UI patients: abdominal and/or pelvic pain, hematuria in absence of UTI, concern for neurological conditions, lifelong UI (since childhood), recurrent UTIs, long-term catheterization, difficulty passing a urethral catheter, persistent symptoms despite therapeutic intervention, diagnostic uncertainty or concern for anatomic abnormalities, normal pressure hydrocephalus triad (cognitive impairment, wide-based gait, and UI), persistently elevated PVR (&gt;100mL in adults; &gt;150mL in elderly), obstructive nephropathy, or if patient desiring surgical treatment.</li>
+	<li>Women: pelvic prolapse beyond the hymen.</li>
+	<li>Men: severe voiding symptoms, post-prostatectomy incontinence, abnormal prostate exam, elevated PSA, prostatitis with UI.<br />
+	 </li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p>Lukacz ES, Santiago-Lastra Y, Albo ME, &amp; Brubaker L. <em>Urinary Incontinence in Women</em>. JAMA. 2017, 318(16), 1592.</p>
+
+<p>Khandewal C, Kistler C. <em>Diagnosis of Urinary Incontinence</em>. Am Fam Physician. 2013 Apr 15;</p>
+
+<p>Brown, JS, Bradley, CS, Subak, LL, et al. <em>The sensitivity and specificity of a simple test to distinguish between urge and stress urinary incontinence</em>. Ann Intern Med 2006; 144:715.</p>
+
+<p>Agency for Healthcare Research and Quality, Effective Health Care Program. <em>Non-surgical treatments for urinary incontinence in adult women: diagnosis and comparative effectiveness. Clinician research summary</em>. Agency for Healthcare Research and Quality; April 2012.</p>
+
+<p>Shamliyan TA, et al.  <em>Benefits and Harms of Pharmacologic Treatment for Urinary Incontinence in Women: A Systematic Review</em>. Ann Intern Med. 2012;156:861-874</p>
+
+<p>Shah D, Badlani G. <em>Treatment of Overactive Bladder and Incontinence in the Elderly</em>. Rev Urol<em>. </em>2002;4(suppl 4):S38–S43</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/03-erectile-dysfunction/03-erectile-dysfunction" class="page-previous" title="Go to previous page">‹ 03. Erectile Dysfunction</a>
+                    <a href="/19-urology/19-urology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/20-office-based-procedures/20-office-based-procedures" class="page-next" title="Go to next page">20. Office Based Procedures ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="expanded active-trail menu-mlid-5421"><a href="/19-urology/19-urology" class="active-trail">19. Urology</a><ul class="menu"><li class="first leaf menu-mlid-5426"><a href="/01-common-male-gu-disorders/01-common-male-gu-disorders">01. Common Male GU Disorders</a></li>
+<li class="leaf menu-mlid-5431"><a href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract">02. Lower Urinary Tract Symptoms including Benign Prostatic Hypertrophy (BPH)</a></li>
+<li class="leaf menu-mlid-5436"><a href="/03-erectile-dysfunction/03-erectile-dysfunction">03. Erectile Dysfunction</a></li>
+<li class="last leaf active-trail active menu-mlid-5441"><a href="/04-urinary-incontinence/04-urinary-incontinence" class="active-trail active">04. Urinary Incontinence</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

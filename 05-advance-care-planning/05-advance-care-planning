@@ -1,0 +1,390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/05-advance-care-planning/05-advance-care-planning" />
+<link rel="shortlink" href="/node/1841" />
+<link rel="prev" href="/04-gaitfalls/04-gaitfalls" />
+<link rel="up" href="/08-geriatrics/08-geriatrics" />
+<link rel="next" href="/09-pain-management/09-pain-management" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/05-advance-care-planning/05-advance-care-planning" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/05-advance-care-planning/05-advance-care-planning" />
+<meta property="twitter:title" content="05. Advance Care Planning | Hospital Handbook" />
+<meta property="og:title" content="05. Advance Care Planning" />
+  <title>05. Advance Care Planning | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"-5YERV_4x75RrSv4d2-uOdFRrkr_CSsog-FqRbba_iI","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/05-advance-care-planning\/05-advance-care-planning":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1841 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/05-advance-care-planning/05-advance-care-planning" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-v9qlYRCLKus5TAQbkisw4-Xx_cR5P1wO6GdQEQ34P9Y" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/08-geriatrics/08-geriatrics" class="active-trail">08. Geriatrics</a> > <span class="breadcrumb-page-title">05. Advance Care Planning</span></div></div></div>
+                  <h1 class="title" id="page-title">05. Advance Care Planning</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1841" class="node node-book clearfix" about="/05-advance-care-planning/05-advance-care-planning" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="05. Advance Care Planning" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Scott Goldberg, MD, Sarah Knish, MD</p>
+
+<p align="right">Faculty Editor: Michael W. Rabow, MD and Christine Soran, MD, MPH</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:775px;" width="775">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ The goal of ACP is to understand and document patient preferences in the event they are unable to communicate these themselves</p>
+
+			<p>✔ Advance care planning (ACP) is not simply about code status, it is about understanding patients’ values and goals of care (which may vary at different stages in their lives)</p>
+
+			<p>✔ CMS now reimburses for ACP as a payable service for traditional Medicare beneficiaries</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Fewer than 50% of severely or terminally ill patients have an advance directive in their medical records</li>
+	<li>Physicians are accurate only about 65% of the time when predicting patient preferences for intensive care</li>
+</ul>
+
+<p><strong><u>Ways to Document Advanced Care Planning</u></strong></p>
+
+<ul>
+	<li><strong>Verbal statements: </strong>
+
+	<ul>
+		<li>While it is better to have a formal, written and witnessed advance directive, many states, including California, permit explicit verbal statements to be legally binding directives even if not written down by the patient or only documented in the physician’s record</li>
+		<li>The PCP should document these informal conversations in the event something were to happen to the patient before they fill out an advance directive</li>
+	</ul>
+	</li>
+	<li><strong>Durable Power of Attorney</strong> for health care (DPOA-HC) or Health Care Surrogate:
+	<ul>
+		<li>The DPOA-HC is indicated in a legal document (such as a living will or advance directive)</li>
+		<li>A health care surrogate (HCS) is appointed by a physician if the physician determines that a patient cannot make medical decisions themselves and there is no existing DPOA-HC
+		<ul>
+			<li>That person may be a relative or friend</li>
+			<li>There are hierarchies of consideration (a spouse would likely be appointed before a child)</li>
+		</ul>
+		</li>
+		<li>Role of a DPOA/HCS is not to choose or determine the patient's outcome (or to enact the surrogate’s wishes) but rather to represent the patient's <em>expressed wishes</em> when he or she can no longer do so
+		<ul>
+			<li>If the patient’s wishes are not known, the DPOA is expected to make a <em>substituted judgment</em>, taking their best guess about what the patient’s wishes would be based on knowing the patient’s beliefs and values</li>
+		</ul>
+		</li>
+		<li>The PCP can ask patients:
+		<ul>
+			<li><em>If you were to become really sick, is there anyone you trust to make medical decisions for you? </em></li>
+			<li><em>Does this person know that you have chosen him/her for this role? </em></li>
+		</ul>
+		</li>
+		<li>Ask patients how much leeway they want their surrogate to have in making end-of-life decisions.</li>
+		<li>Can complete DPOA form at <u>www.caringinfo.org</u> (state-specific, no lawyer necessary)</li>
+		<li>Once the form is completed, ask the patient if they have confirmed with the DPOA that they are comfortable with this role<br />
+		 </li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li><strong>Advance Directive</strong>
+
+	<ul>
+		<li>Examples: Living will, “Five Wishes”, or other advance directive form</li>
+		<li>Usually includes “code status” (CPR, ventilatory support) but can also have more specific interventions (e.g., enteral feeding, procedures)
+		<ul>
+			<li>May also ask questions about the importance of religion and spirituality</li>
+		</ul>
+		</li>
+		<li>Usually includes the option to appoint a DPOA</li>
+		<li>Five Wishes form is a legal document in California (and most states) that does not require an MD signature</li>
+		<li>For nursing facility residents, a witness is required<br />
+		 </li>
+	</ul>
+	</li>
+	<li><strong>Physician Orders for Life-Sustaining Treatment</strong> <strong>(POLST) </strong>
+	<ul>
+		<li>A physician-signed order for patients nearing the end of life that specifies patient preferences for DNAR (Do not attempt resuscitation), comfort only/limited/full intervention (ICU), and preferences for artificial nutrition and hydration</li>
+		<li>Patient keeps with them (on the front door of the residence, headboard of their bed, or on the refrigerator door), and it goes with them during transfers in care location (home, nursing home, ED/hospital)</li>
+		<li>POLST is a powerful tool; in one large study, only 6.4% of patients who had a POLST form specifying Comfort Measures Only died in a hospital (compared to 44% of patients with POLST desiring full treatment and 34% of patients without a POLST)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Clinic Discussion</u></strong></p>
+
+<ul>
+	<li>Studies show that elderly patients with chronic illnesses were more satisfied with their primary care physicians and outpatient visits, and had less anxiety, when advanced directives were discussed</li>
+	<li>Ideally, discuss with all patients</li>
+	<li>At the very least, discuss post-hospitalization or when the patient's functional status and quality of life are declining, but before the patient loses the ability to express preferences</li>
+	<li>Physicians can be guided by the question, “Would you be surprised if this patient died within the next year?”</li>
+	<li>In 2016, CMS began reimbursing for ACP as a payable service for traditional Medicare beneficiaries. The first 30 minutes can be billed under CPT Code 99497 (each subsequent 30-minute visit as Code 99498).</li>
+	<li>Tools for patients:
+	<ul>
+		<li>It may be helpful to ask your patients to review one of these websites in advance of a formal, billable ACP visit</li>
+		<li>Prepare for your Care (https://<u>prepareforyourcare.org)</u> is a step-by-step program with video stories (in English and Spanish) to help patients articulate their wishes and prepare a potential surrogate decision maker</li>
+		<li>The Conversation Project (<a href="https://theconversationproject.org/)">https://theconversationproject.org/)</a> is another useful tool and is offered in 11 different languages<br />
+		 </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Butler, Mary, Edward Ratner, Ellen McCreedy, Nathan Shippee, and Robert L. Kane. “Decision Aids for Advance Care Planning: An Overview of the State of the Science.” Annals of Internal Medicine 161, no. 6 (September 16, 2014): 408. </em></p>
+
+<p><em>Castillo, LS et al. Lost in translation: The unintended consequences of advance directive law on clinical care. Ann Intern Med. 2011; 154(2):121–128.</em></p>
+
+<p><em>Commission on Aging with Dignity. Five Wishes www.agingwithdignity.org/5wishes.html (Accessed on July 12, 2014).</em></p>
+
+<p><em>“The Conversation Project.” The Conversation Project. Accessed March 18, 2018. https://theconversationproject.org/.</em></p>
+
+<p><em>Emanuel LL, Emanuel EJ. The Medical Directive. A new comprehensive advance care document. JAMA 1989; 261:3288.</em></p>
+
+<p><em>Fromme, EK et al. Association between Physician Orders for Life-Sustaining Treatment for scope of treatment and in-hospital death in Oregon. J Am Geriatrics Soc. 2014; 62(7,):1246–1251.</em></p>
+
+<p><em>Gillick MR. Advance care planning. N Engl J Med. 2004; 350:7.</em><em>“PREPARE.” Accessed March 18, 2018. https://prepareforyourcare.org/welcome.</em></p>
+
+<p><em>Sudore RL, Fried TR. Redefining the "planning" in advance care planning: preparing for end-of-life decision making. Ann Intern Med. 2010; 153:256.</em></p>
+
+<p><em>Tierney WM, Dexter PR, Gramelspacher GP, et al. The effect of discussions about advance directives on patients' satisfaction with primary care. J Gen Intern Med 2001; 16:32.</em></p>
+
+<p><em>Physician Orders for Life-Sustaining Treatment Paradigm available online at www.polst.org (Accessed on July 11, 2014).</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/04-gaitfalls/04-gaitfalls" class="page-previous" title="Go to previous page">‹ 04. Gait/falls</a>
+                    <a href="/08-geriatrics/08-geriatrics" class="page-up" title="Go to parent page">up</a>
+                    <a href="/09-pain-management/09-pain-management" class="page-next" title="Go to next page">09. Pain Management ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="expanded active-trail menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics" class="active-trail">08. Geriatrics</a><ul class="menu"><li class="first leaf menu-mlid-5021"><a href="/01-caring-elderly/01-caring-elderly">01. Caring for the Elderly</a></li>
+<li class="leaf menu-mlid-5026"><a href="/02-cognitive-impairment-dementia/02-cognitive-impairment-dementia">02. Cognitive Impairment / Dementia</a></li>
+<li class="leaf menu-mlid-5031"><a href="/03-functional-status/03-functional-status">03. Functional Status</a></li>
+<li class="leaf menu-mlid-5036"><a href="/04-gaitfalls/04-gaitfalls">04. Gait/falls</a></li>
+<li class="last leaf active-trail active menu-mlid-5041"><a href="/05-advance-care-planning/05-advance-care-planning" class="active-trail active">05. Advance Care Planning</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

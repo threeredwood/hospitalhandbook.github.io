@@ -1,0 +1,889 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/01-principles-pain-management/01-principles-pain-management" />
+<link rel="shortlink" href="/node/2011" />
+<link rel="prev" href="/09-pain-management/09-pain-management" />
+<link rel="up" href="/09-pain-management/09-pain-management" />
+<link rel="next" href="/02-chronic-pain-management/02-chronic-pain-management" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/01-principles-pain-management/01-principles-pain-management" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/01-principles-pain-management/01-principles-pain-management" />
+<meta property="twitter:title" content="01. Principles of Pain Management  | Hospital Handbook" />
+<meta property="og:title" content="01. Principles of Pain Management " />
+  <title>01. Principles of Pain Management  | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"am1PkwkeBHANshUXAMMl9NDbM3G_mx3hxXVB84EHJBM","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/01-principles-pain-management\/01-principles-pain-management":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2011 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/01-principles-pain-management/01-principles-pain-management" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-rNjWSZkcg2Y16ZbhXajS8vyEPEibKNBQ1ylhXU2dw4Q" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/09-pain-management/09-pain-management" class="active-trail">09. Pain Management</a> > <span class="breadcrumb-page-title">01. Principles of Pain Management </span></div></div></div>
+                  <h1 class="title" id="page-title">01. Principles of Pain Management </h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2011" class="node node-book clearfix" about="/01-principles-pain-management/01-principles-pain-management" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Principles of Pain Management " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p>
+
+<p><strong><u>Treatment: General Principles of Chronic Non-Cancer Pain (CNCP)</u></strong></p>
+
+<p align="right">Resident Editor: Michael Incze, MD, MSEd</p>
+
+<p align="right">Faculty Editor: Scott Steiger, MD</p>
+
+<p>Chronic pain is often part of a complex syndrome that includes other bio-psychosocial factors. A care plan for patients with chronic pain should be documented to cover the following:</p>
+
+<ul>
+	<li><u>Diagnosis</u>: what specific condition is the patient being treated for</li>
+	<li><u>Treatment goals</u>:  specify ways to maximize patient’s quality of life, functional status, minimize the side effects of pain medication, and target specific functional goals as</li>
+</ul>
+
+<p>identified by the patient in his/her own words.</p>
+
+<ul>
+	<li><u>Treatment plan</u>: teach patients how to maintain a healthy lifestyle with specific action items addressing proper nutrition, sleep hygiene, regular physical activity and stress reduction techniques; document risk/benefit discussion; outline medication plan; provide follow-up instructions</li>
+</ul>
+
+<p><strong><u>Consider the “Four Quadrants” Model for Chronic Pain Management</u></strong> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:685px;" width="686">
+	<tbody>
+		<tr>
+			<td style="width:351px;height:141px;">
+			<p align="center"><strong><u>Medications</u></strong></p>
+
+			<ul>
+				<li>Start with NSAIDs and APAP, being mindful of contraindications and safe use.</li>
+				<li>Consider topicals such as lidocaine and diclofenac</li>
+				<li>Other medications according to type of pain (neuropathic, inflammatory, spastic, etc)</li>
+				<li>Opiates generally discouraged for chronic non-cancer pain, should only be used as part of comprehensive pain agreement and only after other therapies not effective</li>
+			</ul>
+			</td>
+			<td style="width:335px;height:141px;">
+			<p align="center"><strong><u>Physical</u></strong></p>
+
+			<ul>
+				<li>Physical therapy</li>
+				<li>Joint injections</li>
+				<li>Exercise Program</li>
+				<li>Podiatry Referral</li>
+				<li>TENS Unit</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:351px;height:141px;">
+			<p align="center"><strong><u>Complementary</u></strong></p>
+
+			<p align="center"> </p>
+
+			<ul>
+				<li>Free Chair Massage at the Wellness Center: 1st and 3rd Thursday of the month at 11am</li>
+				<li>Free Acupuncture (call for days/times):
+				<ul>
+					<li>SFHP patients: call your insurance for access</li>
+					<li><a href="https://www.yelp.com/biz/herc-acupunture-and-wellness-center-san-francisco">HERC Wellness Center</a> - in Bayview</li>
+					<li><a href="https://www.yelp.com/biz/glide-memorial-church-family-youth-and-childcare-center-san-francisco">Glide Memorial Church</a>: 330 Ellis</li>
+					<li><a href="https://www.yelp.com/biz/southeast-health-center-san-francisco">Southeast Health Center </a></li>
+					<li>Osher Center for Integrative Medicine (upstairs from the Gen Med Clinic at Mt. Zion). Offers some “scholarships” for free or reduced cost acupuncture, biofeedback, massage, etc</li>
+					<li> UCSF Pain Clinic offers CBT for chronic pain</li>
+				</ul>
+				</li>
+				<li>Yoga
+				<ul>
+					<li><a href="http://yogatothepeople.com/san-francisco/schedule-fees/">Yoga to the People</a>, 16th &amp; Mission</li>
+				</ul>
+				</li>
+				<li>Mindfulness Activity</li>
+				<li>Breathing Exercise</li>
+				<li>Relaxation Therapy  </li>
+				<li>Limited evidence suggests cannabis  may be efficacious for chronic neuropathic pain</li>
+			</ul>
+			</td>
+			<td style="width:335px;height:141px;">
+			<p align="center"><strong><u>Cognitive Behavioral</u></strong></p>
+
+			<p align="center"> </p>
+
+			<ul>
+				<li>Chronic Pain Groups:</li>
+				<li>Warm handoff to Behavioral Health in Clinic.
+				<ul>
+					<li>At RFPC, <a href="https://drive.google.com/open?id=0B5m6H-fXTL2fdjVubE9XbFBySDg">Refer via Behavioral Health Team</a></li>
+				</ul>
+				</li>
+				<li>Short-term therapy</li>
+				<li>Group classes, Eng &amp; Span
+				<ul>
+					<li>Mental Health ACCESS line (all SF): 415-255-3737</li>
+				</ul>
+				</li>
+				<li>Sleep Hygiene</li>
+				<li>Ladies Night: Mission Neighborhood Resource Center, Thurs nights, free. 165 Capp (near 17th street)</li>
+				<li>RAMS Peer Support Wellness Center (Market and 9th, 1282 Market) - cooking, art, and exercise classes, free</li>
+				<li>EDUCATION: refer patients to the American Chronic Pain Association Website <a href="http://www.theacpa.org/">www.theacpa.org</a>; chronic pain Facebook groups</li>
+			</ul>
+
+			<p align="center"> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>New patients: Primum non nocere (“</u></strong><u>first, do no harm”)</u></p>
+
+<p><strong>General rules:</strong></p>
+
+<ul>
+	<li>Thoroughly assess cause of pain, treat and refer as appropriate</li>
+	<li>No opioids for CNCP at first visit to clinic, and no new opioids at first visit with you as new provider</li>
+	<li>Address all four quadrants of pain management</li>
+	<li>Trial non-opioid analgesics such as acetaminophen, NSAIDs and topical agents</li>
+	<li>Avoid NSAIDs in the elderly and those with co-morbid CKD, liver disease, cardiovascular disease, thrombocytopenia, h/o UGIB, or dyspepsia.</li>
+	<li>Start low and titrate up to effect with new medications</li>
+	<li>Obtain permission to discuss care with all psychiatric and medical providers</li>
+	<li>APEX tip: consider using dotphrases “.painchecklist” or “.opiodchecklist” for helpful reminders</li>
+	<li>At RFPC, use the “Pain Assessment” template to help chart encounters for chronic pain.</li>
+</ul>
+
+<p><strong>Set and Document Shared Goals:</strong></p>
+
+<ul>
+	<li>No measures have been demonstrated to predict a good response, set shared goals with patients focusing on functional goals</li>
+	<li>ID and document a functional goals and monitor throughout treatment
+	<ul>
+		<li>“Work ___ hours weekly, exercise ___ hours weekly…”</li>
+	</ul>
+	</li>
+	<li>ID and document a pain control goal before initiating opioids
+	<ul>
+		<li>e.g. move from a “7” on average to a “4” on analog pain score</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Maintenance patients</u></strong></p>
+
+<ul>
+	<li>Reassess ongoing benefits and adverse effects– just because it used to work, does not mean it still does</li>
+	<li>Document pain score and progress to functional goal at every visit (at least q 6 months)</li>
+	<li>Document last dose of each medication EVERY visit</li>
+	<li>Consider referral to pain clinic if:</li>
+</ul>
+
+<ul>
+	<li>Debilitating symptoms or loss of functioning</li>
+	<li>Symptoms located at multiple sites</li>
+	<li>Symptoms that do not respond to initial therapies</li>
+	<li>Escalating need for pain medication</li>
+</ul>
+
+<p><strong><u>Treatment: A Word on Opiate Prescribing</u></strong></p>
+
+<p><strong><em>There is weak evidence that opioids are effective for chronic non-cancer pain, yet they are commonly prescribed for this indication, with prescriptions for opioids quadrupling between 1997 and 2010.  Concomitant increases in opioid overdose, and opioid use disorder led to a decline in prescriptions and development of national guidelines for safer prescribing practices (Dowell, 2016).</em></strong></p>
+
+<p><strong><em>Treatment agreements outlining risks of opioids, urine drug testing, and prescription of naloxone are MANDATORY in all patients on chronic opioid therapy</em></strong><strong><em>.  Treatment agreements should by updated and signed by provider and patient annually</em></strong></p>
+
+<p><strong>Risk Assessment for Patients on Chronic Opioids</strong></p>
+
+<ul>
+	<li>Patients on chronic opioids should have utox at minimum every twelve months and PDMP (CURES) every three months as part of treatment agreement</li>
+	<li>Concomitant benzodiazepine use is associated with increased risk of overdose and death</li>
+	<li>Treatment agreement should be updated and signed by patient and provider annually</li>
+	<li>Lost prescription or medication = high risk to community (and patient)</li>
+</ul>
+
+<ul>
+	<li>Frequent toxicology testing
+	<ul>
+		<li>Q1mo (at least) for any aberrant behavior, dose above equivalent of morphine 100 mg (http://opioidcalculator.practicalpainmanagement.com/)</li>
+		<li>Q12mo acceptable only in stable, low dose, low risk patient</li>
+		<li>One technique for obtaining screening urine toxicology tests in clinic is to work with the medical assistant (MA): the MA will hold the prescription until the patient provides a urine sample, and if the patient cannot provide a urine sample then s/he cannot receive their prescription for controlled substances.</li>
+	</ul>
+	</li>
+	<li>Consider occasional pill count visit with RN 1-2 weeks after MD visit; this is especially useful for high dose patients</li>
+	<li>Mitigate risks! 
+	<ul>
+		<li>Refer/communicate with psychiatrist, social worker, substance abuse treatment</li>
+		<li>Involve family member(s) early and often</li>
+	</ul>
+	</li>
+	<li>When problems arise (early refill request, lost medication, +utox, increased side effects):</li>
+	<li>Increase monitoring
+	<ul>
+		<li>More frequent urine toxicology testing</li>
+		<li>More frequent visits</li>
+		<li>Pill count visit</li>
+		<li>Discuss with patient in risk/benefit terms!</li>
+	</ul>
+	</li>
+	<li>Refer for more help: social work, substance abuse treatment, psych</li>
+</ul>
+
+<p><strong>Tapering: when risks &gt; benefits (aberrant behaviors, intolerable side effects, lack of progression toward therapeutic goals)</strong></p>
+
+<ul>
+	<li><strong>Best evidence suggests tapers only successful when they are <em>voluntary</em>.  Patient engagement = MUCH higher chance of success</strong></li>
+</ul>
+
+<ul>
+	<li>Write EXPLICIT instructions: useful for patients and providers.</li>
+	<li>Consider writing weekly prescriptions; drawback may be multiple copays given multiple prescriptions.</li>
+	<li>If multiple agents, convert to morphine equivalents to calculate total dose.</li>
+	<li>Engage patient preference to decide whether to taper long-acting or short acting opioids first.  If patient defers to you, taper long acting first</li>
+</ul>
+
+<p><em>Slow taper</em>  (minimizes withdrawal symptoms)</p>
+
+<p>Indications: no evidence of benefit, high doses, multiple high-risk behaviors</p>
+
+<ul>
+	<li>Go slow and consider removing 10% of original dose per month in an incremental fashion</li>
+	<li>Consider changing formulation of short-acting opioid to a lower dose formulation and reducing daily dose by 1-2 pills each week</li>
+	<li>Can convert long-acting opioid to lower dose formulation as well</li>
+</ul>
+
+<p><em>Rapid taper</em> </p>
+
+<p>Indications: extra-medical use, loss of control over pill use</p>
+
+<ul>
+	<li>Remove 10-15% per week</li>
+	<li>Use the urine drug screen as an opportunity for counseling on substance use and transition to buprenorphine in primary care versus referral to addiction treatment</li>
+</ul>
+
+<p><em>Immediate cessation</em></p>
+
+<p>Indications: overdose, suicide attempt, prescription forgery, diversion, physical assault or threat to provider or staff</p>
+
+<ul>
+	<li>Add flag to patient’s chart and update problem list with explicit reasons</li>
+</ul>
+
+<p>Consider using the following to help manage withdrawal symptoms:</p>
+
+<ul>
+	<li>Clonidine (hypertension, tremors, sweats, anxiety)</li>
+	<li>Hydroxyzine or diphenhydramine (anxiety, restlessness, insomnia)</li>
+	<li>Phenergan or metoclopramide (nausea)</li>
+	<li>Tums, milk of magnesia (dyspepsia)</li>
+	<li>Loperamide (loose stool)</li>
+	<li>Acetaminophen (pain, fever)</li>
+</ul>
+
+<p style="margin-left:.25in;"> </p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 104px;">
+			<p align="center"><strong>Medication</strong></p>
+			</th>
+			<th scope="col" style="width: 72px;">
+			<p align="center"><strong>Typical Dosing</strong></p>
+			</th>
+			<th scope="col" style="width: 60px;">
+			<p align="center"><strong>Dosing Interval</strong></p>
+			</th>
+			<th scope="col" style="width: 72px;">
+			<p align="center"><strong>Max dose q24h</strong></p>
+			</th>
+			<th scope="col" style="width: 158px;">
+			<p align="center"><strong>Comments</strong></p>
+			</th>
+			<th scope="col" style="width: 125px;">
+			<p align="center"><strong>Adverse Effects</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="6" style="width:591px;height:27px;">
+			<p align="center"><strong>Selected Non-Opioid Analgesics (class)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Acetaminophen</p>
+			</td>
+			<td style="width:72px;">
+			<p>500-1000 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>4h</p>
+			</td>
+			<td style="width:72px;">
+			<p>4 gm</p>
+
+			<p>(2 gm if  liver disease)</p>
+			</td>
+			<td style="width:158px;">
+			<p>Consider as 1<sup>st</sup> line in OA</p>
+			</td>
+			<td style="width:125px;">
+			<p>Liver toxicity at high doses</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Ibuprofen (NSAID)</p>
+			</td>
+			<td style="width:72px;">
+			<p>400-800 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>6h</p>
+			</td>
+			<td style="width:72px;">
+			<p>2400 mg</p>
+			</td>
+			<td style="width:158px;">
+			<p>Especially good for inflammatory conditions, bony pain, consider PPI if mod-high risk GI toxicity, cardiac toxicity</p>
+			</td>
+			<td style="width:125px;">
+			<p>GI upset, GI bleeding, plt dysfunction, nephrotoxicity, cardiac toxicity</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Naproxen (NSAID)</p>
+			</td>
+			<td style="width:72px;">
+			<p>500 mg initially, then 250 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>12h</p>
+			</td>
+			<td style="width:72px;">
+			<p>1500 mg</p>
+			</td>
+			<td style="width:158px;">
+			<p>Same as for Ibuprofen, but likely less cardiac toxicity</p>
+			</td>
+			<td style="width:125px;">
+			<p>Same as for Ibuprofen, except less cardiac toxicity</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Celecoxib (NSAID)</p>
+			</td>
+			<td style="width:72px;">
+			<p>100-200 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>12h</p>
+			</td>
+			<td style="width:72px;">
+			<p>200-400 mg</p>
+			</td>
+			<td style="width:158px;">
+			<p>Doesn’t interfere with platelet aggregation</p>
+			</td>
+			<td style="width:125px;">
+			<p>Risk of cardiovascular events</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Tramadol</p>
+			</td>
+			<td style="width:72px;">
+			<p>25-50 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>4-6h</p>
+			</td>
+			<td style="width:72px;">
+			<p>400 mg (300 mg in elderly)</p>
+			</td>
+			<td style="width:158px;">
+			<p>Has weak affinity for mu receptor</p>
+			</td>
+			<td style="width:125px;">
+			<p>HA, confusion, sedation, nausea</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" style="width:591px;">
+			<p align="center"><strong>Selected Co-Analgesics (class)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Gabapentin (anticonvulsant)</p>
+			</td>
+			<td style="width:72px;">
+			<p>Titrate q3 days from 100-300 mg qhs</p>
+			</td>
+			<td style="width:60px;">
+			<p>TID</p>
+			</td>
+			<td style="width:72px;">
+			<p>No upper limit</p>
+			</td>
+			<td style="width:158px;">
+			<p>Use for neuropathic pain; Adjust if renal disease; very few drug-drug interactions, minimum effective dose 900 mg total/day</p>
+			</td>
+			<td style="width:125px;">
+			<p>Dizziness, sedation</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Duloxetine</p>
+
+			<p>(SNRI)</p>
+			</td>
+			<td style="width:72px;">
+			<p>30-60 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>Daily</p>
+			</td>
+			<td style="width:72px;">
+			<p>60 mg</p>
+			</td>
+			<td style="width:158px;">
+			<p>Use for neuropathic pain, also FDA approved for chronic MSK pain. SNRI Venlafaxine has similar effects</p>
+			</td>
+			<td style="width:125px;">
+			<p>Nausea, dry mouth, insomnia, drowsiness, constipation, fatigue, dizziness</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Nortriptyline</p>
+
+			<p>(TCA)</p>
+			</td>
+			<td style="width:72px;">
+			<p>10-75 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>Daily</p>
+			</td>
+			<td style="width:72px;">
+			<p>300 mg</p>
+			</td>
+			<td style="width:158px;">
+			<p>Effects neuropathic pain at lower doses than for depression (i.e. 1-3 days vs weeks); all TCAs seem effective</p>
+			</td>
+			<td style="width:125px;">
+			<p>Anti-cholinergic side effects (highest with Amitriptyline so would avoid)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Baclofen</p>
+
+			<p>(Skeletal muscle relaxant)</p>
+			</td>
+			<td style="width:72px;">
+			<p>5-10 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>TID</p>
+			</td>
+			<td style="width:72px;">
+			<p>120 mg</p>
+			</td>
+			<td style="width:158px;">
+			<p>Helpful for muscle spasm as well as neuropathy; other agents in class include Cyclobenzaprine and Carisoprodol (latter has high abuse potential)</p>
+			</td>
+			<td style="width:125px;">
+			<p>Sedation, dizziness, abuse potential.  Benzodiazepines may be just as effective for spasm.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:104px;">
+			<p>Lidocaine patch</p>
+
+			<p>(Local anesthetic)</p>
+			</td>
+			<td style="width:72px;">
+			<p>5% patch applied to area of pain</p>
+			</td>
+			<td style="width:60px;">
+			<p>BID</p>
+			</td>
+			<td style="width:72px;">
+			<p>1-4 patches at a time</p>
+			</td>
+			<td style="width:158px;">
+			<p>Not all insurances cover, also available as a gel or cream; other somewhat effective local anesthetic is Capsaicin cream</p>
+			</td>
+			<td style="width:125px;">
+			<p>Skin irritation, contact dermatitis</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:.25in;"> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:588px;" width="588">
+	<tbody>
+		<tr>
+			<td style="width:150px;">
+			<p align="center" style="margin-left:-9.9pt;"><strong>Opioid </strong></p>
+
+			<p align="center" style="margin-left:-5.85pt;"><strong>(by increasing potency)</strong></p>
+			</td>
+			<td style="width:78px;">
+			<p align="center"><strong>Parenteral Route</strong></p>
+			</td>
+			<td style="width:60px;">
+			<p align="center"><strong>Oral Route</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p align="center"><strong>Starting Dose for Opioid Naive</strong></p>
+			</td>
+			<td rowspan="2" style="width:192px;">
+			<p><strong><u>Breakthrough Pain</u></strong></p>
+
+			<p>If using SR opioids ATC, rx IR opioid for breakthrough pain. Breakthrough dose is 10-15% of the 24h total daily opioid dose, available q1-2h.</p>
+
+			<p> </p>
+
+			<p>If using 3 or more rescue doses daily, consider increasing ATC dose.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Oxycodone</em></strong></p>
+
+			<p>IR: Oxycodone</p>
+
+			<p>SR: Oxycontin</p>
+			</td>
+			<td style="width:78px;">
+			<p>N/A</p>
+			</td>
+			<td style="width:60px;">
+			<p>20 mg</p>
+			</td>
+			<td style="width:108px;">
+			<p>5 mg IR,</p>
+
+			<p>10 mg SR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Morphine</em></strong></p>
+
+			<p>IR: Morphine, Roxanol</p>
+
+			<p>SR: MS Contin, Kadian</p>
+			</td>
+			<td style="width:78px;">
+			<p>10 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>30 mg</p>
+			</td>
+			<td style="width:108px;">
+			<p>15 mg for both IR and SR formulations</p>
+			</td>
+			<td rowspan="3" style="width:192px;">
+			<p><strong><u>Opioid Conversions</u></strong></p>
+
+			<ul>
+				<li>Calculate 24h total opioid dose</li>
+				<li>Convert to desired opioid (equivalent 24h dose) using equianalgesic table to left.</li>
+				<li>Divide 24h dose of new opioid by the number of doses given per day.</li>
+				<li>Reduce calculated dose of new opioid by 25% -50% for incomplete cross-tolerance; titrate up as needed.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Hydromorphone</em></strong></p>
+
+			<p>(IR only)</p>
+			</td>
+			<td style="width:78px;">
+			<p>1.5 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>7.5 mg</p>
+			</td>
+			<td style="width:108px;">
+			<p>2 mg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150px;">
+			<p><strong><em>Fentanyl</em></strong></p>
+
+			<p>IR: Actiq</p>
+
+			<p>SR: Patch</p>
+
+			<p> </p>
+			</td>
+			<td style="width:78px;">
+			<p>0.1 mg</p>
+			</td>
+			<td style="width:60px;">
+			<p>N/A</p>
+			</td>
+			<td style="width:108px;">
+			<p>25 mcg patch = 50-100 mg oral morphine q24h</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong><u>References</u></strong></p>
+
+<ul style="list-style-type:circle;">
+	<li>Dowell, Deborah, et al. “CDC Guideline for Prescribing Opioids for Chronic Pain—United States, 2016.” <em>JAMA</em>, vol. 315, no. 15, 2016, p. 1624., doi:10.1001/jama.2016.1464.</li>
+	<li>Nugent, Shannon M., et al. “The Effects of Cannabis Among Adults With Chronic Pain and an Overview of General Harms.” <em>Annals of Internal Medicine</em>, vol. 167, no. 5, 2017, p. 319., doi:10.7326/m17-0155.</li>
+	<li>Krebs, Erin E., et al. “Effect of Opioid vs Nonopioid Medications on Pain-Related Function in Patients With Chronic Back Pain or Hip or Knee Osteoarthritis Pain.” <em>JAMA</em>, vol. 319, no. 9, June 2018, p. 872., doi:10.1001/jama.2018.0899.</li>
+	<li><a>Darnall, Beth D., et al. “Patient-Centered Prescription Opioid Tapering in Community Outpatients With Chronic Pain.” <em>JAMA Internal Medicine</em>, 2018, doi:10.1001/jamainternmed.2017.8709</a>.</li>
+	<li>Frank, Joseph W., et al. “Patient Outcomes in Dose Reduction or Discontinuation of Long-Term Opioid Therapy.” <em>Annals of Internal Medicine</em>, vol. 167, no. 3, Nov. 2017, p. 181., doi:10.7326/m17-0598.</li>
+	<li>Arnold R, Weissman DE<em>. Calculating Opioid Dose Conversions, 2nd Edition. Fast Facts and Concepts. </em>July 2005; 36. Available at: <a href="http://www.eperc.mcw.edu/fastfact/ff_036.htm">http://www.eperc.mcw.edu/fastfact/ff_036.htm</a>.</li>
+	<li>Meldrum M. The ladder and the clock: cancer pain and public policy at the end of the twentieth century.  J Pain Symptom Manage 2005; 29(1):41-54.</li>
+</ul>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/09-pain-management/09-pain-management" class="page-previous" title="Go to previous page">‹ 09. Pain Management</a>
+                    <a href="/09-pain-management/09-pain-management" class="page-up" title="Go to parent page">up</a>
+                    <a href="/02-chronic-pain-management/02-chronic-pain-management" class="page-next" title="Go to next page">02. Chronic Pain Management ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="expanded active-trail menu-mlid-5206"><a href="/09-pain-management/09-pain-management" class="active-trail">09. Pain Management</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-5211"><a href="/01-principles-pain-management/01-principles-pain-management" class="active-trail active">01. Principles of Pain Management </a></li>
+<li class="leaf menu-mlid-5216"><a href="/02-chronic-pain-management/02-chronic-pain-management">02. Chronic Pain Management</a></li>
+<li class="leaf menu-mlid-5221"><a href="/03-treatment-non-pharm-methods/03-treatment-non-pharm-methods">03. Treatment Non Pharm Methods</a></li>
+<li class="leaf menu-mlid-5226"><a href="/04-treatment-chronic-cancer-pain/04-treatment-chronic-cancer-pain">04. Treatment of chronic Cancer Pain</a></li>
+<li class="leaf menu-mlid-5231"><a href="/05-treatment-chronic-non-cancer-pain/05-treatment-chronic-non-cancer-pain">05. Treatment of Chronic Non-Cancer Pain</a></li>
+<li class="leaf menu-mlid-5236"><a href="/06-treatment-opiate-prescribing/06-treatment-opiate-prescribing">06. Treatment Opiate Prescribing</a></li>
+<li class="last leaf menu-mlid-5241"><a href="/07-abnormal-u-tox/07-abnormal-u-tox">07. Abnormal U-Tox</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

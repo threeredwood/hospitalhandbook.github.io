@@ -1,0 +1,1171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/04-red-eye/04-red-eye" />
+<link rel="shortlink" href="/node/2216" />
+<link rel="prev" href="/03-painful-eye/03-painful-eye" />
+<link rel="up" href="/15-ophthalmology/15-ophthalmology" />
+<link rel="next" href="/16-psychiatry/16-psychiatry" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/04-red-eye/04-red-eye" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/04-red-eye/04-red-eye" />
+<meta property="twitter:title" content="04. Red Eye | Hospital Handbook" />
+<meta property="og:title" content="04. Red Eye" />
+  <title>04. Red Eye | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"8PuRwE4HrHTP_lE-AVWUZshKb3XZRR59osHONjBPwcY","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/04-red-eye\/04-red-eye":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2216 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/04-red-eye/04-red-eye" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-gPVQFeFMzRq3dfI0rWa9gM0VizxVGl3slpj6rIdxfy8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/15-ophthalmology/15-ophthalmology" class="active-trail">15. Ophthalmology</a> > <span class="breadcrumb-page-title">04. Red Eye</span></div></div></div>
+                  <h1 class="title" id="page-title">04. Red Eye</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2216" class="node node-book clearfix" about="/04-red-eye/04-red-eye" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="04. Red Eye" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Patrick Azcarate, MD</p>
+
+<p align="right">Faculty Editor: Emily Mak OD, Paul Nadler, MD; Cynthia Chiu, MD</p>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>This is a common complaint and few evidence-based management guidelines exist.</li>
+	<li> Although the majority of presentations can be managed in the primary care setting, the key is to promptly identify potentially vision-threatening conditions and refer appropriately. Some conditions may start as benign but can progress to a vision-threatening variant if not promptly recognized and treated.</li>
+</ul>
+
+<p><strong><u>Evaluation:</u></strong></p>
+
+<ul>
+	<li>A  thorough history should include asking about: vision changes, pain, photophobia, foreign body sensation or foreign body exposure, conjunctival discharge, history of trauma or contact lens use (increases the suspicion of keratitis and corneal ulcer).  A sexual history may be relevant (gonococcal conjunctivitis)</li>
+	<li>Perform an eye exam with a focus on: visual acuity, penlight exam for pupillary reaction/asymmetry and anterior chamber examination, direct observation and ophthalmoscopy, and fluorescein staining if appropriate (see the <em>Eye Anatomy and Physical Exam</em> chapter section on <em>Ocular Exam</em>).</li>
+</ul>
+
+<p style="text-align:center"><img alt="" height="2216" src="/sites/g/files/tkssra6536/f/wysiwyg/Screen%20Shot%202021-05-24%20at%207.36.33%20PM.png" width="1632" /></p>
+
+<h5 style="text-align: center;"><br />
+<strong><u>Common Causes</u></strong> (usually not imminently vision-threatening)</h5>
+
+<table align="left" border="1" cellpadding="0" cellspacing="0" width="703">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 125px; height: 15px;">
+			<p><strong>Cause</strong></p>
+			</th>
+			<th scope="col" style="width: 177px; height: 15px;">
+			<p><strong>Specific Etiologies</strong></p>
+			</th>
+			<th scope="col" style="width: 160px; height: 15px;">
+			<p><strong>Typical Presentation</strong></p>
+			</th>
+			<th scope="col" style="width: 240px; height: 15px;">
+			<p><strong>Treatment*</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="4" style="width:703px;height:15px;">
+			<p align="center"><em><strong>GENERALLY PAINFUL</strong></em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:125px;height:108px;">
+			<p><strong>Iritis or Anterior Uveitis</strong></p>
+
+			<p>(vs traumatic = emergency)</p>
+
+			<p> </p>
+
+			<p>Uvea = iris + ciliary body + choroid (vascular middle layer of eye)</p>
+			</td>
+			<td style="width:177px;height:108px;">
+			<p style="margin-left:7.2pt;">Infection (HSV, VZV, toxoplasmosis, TB, Syphilis, Lyme)</p>
+
+			<p style="margin-left:7.2pt;">HLA-B27 associated conditions (e.g., IBD, ankylosing spondylitis, Reiter’s, Still’s disease)</p>
+
+			<p style="margin-left:7.2pt;">Medications: Rifabutin, Moxifloxacin, Cidofovir, IV bisphosphonates</p>
+
+			<p style="margin-left:7.2pt;">Sarcoidosis</p>
+			</td>
+			<td style="width:160px;height:108px;">
+			<p style="margin-left:7.2pt;">Constant “aching” pain developing acutely over hours</p>
+
+			<p style="margin-left:7.2pt;">Photophobia</p>
+
+			<p style="margin-left:7.2pt;">Decreased visual acuity</p>
+
+			<p style="margin-left:7.2pt;">Constricted unreactive pupil, ciliary flush (hyperemia at limbus)</p>
+
+			<p style="margin-left:7.2pt;">Slit lamp:  WBC’s in anterior chamber, rarely hypopyon</p>
+			</td>
+			<td style="width:240px;height:108px;">
+			<p style="margin-left:7.2pt;">Topical cycloplegic for mild/mod; atropine for severe</p>
+
+			<p style="margin-left:7.2pt;">Treat underlying infection</p>
+
+			<p style="margin-left:7.2pt;">Urgent referral within 24-48 hours</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:125px;height:123px;">
+			<p><strong>Episcleritis</strong></p>
+			</td>
+			<td style="width:177px;height:123px;">
+			<p style="margin-left:7.2pt;">Idiopathic (75%) and not associated with systemic disease</p>
+
+			<p style="margin-left:7.2pt;">If bilateral, consider systemic inflammation/ autoimmune disorder: HSV, vasculitis, Lyme, bisphosphonate use</p>
+			</td>
+			<td style="width:160px;height:123px;">
+			<p style="margin-left:7.2pt;">Acute onset of pain</p>
+
+			<p style="margin-left:7.2pt;">Foreign body sensation</p>
+
+			<p style="margin-left:7.2pt;">Tearing</p>
+
+			<p style="margin-left:7.2pt;">Recurrent episodes common</p>
+
+			<p style="margin-left:7.2pt;">Normal acuity</p>
+
+			<p style="margin-left:7.2pt;">Sectoral dilation of episcleral vessels</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+			</td>
+			<td style="width:240px;height:123px;">
+			<p style="margin-left:7.2pt;">Usually self-limited and resolves within 3 weeks with or without tx</p>
+
+			<p style="margin-left:7.2pt;">Phenylephrine 2.5% test à one drop and look for blanching of episcleral vessels in 10-15 min</p>
+
+			<p style="margin-left:7.2pt;">Tx sxs with: Artificial tears or NSAIDs PRN</p>
+
+			<p style="margin-left:7.2pt;">Urgent referral if sxs persistent/ recurrent or if difficulty distinguishing from scleritis (scleritis with worse pain “boring,” photophobia, blue-purple sclera)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:125px;height:123px;">
+			<p><strong>Corneal Abrasion</strong></p>
+
+			<p> </p>
+
+			<p>(Cornea is richly innervated by V1)</p>
+			</td>
+			<td style="width:177px;height:123px;">
+			<p style="margin-left:7.2pt;">Scratching or hitting eye (direct injury, foreign body, contact lens, etc.)</p>
+			</td>
+			<td style="width:160px;height:123px;">
+			<p style="margin-left:7.2pt;">Normal or decreased acuity</p>
+
+			<p style="margin-left:7.2pt;">Surface irregularity with penlight exam</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Pain (inability to open eye to foreign body sensation), photophobia, tearing</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+			</td>
+			<td style="width:240px;height:123px;">
+			<p style="margin-left:7.2pt;">Topical anesthetic for <strong>exam only</strong></p>
+
+			<p style="margin-left:7.2pt;">Dx: Fluorescein staining</p>
+
+			<p style="margin-left:7.2pt;">Tx: Antibiotic ointment/gtts, and pain control with NSAID’s or systemic opiates (no topical anesthetics!)</p>
+
+			<p style="margin-left:7.2pt;">Monitor recovery q1-2 days</p>
+
+			<p style="margin-left:7.2pt;">Urgent referral if no improvement in 2 days, markedly decreased acuity, or large central abrasion</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:125px;height:123px;">
+			<p><strong>Stye = Hordeolum</strong></p>
+			</td>
+			<td style="width:177px;height:123px;">
+			<p style="margin-left:7.2pt;">Acute purulent focal inflammation of eyelid (Staph/Strep)</p>
+			</td>
+			<td style="width:160px;height:123px;">
+			<p style="margin-left:7.2pt;">Acute onset</p>
+
+			<p style="margin-left:7.2pt;">Tender, smaller lid mass on lid margin</p>
+
+			<p style="margin-left:7.2pt;">No lasting granuloma</p>
+			</td>
+			<td style="width:240px;height:123px;">
+			<p style="margin-left:7.2pt;">Warm compresses</p>
+
+			<p style="margin-left:7.2pt;">Lid massages/ABx ophthalmic ung</p>
+
+			<p style="margin-left:7.2pt;">Refer if no resolution after 3-4 weeks for I&amp;D or steroid injection</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:125px;height:123px;">
+			<p><strong>Chalazion</strong></p>
+
+			<p><strong>(like hordeolum, but more subacute)</strong></p>
+			</td>
+			<td style="width:177px;height:123px;">
+			<p style="margin-left:7.2pt;">Oil glands of eyelid become obstructed and then chronically inflamed</p>
+			</td>
+			<td style="width:160px;height:123px;">
+			<p style="margin-left:7.2pt;">Subacute onset</p>
+
+			<p style="margin-left:7.2pt;">Non-tender lid mass on inside lid</p>
+			</td>
+			<td style="width:240px;height:123px;">
+			<p style="margin-left:7.2pt;">No Abx</p>
+
+			<p style="margin-left:7.2pt;">Warm compresses</p>
+
+			<p style="margin-left:7.2pt;">Usually resolves spontaneously in wks-mths</p>
+
+			<p style="margin-left:7.2pt;">Refer for I&amp;D if persistent &gt; 4 weeks</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:125px;height:123px;">
+			<p><strong>Inflammed Pterygium</strong></p>
+			</td>
+			<td style="width:177px;height:123px;">
+			<p style="margin-left:7.2pt;">Benign triangular degenerative lesion of the conjunctiva acquired from UV exposure or chronic irritation</p>
+			</td>
+			<td style="width:160px;height:123px;">
+			<p style="margin-left:7.2pt;">Usually asymptomatic (develops over yrs)</p>
+
+			<p style="margin-left:7.2pt;">Raised, yellow, fleshy lesion on nasal side of conjunctival extending into peripheral cornea</p>
+
+			<p style="margin-left:7.2pt;">If inflamed- red and irritated</p>
+			</td>
+			<td style="width:240px;height:123px;">
+			<p style="margin-left:7.2pt;">UV protection to prevent</p>
+
+			<p style="margin-left:7.2pt;">Artificial tears PRN</p>
+
+			<p style="margin-left:7.2pt;">Routine referral if invades cornea</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:708px;" width="708">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 151px; height: 15px;">
+			<p><strong>Cause</strong></p>
+			</th>
+			<th scope="col" style="width: 149px; height: 15px;">
+			<p style="text-align: center;"><strong>Specific Etiologies</strong></p>
+			</th>
+			<th scope="col" style="width: 158px; height: 15px;">
+			<p><strong>Typical Presentation</strong></p>
+			</th>
+			<th scope="col" style="width: 250px; height: 15px;">
+			<p><strong>Treatment*</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="4" style="width:708px;height:15px;">
+			<p align="center"><strong><em>GENERALLY NOT PAINFUL</em></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;height:92px;">
+			<p><strong>Subconjunctival Hemorrhage</strong></p>
+			</td>
+			<td style="width:149px;height:92px;">
+			<p style="margin-left:7.2pt;">Minor blunt trauma, vigorous Valsalva, prolonged coughing or vomiting, conjunctivitis, HTN, bleeding diathesis, anticoagulants</p>
+			</td>
+			<td style="width:158px;height:92px;">
+			<p style="margin-left:7.2pt;">Asymptomatic</p>
+
+			<p style="margin-left:7.2pt;">Usually unilateral</p>
+
+			<p style="margin-left:7.2pt;">Normal acuity, no discharge, no pain</p>
+
+			<p style="margin-left:7.2pt;">Sharply circumscribed area</p>
+
+			<p style="margin-left:7.2pt;">Underlying sclera completely obscured</p>
+			</td>
+			<td style="width:250px;height:92px;">
+			<p style="margin-left:7.2pt;">Usually self-limited w/i 2-3 weeks</p>
+
+			<p style="margin-left:7.2pt;">Artificial tears PRN</p>
+
+			<p style="margin-left:7.2pt;">Consider BP check, platelets, coags, skin exam for petechia/bleeding diathesis</p>
+
+			<p style="margin-left:7.2pt;">If recurrent, evaluate for hematologic or neoplastic disorder and consider referral</p>
+
+			<p style="margin-left:7.2pt;">In the setting of facial/orbital trauma, high suspicion for globe rupture</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;height:77px;">
+			<p><strong>Entropion: </strong> lower eyelid folds inward</p>
+
+			<p> </p>
+
+			<p><strong>Ectropion:</strong> lower eyelid turns out</p>
+
+			<p> </p>
+
+			<p><strong>Trichiasis: </strong>eyelashes turned in toward cornea</p>
+			</td>
+			<td style="width:149px;height:77px;">
+			<p style="margin-left:7.2pt;">Entropion/Ectropion:</p>
+
+			<p style="margin-left:7.2pt;">Idiopathic/senile, mechanical, paralytic, restrictive (eyelid scarring)</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Trichiasis: chronic blepharitis, long-term topical medication (glaucoma), trachoma</p>
+			</td>
+			<td style="width:158px;height:77px;">
+			<p style="margin-left:7.2pt;">Facial hemiparesis if paralytic etiology</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Exposure keratopathy</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Eyelashes can rub cornea and irritate it</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Corneal thinning or ulceration if severe</p>
+			</td>
+			<td style="width:250px;height:77px;">
+			<p style="margin-left:7.2pt;">Artificial tears PRN</p>
+
+			<p style="margin-left:7.2pt;">Tape eyelids closed for sleeping</p>
+
+			<p style="margin-left:7.2pt;">Forceps removal if only a few lashes involved (usually grow back)</p>
+
+			<p style="margin-left:7.2pt;">Surgical correction if severe</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;height:123px;">
+			<p><strong>Conjunctivitis</strong></p>
+
+			<p>   Viral</p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p>Bacterial</p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p>  </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p>Allergic</p>
+
+			<p>    </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p>Toxic= “conjunctivitis medicamentosa”</p>
+			</td>
+			<td style="width:149px;height:123px;">
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">*Most likely cause/ highly contagious</p>
+
+			<p style="margin-left:7.2pt;">adenovirus&gt;&gt;HSV</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Gram + &gt; gram –</p>
+
+			<p style="margin-left:7.2pt;">Gonorrheal (hyperacute) in sexually active adults</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Pollen, dust, dander</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Use of ophthalmic meds</p>
+			</td>
+			<td style="width:158px;height:123px;">
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Watery discharge, gritty feeling</p>
+
+			<p style="margin-left:7.2pt;">After URI or exposure</p>
+
+			<p style="margin-left:7.2pt;">Palpable preauricular LN</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Abrupt onset, purulent discharge with debris/ matting of eyelashes</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Itching (prominent symptom), tearing of eye, bilateral.</p>
+
+			<p>Nasal congestion</p>
+
+			<p>Red eye with eyelid edema and scaling</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+			</td>
+			<td style="width:250px;height:123px;">
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Usually self-limited within 2 wks</p>
+
+			<p style="margin-left:7.2pt;">Meticulous hand washing</p>
+
+			<p style="margin-left:7.2pt;">Do NOT share towels, avoid close contact, no pools X 2 weeks</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Bacterial culture swab</p>
+
+			<p style="margin-left:7.2pt;">Urgent referral if no improvement in 7-10 days, emergent if suspect gonococcal etiology</p>
+
+			<p style="margin-left:7.2pt;">Abx gtts X 7-10d</p>
+
+			<p style="margin-left:7.2pt;">Warm compresses</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Remove allergen</p>
+
+			<p style="margin-left:7.2pt;">Artificial tears</p>
+
+			<p style="margin-left:7.2pt;">Topical anti-histamine</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;">Remove offending agent</p>
+
+			<p style="margin-left:7.2pt;">Artificial tears</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+
+			<p style="margin-left:7.2pt;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:151px;height:63px;">
+			<p><strong>Blepharitis = Meibomitis</strong></p>
+			</td>
+			<td style="width:149px;height:63px;">
+			<p style="margin-left:7.2pt;">Infection (Staphylococcal)</p>
+
+			<p>Dermatologic disease (Seborrheic dermatitis)</p>
+			</td>
+			<td style="width:158px;height:63px;">
+			<p style="margin-left:7.2pt;">Usually bilateral erythema/edema/ itchiness of eyelid</p>
+
+			<p style="margin-left:7.2pt;">Foreign body sensation</p>
+
+			<p style="margin-left:7.2pt;">Misdirection/loss/ crusting/matting of eyelashes</p>
+
+			<p style="margin-left:7.2pt;">Red conjunctiva</p>
+
+			<p>Excessive tearing</p>
+			</td>
+			<td style="width:250px;height:63px;">
+			<p style="margin-left:7.2pt;">Warm compresses</p>
+
+			<p style="margin-left:7.2pt;">Lid massage and washing</p>
+
+			<p style="margin-left:7.2pt;">Topical Azithromycin/ Erythromycin or Bacitracin <u>ophthalmic</u> ointment (not usual bacitracin)</p>
+
+			<p>If resistant to tx or unilateral refer to ophtho to evaluate for masquerade syndrome (sebaceous cell CA)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h5 style="text-align: center;"><u><strong>Vision-threatening Causes</strong></u></h5>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="698">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 188px; height: 15px;">
+			<p><strong>Cause</strong></p>
+			</th>
+			<th scope="col" style="width: 135px; height: 15px;">
+			<p><strong>Specific Etiologies</strong></p>
+			</th>
+			<th scope="col" style="width: 165px; height: 15px;">
+			<p><strong>Typical Presentation</strong></p>
+			</th>
+			<th scope="col" style="width: 210px; height: 15px;">
+			<p><strong>Treatment*</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="4" style="width:698px;height:15px;">
+			<p align="center"><strong><em>GENERALLY PAINFUL</em></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:62px;">
+			<p><strong>Penetrating injury</strong></p>
+			</td>
+			<td rowspan="2" style="width:135px;height:62px;">
+			<p style="margin-left:7.2pt;">Trauma or surgery</p>
+
+			<p style="margin-left:7.2pt;">Fall</p>
+
+			<p style="margin-left:7.2pt;">Occupations with flying pieces of sand, wood, metal, glass</p>
+			</td>
+			<td style="width:165px;height:62px;">
+			<p style="margin-left:7.2pt;">Normal or decreased acuity, limited EOM, shallow anterior chamber depth, scleral perforation, corneal laceration, uveal prolapse</p>
+			</td>
+			<td style="width:210px;height:62px;">
+			<p style="margin-left:7.2pt;">Orbital CT (avoid MRI if suspect metallic foreign body)</p>
+
+			<p style="margin-left:7.2pt;">Eye shield &amp; avoid globe pressure</p>
+
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> referral for surgical repair</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:108px;">
+			<p><strong>Foreign body</strong></p>
+			</td>
+			<td style="width:165px;height:108px;">
+			<p style="margin-left:7.2pt;">As above, as well as conjunctival injection, eyelid edema, or visible foreign body +/- rust ring.</p>
+			</td>
+			<td style="width:210px;height:108px;">
+			<p style="margin-left:7.2pt;">Topical anesthetic PRN</p>
+
+			<p style="margin-left:7.2pt;">Fluorescein staining</p>
+
+			<p style="margin-left:7.2pt;">Saline irrigation PRN</p>
+
+			<p style="margin-left:7.2pt;">Antibiotic gtt to prevent bacterial keratitis</p>
+
+			<p style="margin-left:7.2pt;">Urgent referral for removal</p>
+
+			<p style="margin-left:7.2pt;">F/u daily until eye is healed</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Hyphema </strong></p>
+
+			<p>(RBCs in anterior chamber)</p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Trauma or surgery</p>
+
+			<p style="margin-left:7.2pt;">Coagulopathy</p>
+
+			<p style="margin-left:7.2pt;">Rarely spontaneous from intraocular neoplasms/ iris neovascularization</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Acute unilateral blurred vision, photophobia</p>
+
+			<p style="margin-left:7.2pt;">May have N/V</p>
+
+			<p style="margin-left:7.2pt;">Dark exudate in lower, inferior chamber of eye</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Eye shield at all times,</p>
+
+			<p style="margin-left:7.2pt;">Bed rest with HOB elevated</p>
+
+			<p style="margin-left:7.2pt;">Tylenol PRN (avoid ASA/NSAIDs-increased bleeding)</p>
+
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> referral (may be associated with glaucoma)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Preseptal Cellulitis =</strong></p>
+
+			<p><strong>peri-orbital</strong></p>
+
+			<p>(Infection of anterior portion of eyelid, not the orbit or ocular structures)</p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Skin infection (Staph/Strep&gt;&gt;H. flu)</p>
+
+			<p style="margin-left:7.2pt;">Trauma, insect bite, sinusitis, hordeolum</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Erythema, edema, warmth, tenderness</p>
+
+			<p style="margin-left:7.2pt;"><strong><u>No</u></strong> proptosis, no abnormal or painful EOM, or loss of vision. (If present, treat as orbital cellulitis)</p>
+
+			<p style="margin-left:7.2pt;"> </p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Culture any open wound</p>
+
+			<p style="margin-left:7.2pt;">Consider orbital CT to r/o orbital cellulitis</p>
+
+			<p style="margin-left:7.2pt;"><u>Oral</u> antibiotics</p>
+
+			<p style="margin-left:7.2pt;">Hospitalize if appears toxic or refractory to oral antibiotics</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Orbital Cellulitis</strong></p>
+
+			<p>(Infection of contents of orbit-more serious)</p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Direct extension from other infectious sites (sinusitis)</p>
+
+			<p style="margin-left:7.2pt;">Trauma or surgery</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Erythema, edema, warmth, tenderness</p>
+
+			<p style="margin-left:7.2pt;">Fever, acute unilateral blurred vision, eyelid edema, HA</p>
+
+			<p style="margin-left:7.2pt;">Proptosis and restricted, painful EOM</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> hospitalization and referral</p>
+
+			<p style="margin-left:7.2pt;"><strong>Orbital CT</strong></p>
+
+			<p style="margin-left:7.2pt;">Broad IV antibiotics</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Angle-Closure Glaucoma</strong></p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Anterior iris positioning that blocks or reduces aqueous humor outflow</p>
+
+			<p style="margin-left:7.2pt;">Assess for precipitants (e.g., stress, darkened room, anticholinergic or sympathomimetic meds)</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Sxs more frequent at night when pupil more dilated</p>
+
+			<p style="margin-left:7.2pt;">Severe, aching pain, acute <u>unilateral</u> blurred vision, colored halos around lights, photophobia, N/V, HA</p>
+
+			<p style="margin-left:7.2pt;">Severely reduced acuity</p>
+
+			<p style="margin-left:7.2pt;">Increased IOP (60-80mm Hg), hard globe</p>
+
+			<p style="margin-left:7.2pt;">Fixed, mid-dilated pupil</p>
+
+			<p style="margin-left:7.2pt;">Shallow anterior chamber</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Immediate topical beta-blocker (e.g., timolol 0.5), alpha-agonist (e.g. brimonidine 0.15%), carbonic anhydrase inhibitor (e.g., dorzolamide 2%), IV acetazolamide 500mg, or osmotic agents by a specialist</p>
+
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> referral for laser iridotomy to prevent optic nerve ischemia</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Chemical burn</strong></p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Alkali exposure (more dangerous than acidic agents): cement, lye, oven/drain cleaners</p>
+
+			<p style="margin-left:7.2pt;">Acids, solvents,  detergents</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Blurry vision, eyelid spasm</p>
+
+			<p style="margin-left:7.2pt;">Periorbital skin burns</p>
+
+			<p style="margin-left:7.2pt;">Corneal edema or opacification</p>
+
+			<p style="margin-left:7.2pt;">Conjunctivitis</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Topical anesthetic PRN</p>
+
+			<p style="margin-left:7.2pt;">Emergent, copious, prolonged irrigation with saline/water ≥30 min</p>
+
+			<p style="margin-left:7.2pt;">Wait 5-10 min, then check pH in inferior fornix using litmus paper or U/A strip for goal pH 7.0-7.2</p>
+
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> referral after lavage</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Thermal/UV </strong></p>
+
+			<p><strong>Keratopathy</strong></p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Welding, skiing, or sun lamp use without adequate eye protection</p>
+
+			<p style="margin-left:7.2pt;">No chemical exposure</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Mod/severe pain</p>
+
+			<p style="margin-left:7.2pt;">Foreign body sensation</p>
+
+			<p style="margin-left:7.2pt;">Tearing, photophobia, blurred vision, eyelid spasm all worsening 6-12 hours after exposure</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Tape eyelids closed</p>
+
+			<p style="margin-left:7.2pt;">Antibiotic ointment QID</p>
+
+			<p style="margin-left:7.2pt;">Cycloplegic drops and/or oral analgesics PRN</p>
+
+			<p style="margin-left:7.2pt;"><strong>Urgent</strong> referral w/in 24-48 hours</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Keratitis or Corneal Ulcer</strong></p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Bacterial <u>(More urgent than viral)</u>(Staph, Strep, Pseudomonas)</p>
+
+			<p style="margin-left:7.2pt;">Fungal</p>
+
+			<p style="margin-left:7.2pt;">HSV/HZV</p>
+
+			<p style="margin-left:7.2pt;">Atypical mycobacteria</p>
+
+			<p style="margin-left:7.2pt;">Severe dry eye, topical anesthetic abuse, or residual foreign body</p>
+
+			<p style="margin-left:7.2pt;">Acanthamoeba in contact lens users</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">Unilateral blurred vision, photophobia, discharge</p>
+
+			<p style="margin-left:7.2pt;">Decreased visual acuity if central</p>
+
+			<p style="margin-left:7.2pt;">Corneal haziness</p>
+
+			<p style="margin-left:7.2pt;">Presence of hypopyon (pus in the eye)</p>
+
+			<p style="margin-left:7.2pt;">Conjunctiva can be red with foreign body sensation</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Fluorescein staining</p>
+
+			<p style="margin-left:7.2pt;">Topical antibiotic</p>
+
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> referral</p>
+
+			<p style="margin-left:7.2pt;">Discontinue contacts (and save contacts and case for Cx)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:77px;">
+			<p><strong>Hypopyon </strong>(pus in anterior chamber)</p>
+			</td>
+			<td style="width:135px;height:77px;">
+			<p style="margin-left:7.2pt;">Sign of severe anterior uveitis</p>
+
+			<p style="margin-left:7.2pt;">Causes:  corneal ulcers, endophthalmitis, medication toxicity, Behcets</p>
+			</td>
+			<td style="width:165px;height:77px;">
+			<p style="margin-left:7.2pt;">White exudate in lower anterior chamber of eye</p>
+
+			<p style="margin-left:7.2pt;">Blurred vision, photophobia</p>
+			</td>
+			<td style="width:210px;height:77px;">
+			<p style="margin-left:7.2pt;">Treat underlying cause</p>
+
+			<p style="margin-left:7.2pt;"><strong>Emergent </strong>referral</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:93px;">
+			<p><strong>Traumatic Iritis or Uveitis</strong></p>
+
+			<p>(vs non-traumatic= non-emergent)</p>
+			</td>
+			<td style="width:135px;height:93px;">
+			<p>Trauma</p>
+			</td>
+			<td style="width:165px;height:93px;">
+			<p style="margin-left:7.2pt;">Sxs start within 3 days of trauma</p>
+
+			<p style="margin-left:7.2pt;">Normal or decreased acuity</p>
+
+			<p style="margin-left:7.2pt;">Tearing, photophobia</p>
+
+			<p style="margin-left:7.2pt;">Dull, aching/throbbing pain</p>
+
+			<p style="margin-left:7.2pt;">Asymmetric pupil size</p>
+			</td>
+			<td style="width:210px;height:93px;">
+			<p style="margin-left:7.2pt;"><strong>Emergent</strong> referral</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:188px;height:108px;">
+			<p><strong>Scleritis</strong></p>
+
+			<p> </p>
+
+			<p>Types:</p>
+
+			<p>Sectoral</p>
+
+			<p>Diffuse</p>
+
+			<p>Nodular</p>
+
+			<p>Necrotizing (severe)</p>
+			</td>
+			<td style="width:135px;height:108px;">
+			<p style="margin-left:7.2pt;">50% have associated systemic disease (connective tissue disorders, zoster, syphilis, gout, etc.)</p>
+			</td>
+			<td style="width:165px;height:108px;">
+			<p style="margin-left:7.2pt;">Moderate/severe deep pain with radiation to temple/jaw</p>
+
+			<p style="margin-left:7.2pt;">Photophobia, tearing, tenderness</p>
+
+			<p style="margin-left:7.2pt;">Normal or reduced acuity</p>
+
+			<p style="margin-left:7.2pt;">Scleral edema with engorged deep scleral vessels</p>
+			</td>
+			<td style="width:210px;height:108px;">
+			<p style="margin-left:7.2pt;">Phenylephrine test as above</p>
+
+			<p style="margin-left:7.2pt;">Relevant PEx and w/u to evaluate for autoimmune or infectious etiologies</p>
+
+			<p style="margin-left:7.2pt;"><strong>Urgent</strong> referral</p>
+
+			<p style="margin-left:7.2pt;">Oral NSAIDs and refer to ophtho for tx with steroids/ antimetabolites</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*Ophthalmology referral (emergent is immediately, urgent is 24-48 hours, routine is weeks to months).</p>
+
+<p><strong><u>General principles of management</u></strong></p>
+
+<p>-Manage pain cycloplegic and/or oral NSAIDs/opiates. (<strong>But not in the setting of acute angle closure glaucoma)</strong></p>
+
+<p>-Optimize lubrication with artificial tears 4x/day PRN for irritation. </p>
+
+<p>-Check visual acuity</p>
+
+<p>-Fluorescein exam on all unilateral cases of conjunctivitis to rule out abrasion/ulcer/foreign body and in all contact lens wearers (to r/o ulcer caused by pseudomonas).  </p>
+
+<p><strong><u>When to refer</u></strong> (<em>Most abnormalities are appropriate for referral, so have a low threshold!</em>)</p>
+
+<ul>
+	<li>Blurred vision or reduced visual acuity, photophobia, proptosis, or severe pain</li>
+	<li>Colored halos around lights</li>
+	<li>Pupillary abnormalities</li>
+	<li>Ciliary flush (injection of limbal blood)</li>
+	<li>Suspicion of increased intraocular pressure</li>
+	<li>Corneal opacification detected by direct illumination with penlight or ophthalmoscope (includes corneal precipitates, diffuse haze, or localized opacities)</li>
+	<li>Presence of rust ring or unable to remove foreign body with cotton tip moistened swab.</li>
+	<li>Facial zoster extending into the eye, or dendritic pattern (herpes) on fluorescein exam</li>
+	<li>Ocular or orbital trauma or chemical injury</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Bradford CA (2004). Chapter 4: The Red Eye in Basic Ophthalmology. 8<sup>th</sup> Edition. American Academy of Ophthalmology. 75-97.</em></p>
+
+<p><em>Ehlers JP and Shah CP (2008). The Wills Eye Manual: Office and Emergency Room Diagnosis and Treatment of Eye Disease. 5<sup>th</sup> Edition. Lippincott Williams &amp; Wilkins.</em></p>
+
+<p><em>Leibowitz HM. The red eye. </em><em>N Eng J Med 2000;343:345-351.</em></p>
+
+<p><em>Palay DA and Krachmer JH (2005). </em><em>Chapter 3: The Red Eye in Primary Care Ophthalmology. 2<sup>nd</sup> Edition. Elsevier Mosby. 39-65.</em></p>
+
+<p><em>Riordan-Eva P and Whitcher JP (2011). Vaughan &amp; Asbury’s General Ophthalmology. 17<sup>th</sup> Edition. McGraw Hill Lange.</em></p>
+
+<p><em>Wirbelauer C. Management of the red eye for the primary care physician.  Am J Med 2006;119:302-306.</em></p>
+
+<p><em>Stone CK, Humphries RL. Current diagnosis and treatment: emergency medicine, 7<sup>th</sup> ed. Chapter 31: Eye emergencies. McGraw-Hill 2011.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/03-painful-eye/03-painful-eye" class="page-previous" title="Go to previous page">‹ 03. Painful Eye</a>
+                    <a href="/15-ophthalmology/15-ophthalmology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/16-psychiatry/16-psychiatry" class="page-next" title="Go to next page">16. Psychiatry ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="expanded active-trail menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology" class="active-trail">15. Ophthalmology</a><ul class="menu"><li class="first leaf menu-mlid-5401"><a href="/01-eye-anatomy-and-physical-exam/01-eye-anatomy-and-physical-exam">01. Eye Anatomy and Physical Exam</a></li>
+<li class="leaf menu-mlid-5406"><a href="/02-blurred-vision/02-blurred-vision">02. Blurred Vision</a></li>
+<li class="leaf menu-mlid-5411"><a href="/03-painful-eye/03-painful-eye">03. Painful Eye</a></li>
+<li class="last leaf active-trail active menu-mlid-5416"><a href="/04-red-eye/04-red-eye" class="active-trail active">04. Red Eye</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

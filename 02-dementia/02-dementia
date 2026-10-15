@@ -1,0 +1,460 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-dementia/02-dementia" />
+<link rel="shortlink" href="/node/396" />
+<link rel="prev" href="/01-admission-and-discharge-checklist-hospitalized-elders/01-admission-and-discharge-checklist" />
+<link rel="up" href="/content/18-geriatrics" />
+<link rel="next" href="/content/03-prescribing-geriatric-patients" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-dementia/02-dementia" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-dementia/02-dementia" />
+<meta property="twitter:title" content="02. Dementia | Hospital Handbook" />
+<meta property="og:title" content="02. Dementia" />
+  <title>02. Dementia | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"TfAzo1XwtOY6QojhFISC631aCNDmqPZJTHpMtdCJa4w","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-dementia\/02-dementia":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-396 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-dementia/02-dementia" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-9aMFa_sTGBJ21l8O778rzREi7s_AfzDTUqECyifWtPc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/18-geriatrics" class="active-trail">18. Geriatrics</a> > <span class="breadcrumb-page-title">02. Dementia</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Dementia</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-396" class="node node-book clearfix" about="/02-dementia/02-dementia" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Dementia" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Diagnosis of Dementia</h3>
+
+<p><strong>Dementia </strong>is the decline of cognitive functioning - learning and memory, language, reasoning, attention, perceptual-motor, and social cognition - to such an extent that it interferes with a person’s daily life and activities [National Institute on Aging definition]. <strong>Mild cognitive impairment</strong> is an intermediate state between normal cognition and dementia.</p>
+
+<ul style="margin-left: 40px;">
+	<li>Diagnosis requires formal neuropsychiatric testing. In almost all cases, neuropsychiatric testing should be deferred to the outpatient setting given high prevalence of delirium in hospitalized patients.</li>
+	<li>Screening for reversible causes:
+	<ul style="margin-left: 40px;">
+		<li>TSH for hypothyroidism</li>
+		<li>B12 level</li>
+		<li>Depression (common in the elderly, symptoms can masquerade as dementia)</li>
+		<li>Consider delirium (see delirium vs. dementia below)</li>
+		<li>Screening for other conditions is not routinely recommended per the American Academy of Neurology (AAN) but should be considered if there is high clinical suspicion:
+		<ul style="margin-left: 40px;">
+			<li>RPR for neurosyphilis</li>
+			<li>HIV</li>
+			<li>Folate level</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Neuroimaging is not routinely required as an inpatient and can typically be deferred to the outpatient setting unless there is another indication for imaging.
+	<ul style="margin-left: 40px;">
+		<li>AAN recommends structural neuroimaging with either a noncontrast head CT or MRI (preferred) in the initial evaluation of all patients with dementia though other guidelines do not recommend routine imaging.</li>
+		<li>If imaging is performed, evaluate for structural disease, cerebral atrophy, ventriculomegaly, and signs of ischemic cerebrovascular disease.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Assessment Instruments for Dementia</h3>
+
+<div>
+<p>The <strong>Mini-Cog Assessment Instrument</strong> is a simple rapid assessment that is relatively uninfluenced by level of education or patient’s English proficiency.</p>
+</div>
+
+<p><u>Administration (3 min)</u></p>
+
+<ol style="margin-left: 40px;">
+	<li>Instruct patient to remember 3 unrelated words (e.g., apple, blue, happy) and then to repeat the words.</li>
+	<li>Draw a large circle on a blank page and instruct the patient to draw the face of a clock in it. After the patient puts the numbers on the clock face, ask him to draw the hands of the clock to read a specific time, such as 11:20. These instructions can be repeated, but no additional instructions should be given. Give the patient as much time as needed.</li>
+	<li>Ask the patient to recall the three words from Step 1.</li>
+</ol>
+
+<p><u>Scoring</u></p>
+
+<p>Give 1 point for each recalled word. A normal clock has all numbers present in the correct sequence and position with hands that display the correct time.</p>
+
+<ul style="margin-left: 40px;">
+	<li>0 = positive screen for dementia.</li>
+	<li>1-2 with abnormal clock = positive screen for dementia.</li>
+	<li>1-2 with normal clock = negative screen for dementia.</li>
+	<li>3 = negative screen for dementia.</li>
+</ul>
+
+<p>Other tests can be considered for a more formal evaluation but should be repeated once a patient is discharged. If limited for time, consult occupational therapy to conduct the assessment:</p>
+
+<ul style="margin-left: 40px;">
+	<li><strong>MoCA: Montreal Cognitive Assessment</strong> - longer (10-15 minutes), better for mild impairment and memory evaluation, copyrighted.</li>
+	<li><strong>MMSE: Mini Mental State Examination </strong>- shorter (9-10 minutes), more focused on language skills, less sensitive for mild cognitive impairment.</li>
+	<li><strong>SLUMS: Saint Louis University Mental Status Exam</strong> - shorter (7 minutes), less validation and data on diverse populations.</li>
+</ul>
+
+<h3>Management of Patients with Dementia in the Hospital</h3>
+
+<p>Start thinking about discharge planning at admission: Will the patient be safe to go home? Should you involve social work and/or APS? Is hospice appropriate (see <a href="https://hospitalhandbook.ucsf.edu/content/19-palliative-care"><em>Palliative Care</em></a> section)?</p>
+
+<p>Patients with dementia are at increased risk for delirium; institute delirium prevention measures.</p>
+
+<ul style="margin-left: 40px;">
+	<li>Document dementia and degree of dementia (e.g. MMSE or mini-cog) on discharge summary.</li>
+	<li>Dementia increases the risk of all procedures: weigh risks/benefits carefully.</li>
+	<li>Many patients with dementia retain decision-making capacity for some procedures. Capacity is decision specific and determined by MD; competence is global and determined by the courts.</li>
+	<li>Document patient’s wishes and advance directives. Use your institutional documentation tools where available to make this information accessible to other providers.</li>
+	<li>Patients with dementia may not report pain. Consider ATC analgesia, particularly in patients with agitation.</li>
+</ul>
+
+<p><strong>Choosing Wisely</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Do not routinely use antipsychotics to treat behavioral and psychological symptoms of dementia. These medicines offer limited benefit and carry increased risk of stroke and premature death.</li>
+	<li>Don’t recommend percutaneous feeding tubes in patients with advanced dementia as there is no mortality benefit; instead offer oral assisted feeding.</li>
+</ul>
+
+<p> </p>
+
+<h3>Delirium vs. Dementia</h3>
+
+<table border="1" cellpadding="0" cellspacing="0" width="489">
+	<thead>
+		<tr>
+			<th scope="col" style="width: 162px; height: 26px;">
+			<p><strong>Feature</strong></p>
+			</th>
+			<th scope="col" style="width: 162px; height: 26px;">
+			<p><strong>Delirium</strong></p>
+			</th>
+			<th scope="col" style="width: 162px; height: 26px;">
+			<p><strong>Dementia</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:162px;height:26px;">
+			<p><strong>Onset</strong></p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Acute</p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Insidious</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:162px;height:26px;">
+			<p><strong>Course</strong></p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Fluctuating</p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Constant</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:162px;height:26px;">
+			<p><strong>Attention</strong></p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Disordered</p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Usually Preserved</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:162px;height:26px;">
+			<p><strong>Alertness</strong></p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Disordered</p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Usually Preserved</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:162px;height:26px;">
+			<p><strong>Hallucinations</strong></p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Often Present</p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Usually Absent</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:162px;height:26px;">
+			<p><strong>Movement</strong></p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Often Present</p>
+			</td>
+			<td style="width:162px;height:26px;">
+			<p>Usually Absent</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong>Choosing Wisely</strong></p>
+
+<ul style="margin-left: 40px;">
+	<li>Avoid using restraints to manage behavioral symptoms of delirium in hospitalized elders.</li>
+	<li>Don’t use benzodiazepines or other sedative-hypnotics in older adults as first choice for insomnia, agitation, or delirium.</li>
+</ul>
+
+<p style="margin-left:.5in;"> </p>
+
+<p><em>AGS Choosing Wisely Workgroup. American Geriatrics Society identifies five things that healthcare providers and patients should question. J Am Geriatr Soc 2013 Apr;61(4):622-31.</em></p>
+
+<p><em>AGS Choosing Wisely Workgroup. American Geriatrics Society identifies another five things that healthcare providers and patients should question. J Am Geriatr Soc. 2014 May;62(5): 950-60.</em></p>
+
+<p><em>Arvanitakis, Zoe, Raj C. Shah, and David A. Bennett. "Diagnosis and Management of Dementia." Jama 322.16 (2019): 1589-1599.</em></p>
+
+<p><em>Borson S, Scanlan J, Brush M, et al. The mini-cog: a cognitive “vital signs” measure for dementia screening in multi-lingual elderly. Int J Geriatr Psychiatry 2000;15:1021–1027.</em></p>
+
+<p><em>Inouye, SK. Current concepts: delirium in older persons. N Engl J Med 2006;354:1157-1165.</em></p>
+
+<p><em>Knopman DS, DeKosky ST, Cummings JL, et al. Practice parameter: diagnosis of dementia (an evidence-based review). Report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology 2001 May 8;56(9):1143-53.</em></p>
+
+<p><em>Stewart, Sarah, et al. "A preliminary comparison of three cognitive screening instruments in long term care: The MMSE, SLUMS, and MoCA." Clinical Gerontologist 35.1 (2012): 57-75.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/01-admission-and-discharge-checklist-hospitalized-elders/01-admission-and-discharge-checklist" class="page-previous" title="Go to previous page">‹ 01. Admission and Discharge Checklist for Hospitalized Elders</a>
+                    <a href="/content/18-geriatrics" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/03-prescribing-geriatric-patients" class="page-next" title="Go to next page">03. Prescribing in Geriatric Patients ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="expanded active-trail menu-mlid-2761"><a href="/content/18-geriatrics" class="active-trail">18. Geriatrics</a><ul class="menu"><li class="first leaf menu-mlid-2766"><a href="/01-admission-and-discharge-checklist-hospitalized-elders/01-admission-and-discharge-checklist">01. Admission and Discharge Checklist for Hospitalized Elders</a></li>
+<li class="leaf active-trail active menu-mlid-2771"><a href="/02-dementia/02-dementia" class="active-trail active">02. Dementia</a></li>
+<li class="leaf menu-mlid-2776"><a href="/content/03-prescribing-geriatric-patients">03. Prescribing in Geriatric Patients</a></li>
+<li class="leaf menu-mlid-2781"><a href="/content/04-malnutrition-and-weight-loss-elderly">04. Malnutrition and Weight Loss in the Elderly</a></li>
+<li class="leaf menu-mlid-2786"><a href="/content/05-pressure-ulcers">05. Pressure Ulcers</a></li>
+<li class="leaf menu-mlid-2796"><a href="/content/06-falls-0">06. Falls</a></li>
+<li class="leaf menu-mlid-2801"><a href="/content/07-incontinence">07. Incontinence</a></li>
+<li class="last leaf menu-mlid-2806"><a href="/content/08-elder-abuse">08. Elder Abuse</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

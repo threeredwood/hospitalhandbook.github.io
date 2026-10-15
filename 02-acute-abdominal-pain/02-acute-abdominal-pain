@@ -1,0 +1,658 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-acute-abdominal-pain/02-acute-abdominal-pain" />
+<link rel="shortlink" href="/node/1331" />
+<link rel="prev" href="/01-gi-bleed/01-gi-bleed" />
+<link rel="up" href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" />
+<link rel="next" href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-acute-abdominal-pain/02-acute-abdominal-pain" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-acute-abdominal-pain/02-acute-abdominal-pain" />
+<meta property="twitter:title" content="02. Acute Abdominal Pain | Hospital Handbook" />
+<meta property="og:title" content="02. Acute Abdominal Pain" />
+  <title>02. Acute Abdominal Pain | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"0QAql3hP-E0k9YVdxZGo3gReOTWKVMnz_4AwzFizc-s","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-acute-abdominal-pain\/02-acute-abdominal-pain":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1331 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-acute-abdominal-pain/02-acute-abdominal-pain" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Kg4vfEo_PIzKNs98Spmx81C1DzzqOAlcaBia3R47ZpI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a> > <span class="breadcrumb-page-title">02. Acute Abdominal Pain</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Acute Abdominal Pain</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1331" class="node node-book clearfix" about="/02-acute-abdominal-pain/02-acute-abdominal-pain" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Acute Abdominal Pain" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Background</h3>
+
+<ul>
+	<li>Abdominal pain represents 5-10% of all emergency department visits.</li>
+	<li>Abdominal pain is often sensed by a combination of peritoneal and visceral nerves, which respond to stimuli such as inflammation, distension, ischemia, and forceful smooth muscle contraction. However, visceral pain can often be difficult to localize.</li>
+	<li>Approximately half of patients who present to the hospital with abdominal pain are diagnosed with either non-specific abdominal pain or non-GI causes (e.g. acute renal colic).</li>
+</ul>
+
+<h3>Differential Diagnosis</h3>
+
+<p>We recommend using a risk stratification approach to evaluate patients presenting with abdominal pain by first evaluating for emergent causes of abdominal pain (reviewed here), followed by an assessment of more common causes of acute onset abdominal pain (for further details see section: <a href="https://hospitalhandbook.ucsf.edu/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent"><em>Abdominal Pain - Non-Emergent</em></a>).</p>
+
+<p><strong>Acute abdominal pain, gastrointestinal (GI) emergencies: </strong>Acute bowel obstruction.</p>
+
+<ul>
+	<li>Acute mesenteric ischemia (AMI).
+	<ul>
+		<li>Note: distinguishing between AMI and ischemic colitis (ischemia of the watershed region of the large bowel) is critical; acute mesenteric ischemia is a surgical emergency whereas in some cases, ischemic colitis may initially be managed supportively and may resolve spontaneously. </li>
+	</ul>
+	</li>
+	<li>Bowel perforation.</li>
+</ul>
+
+<p><strong>Acute abdominal pain, non-GI emergencies:</strong></p>
+
+<ul>
+	<li>Myocardial ischemia.</li>
+	<li>Aortic aneurysmal rupture.</li>
+	<li>Ectopic pregnancy.</li>
+	<li>Torsion (ovarian or testicular).</li>
+</ul>
+
+<p>Acute abdominal pain, common GI diagnoses (see section <a href="https://hospitalhandbook.ucsf.edu/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent"><em>Abdominal Pain - Non-Emergent</em></a> for further details):</p>
+
+<ul>
+	<li>Appendicitis.</li>
+	<li>Biliary colic.</li>
+	<li>Acute cholecystitis.</li>
+	<li>Constipation.</li>
+	<li>Gastritis.</li>
+	<li>Pancreatitis.</li>
+	<li>Diverticulitis.</li>
+</ul>
+
+<p>Acute abdominal pain, less common GI diagnoses (see section <a href="https://hospitalhandbook.ucsf.edu/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent"><em>Abdominal Pain - Non-Emergent</em></a> for further details):</p>
+
+<ul>
+	<li>Renal colic / nephrolithiasis.</li>
+	<li>Trauma.</li>
+	<li>Pneumonia.</li>
+	<li>PE.</li>
+	<li>Ruptured ovarian cyst.</li>
+	<li>Urinary tract infection.</li>
+</ul>
+
+<h3>Physical Exam</h3>
+
+<p>In a patient presenting with acute abdominal pain, the following findings can be suggestive of an emergent cause:</p>
+
+<ul>
+	<li>Abnormal vitals:
+	<ul>
+		<li>Hypotension (e.g., severe sepsis).</li>
+		<li>Hypotension with a history of syncope (classic presentation of a ruptured AAA).</li>
+	</ul>
+	</li>
+	<li>General appearance:
+	<ul>
+		<li>Altered mental status.</li>
+		<li>Grimacing, painful expression.</li>
+		<li>Patient lying very still (potentially associated with peritonitis).</li>
+	</ul>
+	</li>
+	<li>Skin:
+	<ul>
+		<li>Pallor.</li>
+		<li>Diaphoresis.</li>
+		<li>Cool to touch, or other evidence of focal hypoperfusion.</li>
+	</ul>
+	</li>
+	<li>Abdominal exam:
+	<ul>
+		<li>An “acute abdomen” suggests that findings on abdominal exam may require acute (potentially surgical) intervention.</li>
+		<li>Palpation:
+		<ul>
+			<li>Rebound: pain when pressure is <em>released</em>; this is suggestive of parietal peritonitis (nerve fibers that respond to stretch).</li>
+			<li>Guarding: tension, or rigidity, of abdominal wall muscles due to inflammation of the peritoneum beneath them; this is also suggestive of parietal peritonitis.
+			<ul>
+				<li>Rebound or guarding suggest that acute abdominal pathology (e.g. ischemia, inflammation, obstruction) involves the entire thickness of an organ (i.e. transmural) leading to involvement of the parietal peritoneum and peritoneal inflammation.</li>
+			</ul>
+			</li>
+			<li>Tenderness in all 4 quadrants: generalized peritonitis.</li>
+			<li>“Pain out of proportion to physical exam findings”: suggestive of acute mesenteric ischemia.</li>
+		</ul>
+		</li>
+		<li>Auscultation:
+		<ul>
+			<li>Absent bowel sounds: suggestive of ileus, focal obstruction.</li>
+			<li>High-pitched, “tinkling” or metallic bowel sounds (borborygmus): suggestive of obstruction (though sensitivity and specificity of this finding is low).</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Rectal exam (if concern for GI bleeding).</li>
+	<li>GU/GYN exam:
+	<ul>
+		<li>Assessment for inguinal hernia (including evidence of incarceration).</li>
+		<li>Testicular exam: signs of torsion (e.g., severe pain, high-riding testicle, or absent cremasteric reflex).</li>
+		<li>Pelvic exam if a gyn source of pain is suspected (e.g., cervical motion tenderness to evaluate for PID).</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Labs and Imaging</h3>
+
+<p>Note: if the patient has positive peritoneal signs on exam (e.g., pain when knocking into the stretcher) or unstable vital signs, an emergent surgical consultation is indicated. <strong>Do not</strong> wait for labs or imaging!</p>
+
+<p>Labs:</p>
+
+<ul>
+	<li>CBC+diff, CMP including liver enzymes, VBG+lactate, lipase.</li>
+	<li>Troponin (if ACS suspected), UA, pregnancy testing if appropriate.</li>
+</ul>
+
+<p>EKG</p>
+
+<p>Imaging:</p>
+
+<ul>
+	<li>CT A/P (preferably w/ contrast) has superior sensitivity/specificity to upright KUB to evaluate perforation and obstruction (KUB misses 40% of free air).</li>
+</ul>
+
+<ul>
+	<li>US may be obtained before/instead of CT for RUQ pain.</li>
+	<li>If testicular or GYN pathology is suspected, consider targeted ultrasound with Doppler.</li>
+</ul>
+
+<h3>GI Emergencies</h3>
+
+<p><strong>Acute mesenteric ischemia (AMI)</strong></p>
+
+<ul>
+	<li>Etiology:
+	<ul>
+		<li>Arterial embolism (often to SMA) from endocarditis, valvular disease, arrhythmia, recent angiography, etc. (40-50%).</li>
+		<li>Arterial thrombosis from atherosclerosis, hypercoagulable state (25%).</li>
+		<li>Non-occlusive arterial hypoperfusion from low-flow state (20%).</li>
+		<li>Venous thrombosis of mesenteric veins from hypercoagulable states, heart failure (10%).</li>
+	</ul>
+	</li>
+	<li>History:
+	<ul>
+		<li>Severe abdominal pain lasting longer than 2-3 hours.</li>
+		<li>Risk factors: &gt;50yo, CHF, arrhythmias, recent MI, hypovolemia, hypotension, sepsis, post-cardiac surgery, HD, hypercoagulable state, h/o DVT or arterial emboli.</li>
+		<li>Approximately 50% of patients have nausea and vomiting.</li>
+		<li>Classic teaching is abdominal pain out of proportion to exam (although this is neither sensitive nor specific).</li>
+	</ul>
+	</li>
+	<li>Diagnosis: 
+	<ul>
+		<li>Labs:
+		<ul>
+			<li>Lactic acidosis, leukocytosis, hemoconcentration.</li>
+			<li>Elevated phosphorous, potassium, amylase and LDH all typically occur after transmural bowel infarction has developed.</li>
+			<li>Don’t wait for labs if you suspect AMI. <strong>Consider a patient with acute abdominal pain and lactic acidosis to have intestinal ischemia until proven otherwise.</strong></li>
+		</ul>
+		</li>
+		<li>Radiology: 
+		<ul>
+			<li>Abdominal films: normal in &gt;25%. “Thumbprinting” (focal edema of bowel wall) in &lt; 40%.</li>
+			<li>Doppler U/S: specific but not sensitive. Vessel occlusions identified by Doppler can be seen in asymptomatic patients, and Doppler may miss non-occlusive AMI.</li>
+			<li><strong>Abdominal CTA (<u>not</u> the same as contrast-enhanced CT)</strong>: specificity, sensitivity, positive and negative predictive values all &gt;90% (depending on the study).</li>
+			<li><strong>Mesenteric angiography (gold standard)</strong>: improves survival if performed early in the hospital course. May discriminate among different causes of acute mesenteric ischemia, may provide opportunity to treat.</li>
+			<li>Abdominal MRA: highly sensitive for severe stenosis or occlusion of the proximal celiac axis and SMA but limited evaluation of peripheral occlusive and non-occlusive mesenteric ischemia. Use restricted by high cost and limited availability.</li>
+		</ul>
+		</li>
+		<li>Exploratory laparotomy can be diagnostic and therapeutic. Get surgery involved early as patient can deteriorate if bowel becomes necrotic. </li>
+	</ul>
+	</li>
+	<li>Management:
+	<ul>
+		<li>Fluid resuscitate as appropriate, avoid vasopressors.</li>
+		<li>Broad spectrum antibiotics (gram negative and anaerobic coverage).</li>
+		<li>Consult surgery first. IR if suggested by surgeons.
+		<ul>
+			<li>Emergent laparotomy for bowel resection if peritoneal signs.</li>
+			<li>Visceral revascularization if patient stable enough.</li>
+		</ul>
+		</li>
+		<li><strong><u>Do not</u></strong> nticoagulated until discussed w/ surgeons.</li>
+		<li>Treat underlying condition.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Acute bowel obstruction </strong></p>
+
+<ul>
+	<li>Etiology:
+	<ul>
+		<li>Adhesions.</li>
+		<li>Hernias.</li>
+		<li>Neoplasm.</li>
+		<li>Less common: IBD, volvulus, intussusception.</li>
+		<li>Mimics (e.g. ileus, acute colonic pseudo-obstruction).
+		<ul>
+			<li>Ileus: small intestine dilated without focal obstruction/transition point, no colonic dilation.</li>
+			<li>Acute colonic pseudo-obstruction (Ogilvie’s): normal caliber small intestine and dilated colon without focal obstruction.</li>
+			<li>Consider medications (i.e., narcotics, anticholinergics, CCB)</li>
+		</ul>
+		</li>
+		<li>Remember: PUD, diverticulitis, appendicitis, IBD, post-surgical abdomens can lead to perforation of a viscous independent of preceding obstruction!</li>
+		<li>Diagnosis:Imaging: CT will be more sensitive than KUB for diagnosis of acute obstruction. Also better for differentiation of mimics (given that transition point cannot always be reliably identified on KUB).
+		<ul>
+			<li>Acute colonic pseudo-obstruction (Ogilvie’s): cecal diameter &gt;10cm is concerning for impending perforation.</li>
+		</ul>
+		</li>
+		<li>Note: absence of flatus is more sensitive than constipation for obstruction.</li>
+		<li>Check C. diff (concern for toxic megacolon); also query IBD, diverticulitis. </li>
+	</ul>
+	</li>
+	<li>Management:
+	<ul>
+		<li><strong>Bowel rest and decompression, treat the underlying cause, withdraw offending meds.</strong></li>
+		<li><strong>Serial exams, VBGs monitoring for lactic acidosis, and serial KUBs</strong>.</li>
+		<li>Replete electrolytes (K&gt;4, Mg&gt;2, Phos&gt;2, corrected calcium).</li>
+		<li>Acute colonic pseudo-obstruction (Ogilvie’s): place NGT, consider rectal tube, call surgery.</li>
+		<li>Consult GI or GI surgery if patient is not improving with conservative therapy after 24-48 hours or if cecum is dilated &gt;10cm.
+		<ul>
+			<li>Endoscopic decompression can be attempted.</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Bowel perforation</strong></p>
+
+<ul>
+	<li>The result of injury to the mucosa of the bowel wall which can lead to spillage of bowel contents into the peritoneal cavity.</li>
+	<li>Can result in high mortality of 20-30% (depending on the intestinal organ involved). 
+	<ul>
+		<li>Etiology:</li>
+		<li>Typically secondary to another process, consider: infection, inflammatory disease (e.g., peptic ulcer disease, inflammatory bowel disease), obstruction, malignancy, trauma or recent procedures (e.g., colonoscopy).</li>
+		<li>Peptic ulcer disease.</li>
+		<li>Inflammatory bowel disease.</li>
+		<li>Hernia.</li>
+		<li>Malignancy (including recent chemotherapy or radiation).</li>
+		<li>Foreign body ingestion.</li>
+		<li>Abdominal trauma.</li>
+		<li>Organ-based:
+		<ul>
+			<li>Esophagus
+			<ul>
+				<li>Severe retching (Boerhave’s syndrome).</li>
+				<li>Recent surgery in the area around the esophagus or endoscopic dilation of esophageal stricture.</li>
+				<li>Malignancy.</li>
+				<li>Foreign body ingestion (rare).</li>
+			</ul>
+			</li>
+			<li>Stomach
+			<ul>
+				<li>Peptic ulcer disease.</li>
+				<li>Trauma.</li>
+				<li>Malignancy.</li>
+				<li>Recent endoscopy.</li>
+			</ul>
+			</li>
+			<li>Small bowel
+			<ul>
+				<li>Duodenal ulceration (most common; more than twice as likely to lead to perforation when compared to gastric ulcers).</li>
+				<li>Obstruction.</li>
+				<li>Malignancy.</li>
+				<li>Mesenteric ischemia.</li>
+				<li>Abscess.</li>
+				<li>IBD.</li>
+				<li>Trauma (blunt or penetrating).</li>
+				<li>Meckel’s diverticulum.</li>
+				<li>Hernia (strangulated).</li>
+				<li>Foreign body.</li>
+				<li>Iatrogenic (e.g., radiation, endoscopy).</li>
+			</ul>
+			</li>
+			<li>Large bowel
+			<ul>
+				<li>Diverticulitis.</li>
+				<li>Appendicitis (more common in geriatric populations).</li>
+				<li>Malignancy.</li>
+				<li>Abscess.</li>
+				<li>Colitis.</li>
+				<li>Obstruction.</li>
+				<li>Volvulus.</li>
+				<li>Trauma (blunt or penetrating).</li>
+				<li>Foreign body.</li>
+				<li>Iatrogenic (e.g., radiation, colonoscopy).</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Signs/symptoms: 
+	<ul>
+		<li>Abdominal pain. Patients may report pain that improves before worsening again, because perforation may initially lead to decompression of distended bowel.</li>
+		<li>Abdominal distension.</li>
+		<li>Chest pain.</li>
+		<li>Subcutaneous air (esophageal perforation).</li>
+		<li>Peritoneal signs, acute abdomen, severe sepsis.</li>
+	</ul>
+	</li>
+	<li>Diagnosis:
+	<ul>
+		<li>Labs:
+		<ul>
+			<li>CBC.</li>
+			<li>BMP.</li>
+			<li>LFTs.</li>
+			<li>Lipase/amylase.</li>
+			<li>CRP may be elevated but non-specific.</li>
+			<li>Lactate, LDH.</li>
+		</ul>
+		</li>
+		<li>Radiology:
+		<ul>
+			<li>Upright KUB.
+			<ul>
+				<li>Can detect free air under the diaphragm, suggestive of perforation. May only be ~50% sensitive.</li>
+				<li>Sensitivity improves if patient’s upright 15 min prior to KUB.</li>
+				<li>Lateral decubitus films can be considered if patient cannot sit up.</li>
+			</ul>
+			</li>
+			<li>CT
+			<ul>
+				<li>More sensitive than KUB, up to 90% sensitive for perforation.</li>
+				<li>Can detect free peritoneal air or a discontinuity in the wall of the bowel lumen (“cleft sign”).</li>
+				<li>Additional features such as a mass, bowel wall thickening, obstruction or abscess may also be appreciated.</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Management: 
+	<ul>
+		<li>IV fluids.</li>
+		<li>Broad spectrum antibiotics (GNR and anaerobic coverage).</li>
+		<li><strong>Prompt surgical consultation</strong> – most cases progress to laparoscopic evaluation with washout for infection control.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>Acute mesenteric ischemia has approximately 50% mortality if diagnosed within 24 hours after symptom onset.
+	<ul>
+		<li>Volume resuscitate and start antibiotics early.</li>
+		<li>Contact surgical team early.</li>
+		<li>70% or greater mortality if diagnosis delayed beyond 24 hours after symptom onset. Prognosis is worse if recurrent.</li>
+	</ul>
+	</li>
+	<li>Acute obstruction: make NPO, serial abdominal exams and KUBs, stop offending medications, early GI/general surgery involvement.</li>
+</ul>
+
+<p> </p>
+
+<p><em>American Gastroenterological Association Medical Position Statement: Guidelines on intestinal ischemia. Gastroenterology 2000;118(5):951-953.</em></p>
+
+<p><em>Aschoff et al. Evaluation of acute mesenteric ischemia: accuracy of biphasic mesenteric multi-detector CT angiography. Abdom Imaging. 2009 May-Jun;34(3):345-57.</em></p>
+
+<p><em>Brandt LJ and Boley SJ. American Gastroenterological Association technical review on intestinal ischemia. Gastroenterology 2000;118(5):954-968.</em></p>
+
+<p><em>Jones et al, Bowel Perforation, Stat Pearls, July, 2020.</em></p>
+
+<p><em>Kamin et al., </em><em>Pearls and pitfalls in the emergency department evaluation of abdominal pain. Emerg Med Clin N Am 2003; 21, 61-72.</em></p>
+
+<p><em>Kirkpatrick ID et al. Biphasic CT with mesenteric CT angiography in the evaluation of acute mesenteric ischemia: initial experience. Radiology. 2003 Oct; 229(1):91-8.</em></p>
+
+<p><em>Kothari et al, Nontraumatic large bowel perforation: spectrum of etiololgies and CT findings, Abdominal Radiology, 2017, Volume 42, 2597-2608.</em></p>
+
+<p><em>Kozuch PL, Brandt LJ. Review article: diagnosis and management of mesenteric ischaemia with an emphasis on pharmacotherapy. Aliment Pharmacol Ther. 2005 Feb 1;21(3):201-15.</em></p>
+
+<p><em>Oldenburg WA, Lau LL, Rodenberg TJ, et al. Acute mesenteric ischemia: a clinical review. Arch Intern Med 2004;164:1054-1062.</em></p>
+
+<p><em>Patterson JW et. al.</em><em> Acute Abdomen; Stat Pearls, July, 2020.</em></p>
+
+<p><em>Pisano et al, 2017 WSES guidelines of colon and rectal cancer emergencies: obstruction and perforation, World J Emerg Surg, 2018; 13: 36.</em></p>
+
+<p><em>Ross JT, </em><em>Secondary peritonitis: principles of diagnosis and intervention. BMJ, 2018, 361,: k1407.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/01-gi-bleed/01-gi-bleed" class="page-previous" title="Go to previous page">‹ 01. GI Bleed</a>
+                    <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" class="page-next" title="Go to next page">03. Diarrhea in Hospitalized Patients ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="expanded active-trail menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a><ul class="menu"><li class="first leaf menu-mlid-3986"><a href="/01-gi-bleed/01-gi-bleed">01. GI Bleed</a></li>
+<li class="leaf active-trail active menu-mlid-3991"><a href="/02-acute-abdominal-pain/02-acute-abdominal-pain" class="active-trail active">02. Acute Abdominal Pain</a></li>
+<li class="leaf menu-mlid-3996"><a href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients">03. Diarrhea in Hospitalized Patients</a></li>
+<li class="leaf menu-mlid-4001"><a href="/04-acute-liver-failure/04-acute-liver-failure">04. Acute Liver Failure</a></li>
+<li class="leaf menu-mlid-4006"><a href="/05-acetaminophen-toxicity/05-acetaminophen-toxicity">05. Acetaminophen Toxicity</a></li>
+<li class="leaf menu-mlid-4011"><a href="/06-acute-alcoholic-hepatitis/06-acute-alcoholic-hepatitis">06. Acute Alcoholic Hepatitis</a></li>
+<li class="leaf menu-mlid-4016"><a href="/07-abnormal-liver-chemistry-tests/07-abnormal-liver-chemistry-tests">07. Abnormal Liver Chemistry Tests</a></li>
+<li class="leaf menu-mlid-4021"><a href="/08-acute-pancreatitis/08-acute-pancreatitis">08. Acute Pancreatitis</a></li>
+<li class="leaf menu-mlid-4026"><a href="/09-end-stage-liver-disease/09-end-stage-liver-disease">09. End Stage Liver Disease</a></li>
+<li class="leaf menu-mlid-4031"><a href="/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent">10. Abdominal Pain: Non-emergent</a></li>
+<li class="leaf menu-mlid-4036"><a href="/11-diarrhea-patients-hiv/11-diarrhea-patients-hiv">11. Diarrhea in Patients with HIV</a></li>
+<li class="last leaf menu-mlid-4041"><a href="/12-acute-cholangitis/12-acute-cholangitis">12. Acute Cholangitis</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

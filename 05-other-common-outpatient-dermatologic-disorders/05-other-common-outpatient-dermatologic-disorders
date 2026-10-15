@@ -1,0 +1,1097 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders" />
+<link rel="shortlink" href="/node/1786" />
+<link rel="prev" href="/04-tinea/04-tinea" />
+<link rel="up" href="/04-dermatology/04-dermatology" />
+<link rel="next" href="/06-skin-malignancies/06-skin-malignancies" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders" />
+<meta property="twitter:title" content="05. Other Common Outpatient Dermatologic Disorders | Hospital Handbook" />
+<meta property="og:title" content="05. Other Common Outpatient Dermatologic Disorders" />
+  <title>05. Other Common Outpatient Dermatologic Disorders | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"kQSXrgZSyB9KcJ4Gs4AEvAPO_tU6aS-We-wy5KazKQI","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/05-other-common-outpatient-dermatologic-disorders\/05-other-common-outpatient-dermatologic-disorders":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1786 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-tIjLEt2H6Q9h4JMU9E-2EpT_CSJpFeMbEAbdkjokt4M" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/04-dermatology/04-dermatology" class="active-trail">04. Dermatology</a> > <span class="breadcrumb-page-title">05. Other Common Outpatient Dermatologic Disorders</span></div></div></div>
+                  <h1 class="title" id="page-title">05. Other Common Outpatient Dermatologic Disorders</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1786" class="node node-book clearfix" about="/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="05. Other Common Outpatient Dermatologic Disorders" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Michelle Matzko MD, Ph.D.</p>
+
+<p align="right">Faculty Editor: Ryan Arakaki, M.D.</p>
+
+<p><strong>Table 5: Other Common Outpatient Dermatologic Disorders</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:616px;" width="616">
+	<tbody>
+		<tr>
+			<td style="width:93px;">
+			<p>Condition</p>
+			</td>
+			<td style="width:272px;">
+			<p>Morphology/Distribution    </p>
+			</td>
+			<td style="width:251px;">
+			<p>Management</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Candida</p>
+			</td>
+			<td style="width:272px;">
+			<p><em>Mucous membrane</em>:</p>
+
+			<p>- Thrush (white adherent exudate)</p>
+
+			<p>- Chronic atrophic (erythematous patch)</p>
+
+			<p> </p>
+
+			<p><em>Cutaneous</em>:</p>
+
+			<p>- Usually in intertriginous areas</p>
+
+			<p>- Erythematous, erosive patch with satellite pustules</p>
+
+			<p> </p>
+
+			<p><em>Nails</em>:</p>
+
+			<p style="margin-left:.1in;">- Can affect periungual areas and nails</p>
+
+			<p style="margin-left:.1in;">- Prolonged water exposure is a risk factor</p>
+			</td>
+			<td style="width:251px;">
+			<p style="margin-left:.1in;"><em>Topicals:</em></p>
+
+			<p style="margin-left:.1in;">- Nystatin</p>
+
+			<p style="margin-left:.1in;">- Azole antifungals</p>
+
+			<p style="margin-left:.1in;">- Note: terbinafine does not cover candida</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Systemic:</em></p>
+
+			<p style="margin-left:.1in;">- Fluconazole</p>
+
+			<p style="margin-left:.1in;">- Itraconazole</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Eczema</p>
+
+			<p>(atopic dermatitis)</p>
+			</td>
+			<td style="width:272px;">
+			<p style="margin-left:.1in;"><em>Associated features:</em></p>
+
+			<p style="margin-left:.1in;">- Asthma</p>
+
+			<p style="margin-left:.1in;">- Allergic rhinitis</p>
+
+			<p style="margin-left:.1in;">- Early-onset</p>
+
+			<p style="margin-left:.1in;">- Family history</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Infants/children</em>:</p>
+
+			<p style="margin-left:.1in;">- Face, neck, extensor surfaces</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Adults</em>:</p>
+
+			<p style="margin-left:.1in;">- Flexural surfaces</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Acute lesions:</em></p>
+
+			<p style="margin-left:.1in;">- Erythematous, ill-defined patches and plaques with serous crust</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Chronic lesions:</em></p>
+
+			<p>- Hyperpigmented plaques with accentuated skin markings (lichenification)</p>
+			</td>
+			<td style="width:251px;">
+			<p style="margin-left:.1in;"><em>Gentle skincare:</em></p>
+
+			<p style="margin-left:.1in;">- Short, lukewarm showers</p>
+
+			<p style="margin-left:.1in;">- Pat dry gently</p>
+
+			<p style="margin-left:.1in;">- Immediate moisturization with Vaseline or Aquaphor while damp</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Topical steroids:</em></p>
+
+			<p style="margin-left:.1in;">- Choice of potency depends on the age of the patient, anatomic site, the severity of the lesion</p>
+
+			<p style="margin-left:.1in;">- Refer to the steroids section for choices</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Oral immunosuppressants:</em></p>
+
+			<p style="margin-left:.1in;">- For disease resistant to topical treatments</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Herpes simplex</p>
+			</td>
+			<td style="width:272px;">
+			<p style="margin-left:.1in;"><em>Prodrome:</em></p>
+
+			<p style="margin-left:.1in;">- Lesions may be asymptomatic or may sting/itch</p>
+
+			<p style="margin-left:.1in;">- Preceding SxS include fever, LAD, anorexia</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Skin lesions:</em></p>
+
+			<p style="margin-left:.1in;">- Can be primary or recurrent</p>
+
+			<p style="margin-left:.1in;">- Mouth and lips most common sites</p>
+
+			<p style="margin-left:.1in;">- Also affects the vulva, vagina, cervix, glans penis, perineum, buttocks</p>
+
+			<p style="margin-left:.1in;">- Grouped vesicles on an erythematous base</p>
+
+			<p style="margin-left:.1in;">- Quick progression to erosions and crust (may not see vesicles on an exam)</p>
+
+			<p style="margin-left:.1in;">- Scalloped borders</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+			<td style="width:251px;">
+			<p style="margin-left:.1in;"><em>Genital Primary Infection:</em></p>
+
+			<p style="margin-left:.1in;">- Acyclovir 200 mg 5x/d x10d or 400 mg po tid x 10d</p>
+
+			<p style="margin-left:.1in;">- Famciclovir 250 mg po tid x 10d</p>
+
+			<p style="margin-left:.1in;">- Valacyclovir 1g po bid x 10d</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Genital Recurrent infection:</em></p>
+
+			<p style="margin-left:.1in;">- Acyclovir 200 mg 5x/d x 5d or 400 mg po tid x5d</p>
+
+			<p style="margin-left:.1in;">- Famciclovir 1g po bid x 1d or 125 mg po bid x5d</p>
+
+			<p style="margin-left:.1in;">- Valacyclovir 500 mg po bid x 3-5d</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Suppressive:</em></p>
+
+			<p style="margin-left:.1in;">- Acyclovir 400 mg po bid</p>
+
+			<p style="margin-left:.1in;">- Famciclovir 250 mg po bid</p>
+
+			<p style="margin-left:.1in;">- Valacyclovir 500 mg po daily</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Immunocompromised +/- disseminated:</em></p>
+
+			<p style="margin-left:.1in;">- Acyclovir 5-8 mg/kg IV q8h x 7-10d</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Herpes zoster</p>
+			</td>
+			<td style="width:272px;">
+			<p style="margin-left:.1in;">- Due to reactivation of VZV after primary varicella infection</p>
+
+			<p style="margin-left:.1in;">- Prodrome of intense pain, pruritus, hyperesthesia</p>
+
+			<p style="margin-left:.1in;">- Distributed along sensory dermatome; respects the midline</p>
+
+			<p style="margin-left:.1in;">- Trunk, face, neck, extremities</p>
+
+			<p style="margin-left:.1in;">- Crops of grouped vesicles or crusted papules</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Complications:</em></p>
+
+			<p style="margin-left:.1in;">- Postherpetic neuralgia</p>
+
+			<p style="margin-left:.1in;">- Ophthalmic zoster</p>
+
+			<p style="margin-left:.1in;">- Ramsay-Hunt syndrome</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Disseminated zoster:</em></p>
+
+			<p style="margin-left:.1in;">- &gt;20 lesions outside primary and two contiguous dermatomes</p>
+
+			<p>- Occurs in 10% of immunocompromised patients</p>
+			</td>
+			<td style="width:251px;">
+			<p style="margin-left:.1in;"><em>Immunocompetent:</em></p>
+
+			<p style="margin-left:.1in;">- Acyclovir 800 mg po 5x/d x 7-10d</p>
+
+			<p style="margin-left:.1in;">- Famciclovir 500 mg po tid x 7d</p>
+
+			<p style="margin-left:.1in;">- Valacyclovir 1 g po tid x 7d</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Immunocompromised +/- disseminated:</em></p>
+
+			<p style="margin-left:.1in;">- Acyclovir 10-12 mg/kg IV q8h x 7-10d</p>
+
+			<p> </p>
+
+			<p><em>Zoster Vaccine</em></p>
+
+			<p>- One-time dose for people older than 60, whether or not they have a history of herpes zoster infection</p>
+
+			<p>- Reduces zoster incidence, severity, and post-herpetic neuralgia</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Paronychia</p>
+			</td>
+			<td style="width:272px;">
+			<p>- Swelling, erythema, and pain of nail folds</p>
+
+			<p>- Acute: most commonly due to <em>Staph aureus </em>or GAS</p>
+
+			<p>- Recurrent episodes: suspect HSV</p>
+
+			<p>- Chronic: suspect Candida</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+			<td style="width:251px;">
+			<p style="margin-left:.1in;"><em>Acute</em>:</p>
+
+			<p style="margin-left:.1in;">- Warm compresses</p>
+
+			<p style="margin-left:.1in;">- Drainage of abscess</p>
+
+			<p style="margin-left:.1in;">- Oral abx according to culture results</p>
+
+			<p style="margin-left:.1in;">- Systemic antivirals if HSV present</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Chronic</em>:</p>
+
+			<p style="margin-left:.1in;">- Topical steroids +/- antifungal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Pityriasis</p>
+
+			<p>rosea</p>
+			</td>
+			<td style="width:272px;">
+			<p>- Herald patch on trunk</p>
+
+			<p>- Annular papules and plaques with central fine scaling and collarette of trailing scale</p>
+
+			<p>- Christmas-tree distribution on the posterior trunk (follows Langer’s lines)</p>
+			</td>
+			<td style="width:251px;">
+			<p style="margin-left:.1in;">- Spontaneous remission</p>
+
+			<p style="margin-left:.1in;">- Sunlight</p>
+
+			<p style="margin-left:.1in;">- Symptomatic treatment with topical steroids</p>
+
+			<p style="margin-left:.1in;">- Remember to rule out secondary syphilis</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Condition</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;"><strong>Description</strong></p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><strong>Management</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Rosacea</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;">Four major subtypes:</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Erythematotelangiectatic:</em></p>
+
+			<p style="margin-left:.1in;">- Central facial erythema</p>
+
+			<p style="margin-left:.1in;">- Recurrent skin flushing</p>
+
+			<p style="margin-left:.1in;">- Dryness, sensitivity</p>
+
+			<p style="margin-left:.1in;">- Telangiectasias</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Papulopustular (inflammatory):</em></p>
+
+			<p style="margin-left:.1in;">- Central facial erythema</p>
+
+			<p style="margin-left:.1in;">- Erythematous papules and pustules</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Phymatous:</em></p>
+
+			<p>- Thickening of skin over nose, chin, forehead, ears</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Ocular:</em></p>
+
+			<p style="margin-left:.1in;">- Can present as multiple eye symptoms (eg foreign body, burning, stinging, dryness, blurred vision)</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><em>Prevention: </em></p>
+
+			<p style="margin-left:.1in;"><em>- </em>Avoid triggers (e.g., EtOH, spicy foods, sunlight, extreme temperatures, vasodilatory meds)</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Topical therapy (<strong>first-line in bold)</strong>:</em></p>
+
+			<p style="margin-left:.1in;">- <strong>Metronidazole 0.75% or 1% daily or bid</strong></p>
+
+			<p style="margin-left:.1in;"><strong>- Azelaic acid 15-20% bid</strong></p>
+
+			<p style="margin-left:.1in;"><strong>- Ivermectin 1% cream daily</strong></p>
+
+			<p style="margin-left:.1in;">- Benzoyl peroxide/clindamycin daily</p>
+
+			<p style="margin-left:.1in;">- Tretinoin 0.025% to 0.1% daily</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Systemic therapy (trial 4-12 weeks)</em>:</p>
+
+			<p style="margin-left:.1in;">- Tetracycline 250-500 mg bid</p>
+
+			<p style="margin-left:.1in;">- Doxycycline 50-100 mg bid</p>
+
+			<p style="margin-left:.1in;">- Minocycline 50-100 mg bid</p>
+
+			<p style="margin-left:.1in;">- If resistant to oral antibiotics, can refer to dermatology for consideration of isotretinoin</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>For telangiectasias:</em></p>
+
+			<p style="margin-left:.1in;">- Topical and oral therapies mostly ineffective</p>
+
+			<p style="margin-left:.1in;">- Vascular-targeted lasers or light therapy effective</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>For rhinophyma:</em></p>
+
+			<p style="margin-left:.1in;">- Ablative laser or electrosurgery</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>For ocular:</em></p>
+
+			<p style="margin-left:.1in;"><strong>- </strong>Refer to ophtho</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Seborrheic dermatitis</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;">- Limited to periods of life when sebaceous glands are active (infantile and adult forms; rare in prepubertal children)</p>
+
+			<p style="margin-left:.1in;">- Distributed over areas rich in sebaceous glands-scalp, face, nasolabial folds, eyebrows, ears, chest, intertriginous areas</p>
+
+			<p style="margin-left:.1in;">- Erythematous patches with greasy, diffuse scale</p>
+
+			<p style="margin-left:.1in;">- Can rarely be erythrodermic</p>
+
+			<p style="margin-left:.1in;">- More common in HIV (can be more extensive and severe) and Parkinson’s</p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;">- First-line: antifungal shampoos ketoconazole 2% or ciclopirox 1% Alternative fungal shampoos include zinc pyrithione 1% or selenium sulfide 2.5%.</p>
+
+			<p style="margin-left:.1in;">- Use daily or at least two or three times per week for several weeks until remission achieved; rotate among classes</p>
+
+			<p style="margin-left:.1in;">-</p>
+
+			<p style="margin-left:.1in;">- Topical Ketoconazole 2% daily or bid x 4 weeks</p>
+
+			<p style="margin-left:.1in;">- Topical low dose steroids, calcineurin inhibitors</p>
+
+			<p style="margin-left:.1in;">- Severe/refractory: oral itraconazole 200mg qD x 7d</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Tinea versicolor</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;">- Distributed over seborrheic areas (neck, trunk, upper arms)</p>
+
+			<p style="margin-left:.1in;">- Annular hypo- or hyperpigmented macules with overlying fine scale</p>
+
+			<p style="margin-left:.1in;">- KOH prep: “spaghetti and meatballs” representing fungal hyphae &amp; yeast (<em>Malassezia furfur</em>)</p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><em>Topicals (first-line):</em></p>
+
+			<p style="margin-left:.1in;">- Selenium sulfide 2.5% shampoo daily for 1 week; leave on for 10 min</p>
+
+			<p style="margin-left:.1in;">- Ketoconazole 2% cream daily for 2weeks</p>
+
+			<p> </p>
+
+			<p style="margin-left:.1in;"><em>Systemic (severe disease):</em></p>
+
+			<p style="margin-left:.1in;">- Itraconazole 200 mg daily x 5 days</p>
+
+			<p style="margin-left:.1in;">- Fluconazole 300mg x1; repeat at 1 week</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Verrucae (warts)</p>
+			</td>
+			<td style="width:260px;">
+			<p>- ~100 different HPV genotypes can cause warts</p>
+
+			<p> </p>
+
+			<p><em>Cutaneous infection</em></p>
+
+			<p>- Common, plantar, palmar, flat, mosaic, and butcher’s warts</p>
+
+			<p>- Classified by morphology and anatomic location</p>
+
+			<p> </p>
+
+			<p><em>Mucosal infection</em></p>
+
+			<p>- Condyloma acuminata (genital warts) found on the external genitalia, perineum, perianal region</p>
+
+			<p>- Usually caused by HPV types 6 and 11</p>
+
+			<p>- Persistent infection by HPV types 16 and 18 can lead to cervical, vaginal, vulvar, penile, anal cancer</p>
+
+			<p> </p>
+
+			<p> </p>
+
+			<p><em>Verrucous carcinomas</em></p>
+
+			<p>- Caused by HPV 6 and 11</p>
+
+			<p>- Locally invasive and rarely metastasize</p>
+
+			<p>- Buschke-Lowenstein tumor: giant condyloma acuminata</p>
+
+			<p>- Oral florid papillomatosis</p>
+
+			<p>- Epithelioma cuniculatum of the sole</p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><em>Overview</em></p>
+
+			<p style="margin-left:.1in;">- Broadly categorize as destructive or immunomodulatory</p>
+
+			<p style="margin-left:.1in;">- Everything works about 20% of the time</p>
+
+			<p style="margin-left:.1in;">- There is no evidence that treatment prevents subsequent sexual transmission of genital warts</p>
+
+			<p style="margin-left:.1in;">- Tools used for paring down warts (eg, nail file, pumice stone, etc.) should not be used on normal skin or nails to avoid spreading the virus</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Destructive (first-line in bold)</em></p>
+
+			<p style="margin-left:.1in;"><strong>- Cryotherapy</strong></p>
+
+			<p style="margin-left:.1in;"><strong>- Salicylic acid 20-50% daily x 12 weeks</strong></p>
+
+			<p style="margin-left:.1in;">- Bleomycin- refractory (refer to derm)</p>
+
+			<p style="margin-left:.1in;">- 5-fluorouracil- refractory</p>
+
+			<p style="margin-left:.1in;">- Cantharidin</p>
+
+			<p style="margin-left:.1in;">- Laser</p>
+
+			<p style="margin-left:.1in;">- Excision</p>
+
+			<p> </p>
+
+			<p><em>Immunomodulatory</em></p>
+
+			<p>- Works poorly in immunosuppressed patients</p>
+
+			<p>- Squaric acid</p>
+
+			<p>- DNCB</p>
+
+			<p>- High dose cimetidine and other H2 antagonists</p>
+
+			<p>- Imiquimod (genital warts only)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Bolognia, J et al. Dermatology. 3<sup>rd</sup> Edition. 2011. Elsevier Ltd. Del Rosso JQ, Schlessinger J, Werschler P . Comparison of anti-inflammatory dose doxycycline versus doxycycline 100 mg in the treatment of rosacea. J Drugs Dermatol. 2008;7(6):573.</em></p>
+
+<p><em>Gupta AK, Lane D, Paquet M Systematic review of systemic treatments for tinea versicolor and evidence-based dosing regimen recommendations. J Cutan Med Surg. 2014 Mar;18(2):79-90.</em></p>
+
+<p><em>Kastarinen H, Oksanen T, Okokon EO, et al. Topical anti-inflammatory agents for seborrhoeic dermatitis of the face or scalp. Cochrane Database Syst Rev. 2014</em></p>
+
+<p align="center"><br />
+Table continued next page.</p>
+
+<p><strong>Table 5: Other Common Outpatient Dermatologic Disorders</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:93px;">
+			<p>Condition</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;"><strong>Description</strong></p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><strong>Management</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Rosacea</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;">Four major subtypes:</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Erythematotelangiectatic:</em></p>
+
+			<p style="margin-left:.1in;">- Central facial erythema</p>
+
+			<p style="margin-left:.1in;">- Recurrent skin flushing</p>
+
+			<p style="margin-left:.1in;">- Dryness, sensitivity</p>
+
+			<p style="margin-left:.1in;">- Telangiectasias</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Papulopustular (inflammatory):</em></p>
+
+			<p style="margin-left:.1in;">- Central facial erythema</p>
+
+			<p style="margin-left:.1in;">- Erythematous papules and pustules</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Phymatous:</em></p>
+
+			<p>- Thickening of skin over nose, chin, forehead, ears</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Ocular:</em></p>
+
+			<p style="margin-left:.1in;">- Can present as multiple eye symptoms (eg foreign body, burning, stinging, dryness, blurred vision)</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><em>Prevention: </em></p>
+
+			<p style="margin-left:.1in;"><em>- </em>Avoid triggers (e.g., EtOH, spicy foods, sunlight, extreme temperatures, vasodilatory meds)</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Topical therapy (<strong>first-line in bold)</strong>:</em></p>
+
+			<p style="margin-left:.1in;">- <strong>Metronidazole 0.75% or 1% daily or bid</strong></p>
+
+			<p style="margin-left:.1in;"><strong>- Azelaic acid 15-20% bid</strong></p>
+
+			<p style="margin-left:.1in;"><strong>- Ivermectin 1% cream daily</strong></p>
+
+			<p style="margin-left:.1in;">- Benzoyl peroxide/clindamycin daily</p>
+
+			<p style="margin-left:.1in;">- Tretinoin 0.025% to 0.1% daily</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Systemic therapy (trial 4-12 weeks)</em>:</p>
+
+			<p style="margin-left:.1in;">- Tetracycline 250-500 mg bid</p>
+
+			<p style="margin-left:.1in;">- Doxycycline 50-100 mg bid</p>
+
+			<p style="margin-left:.1in;">- Minocycline 50-100 mg bid</p>
+
+			<p style="margin-left:.1in;">- If resistant to oral antibiotics, can refer to dermatology for consideration of isotretinoin</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>For telangiectasias:</em></p>
+
+			<p style="margin-left:.1in;">- Topical and oral therapies mostly ineffective</p>
+
+			<p style="margin-left:.1in;">- Vascular-targeted lasers or light therapy effective</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>For rhinophyma:</em></p>
+
+			<p style="margin-left:.1in;">- Ablative laser or electrosurgery</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>For ocular:</em></p>
+
+			<p style="margin-left:.1in;"><strong>- </strong>Refer to ophtho</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Seborrheic dermatitis</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;">- Limited to periods of life when sebaceous glands are active (infantile and adult forms; rare in prepubertal children)</p>
+
+			<p style="margin-left:.1in;">- Distributed over areas rich in sebaceous glands-scalp, face, nasolabial folds, eyebrows, ears, chest, intertriginous areas</p>
+
+			<p style="margin-left:.1in;">- Erythematous patches with greasy, diffuse scale</p>
+
+			<p style="margin-left:.1in;">- Can rarely be erythrodermic</p>
+
+			<p style="margin-left:.1in;">- More common in HIV (can be more extensive and severe) and Parkinson’s</p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;">- First-line: antifungal shampoos ketoconazole 2% or ciclopirox 1% Alternative fungal shampoos include zinc pyrithione 1% or selenium sulfide 2.5%.</p>
+
+			<p style="margin-left:.1in;">- Use daily or at least two or three times per week for several weeks until remission achieved; rotate among classes</p>
+
+			<p style="margin-left:.1in;">-</p>
+
+			<p style="margin-left:.1in;">- Topical Ketoconazole 2% daily or bid x 4 weeks</p>
+
+			<p style="margin-left:.1in;">- Topical low dose steroids, calcineurin inhibitors</p>
+
+			<p style="margin-left:.1in;">- Severe/refractory: oral itraconazole 200mg qD x 7d</p>
+
+			<p style="margin-left:.1in;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Tinea versicolor</p>
+			</td>
+			<td style="width:260px;">
+			<p style="margin-left:.1in;">- Distributed over seborrheic areas (neck, trunk, upper arms)</p>
+
+			<p style="margin-left:.1in;">- Annular hypo- or hyperpigmented macules with overlying fine scale</p>
+
+			<p style="margin-left:.1in;">- KOH prep: “spaghetti and meatballs” representing fungal hyphae &amp; yeast (<em>Malassezia furfur</em>)</p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><em>Topicals (first-line):</em></p>
+
+			<p style="margin-left:.1in;">- Selenium sulfide 2.5% shampoo daily for 1 week; leave on for 10 min</p>
+
+			<p style="margin-left:.1in;">- Ketoconazole 2% cream daily for 2weeks</p>
+
+			<p> </p>
+
+			<p style="margin-left:.1in;"><em>Systemic (severe disease):</em></p>
+
+			<p style="margin-left:.1in;">- Itraconazole 200 mg daily x 5 days</p>
+
+			<p style="margin-left:.1in;">- Fluconazole 300mg x1; repeat at 1 week</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:93px;">
+			<p>Verrucae (warts)</p>
+			</td>
+			<td style="width:260px;">
+			<p>- ~100 different HPV genotypes can cause warts</p>
+
+			<p> </p>
+
+			<p><em>Cutaneous infection</em></p>
+
+			<p>- Common, plantar, palmar, flat, mosaic, and butcher’s warts</p>
+
+			<p>- Classified by morphology and anatomic location</p>
+
+			<p> </p>
+
+			<p><em>Mucosal infection</em></p>
+
+			<p>- Condyloma acuminata (genital warts) found on the external genitalia, perineum, perianal region</p>
+
+			<p>- Usually caused by HPV types 6 and 11</p>
+
+			<p>- Persistent infection by HPV types 16 and 18 can lead to cervical, vaginal, vulvar, penile, anal cancer</p>
+
+			<p><em>Verrucous carcinomas</em></p>
+
+			<p>- Caused by HPV 6 and 11</p>
+
+			<p>- Locally invasive and rarely metastasize</p>
+
+			<p>- Buschke-Lowenstein tumor: giant condyloma acuminata</p>
+
+			<p>- Oral florid papillomatosis</p>
+
+			<p>- Epithelioma cuniculatum of the sole</p>
+			</td>
+			<td style="width:278px;">
+			<p style="margin-left:.1in;"><em>Overview</em></p>
+
+			<p style="margin-left:.1in;">- Broadly categorize as destructive or immunomodulatory</p>
+
+			<p style="margin-left:.1in;">- Everything works about 20% of the time</p>
+
+			<p style="margin-left:.1in;">- There is no evidence that treatment prevents subsequent sexual transmission of genital warts</p>
+
+			<p style="margin-left:.1in;">- Tools used for paring down warts (eg, nail file, pumice stone, etc.) should not be used on normal skin or nails to avoid spreading the virus</p>
+
+			<p style="margin-left:.1in;"> </p>
+
+			<p style="margin-left:.1in;"><em>Destructive (first-line in bold)</em></p>
+
+			<p style="margin-left:.1in;"><strong>- Cryotherapy</strong></p>
+
+			<p style="margin-left:.1in;"><strong>- Salicylic acid 20-50% daily x 12 weeks</strong></p>
+
+			<p style="margin-left:.1in;">- Bleomycin- refractory (refer to derm)</p>
+
+			<p style="margin-left:.1in;">- 5-fluorouracil- refractory</p>
+
+			<p style="margin-left:.1in;">- Cantharidin</p>
+
+			<p style="margin-left:.1in;">- Laser</p>
+
+			<p style="margin-left:.1in;">- Excision</p>
+
+			<p><em>Immunomodulatory</em></p>
+
+			<p>- Works poorly in immunosuppressed patients</p>
+
+			<p>- Squaric acid</p>
+
+			<p>- DNCB</p>
+
+			<p>- High dose cimetidine and other H2 antagonists</p>
+
+			<p>- Imiquimod (genital warts only)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Bolognia, J et al. Dermatology. 3<sup>rd</sup> Edition. 2011. Elsevier Ltd. </em></p>
+
+<p><em>Del Rosso JQ, Schlessinger J, Werschler P . Comparison of anti-inflammatory dose doxycycline versus doxycycline 100 mg in the treatment of rosacea. J Drugs Dermatol. 2008;7(6):573.</em></p>
+
+<p><em>Gupta AK, Lane D, Paquet M Systematic review of systemic treatments for tinea versicolor and evidence-based dosing regimen recommendations. J Cutan Med Surg. 2014 Mar;18(2):79-90.</em></p>
+
+<p><em>Kastarinen H, Oksanen T, Okokon EO, et al. Topical anti-inflammatory agents for seborrhoeic dermatitis of the face or scalp. Cochrane Database Syst Rev. 2014</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/04-tinea/04-tinea" class="page-previous" title="Go to previous page">‹ 04. Tinea</a>
+                    <a href="/04-dermatology/04-dermatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/06-skin-malignancies/06-skin-malignancies" class="page-next" title="Go to next page">06. Skin Malignancies ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="expanded active-trail menu-mlid-4926"><a href="/04-dermatology/04-dermatology" class="active-trail">04. Dermatology</a><ul class="menu"><li class="first leaf menu-mlid-4961"><a href="/01-dermatologic-exam/01-dermatologic-exam">01. Dermatologic Exam</a></li>
+<li class="leaf menu-mlid-4971"><a href="/02-acne/02-acne">02. Acne</a></li>
+<li class="leaf menu-mlid-4976"><a href="/03-psoriasis/03-psoriasis">03. Psoriasis</a></li>
+<li class="leaf menu-mlid-4981"><a href="/04-tinea/04-tinea">04. Tinea</a></li>
+<li class="leaf active-trail active menu-mlid-4986"><a href="/05-other-common-outpatient-dermatologic-disorders/05-other-common-outpatient-dermatologic-disorders" class="active-trail active">05. Other Common Outpatient Dermatologic Disorders</a></li>
+<li class="leaf menu-mlid-4991"><a href="/06-skin-malignancies/06-skin-malignancies">06. Skin Malignancies</a></li>
+<li class="leaf menu-mlid-4996"><a href="/07-topical-steroids/07-topical-steroids">07. Topical steroids</a></li>
+<li class="leaf menu-mlid-5001"><a href="/08-approach-alopecia/08-approach-alopecia">08. Approach to Alopecia</a></li>
+<li class="leaf menu-mlid-5006"><a href="/09-approach-pruritis/09-approach-pruritis">09. Approach to Pruritis</a></li>
+<li class="last leaf menu-mlid-5011"><a href="/10-wound-assessment-management/10-wound-assessment-management">10. Wound Assessment &amp; Management </a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

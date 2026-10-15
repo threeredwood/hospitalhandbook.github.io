@@ -1,0 +1,644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-chronic-obstructive-lung-disease-copd/02-chronic-obstructive-lung-disease-copd" />
+<link rel="shortlink" href="/node/2441" />
+<link rel="prev" href="/01-asthma/01-asthma" />
+<link rel="up" href="/17-pulmonary/17-pulmonary" />
+<link rel="next" href="/03-approach-pfts/03-approach-pfts" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-chronic-obstructive-lung-disease-copd/02-chronic-obstructive-lung-disease-copd" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-chronic-obstructive-lung-disease-copd/02-chronic-obstructive-lung-disease-copd" />
+<meta property="twitter:title" content="02. Chronic obstructive lung disease (COPD) | Hospital Handbook" />
+<meta property="og:title" content="02. Chronic obstructive lung disease (COPD)" />
+  <title>02. Chronic obstructive lung disease (COPD) | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"fxIw9naVOXBGsyBRtd3JPZtbAlxhHDaxWanefYpYj_w","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-chronic-obstructive-lung-disease-copd\/02-chronic-obstructive-lung-disease-copd":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2441 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-chronic-obstructive-lung-disease-copd/02-chronic-obstructive-lung-disease-copd" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-PraTZPd9i3-90UZQeF2-sWl208gIIGVC3bErlt-9mpw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/17-pulmonary/17-pulmonary" class="active-trail">17. Pulmonary</a> > <span class="breadcrumb-page-title">02. Chronic obstructive lung disease (COPD)</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Chronic obstructive lung disease (COPD)</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2441" class="node node-book clearfix" about="/02-chronic-obstructive-lung-disease-copd/02-chronic-obstructive-lung-disease-copd" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Chronic obstructive lung disease (COPD)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Monica Parks, MD</p>
+
+<p align="right">Faculty Editor: Lekshmi Santhosh, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Order PFTs for anyone suspected of having COPD</p>
+
+			<p>✔ FEV1/FVC &lt; 70% is virtually diagnostic</p>
+
+			<p>✔ Treat stable disease with inhaled bronchodilators</p>
+
+			<p>✔ Treat exacerbations with a burst of systemic corticosteroids and increased frequency of inhaled bronchodilators</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Definition</u></strong></p>
+
+<ul>
+	<li>Persistent (irreversible) and usually progressive airflow restriction and enhanced airway inflammatory response to noxious gases and inhalants.</li>
+	<li>Note that some subsets of patients have overlap syndromes with asthma.</li>
+</ul>
+
+<p><strong><u>Epidemiology</u></strong></p>
+
+<ul>
+	<li>3rd ranked cause of death in the US</li>
+	<li>Worldwide prevalence of GOLD stage 2 or higher is 10% in adults over 40</li>
+	<li>Most patients with mild to moderate disease are undiagnosed</li>
+	<li>Typically manifests in 6<sup>th</sup> decade of life</li>
+	<li>Risk factors: <strong>smoking </strong>(usually at least 10-15 pack years unless other risk factors present), environmental exposures, certain genetic predispositions (1-antitrypsin), and persistent asthma</li>
+	<li>Non-smokers comprise 20% of COPD patients</li>
+</ul>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li>Chronic cough</li>
+	<li>Chronic sputum production</li>
+	<li>Dyspnea: usually persistent, progressive, worse with exertion. Pts may unknowingly avoid dyspnea by self-reducing activity, so get a careful activity history.</li>
+	<li>Some present with intermittent acute symptoms of the above.</li>
+</ul>
+
+<p><strong><u>Differential diagnosis</u></strong></p>
+
+<ul>
+	<li><em>Asthma</em>: <u>reversible</u> airflow limitation, begins earlier in life, comorbid allergic rhinitis and eczema common. Some patients have a COPD-asthma overlap syndrome.</li>
+	<li><em>CHF:</em>PFTs show restriction; volume overload on exam. Frequently comorbid with COPD.</li>
+	<li><em>Bronchiectasis:</em> Copious purulent sputum, frequent lung infections, may have predisposing condition (ie cystic fibrosis)</li>
+	<li><em>Tuberculosis</em>: look for risk factors for exposure</li>
+	<li><em>Others: bronchiolitis obliterans, interstitial lung disease, chronic fungal or non-TB mycobacterial infection, malignancy, non-asthmatic eosinophilic bronchitis, upper airway cough syndrome (allergic and non-allergic rhinitis), GERD, medication effect (ACE-I)</em></li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul>
+	<li>History – tobacco exposure, other inhaled drugs, occupational exposures (e.g. fumes, dust, chemicals), environmental exposures (e.g. air pollution, indoor stoves), family history</li>
+	<li>Physical – wheezes, crackles, prolonged expiratory phase, hyperresonance/hyperinflation, distant heart sounds, “barrel chest”, decreased diaphragmatic excursion.  Later in disease course can see accessory muscle use, cyanosis, right heart failure (cor pulmonale), neck vein distention.</li>
+	<li>PFTs (Spirometry) – <strong>post-bronchodilator FEV1/FVC ratio &lt;0.70</strong> is diagnostic. May also be helpful in monitoring progression and response to therapy.</li>
+	<li>Other labs/tests to consider
+	<ul>
+		<li>If O2 sat is abnormal get ABG: typically see hypercapnia and hypoxemia (PaCO2 and PaO2 are “50/50” in advanced disease).</li>
+		<li>Check 1-antitrypsin levels in all cases with persistent airflow limitation on PFTs</li>
+		<li>CXR: increased radiolucency, flattened diaphragms, narrow heart shadow, bullae (not required for Dx)</li>
+	</ul>
+	</li>
+</ul>
+
+<p align="center"><strong>STAGING AND TREATMENT OF STABLE DISEASE</strong></p>
+
+<p align="center"><em>Tables adapted from GOLD Staging of COPD (</em><a href="http://www.goldcopd.com"><em>http://www.goldcopd.com</em></a><em>)</em></p>
+
+<p><strong>A. ASSESS SEVERITY OF AIRFLOW LIMITATION</strong></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:575px;" width="575">
+	<tbody>
+		<tr>
+			<td style="width:177px;">
+			<p><strong>Stage</strong></p>
+			</td>
+			<td style="width:255px;">
+			<p><strong>Characteristics</strong></p>
+
+			<p><strong>(in patients with FEV1/FVC &lt;70%)</strong></p>
+			</td>
+			<td style="width:144px;">
+			<p><strong>3-year Mortality</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:177px;">
+			<p><strong>I (mild COPD)</strong></p>
+			</td>
+			<td style="width:255px;">
+			<p>FEV1 <u>&gt;</u>80% predicted</p>
+			</td>
+			<td style="width:144px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:177px;">
+			<p><strong>II (moderate COPD)</strong></p>
+			</td>
+			<td style="width:255px;">
+			<p>FEV1 50-80% predicted</p>
+			</td>
+			<td style="width:144px;">
+			<p>11%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:177px;">
+			<p><strong>III (severe COPD)</strong></p>
+			</td>
+			<td style="width:255px;">
+			<p>FEV1 30-49% predicted</p>
+			</td>
+			<td style="width:144px;">
+			<p>15%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:177px;">
+			<p><strong>IV (very severe COPD)</strong></p>
+			</td>
+			<td style="width:255px;">
+			<p>FEV1 &lt;30% predicted</p>
+			</td>
+			<td style="width:144px;">
+			<p>24%</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>B. ASSESS SYMPTOM SEVERITY</strong></p>
+
+<ul>
+	<li>Modified Medical Research Council Questionnaire for Assessing the Severity of Breathlessness (mMRC) – focused on dyspnea only</li>
+	<li>COPD Assessment Test (CAT, <a href="http://www.goldcopd.org">www.goldcopd.org</a>) – evaluates symptomatic impact of COPD, not necessarily used to guide treatment</li>
+</ul>
+
+<p><strong>C. ASSESS RISK OF EXACERBATIONS</strong></p>
+
+<p><strong>D. ASSESS COMORBIDITIES</strong></p>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<p><strong><em>Non-pharmacologic: </em></strong></p>
+
+<ul>
+	<li><strong>Smoking cessation</strong>: <u>single most important intervention</u> for patients with COPD, the only intervention known to modify the long-term decline in lung function.
+
+	<ul>
+		<li>Counseling plus nicotine replacement, bupropion, or varenicline</li>
+		<li>The effect of e-cigarette use on COPD management remains unclear.</li>
+	</ul>
+	</li>
+	<li><strong>Immunizations: </strong>
+	<ul>
+		<li>Annual flu vaccine</li>
+		<li>PPSV23 before age 65, once &gt; 65 then get PCV13 (at least 1 year from 1<sup>st</sup> dose PPSV23) then second dose PPSV23 (at least 5yrs from 1st dose PPSV23 if received)</li>
+	</ul>
+	</li>
+	<li><strong>Physical activity/Pulmonary Rehabilitation</strong></li>
+	<li><strong>Lung cancer screening: Annual </strong>low-dose CT in adults 55-80yo with a 30 pack-year smoking history and who currently smoke or have quit within 15 years (USPSTF Grade B)</li>
+	<li><strong>End-of-life care and planning: </strong>for advanced COPD  </li>
+	<li><strong>Nutrition</strong></li>
+	<li><strong>Patient education and inhaler teaching </strong></li>
+</ul>
+
+<p><strong><em>Stable Disease</em></strong>:</p>
+
+<ul>
+	<li><strong>Goals of treatment</strong>: symptom relief, decrease severity/frequency of exacerbation, improve exercise capacity and health status, and reduce mortality</li>
+	<li><strong>Bronchodilators</strong> are the mainstay of treatment
+	<ul>
+		<li>Start with intermittent short-acting beta agonists (LABA) or anti-muscarinics (LAMA) for sx relief (<strong>ipratropium, albuterol</strong>)</li>
+		<li>If moderate or persistent symptom burden, add long-acting anti-muscarinics or beta agonists (LAMA, LABA)
+		<ul>
+			<li>No evidence that starting these for early COPD improves disease course.</li>
+			<li>LAMAs are superior to LABAs for reducing exacerbations.</li>
+		</ul>
+		</li>
+		<li>Combination bronchodilator therapy (ie, formoterol/triotropium)are more effective than single bronchodilators.</li>
+	</ul>
+	</li>
+	<li>Consider <strong>inhaled corticosteroids (ICS</strong><u>)</u> for patients who are still symptomatic on optimal long-acting bronchodilator regimen, Consider combination therapy (Advair = salmeterol/fluticasone) for ease of use – combination long acting beta agonist (LABA) and ICS (ex: Advair, Symbicort) reduces exacerbations by additional 10% than either agent alone.</li>
+	<li>Consider <strong>PDE4 inhibitors</strong> if frequent exacerbations despite maximal inhaler therapy.</li>
+	<li>For GOLD Group D (chronic respiratory failure), <strong>home O2</strong> leads to decreased mortality in patients with severe hypoxemia (PaO2 &lt; 55 mmHg) and increased quality of life. Indications: O2 sat ≤ 88% or PaO2 ≤55 or PaO2 ≤60 if also with cor pulmonale, peripheral edema, or polycythemia.</li>
+	<li><strong>Prophylactic antibiotics</strong> (ie, azithromycin) may reduce exacerbations and improve quality of life in selected patients, though may increase risk of drug resistance and drug side effects.</li>
+	<li>Consider lung volume reduction surgery or lung transplant surgery in GOLD Stage IV in adherent patients.</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="height:43px;">
+			<p align="center"><strong>GROUP</strong></p>
+			</td>
+			<td style="height:43px;">
+			<p align="center"><strong>GOLD STAGE</strong></p>
+			</td>
+			<td style="height:43px;">
+			<p align="center"><strong>Annual Exacerbations</strong></p>
+			</td>
+			<td style="height:43px;">
+			<p align="center"><strong>Symptom burden</strong></p>
+			</td>
+			<td style="height:43px;">
+			<p align="center"><strong>First line treatment</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:44px;">
+			<p align="center"><strong>A</strong></p>
+			</td>
+			<td style="height:44px;">
+			<p align="center" style="margin-left:6.0pt;"><strong>1-2</strong></p>
+			</td>
+			<td style="height:44px;">
+			<p align="center" style="margin-left:6.0pt;"><u>&lt;</u>1</p>
+			</td>
+			<td style="height:44px;">
+			<p align="center" style="margin-left:6.0pt;">Low</p>
+			</td>
+			<td style="height:44px;">
+			<p style="margin-left:6.0pt;">SAMA or SABA PRN.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:42px;">
+			<p align="center"><strong>B</strong></p>
+			</td>
+			<td style="height:42px;">
+			<p align="center" style="margin-left:6.0pt;"><strong>1-2</strong></p>
+			</td>
+			<td style="height:42px;">
+			<p align="center" style="margin-left:6.0pt;"><u>&lt;</u>1</p>
+			</td>
+			<td style="height:42px;">
+			<p align="center" style="margin-left:6.0pt;">High</p>
+			</td>
+			<td style="height:42px;">
+			<p style="margin-left:6.0pt;">LAMA or LABA.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:53px;">
+			<p align="center"><strong>C</strong></p>
+			</td>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;"><strong>3-4</strong></p>
+			</td>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;">&gt;2</p>
+			</td>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;">Low</p>
+			</td>
+			<td rowspan="2" style="height:53px;">
+			<p style="margin-left:6.0pt;">Start with LAMAthen LAMA + LABA or LAMA + LABA + ICS. Consider long-term abx or PDE4 inhibitor.</p>
+
+			<p>Stage IV: consider lung reduction or transplant surgery, home O2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;"><strong>D</strong></p>
+			</td>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;"><strong>3-4</strong></p>
+			</td>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;"><u>&gt;</u>2</p>
+			</td>
+			<td style="height:53px;">
+			<p align="center" style="margin-left:6.0pt;">High</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><em>Acute exacerbations: </em></strong>Exacerbations reduce quality of life, speed progression of disease, and increase risk of death.</p>
+
+<ul>
+	<li><u>Triggers</u>: Most common = viral or bacterial infection; others include PE, heart failure, pulmonary irritants</li>
+	<li><u>Definition</u>:</li>
+</ul>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:503px;height:12px;">
+			<p align="center"><strong>Criteria to Classify Acute COPD Exacerbations</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:205px;height:12px;">
+			<p><strong>Major Criteria</strong></p>
+			</td>
+			<td style="width:297px;height:12px;">
+			<p><strong>Additional Criteria</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:205px;height:25px;">
+			<p>Increase in sputum volume</p>
+
+			<p>Increase in sputum purulence</p>
+
+			<p>Worsening dyspnea</p>
+			</td>
+			<td rowspan="4" style="width:297px;height:25px;">
+			<p>URI in past 5 days</p>
+
+			<p>Fever of no apparent cause</p>
+
+			<p>Increase in wheezing/cough</p>
+
+			<p>Increase in RR or HR 20% above baseline</p>
+			</td>
+		</tr>
+		<tr>
+		</tr>
+		<tr>
+		</tr>
+		<tr>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:1.0in;">Mild = 1 major criteria plus ≥ 1 additional criteria</p>
+
+<p style="margin-left:1.0in;">Moderate = 2 major criteria</p>
+
+<p style="margin-left:1.0in;">Severe = 3 major criteria</p>
+
+<ul>
+	<li><u>Outpatient treatment</u>:
+
+	<ul>
+		<li><strong>increase frequency of inhaled short-acting beta-agonists</strong></li>
+		<li>systemic corticosteroids (ie: <strong>prednisone 40 mg daily for 5 days),</strong></li>
+		<li>ensure adequate oxygenation (supplemental O2 if needed)</li>
+		<li><strong>consider antibiotics</strong> if meets moderate or severe exacerbation criteria as above. Check local resistance patterns.
+		<ul>
+			<li>uncomplicated: doxycycline or azithromycin x5 days</li>
+			<li>Complicated: amoxicillin-clavulanate or levofloxacin if elderly, severe COPD or heart disease x5-10 days</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><u>Criteria for admission</u>: high risk comorbidities, inadequate response to outpatient management, significantly worsening dyspnea, inability to eat or sleep due to symptoms, worsening hypoxemia, worsening hypercapnia, AMS, inability to care for oneself</li>
+</ul>
+
+<p><strong><u>When to refer</u></strong></p>
+
+<ul>
+	<li>Difficulty controlling symptoms on maximal bronchodilator/ICS regimen</li>
+	<li>Rapidly progressive disease course (to exclude other etiologies)</li>
+	<li>If considering pulmonary rehab and/or surgery and unsure if patient is an appropriate candidate</li>
+</ul>
+
+<p><strong>References</strong></p>
+
+<p><em>Global Strategy for the Diagnosis, Management and Prevention of COPD. Global Initiative for Chronic Obstructive Lung Disease (GOLD). Updated 2017. Available: <a href="http://www.goldcopd.org/">http://www.goldcopd.org/</a> Accessed March 31, 2018.  </em></p>
+
+<p><em>Littner MR. In the clinic: COPD. Annals of Internal Medicine March 4, 2008:ITC3.1-ITC3.16.</em></p>
+
+<p><em>Pratter MR. Overview of common causes of chronic cough: ACCP evidence-based clinical practice guidelines. Chest. 2006;129(1 Suppl):59S-62S.</em></p>
+
+<p><em>Zhou Y, et al. Tiotropium in early-stage chronic obstructive pulmonary disease. N Engl J Med. 2017;3777(10):923-935. </em></p>
+
+<p><em>Vogelmeier C, et al. Tiotropium versus salmeterol for the prevention of exacerbations of COPD. N Engl J Med. 2011;364(12):1093-103.</em></p>
+
+<p><em>Herath SC, et al. Prophylactic antibiotic therapy for chronic obstructive pulmonary disease (COPD). Cochrane Database Syst Rev. 2013;28(11): CD009764.  </em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/01-asthma/01-asthma" class="page-previous" title="Go to previous page">‹ 01. Asthma</a>
+                    <a href="/17-pulmonary/17-pulmonary" class="page-up" title="Go to parent page">up</a>
+                    <a href="/03-approach-pfts/03-approach-pfts" class="page-next" title="Go to next page">03. Approach to PFTs ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="expanded active-trail menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary" class="active-trail">17. Pulmonary</a><ul class="menu"><li class="first leaf menu-mlid-5636"><a href="/01-asthma/01-asthma">01. Asthma</a></li>
+<li class="leaf active-trail active menu-mlid-5641"><a href="/02-chronic-obstructive-lung-disease-copd/02-chronic-obstructive-lung-disease-copd" class="active-trail active">02. Chronic obstructive lung disease (COPD)</a></li>
+<li class="leaf menu-mlid-5646"><a href="/03-approach-pfts/03-approach-pfts">03. Approach to PFTs</a></li>
+<li class="last leaf menu-mlid-5651"><a href="/04-solitary-pulmonary-nodule/04-solitary-pulmonary-nodule">04. Solitary Pulmonary Nodule</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

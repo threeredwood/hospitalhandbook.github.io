@@ -1,0 +1,644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/04-acute-liver-failure/04-acute-liver-failure" />
+<link rel="shortlink" href="/node/1341" />
+<link rel="prev" href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" />
+<link rel="up" href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" />
+<link rel="next" href="/05-acetaminophen-toxicity/05-acetaminophen-toxicity" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/04-acute-liver-failure/04-acute-liver-failure" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/04-acute-liver-failure/04-acute-liver-failure" />
+<meta property="twitter:title" content="04. Acute Liver Failure | Hospital Handbook" />
+<meta property="og:title" content="04. Acute Liver Failure" />
+  <title>04. Acute Liver Failure | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"SxI2U7MkGZ5nR5K0SqrFCIIVr6chXhBQqxkfKdRrpWU","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/04-acute-liver-failure\/04-acute-liver-failure":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1341 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/04-acute-liver-failure/04-acute-liver-failure" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-4GjGkz8yFtw9MBCVV7JA0KAcfPpsxsULlNO22B1l1Eg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a> > <span class="breadcrumb-page-title">04. Acute Liver Failure</span></div></div></div>
+                  <h1 class="title" id="page-title">04. Acute Liver Failure</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1341" class="node node-book clearfix" about="/04-acute-liver-failure/04-acute-liver-failure" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="04. Acute Liver Failure" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3>
+
+<ul>
+	<li>Triad of abnormal liver tests + encephalopathy + coagulopathy (INR&gt;1.5) in a patient without known liver disease, with onset of symptoms occurring within 26 weeks.</li>
+	<li>No pre-existing cirrhosis.</li>
+	<li>If no encephalopathy, then termed acute liver <em>injury.</em></li>
+</ul>
+
+<h3>Etiology/Risk Factors</h3>
+
+<ul style="list-style-type:circle;">
+	<li>Etiologies include:
+	<ul>
+		<li><strong>Drugs/toxin</strong>: acetaminophen (causes &gt;40% in USA), Amanita mushrooms, antibiotics, antiepileptics, herbs/OTC, CCl­4, fluorinated hydrocarbons, isoniazid.</li>
+		<li><strong>Viral</strong>: HBV, HAV, HEV; rarely EBV, CMV, HSV, VZV. Hepatitis C does <u>not</u> result in acute liver <em>failure</em> (although it does cause acute liver injury).</li>
+		<li><strong>Autoimmune hepatitis</strong>: usually initial presentation, more common in women.</li>
+		<li><strong>Vascular</strong>: Budd-Chiari, ischemic hepatitis, hypotension (not always documented), other venoocclusive disease.</li>
+		<li><strong>Wilsons disease: </strong>associated with renal failure, psychiatric co-morbidities, hemolysis.</li>
+		<li><strong>Acute fatty liver of pregnancy/HELLP: </strong>usually in late pregnancy.</li>
+		<li><strong>Malignancy: </strong>tumor infiltration.</li>
+		<li><strong>Idiopathic.</strong></li>
+	</ul>
+	</li>
+	<li>The following are NOT causes of ALF but may increase risk: alcohol, malnutrition, underlying chronic liver disease (e.g., chronic hepatitis C, iron overload/hemochromatosis, fatty liver disease, alpha-1-antitrypsin deficiency, PBC, PSC).</li>
+	<li>Prognosis: high mortality without transplant. Most important factor for prognosis is etiology.
+	<ul>
+		<li>Better prognosis: acetaminophen, hepatitis A, AFLP, ischemia. If time from symptoms to encephalopathy is less than 7 days, almost always related to acetaminophen.</li>
+		<li>Bad prognosis: Wilson’s disease, drugs other than acetaminophen, autoimmune, HBV, idiopathic.</li>
+		<li>When compared to those transplanted for chronic liver disease, patients transplanted for ALF have increased mortality after 1 year but do better in the long term.</li>
+		<li>Degree of encephalopathy is most predictive of spontaneous recovery. Grade I to II – 65 to 70 percent, Grade III – 40 to 50 percent, Grade IV – &lt;20 percent.</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Diagnostics</h3>
+
+<p>Broad diagnostic workup targeting the most likely etiologies: </p>
+
+<ul>
+	<li>Drug/toxin: acetaminophen level, urine and serum tox screen. 1 year medication/toxin/ingestion history including OTC, supplements, herbals, wild mushrooms, weight loss drugs.</li>
+	<li>Viral: HAV IgM, HBsAg, HBcAb, HBV DNA, HCV Ab, HCV RNA. Also consider: Hep E IgM, HSV DNA, EBV DNA, CMV DNA, VZV DNA, Anti HDV (only in known/suspected HBV). </li>
+	<li><strong>Autoimmune</strong>: ANA, anti-smooth muscle/anti actin antibody, IgG levels.</li>
+	<li><strong>Vascular</strong>: abdominal ultrasound with Doppler. Also consider: CT/MRI, hypercoagulability workup, IR consult, TTE/EKG.</li>
+	<li><strong>Wilson’s</strong>: ceruloplasmin. Often associated with low alk phos and a bilirubin/alk phos ratio of &gt;2 and hemolytic anemia. Also consider: 24h urine copper, slit lamp eval for KF rings, liver copper levels if biopsy.</li>
+	<li><strong>AFLP/HELLP</strong>: HCG, OB-GYN consult.              <br />
+	<strong>Malignancy</strong>: abdominal ultrasound, CT, liver biopsy.</li>
+	<li><strong>Idiopathic</strong>: liver biopsy.</li>
+</ul>
+
+<h3>Management</h3>
+
+<ul>
+	<li><strong>If suspect ALF, IMMEDIATELY contact liver transplant team. </strong></li>
+	<li>Consider ICU-level care for neurologic monitoring, hemodynamic and ventilator support, and renal replacement therapy with CVVH. Management centers on supportive care particularly to reduce cerebral edema and infections (the two most common immediate causes of death in ALF patients), with preparation for liver transplantation if necessary.</li>
+	<li><strong>Start NAC in all patients with acute liver injury and coagulopathy regardless of etiology, and in every patient with APAP-induced acute liver injury regardless of degree of encephalopathy. Increases transplant-free survival especially in grade 1-2 encephalopathy.</strong></li>
+	<li>Initiate specific treatment if specific cause is known or highly suspected (i.e., initiate therapy while work-up pending and then stop if testing is negative -- see table).</li>
+	<li>Intracranial hypertension: pathogenesis unclear, thought to be due to systemic/local inflammation leading to “leaky” blood-brain barrier, circulating neurotoxins (ammonia), hyponatremia decreasing oncotic pressure. Cerebral uncal herniation is the cause of death in many patients with ALF.</li>
+	<li>King’s College Criteria: can be used to determine likelihood of transplant-free survival. Takes into account age, cause, encephalopathy, coagulopathy. Degree of encephalopathy is most predictive of spontaneous recovery. Grade I to II – 65 to 70 percent, Grade III – 40 to 50 percent, Grade IV – &lt;20 percent.</li>
+	<li>ALFSG Prognostic Score: uses encephalopathy severity, etiology, vasopressor use, bilirubin, and INR to predict transplant-free survival at 21 days.</li>
+	<li>Refer to the ALF checklist (alfchecklist.com or app available) for a detailed guide to management.</li>
+</ul>
+
+<table align="left" border="1" cellpadding="0" cellspacing="0" style="width:899px;" width="899">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width:899px;">
+			<p align="center"><strong><u>General M</u></strong><strong><u>anagement Strategies in all Patients with Acute Liver Failure</u></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p><strong>System</strong></p>
+			</td>
+			<td style="width:284px;">
+			<p><strong>Pathophysiology</strong></p>
+			</td>
+			<td style="width:498px;">
+			<p><strong>Management</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p>Neurologic</p>
+			</td>
+			<td style="width:284px;">
+			<ul>
+				<li>Cerebral edema with elevated intracranial pressure, risk of herniation. Common cause of death in ALF</li>
+				<li>Intracranial hemorrhage secondary to coagulopathy</li>
+				<li>Progressive encephalopathy</li>
+			</ul>
+
+			<p> </p>
+
+			<p align="center"><strong>Hepatic Encephalopathy</strong></p>
+
+			<p><strong>Grade I: </strong>mild confusion, euphoria, slurred speech, sleep disturbance. May or may not have asterixis</p>
+
+			<p><strong>Grade II: </strong>lethargy, moderate confusion, asterixis present</p>
+
+			<p><strong>Grade III: </strong>marked confusion, incoherent, sleepy but arousable, asterixis present</p>
+
+			<p><strong>Grade IV:</strong> coma, no asterixis</p>
+			</td>
+			<td style="width:498px;">
+			<p><strong>In all patients: </strong></p>
+
+			<ul>
+				<li>Check serum ammonia level upon admission (&gt;200 increases likelihood of intracranial hypertension)</li>
+				<li>Frequent neuro checks</li>
+				<li>Hypertonic saline as needed for goal sodium &gt;145 mmol/L (esp if high risk for increase ICP – renal failure, pressors, ammonia &gt;150)</li>
+				<li>Prevent hyperthermia  </li>
+				<li>Do not warm patient if hypothermic</li>
+				<li>Elevate bed to 30 degrees</li>
+				<li>Minimize excess IV fluid administration</li>
+			</ul>
+
+			<p> </p>
+
+			<p><strong>If altered:</strong></p>
+
+			<ul>
+				<li>Lactulose is not very helpful in ALF, may be used in early encephalopathy but avoid diarrhea</li>
+				<li>CT to evaluate degree of cerebral edema and to rule out intracranial hemorrhage</li>
+				<li>Intubate if grade III-IV encephalopathy. No specific ventilatory strategy recommended, but can try to keep PEEP low (can increase ICP) &amp; allow hyperventilation (can decrease ICP)</li>
+				<li>Avoid sedatives unless required to control seizure activity. Steroids not useful in ALF even if ICP elevated</li>
+				<li>Mannitol 0.5-1.0 g/kg Q6H if documented or high concern for increased ICP</li>
+				<li>Goal ICP &lt;25 mmHg, CPP 50-80 mmHg (although ICP monitoring is no longer commonly used). <u>Use systemic MAP &gt;75 as a surrogate</u></li>
+				<li>Can consider hypothermia or barbiturates if ICP intractable</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p>CV</p>
+			</td>
+			<td style="width:284px;">
+			<p>Splanchnic vasodilation causes a low SVR</p>
+			</td>
+			<td style="width:498px;">
+			<ul>
+				<li>MAP goal generally &gt;75</li>
+				<li>Liberal use of vasopressors (norepinephrine, inotropy if needed)
+				<ul>
+					<li>Adding vasopressin to norepi is still recommended but controversial since some studies have shown increases in ICP</li>
+				</ul>
+				</li>
+				<li>Replete intravascular volume with IV fluids but avoid excess IVF for resuscitation once euvolemic (can increase ICP)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p>GI</p>
+			</td>
+			<td style="width:284px;">
+			<ul>
+				<li>Malnutrition associated with worse outcomes</li>
+				<li>GIB most common site of hemorrhage</li>
+			</ul>
+			</td>
+			<td style="width:498px;">
+			<ul>
+				<li>Early enteral nutrition</li>
+				<li>PPI for stress ulcer prophylaxis</li>
+				<li>Liver transplant evaluation</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p>Metabolic/Renal</p>
+			</td>
+			<td style="width:284px;">
+			<ul>
+				<li>Hypoglycemia (from liver failure)</li>
+			</ul>
+
+			<ul>
+				<li>Hypophosphatemia (from rapid liver regeneration)</li>
+				<li>Hypokalemia (from high sympathetic tone)</li>
+				<li>Hyponatremia (from renal dysfunction/increased ADH)</li>
+				<li>Lactic acidosis (from liver necrosis)</li>
+			</ul>
+			</td>
+			<td style="width:498px;">
+			<ul>
+				<li>Frequent glucose checks. Start dextrose drip if glucose &lt;80</li>
+				<li>Aggressive phosphorus and potassium repletion (note: hypokalemia can lead to increased ammonia levels)</li>
+				<li>Hypertonic saline as needed for goal Na &gt;145 (see “Neurologic”)</li>
+				<li>Avoid nephrotoxic drugs and IV contrast</li>
+				<li>Consider renal consult/early RRT if 1) oliguric, 2) new AKI, 3) serum ammonia &gt;150 (somewhat dialyzable), 4) volume overload and 5) known or suspected increased ICP (if HE grade 3/4)
+				<ul>
+					<li>CVVH has better outcomes than iHD even if hemodynamically stable</li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p>Hematologic</p>
+			</td>
+			<td style="width:284px;">
+			<ul>
+				<li>Coagulopathy from acute liver failure</li>
+				<li>DIC</li>
+			</ul>
+			</td>
+			<td style="width:498px;">
+			<p><strong>All patients: </strong></p>
+
+			<ul>
+				<li>High risk for DVT-- use lower extremity sequential compression device</li>
+				<li>Avoid anti-platelet agents. Continuation of prior anticoagulation is case by case but unless high thrombotic risk it is generally held</li>
+				<li>Frequent monitoring of INR, fibrinogen and CBC. In the absence of bleeding transfuse for plt &lt;10, fibrinogen &lt;100. Do not correct INR with FFP but can give Vitamin K—discuss with LTU</li>
+			</ul>
+
+			<p><strong>If bleeding: </strong></p>
+
+			<ul>
+				<li>Transfuse platelets to &gt;50K and fibrinogen to &gt;100 with cryoprecipitate. Can also correct INR with FFP</li>
+			</ul>
+
+			<p><strong>If procedure:</strong></p>
+
+			<ul>
+				<li>Typically, INR does not predict bleeding risk. It may not be necessary to correct even for invasive procedures, but the risks/benefits of correction need to be discussed with proceduralist. FFP unlikely to correct INR under 1.7</li>
+				<li>Platelets and fibrinogen likely predict bleeding risk and should be corrected for invasive procedures. Discuss goals with proceduralist but generally at least plt &gt;50K and fibrinogen &gt;100</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:118px;">
+			<p>Immunologic/Infectious</p>
+			</td>
+			<td style="width:284px;">
+			<ul>
+				<li>High risk of sepsis – clinical signs often absent. Common cause of death in ALF.</li>
+				<li>High risk of fungal infections, esp if prolonged hospitalization, immunocompromised, recent steroids or antibiotics, or on CRRT</li>
+			</ul>
+			</td>
+			<td style="width:498px;">
+			<ul>
+				<li>Pan culture with surveillance cultures Q24-48h (blood, sputum, urine)</li>
+				<li>Antibiotic prophylaxis not generally recommended if no evidence of infection and cultures negative</li>
+				<li>Guide antibiotic choice by symptoms and culture results</li>
+				<li>Consider IV broad spectrum antibiotics &amp; antifungal coverage if 1) critically ill, 2) deteriorating, 3) progressive encephalopathy, or 4) listed for transplant</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:854px;" width="853">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width:854px;height:31px;">
+			<p align="center"><strong><u>Etiology Specific</u></strong> <strong><u>Management </u></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:26px;">
+			<p><strong>Etiology</strong></p>
+			</td>
+			<td style="width:722px;height:26px;">
+			<p><strong>Management</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:118px;">
+			<p>Drug/Toxin</p>
+			</td>
+			<td style="width:722px;height:118px;">
+			<ul>
+				<li><strong>Acetaminophen</strong>: activated charcoal if ingestion within 4 hours, NAC, APAP levels q1-2 hours until peak</li>
+				<li><strong>Amanita mushroom</strong>: toxicology consult; activated charcoal, NAC, silibinin*, penicillin G if silibinin not available</li>
+				<li><strong>Drug induced liver injury: </strong>NAC, discontinue all non-essential medications</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:49px;">
+			<p>Viral</p>
+			</td>
+			<td style="width:722px;height:49px;">
+			<ul>
+				<li><strong>HBV</strong>: entecavir or tenofovir</li>
+				<li><strong>HSV/VZV</strong>: acyclovir</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:32px;">
+			<p>Autoimmune</p>
+			</td>
+			<td style="width:722px;height:32px;">
+			<ul>
+				<li>Corticosteroids (at least prednisone 40-60 mg daily)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:54px;">
+			<p>Vascular</p>
+			</td>
+			<td style="width:722px;height:54px;">
+			<ul>
+				<li><strong>Budd Chiari:</strong> anticoagulation, IR TIPS procedure, also consider thrombolysis and surgical decompression</li>
+				<li><strong>“Shock liver”:</strong> avoid hypotension</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:54px;">
+			<p>Wilson’s</p>
+			</td>
+			<td style="width:722px;height:54px;">
+			<ul>
+				<li>Liver transplantation</li>
+				<li>Chelation with <a href="https://www-uptodate-com.ucsf.idm.oclc.org/contents/trientine-drug-information?topicRef=3591&amp;source=see_link">trientine</a></li>
+				<li>Consider plasmapheresis, early CRRT, exchange transfusion</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:132px;height:31px;">
+			<p>AFLP/HELLP</p>
+			</td>
+			<td style="width:722px;height:31px;">
+			<ul>
+				<li>Early delivery</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><em>*Not FDA approved</em></p>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>The patient should be evaluated by a liver transplant team as early as possible. If not at a transplant center, discuss the patient with a liver transplant center and consider early transfer <em>before</em> progression to stage III/IV encephalopathy.  </li>
+	<li>Often critically ill requiring ICU level care and monitoring.</li>
+	<li>Start NAC in all patients and follow both etiology-specific and general management principles.</li>
+	<li>High risk for cerebral edema and herniation.</li>
+</ul>
+
+<p> </p>
+
+<p><em>Acute liver failure in adults: Management and prognosis - UpToDate </em></p>
+
+<p><em>Amatoxin-containing mushroom poisoning (eg, Amanita phalloides): Clinical manifestations, diagnosis, and treatment - UpToDate </em></p>
+
+<p><em>Bernal W, Wendon J.  Acute liver failure. N Engl J Med. 2013 Dec 26;369(26):2525-34.</em></p>
+
+<p><em>Fix OK, Liou I, Karvellas CJ, et al. Development and Pilot of a Checklist for Management of Acute Liver Failure in the Intensive Care Unit. PLOS ONE. 2016;11(5):e0155500. doi:10.1371/journal.pone.0155500</em></p>
+
+<p><em>Frontera JA, Kalb T. Neurological Management of Fulminant Hepatic Failure. Neurocrit Care. 2011; 14((2):318-27. </em></p>
+
+<p><em>Gupta S, Fenves AZ, Hootkins R. The Role of RRT in Hyperammonemic Patients. Clin J Am Soc Nephrol. 2016;11(10):1872-1878. doi:10.2215/CJN.01320216</em></p>
+
+<p><em>Harrison MF. The Misunderstood Coagulopathy of Liver Disease: A Review for the Acute Setting. West J Emerg Med. 2018;19(5):863-871. doi:10.5811/westjem.2018.7.37893</em></p>
+
+<p><em>Hemostatic abnormalities in patients with liver disease - UpToDate. </em></p>
+
+<p><em>Lee WM. AASLD Position Paper: The Management of Acute Liver Failure: Update 2011. Published online 2011:88.</em></p>
+
+<p><em>Lee WM et al. Intravenous N-Acetylcysteine Improves Transplant-Free Survival in Early Stage Non-Acetaminophen Acute Liver Failure. Gastroenterology 2009;137:856-864.</em></p>
+
+<p><em>Sass DA, Shakil O. Fulminant hepatic failure. Liver Transpl 2005;11:594-605.</em></p>
+
+<p> </p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients" class="page-previous" title="Go to previous page">‹ 03. Diarrhea in Hospitalized Patients</a>
+                    <a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/05-acetaminophen-toxicity/05-acetaminophen-toxicity" class="page-next" title="Go to next page">05. Acetaminophen Toxicity ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="expanded active-trail menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology" class="active-trail">09. Gastroenterology &amp; Hepatology</a><ul class="menu"><li class="first leaf menu-mlid-3986"><a href="/01-gi-bleed/01-gi-bleed">01. GI Bleed</a></li>
+<li class="leaf menu-mlid-3991"><a href="/02-acute-abdominal-pain/02-acute-abdominal-pain">02. Acute Abdominal Pain</a></li>
+<li class="leaf menu-mlid-3996"><a href="/03-diarrhea-hospitalized-patients/03-diarrhea-hospitalized-patients">03. Diarrhea in Hospitalized Patients</a></li>
+<li class="leaf active-trail active menu-mlid-4001"><a href="/04-acute-liver-failure/04-acute-liver-failure" class="active-trail active">04. Acute Liver Failure</a></li>
+<li class="leaf menu-mlid-4006"><a href="/05-acetaminophen-toxicity/05-acetaminophen-toxicity">05. Acetaminophen Toxicity</a></li>
+<li class="leaf menu-mlid-4011"><a href="/06-acute-alcoholic-hepatitis/06-acute-alcoholic-hepatitis">06. Acute Alcoholic Hepatitis</a></li>
+<li class="leaf menu-mlid-4016"><a href="/07-abnormal-liver-chemistry-tests/07-abnormal-liver-chemistry-tests">07. Abnormal Liver Chemistry Tests</a></li>
+<li class="leaf menu-mlid-4021"><a href="/08-acute-pancreatitis/08-acute-pancreatitis">08. Acute Pancreatitis</a></li>
+<li class="leaf menu-mlid-4026"><a href="/09-end-stage-liver-disease/09-end-stage-liver-disease">09. End Stage Liver Disease</a></li>
+<li class="leaf menu-mlid-4031"><a href="/10-abdominal-pain-non-emergent/10-abdominal-pain-non-emergent">10. Abdominal Pain: Non-emergent</a></li>
+<li class="leaf menu-mlid-4036"><a href="/11-diarrhea-patients-hiv/11-diarrhea-patients-hiv">11. Diarrhea in Patients with HIV</a></li>
+<li class="last leaf menu-mlid-4041"><a href="/12-acute-cholangitis/12-acute-cholangitis">12. Acute Cholangitis</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="collapsed menu-mlid-3271"><a href="/content/13-neurology">13. Neurology</a></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

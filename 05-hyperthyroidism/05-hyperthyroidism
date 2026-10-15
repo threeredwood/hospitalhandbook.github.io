@@ -1,0 +1,622 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/05-hyperthyroidism/05-hyperthyroidism" />
+<link rel="shortlink" href="/node/1901" />
+<link rel="prev" href="/04-hypothyroidism/04-hypothyroidism" />
+<link rel="up" href="/06-endocrinology/06-endocrinology" />
+<link rel="next" href="/06-thyroid-nodule/06-thyroid-nodule" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/05-hyperthyroidism/05-hyperthyroidism" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/05-hyperthyroidism/05-hyperthyroidism" />
+<meta property="twitter:title" content="05. Hyperthyroidism | Hospital Handbook" />
+<meta property="og:title" content="05. Hyperthyroidism" />
+  <title>05. Hyperthyroidism | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"vemcN6aYI519aM8K5bwmGq9au6IXvNJGlerVtRjLUvM","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/05-hyperthyroidism\/05-hyperthyroidism":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1901 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/05-hyperthyroidism/05-hyperthyroidism" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-j2_pjK8yGD298A3_i7VXvDRramrVOPMWcook-gvq_7o" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a> > <span class="breadcrumb-page-title">05. Hyperthyroidism</span></div></div></div>
+                  <h1 class="title" id="page-title">05. Hyperthyroidism</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1901" class="node node-book clearfix" about="/05-hyperthyroidism/05-hyperthyroidism" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="05. Hyperthyroidism" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editors: Scott Goldberg, MD, Leslie Sheu, MD</p>
+
+<p style="text-align: right;">Faculty Editor: Doug Bauer, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ USPSTF does not recommend screening for thyroid dysfunction in non-pregnant, asymptomatic adults</p>
+
+			<p>✔ Undetectable TSH is sufficient for diagnosis of overt hyperthyroid</p>
+
+			<p>✔ Graves may be diagnosed without additional testing if symmetrically enlarged thyroid and exophthalmos</p>
+
+			<p>✔ Subclinical hyperthyroidism (low TSH but normal fT4/T3) should be followed q3-6 mos and treatment should be considered if complicated by atrial fib or fractures</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul type="disc">
+	<li><em>Overt Primary Hyperthyroidism: </em>Low serum TSH with high serum total or free T4 and/or high serum total or free T3</li>
+	<li><em>Subclinical hyperthyroidism</em><em>:</em>Low serum TSH with normal FT4 and T3 (most patients have minimal or no symptoms). 
+	<ul type="circle">
+		<li>Few people with TSH 0.1-0.4 progress to overt hyperthyroidism, but 1-2% per year with TSH&lt;0.1 progress.</li>
+		<li>There is some evidence for increased risk of cardiovascular disease, osteoporosis, CNS effects </li>
+	</ul>
+	</li>
+	<li>Risk factors: diffuse or nodular goiters, type I diabetes or other autoimmune disease, famiy history of hypo- or hyperthyroidism, medications (see below)</li>
+	<li>Prevalence of 1.3% in the United States </li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Signs and Symptoms</u></strong></p>
+
+<ul>
+	<li>Symptoms
+	<ul>
+		<li>Nervousness</li>
+		<li>Increased sweating</li>
+		<li>Heat intolerance</li>
+		<li>Palpitations</li>
+		<li>Dyspnea</li>
+		<li>Leg edema</li>
+		<li>Eye symptoms (pain, swelling, diplopia)</li>
+		<li>Emotional lability</li>
+		<li>Hyperdefecation</li>
+	</ul>
+	</li>
+	<li>Signs
+	<ul>
+		<li>Tachycardia</li>
+		<li>Weight loss</li>
+		<li>Skin changes</li>
+		<li>Tremor</li>
+		<li>Lid lag</li>
+		<li>Nodule </li>
+		<li>Thyroid bruit</li>
+		<li>Proptosis</li>
+		<li>Diffuse goiter</li>
+		<li>Periorbital edema</li>
+		<li>Pretibial myxedema</li>
+	</ul>
+	</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Differential diagnosis</u></strong></p>
+
+<ul type="disc">
+	<li><strong>Graves' disease</strong>: (60-80% of hyperthyroidism): Most common in women 20-40 y/o, positive TSH-receptor antibodies in 80% of cases, anti-TPO positive in 75%</li>
+	<li><strong>Toxic adenoma and multinodular goiter</strong>: toxic multinodular goiter more common in iodine-deficient areas, toxic adenoma independent of iodine exposure</li>
+	<li><strong>Subacute thyroiditis</strong>: painful (often viral infection) or painless (including postpartum thyroiditis); self-limiting course, often followed by transient hypothyroidism with return to euthryoid state</li>
+	<li><strong>Thyrotoxicosis factitia</strong>: exogenous thyroid hormone </li>
+	<li><strong>Iodine-induced hyperthyroidism</strong>: secondary to radiocontrast, medications, dietary iodine load</li>
+	<li><strong>Hashimoto’s thyroiditis</strong>: may see transient hyperthyroidism before classic hypothyroidism</li>
+	<li><strong>Medications</strong>: Amiodarone, interferon-alpha, lithium, interleukin-2</li>
+	<li><strong>Rare causes</strong>: struma ovarii, metastatic functioning thyroid cancer, pituitary tumor (TSH hypersecretion), trophoblastic tumor</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<ul type="disc">
+	<li>Ask about signs and symptoms of hyperthyroidism, recent pregnancy, viral illness, previous or current use of culprit medications (prescribed and OTC), personal history of cancer or other autoimmune diseases, family history of thyroid disorders</li>
+	<li>Physical exam should look for: 
+	<ul type="circle">
+		<li>Vital signs: tachycardia, dysrhythmia</li>
+		<li>General appearance: diaphoresis, warm/moist skin, hair loss)</li>
+		<li>Eyes: stare, lid retraction, lid lag, proptosis, periorbital edema, chemosis</li>
+		<li>Neck: Goiter, palpate thyroid for size, tenderness, nodularity, and symmetry, bruit</li>
+		<li>Neuro: resting tremor, proximal muscle weakness, hyperactive reflexes </li>
+	</ul>
+	</li>
+	<li>TSH recommended in those with risk factors (see above) OR osteoporosis, supraventricular tachycardia, atrial fibrillation. If low, then measure free T4. </li>
+	<li>If hyperthyroidism strongly suspected, measure both TSH and FT4. 
+	<ul type="circle">
+		<li>If low TSH and normal FT4, then measure free T3. Low TSH and normal FT3 and FT4 suggest subclinical hyperthyroidism. </li>
+	</ul>
+	</li>
+	<li>Graves can be diagnosed with characteristic clinical findings (symmetrically enlarged thyroid and exophthalmos). Thyroid scan and serum studies not indicated. </li>
+	<li>If etiology unclear or thyroid nodularity present, perform radioactive uptake scan. </li>
+	<li>If etiology still unclear after scan, consider measuring TSH-receptor antibodies (common assays do not distinguish between stimulatory or blocking properties) and serum thyroglobulin (consider measuring in patients with low or absence RAI uptake and suspicion for thyroiditis). </li>
+	<li>TSH-secreting pituitary tumor is diagnosed based on inappropriately normal or elevated TSH, electated FT3 and FT4, and pituitary tumor on MRI.</li>
+	<li>Thyroid ultrasound is not recommended if there is no palpable abnormality of thyroid. </li>
+</ul>
+
+<p> </p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td valign="top" width="21.561969439728355%">
+			<p><strong>Disease</strong></p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>T4</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>T3</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Thyroid Scan</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Other Studies</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="21.561969439728355%">
+			<p>Graves</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High (usually T3 &gt; T4)</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Diffuse, homogeneous, symmetric uptake </p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>High TSI or thyrotropin receptor Ab</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="21.561969439728355%">
+			<p>Painless thyroiditis</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Low uptake</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Serum TPO Ab positive</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="21.561969439728355%">
+			<p>Painful subacute thyroiditis</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Low uptake</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Antibodies usually negative</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="21.561969439728355%">
+			<p>Toxic multinodular goiter</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>Low, normal, or high</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Patchy, increased uptake</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Negative antibodies</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="21.561969439728355%">
+			<p>Solitary hyperfunctioning nodule</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>Low, normal, or high</p>
+			</td>
+			<td valign="top" width="19.185059422750424%">
+			<p>High</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Increased uptake in focal nodule</p>
+			</td>
+			<td valign="top" width="20.0339558573854%">
+			<p>Negative antibodies </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p> </p>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<p>Specific to etiology. However, five general treatment options:</p>
+
+<ol start="1" type="1">
+	<li><strong>Beta blockers</strong>: for <strong>symptom control</strong>(regardless of cause)
+
+	<ol start="1" type="a">
+		<li>Propranolol most common. Start with 10 mg q6h and uptitrate to 40 mg q6h or symptomatic relief</li>
+	</ol>
+	</li>
+	<li><strong>Iodides</strong>: to block T4 to T3 conversion, and inhibit hormone release.
+	<ol start="1" type="a">
+		<li><strong>Primary use is in pre-operative settings</strong> if other medications contraindicated or not well-tolerated</li>
+		<li>Common side effect: sialadenitis, conjunctivitis, acneform rash; can cause paradoxical increase in thyroid hormones with prolonged use</li>
+	</ol>
+	</li>
+	<li><strong>Antithyroid drugs (methimazole, propylthiouracil):</strong>blocks iodine uptake; PTU also blocks peripheral conversion of T4 to T3 in large doses
+	<ol start="1" type="a">
+		<li>for Graves, children/older adults where radioactive iodine is contraindicated (see below). </li>
+	</ol>
+	</li>
+	<li><strong>Radioactive iodine:</strong>destroys thyroid tissue
+	<ol start="1" type="a">
+		<li>Treatment option for Graves, multinodular goiter, toxic nodules &gt;40yo, relapse with antithyroid drugs</li>
+	</ol>
+	</li>
+	<li><strong>Surgery (subtotal thyroidectomy)</strong>: reduces thyroid mass
+	<ol start="1" type="a">
+		<li>Treatment of choice if pregnant, toxic nodules &lt;40yo, large goiters with compressive symptoms, noncompliant, refuse radioactive iodine, severe disease</li>
+	</ol>
+	</li>
+</ol>
+
+<p><strong>            </strong></p>
+
+<p><strong>A.  Graves’ disease</strong></p>
+
+<ul type="disc">
+	<li>Radioactive iodine: May be preferred as first-line treatment in patients with contraindications to antithyroid medications and co-morbidities that increase surgical risk </li>
+</ul>
+
+<ul>
+	<li><strong>Contraindicated in pregnancy</strong></li>
+	<li>Complications: hypothyroidism (treated with levothyroxine), increases development or worsening of Graves ophthalmopathy compared to methimazole</li>
+	<li>Remission achieved in 90% of cases</li>
+</ul>
+
+<ul type="disc">
+	<li>Antithyroid drugs: Methimazole and propylthiouracil (PTU) inhibit hormone biosynthesis. Methimazole is preferred over PTU unless patient is pregnant or breastfeeding.</li>
+</ul>
+
+<ul class="decimal_type">
+	<li>Starting doses are methimazole 30 mg daily or PTU 100 mg tid. </li>
+	<li>Titrate dose q4-12 weeks according until euthyroid, then monitor every 3 to 4 months</li>
+	<li>Complications: agranulocytosis (0.1-0.4%), liver disease, lupus-like syndrome</li>
+	<li>Discontinue if patient develops sore throat or febrile illness and check CBC. </li>
+	<li>Optimal duration of therapy is 12-18 months (50% remission rate); if recurrence following therapy then usually require iodine ablation, surgery, or low dose methimazole</li>
+</ul>
+
+<ul type="disc">
+	<li>Thyroid surgery: Preferred for symptomatic compression, pregnancy, severe ophthalmopathy, or patient choice.</li>
+</ul>
+
+<ul>
+	<li>Achieve euthyroid state pre-operatively with antithyroid medications and potassium iodide (in Graves only)</li>
+	<li>Complications: hypoparathyroidism, laryngeal nerve injury, hypothyroidism</li>
+</ul>
+
+<ul type="disc">
+	<li>Graves’ ophthalmopathy: Worsened by cigarette smoking.  Maybe worsened by RAI ablation – thus treat this before RAI ablation! Pulse steroids and orbital radiation can help with active ophthalmopathy.</li>
+</ul>
+
+<p> </p>
+
+<ol start="2" type="A">
+	<li><strong>Toxic adenoma or multinodular goiter</strong></li>
+</ol>
+
+<ul type="disc">
+	<li>Definitive treatment is surgery or radioactive iodine. </li>
+	<li>For patients who want medical therapy, long-term low dose methimazole is an option.</li>
+</ul>
+
+<p> </p>
+
+<ol start="3" type="A">
+	<li><strong> Low uptake Hyperthyroidism</strong></li>
+</ol>
+
+<ul type="disc">
+	<li>NSAIDs, propranolol (as above), glucocordicoid therapy (if severe) for subacute thyroiditis</li>
+	<li>Amiodarone-induced hyperthyroidism may respond to antithyroid medications</li>
+</ul>
+
+<p> </p>
+
+<p><strong>D.  Subclinical Hyperthyroidism</strong></p>
+
+<ul type="disc">
+	<li>May consider treatment if TSH is persistently &lt;0.1 in patients with any of these: 
+	<ul type="circle">
+		<li>Age &gt;65, atril fib, <a href="applewebdata://98A7EF98-3924-486D-86C9-0B06E105B329#_msocom_1" id="_anchor_1" language="JavaScript" name="_msoanchor_1">[Office1]</a> osteoporosis, hyperthyroid symptoms </li>
+	</ul>
+	</li>
+	<li>Consider treatment when TSH is low but &gt;0.1 if age &gt;65, cardiac disease, hyperthyroid symptoms</li>
+	<li>Observe in groups with low risk of complications and no symptoms (TSH, fT4, T3 every 6 months) </li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>When to Refer</u></strong></p>
+
+<ul type="disc">
+	<li>Diagnosis or cause of hyperthyroidism is unclear.</li>
+	<li>Radioactive iodine therapy, amiodarone-induced hyperthyroidim, pregnancy or breastfeeding.</li>
+	<li>Graves’ ophthalmopathy (refer to both endocrinology and ophthalmology).</li>
+	<li>Severe cardiovascular symptoms, eg CHF, rapid atrial fibrillation, or angina (admit to hospital).</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>References</u></strong></p>
+
+<p> <em>Brent, Gregory A. “Graves’ Disease.” New England Journal of Medicine 358, no. 24 (June 12, 2008): 2594–2605. <a href="https://doi.org/10.1056/NEJMcp0801880">https://doi.org/10.1056/NEJMcp0801880</a>.</em></p>
+
+<p><em> Donangelo, Ines, and Se Young Suh. “Subclinical Hyperthyroidism: When to Consider Treatment.” American Family Physician95, no. 11 (June 1, 2017): 710–16.</em></p>
+
+<p><em>Hou, Runhua. Hyperthyroidism and other causes of thyrotoxicosis. DynaMed. July 27, 2017. </em></p>
+
+<p><em>McDermott, MT et al. In the Clinic: Hyperthyroidism. Ann Intern Med. 2012;157(1):ITC1-1.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/04-hypothyroidism/04-hypothyroidism" class="page-previous" title="Go to previous page">‹ 04. Hypothyroidism</a>
+                    <a href="/06-endocrinology/06-endocrinology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/06-thyroid-nodule/06-thyroid-nodule" class="page-next" title="Go to next page">06. Thyroid nodule ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="expanded active-trail menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a><ul class="menu"><li class="first leaf menu-mlid-5081"><a href="/01-diabetes-mellitus/01-diabetes-mellitus">01. Diabetes mellitus </a></li>
+<li class="leaf menu-mlid-5086"><a href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass">02. Incidental adrenal mass</a></li>
+<li class="leaf menu-mlid-5091"><a href="/03-adrenal-insufficiency/03-adrenal-insufficiency">03. Adrenal insufficiency</a></li>
+<li class="leaf menu-mlid-5096"><a href="/04-hypothyroidism/04-hypothyroidism">04. Hypothyroidism</a></li>
+<li class="leaf active-trail active menu-mlid-5101"><a href="/05-hyperthyroidism/05-hyperthyroidism" class="active-trail active">05. Hyperthyroidism</a></li>
+<li class="leaf menu-mlid-5106"><a href="/06-thyroid-nodule/06-thyroid-nodule">06. Thyroid nodule</a></li>
+<li class="leaf menu-mlid-5111"><a href="/07-osteoporosis/07-osteoporosis">07. Osteoporosis</a></li>
+<li class="leaf menu-mlid-5116"><a href="/08-vitamin-d-deficiency/08-vitamin-d-deficiency">08. Vitamin D deficiency</a></li>
+<li class="leaf menu-mlid-5121"><a href="/09-hypercalcemia/09-hypercalcemia">09. Hypercalcemia</a></li>
+<li class="last leaf menu-mlid-5126"><a href="/10-hyperlipidemia/10-hyperlipidemia">10. Hyperlipidemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

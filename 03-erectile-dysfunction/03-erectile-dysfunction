@@ -1,0 +1,498 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/03-erectile-dysfunction/03-erectile-dysfunction" />
+<link rel="shortlink" href="/node/2236" />
+<link rel="prev" href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract" />
+<link rel="up" href="/19-urology/19-urology" />
+<link rel="next" href="/04-urinary-incontinence/04-urinary-incontinence" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/03-erectile-dysfunction/03-erectile-dysfunction" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/03-erectile-dysfunction/03-erectile-dysfunction" />
+<meta property="twitter:title" content="03. Erectile Dysfunction | Hospital Handbook" />
+<meta property="og:title" content="03. Erectile Dysfunction" />
+  <title>03. Erectile Dysfunction | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"V7ZKs8QGEW_hLnGqcCq6L2TboEmm9K1mFpkfECe9exo","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/03-erectile-dysfunction\/03-erectile-dysfunction":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2236 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/03-erectile-dysfunction/03-erectile-dysfunction" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-sp-MJCvgKDQHKKQ-DrDfyQYAAbpWUUXZmPUUg9HF3DY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/19-urology/19-urology" class="active-trail">19. Urology</a> > <span class="breadcrumb-page-title">03. Erectile Dysfunction</span></div></div></div>
+                  <h1 class="title" id="page-title">03. Erectile Dysfunction</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2236" class="node node-book clearfix" about="/03-erectile-dysfunction/03-erectile-dysfunction" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="03. Erectile Dysfunction" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Scott R. Bauer, MD, ScM</p>
+
+<p align="right">Faculty Editor: Benjamin Breyer, MD</p>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<div>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ ED is most common sexual problem in men</p>
+
+			<p>✔ Smoking cessation is the most effective lifestyle intervention</p>
+
+			<p>✔ First line therapy is to address lifestyle and psychosocial factors</p>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><!--[endif]----><!--![endif]----></p>
+
+<p><strong><u>Background</u></strong></p>
+
+<p style="margin-left:18.0pt;">·    <em>Erectile dysfunction</em> (ED) is defined as inability to achieve or maintain an erection sufficient for satisfactory sexual performance.</p>
+
+<ul>
+	<li>Causes can be vascular, neurogenic, hormonal, or psychogenic.</li>
+</ul>
+
+<p style="margin-left:18.0pt;">·   Most common sexual problem in men, increases with age (prevalence: ~40% mild to 5% complete at age 40 and ~70% mild to 15% complete at age 70)</p>
+
+<ul>
+	<li>New ED has high PPV for future CAD (similar to smoking), usually 2-5 years before clinically significant CAD develops.</li>
+</ul>
+
+<p><strong><u>Signs and Symptoms </u></strong></p>
+
+<p style="margin-left:24.0pt;"><em>•</em> <em>Sexual history</em></p>
+
+<ul>
+	<li><u>Onset:</u> gradual and progressive ED suggests organic cause, rapid onset in absence of prostate cancer treatment or overt trauma suggests psychogenic cause.</li>
+	<li><u>Erection health</u><u>:</u> assess nocturnal/early AM erections (complete loss suggests neurologic or vascular disease), loss of erection after penetration (suggests anxiety or vascular steal syndrome). Clearly distinguish ED from premature ejaculation, difficulty with ejaculation/orgasm, poor libido.</li>
+	<li><u>Psychosocial:</u> perform interpersonal violence screen, assess for interpersonal conflict, stress, performance anxiety, desire.</li>
+</ul>
+
+<p><em>• General history</em></p>
+
+<ul>
+	<li>Review PMH for DM, HTN, HLD, metabolic syndrome, CVD, BPH, neurologic disease, depression, hypogonadism, alcohol use disorder, pelvic, penile, or perineal trauma, surgery or XRT, back or spine injury.</li>
+	<li>Risk increased with smoking, recreational drugs (amphetamines, barbiturates, cocaine, MJ, opioids), obesity, sedentary lifestyle, LUTS. Cycling not associated with ED.</li>
+	<li>Review medications for antihypertensives (BB, CCB, thiazides, clonidine, methyldopa, spironolactone), antidepressants and antipsychotics (SSRI, SNRI, TCA, lithium, phenothiazines), others (digoxin, anti-cholinergics, alpha-blockers, cimetidine, phenytoin, steroids, fibrates). </li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th colspan="6" scope="col" style="width: 590px;">
+			<p>International Index of Erectile Function (IIEF-5) Questionnaire:</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="6" style="width:590px;height:2px;">
+			<p><strong>Over the past 6 months:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:199px;height:2px;">
+			<p>1. How do you rate your <strong>confidence</strong> that you could get and keep an erection?</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Very low 1</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Low 2</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Moderate 3</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>High 4</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Very high 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:199px;height:2px;">
+			<p>2. When you had erections with sexual stimulation, <strong>how often</strong> were your erections hard enough for penetration?</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Almost never/never 1</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>A few times (much less than half the time) 2</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Sometimes (about half the time) 3</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Most times (much more than half the time) 4</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Almost always/always 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:199px;height:2px;">
+			<p>3. During sexual intercourse, <strong>how often</strong> were you able to maintain your erection after you had penetrated (entered) your partner?</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Almost never/never 1</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>A few times (much less than half the time) 2</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Sometimes (about half the time) 3</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Most times (much more than half the time) 4</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Almost always/always 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:199px;height:2px;">
+			<p>4. During sexual intercourse, <strong>how difficult</strong> was it to maintain your erection to completion of intercourse?</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Extremely difficult 1</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Very difficult 2</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Difficult 3</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Slightly difficult 4</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Not difficult 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:199px;height:2px;">
+			<p>5. When you attempted sexual intercourse, <strong>how often</strong> was it satisfactory for you?</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Almost never/never 1</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>A few times (much less than half the time) 2</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Sometimes (about half the time) 3</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Most times (much more than half the time) 4</p>
+			</td>
+			<td style="width:78px;height:2px;">
+			<p>Almost always/always 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" style="width:590px;">
+			<p>Scoring: &gt;22 normal; 12-21 mild; 8-11 moderate; &lt;8 severe</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-left:24.0pt;"><strong><u>Evaluation</u></strong></p>
+
+<p style="margin-left:24.0pt;"><em>• </em>Assess severity and track symptoms with IIEF-5 (above)</p>
+
+<p style="margin-left:24.0pt;"><em>• Physical Exam</em></p>
+
+<ul>
+	<li>Blood pressure.</li>
+	<li>BMI and waist circumference.</li>
+	<li>GU exam: assess for testicular size, asymmetry or masses.</li>
+	<li>Assess for secondary male sex characteristics, gynecomastia, galactorrhea.</li>
+	<li>Peripheral and femoral pulses (suggest PVD). </li>
+	<li>If pituitary disease is suspected, assess visual fields.</li>
+	<li>If concerning neurologic symptoms or LUTS, perform DRE and cremasteric reflex to assess sacral nerve and prostate.</li>
+</ul>
+
+<p style="margin-left:24.0pt;"><em>• Labs/tests</em></p>
+
+<ul>
+	<li>Check <em>fasting glucose</em> or A1c and lipid panel in all men.</li>
+	<li>Only consider TSH, morning serum testosterone, prolactin if additional symptoms.</li>
+	<li>Consider evaluation for hypogonadism if signs/symptoms or not responding to initial therapy.</li>
+	<li>Duplex doppler ultrasonography or angiography of the penile deep arteries may be used by Urology to assess penile vasculature.</li>
+	<li>Nocturnal penile tumescence testing (NPT) not commonly done.</li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<p style="margin-left:24.0pt;">· First line therapy: Treat underlying medical disease, change potential contributing medications, smoking cessation, weight loss (10% of total body weight in obese men), increase physical activity, healthful diet, stress reduction techniques, address psychosocial stressors and relational issues (refer to sex therapist), attempt intercourse when well rested.</p>
+
+<p style="margin-left:24.0pt;">· Second line therapy: Phosphodiesterase-5 inhibitors (no proven superiority of any one agent, doubles likelihood of successful intercourse, efficacy decreased in DM):</p>
+
+<ul>
+	<li><em>Sildenafil (Viagra), vardenafil (Levitra)</em>, avanafil (Stendra), t<em>adalafil (Cialis)</em></li>
+	<li>Take 1-2 hours before sexually activity on an empty stomach (except tadalafil/Cialis long-acting, 36hr half-life, not used prn).</li>
+	<li>Do not take medication more than once per 24 hours.</li>
+	<li>Side effects include headache, flushing, dyspepsia, nasal congestion, changes in color perception. </li>
+	<li>Contraindicated in men taking nitrates. Recommend discussion with cardiologist if symptomatic CAD (moderate angina, MI within 2 months), CHF (NYHA class &gt;I), uncontrolled HTN. Caution if chronic hypotension. Avoid use with alpha-adrenergic blockers, drugs that affect cytochrome P450 CYP3A4, and drugs that prolong QT interval. </li>
+</ul>
+
+<p style="margin-left:24.0pt;">· Third line therapy (refer to Urology): penile self-injectable drugs, intraurethral alprostadil (prostaglandin E1), vacuum devices, surgical implantation of a penile prosthesis.</p>
+
+<p style="margin-left:24.0pt;">· For men with hypogonadism, trial of 1<sup>st</sup> and 2<sup>nd</sup> line therapies and if fail refer to endocrine for possible initiation of testosterone replacement.</p>
+
+<p style="margin-left:24.0pt;">· Psychosexual therapy is effective for ED due to depression or performance anxiety, can be added as adjunctive therapy.</p>
+
+<p><strong><u>When to refer</u></strong></p>
+
+<p style="margin-left:24.0pt;">·     If 1<sup>st</sup> or 2<sup>nd</sup> line therapies fails, if surgery is required, or for further diagnostic imaging.<br />
+ </p>
+
+<p><strong><u>References</u></strong></p>
+
+<p style="margin-left:31.5pt;"><em>Feldman HA, Goldstein I, Hatzichristou DG, et al: Impotence and its medical and psychosocial correlates: Results of the Massachusetts Male Aging Study. J Urol, 1994;151:54–61.</em></p>
+
+<p style="margin-left:31.5pt;"><em>McVary KT. Clinical practice. Erectile dysfunction. N Engl J Med 2007;357(24):2472-81.</em></p>
+
+<p style="margin-left:31.5pt;"> <em>Montague, DK, Jarow, JP, Broderick, GA, et al. Chapter 1: The management of erectile dysfunction: an AUA update. J Urol 2005; 174:230.</em></p>
+
+<p style="margin-left:31.5pt;"><em>Rew KT and Heidelbaugh JJ. Erectile Dysfunction. </em><em>Am Fam Physician</em><em> 2016; 94(10): 820-827.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract" class="page-previous" title="Go to previous page">‹ 02. Lower Urinary Tract Symptoms including Benign Prostatic Hypertrophy (BPH)</a>
+                    <a href="/19-urology/19-urology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/04-urinary-incontinence/04-urinary-incontinence" class="page-next" title="Go to next page">04. Urinary Incontinence ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="expanded active-trail menu-mlid-5421"><a href="/19-urology/19-urology" class="active-trail">19. Urology</a><ul class="menu"><li class="first leaf menu-mlid-5426"><a href="/01-common-male-gu-disorders/01-common-male-gu-disorders">01. Common Male GU Disorders</a></li>
+<li class="leaf menu-mlid-5431"><a href="/02-lower-urinary-tract-symptoms-including-benign-prostatic-hypertrophy-bph/02-lower-urinary-tract">02. Lower Urinary Tract Symptoms including Benign Prostatic Hypertrophy (BPH)</a></li>
+<li class="leaf active-trail active menu-mlid-5436"><a href="/03-erectile-dysfunction/03-erectile-dysfunction" class="active-trail active">03. Erectile Dysfunction</a></li>
+<li class="last leaf menu-mlid-5441"><a href="/04-urinary-incontinence/04-urinary-incontinence">04. Urinary Incontinence</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/01-examination-comatose-patient/01-examination-comatose-patient" />
+<link rel="shortlink" href="/node/911" />
+<link rel="prev" href="/content/13-neurology" />
+<link rel="up" href="/content/13-neurology" />
+<link rel="next" href="/content/02-acute-ischemic-stroke" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/01-examination-comatose-patient/01-examination-comatose-patient" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/01-examination-comatose-patient/01-examination-comatose-patient" />
+<meta property="twitter:title" content="01. Examination of the Comatose Patient | Hospital Handbook" />
+<meta property="og:title" content="01. Examination of the Comatose Patient" />
+  <title>01. Examination of the Comatose Patient | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"j4fsy__OjMCa6NjjgpNLBnGJXgyX50vSEgN6SViNwmE","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/01-examination-comatose-patient\/01-examination-comatose-patient":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-911 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/01-examination-comatose-patient/01-examination-comatose-patient" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vG7I5-jG0p47qvI2YmHgJ2wEAMXCNWAvzdUeYwd7zI8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a> > <a href="/content/13-neurology" class="active-trail">13. Neurology</a> > <span class="breadcrumb-page-title">01. Examination of the Comatose Patient</span></div></div></div>
+                  <h1 class="title" id="page-title">01. Examination of the Comatose Patient</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-911" class="node node-book clearfix" about="/01-examination-comatose-patient/01-examination-comatose-patient" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Examination of the Comatose Patient" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition of Coma</h3>
+
+<p>A state of impaired arousability and impaired responsiveness to external stimuli (verbal, tactile, noxious).</p>
+
+<h3>Etiologies</h3>
+
+<ul>
+	<li>Disturbance of bilateral cerebral hemispheres or bilateral thalami:
+	<ul>
+		<li>Compression (supratentorial structural lesion that is bilateral or causing herniation): intracranial hemorrhage (epidural hematoma, subdural hematoma, intracerebral hemorrhage), abscess, ischemic infarct with edema, tumor, or inflammatory lesion</li>
+		<li>Metabolic disturbance (electrolyte abnormalities, hyperammonemia, hypothyroidism, uremia, hypercarbia, etc.)</li>
+		<li>Meningoencephalitis</li>
+		<li>Global cerebral ischemia (e.g. post-cardiac arrest)</li>
+		<li>Intoxication (opioids, alcohol, medicati0on overdose, etc.)</li>
+		<li>Ictal or post-ictal state</li>
+	</ul>
+	</li>
+	<li>Disturbance of reticular activating system (RAS) in the brainstem:
+	<ul>
+		<li>Compression (structural lesion), infarct (basilar artery thrombosis), hemorrhage, osmotic demyelination  </li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Evaluation</h3>
+
+<ul>
+	<li>ABCs, vital signs, neurologic exam (pupils, brainstem reflexes, motor response)</li>
+	<li>Check and treat for reversible causes
+	<ul>
+		<li>Finger stick glucose and if low, give 25g dextrose with 100mg thiamine</li>
+		<li>Give 0.4-1.2mg IV naloxone if opioid ingestion is possible</li>
+	</ul>
+	</li>
+	<li>Draw basic labs: renal panel/electrolytes, CBC, coags, LFTs, TSH, ammonia, urine tox screen, blood gas</li>
+	<li>Non-contrast head CT. If concerned for brainstem pathology, consider CT angiogram head and neck (to rule out basilar thrombosis)</li>
+</ul>
+
+<h3>Physical Exam</h3>
+
+<p>Aimed at elucidating underlying cause(s) and assessing depth of coma.</p>
+
+<ul>
+	<li><strong>General</strong>:
+
+	<ul>
+		<li>Vital signs</li>
+		<li>Breathing pattern: hyperventilation, Cheyne-Stokes respirations (alternating tachypnea and apneic pauses, indicative of bihemispheric lesions but also seen in heart failure), apneic pauses</li>
+		<li>Signs of trauma: raccoon eyes, boggy areas of scalp, otorrhea, rhinorrhea</li>
+		<li>Nuchal rigidity (can be seen in meningitis, SAH); be careful if history of trauma</li>
+		<li>Skin inspection: color, temperature, rashes/discolorations</li>
+	</ul>
+	</li>
+	<li>Fundoscopic exam: examine for signs of increased ICP (papilledema)</li>
+	<li><strong>Cranial nerves</strong>:
+	<ul>
+		<li>Visual fields: check blink to threat (bilateral absence in coma; unilateral absence in unilateral lesion)</li>
+		<li>Pupils: check size, reactivity, symmetry (up to 0.5mm difference = normal population variant)
+		<ul>
+			<li>Pinpoint: toxic effect (e.g. opioids) vs. pontine or medullary lesion</li>
+			<li>Dilated: toxic effect (e.g. stimulants) vs. midbrain lesion (unilateral dilation concerning for uncal herniation, unilateral medication effect, or traumatic injury)</li>
+		</ul>
+		</li>
+		<li>Extraocular muscle movements:
+		<ul>
+			<li>Eyes at rest: dysconjugacy and roving movements are normal in coma; persistent deviation may indicate stroke (gaze toward lesion) or seizure activity (away from seizure focus if seizing and toward lesion if post-ictal)</li>
+			<li>Oculocephalic reflex: hold eyelids open, turn head quickly to one side. Eyes should cross the midline symmetrically in the direction opposite the head movement. Repeat in the other direction. If eyes move with the head, this is indicative of brainstem lesion. <strong>Do not perform on patients in cervical collar/suspicion for head/neck trauma with cervical spine instability</strong></li>
+		</ul>
+		</li>
+		<li>Corneal reflex: hold both eyelids open. Apply sterile normal saline to cornea (over iris) and evaluate for blink response; if absent, touch cornea lightly with sterile gauze; asymmetry indicates CN V or VII pathology</li>
+		<li>Facial strength: facial asymmetry indicates CN VII or contralateral motor tract pathology</li>
+		<li>Gag reflex: use suction to stimulate posterior oropharynx and assess for gag</li>
+		<li>Cough reflex: use endotracheal suction to stimulate carina and assess for cough in intubated patient</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li><strong>Motor response</strong>:
+
+	<ul>
+		<li>Apply painful stimulus centrally (trapezius pinch, sternal rub) or peripherally (nailbed pressure) and evaluate motor response (see section <a href="https://hospitalhandbook.ucsf.edu/content/08-glasgow-coma-scale"><em>Glasgow Coma Scale</em></a>):
+
+		<ul>
+			<li>Purposeful/semi-purposeful movements (i.e. localizing/withdrawing from pain)</li>
+			<li>Decorticate posturing (flexion at elbow, wrist, fingers) indicates cerebral hemisphere or thalamic injury but intact brainstem (lesion above red nucleus in midbrain)</li>
+			<li>Decerebrate posturing (extension at elbow, forearm pronation, wrist flexion) indicates severe injury to the brainstem (lesion below red nucleus)</li>
+		</ul>
+		</li>
+		<li>Important: asymmetric posturing indicates a brain lesion until proven otherwise!</li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Further Workup</h3>
+
+<p>If etiology unexplained after workup above, consider more detailed neurologic testing:</p>
+
+<ul>
+	<li>LP (CT first to rule out impending herniation) with opening pressure (legs straight) to evaluate for infectious and inflammatory etiologies</li>
+	<li>EEG to evaluate for subtle or non-convulsive seizures</li>
+	<li>MRI brain (can be with or without contrast depending on patient) to evaluate for structural lesion</li>
+</ul>
+
+<h3>Key Points</h3>
+
+<ul>
+	<li>Patients in a coma are suffering from either a bilateral hemispheric lesion or a brainstem lesion</li>
+	<li>Assess and treat for common reversible causes</li>
+	<li>Cranial nerve exam and motor responses are key for localizing</li>
+	<li>Further evaluation with LP, EEG, and MRI may be helpful</li>
+</ul>
+
+<p><em>Plum F, Posner JB. The Diagnosis of Stupor and Coma Edition 3. FA Davis Company: Philadelphia. 1982.</em></p>
+</div></div></div>  <div id="book-navigation-1" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/content/13-neurology" class="page-previous" title="Go to previous page">‹ 13. Neurology</a>
+                    <a href="/content/13-neurology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/content/02-acute-ischemic-stroke" class="page-next" title="Go to next page">02. Acute Ischemic Stroke ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" class="active-trail">UCSF Hospitalist Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-1791"><a href="/appendix-and-acknowledgements/appendix-and-acknowledgements">Appendix and Acknowledgements</a></li>
+<li class="collapsed menu-mlid-1811"><a href="/content/01-hospitalist">01. The Hospitalist</a></li>
+<li class="collapsed menu-mlid-1816"><a href="/content/02-night-calls">02. Night Calls</a></li>
+<li class="collapsed menu-mlid-2116"><a href="/content/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-2251"><a href="/content/04-critical-care">04. Critical Care</a></li>
+<li class="collapsed menu-mlid-4396"><a href="/05-pulmonary/05-pulmonary">05. Pulmonary</a></li>
+<li class="collapsed menu-mlid-3611"><a href="/06-acid-baseielectrolytes/06-acid-baseielectrolytes">06. Acid-BaseIElectrolytes</a></li>
+<li class="collapsed menu-mlid-5686"><a href="/07-renal/07-renal">07. Renal</a></li>
+<li class="collapsed menu-mlid-2271"><a href="/content/08-hematologyoncology">08. Hematology_Oncology</a></li>
+<li class="collapsed menu-mlid-3981"><a href="/09-gastroenterology-hepatology/09-gastroenterology-hepatology">09. Gastroenterology &amp; Hepatology</a></li>
+<li class="collapsed menu-mlid-3031"><a href="/content/10-endocrine">10. Endocrine</a></li>
+<li class="collapsed menu-mlid-3086"><a href="/content/11-infectious-diseases">11. Infectious Diseases</a></li>
+<li class="collapsed menu-mlid-3211"><a href="/content/12-rheumatology">12. Rheumatology</a></li>
+<li class="expanded active-trail menu-mlid-3271"><a href="/content/13-neurology" class="active-trail">13. Neurology</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-3276"><a href="/01-examination-comatose-patient/01-examination-comatose-patient" class="active-trail active">01. Examination of the Comatose Patient</a></li>
+<li class="leaf menu-mlid-3281"><a href="/content/02-acute-ischemic-stroke">02. Acute Ischemic Stroke</a></li>
+<li class="leaf menu-mlid-3291"><a href="/content/03-headache">03. Headache</a></li>
+<li class="leaf menu-mlid-3296"><a href="/04-seizures/04-seizures">04. Seizures</a></li>
+<li class="leaf menu-mlid-3301"><a href="/05-status-epilepticus/05-status-epilepticus">05. Status Epilepticus</a></li>
+<li class="leaf menu-mlid-3306"><a href="/content/06-brain-death">06. Brain Death</a></li>
+<li class="leaf menu-mlid-3311"><a href="/07-management-and-prognosis-hypoxic-or-ischemic-coma/07-management-and-prognosis-hypoxic-or-ischemic">07. Management and Prognosis in Hypoxic or Ischemic Coma</a></li>
+<li class="leaf menu-mlid-3316"><a href="/content/08-glasgow-coma-scale">08. Glasgow Coma Scale</a></li>
+<li class="leaf menu-mlid-3321"><a href="/09-altered-mental-status-ams/09-altered-mental-status-ams">09. Altered Mental Status (AMS)</a></li>
+<li class="leaf menu-mlid-3326"><a href="/10-subarachnoid-hemorrhage-sah/10-subarachnoid-hemorrhage-sah">10. Subarachnoid Hemorrhage (SAH)</a></li>
+<li class="leaf menu-mlid-3331"><a href="/content/11-vertigo">11. Vertigo</a></li>
+<li class="leaf menu-mlid-3336"><a href="/content/12-low-back-pain">12. Low Back Pain</a></li>
+<li class="leaf menu-mlid-3341"><a href="/content/13-cord-compression">13. Cord Compression</a></li>
+<li class="leaf menu-mlid-3346"><a href="/content/14-weakness-localization-problem">14. Weakness - Localization of the Problem</a></li>
+<li class="last leaf menu-mlid-3351"><a href="/content/15-peripheral-neuropathy">15. Peripheral Neuropathy</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-2926"><a href="/content/14-toxicology">14. Toxicology</a></li>
+<li class="collapsed menu-mlid-2876"><a href="/content/15-medicine-consults">15. Medicine Consults</a></li>
+<li class="collapsed menu-mlid-2866"><a href="/content/16-procedures">16. Procedures</a></li>
+<li class="collapsed menu-mlid-2816"><a href="/content/17-evidence-based-medicine">17. Evidence-Based Medicine</a></li>
+<li class="collapsed menu-mlid-2761"><a href="/content/18-geriatrics">18. Geriatrics</a></li>
+<li class="collapsed menu-mlid-2646"><a href="/content/19-palliative-care">19. Palliative Care</a></li>
+<li class="collapsed menu-mlid-2586"><a href="/content/20-advanced-cardiac-life-support">20. Advanced Cardiac Life Support</a></li>
+<li class="last collapsed menu-mlid-2581"><a href="/content/21-substance-use-disorders">21. Substance Use Disorders</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-3976"><a href="/content/outpatient-handbook">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

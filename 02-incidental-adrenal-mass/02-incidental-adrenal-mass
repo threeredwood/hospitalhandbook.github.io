@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass" />
+<link rel="shortlink" href="/node/1886" />
+<link rel="prev" href="/01-diabetes-mellitus/01-diabetes-mellitus" />
+<link rel="up" href="/06-endocrinology/06-endocrinology" />
+<link rel="next" href="/03-adrenal-insufficiency/03-adrenal-insufficiency" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/02-incidental-adrenal-mass/02-incidental-adrenal-mass" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/02-incidental-adrenal-mass/02-incidental-adrenal-mass" />
+<meta property="twitter:title" content="02. Incidental adrenal mass | Hospital Handbook" />
+<meta property="og:title" content="02. Incidental adrenal mass" />
+  <title>02. Incidental adrenal mass | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"UyUMES05XK9ko1oOmt2jvuzpJblyJynTdfWmzElaYV8","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/02-incidental-adrenal-mass\/02-incidental-adrenal-mass":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1886 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/02-incidental-adrenal-mass/02-incidental-adrenal-mass" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-kh9dDfniVFmrduHRpd-1qwvW3b7fCJYsI0eGNUNknM8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a> > <span class="breadcrumb-page-title">02. Incidental adrenal mass</span></div></div></div>
+                  <h1 class="title" id="page-title">02. Incidental adrenal mass</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1886" class="node node-book clearfix" about="/02-incidental-adrenal-mass/02-incidental-adrenal-mass" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="02. Incidental adrenal mass" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editor: Anne Montgomery, MD</p>
+
+<p style="text-align: right;">Faculty Editor: Anne Schafer, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Adrenal incidentalomas are common</p>
+
+			<p>✔ All lesions require lab evaluation for cortisol-secreting adenoma and pheochromocytoma regardless of clinical presentation</p>
+
+			<p>✔ Test for aldosterone-producing adenoma if patient hypertensive and/or hypokalemic</p>
+
+			<p>✔ Refer to Endocrine if biochemical workup positive</p>
+
+			<p>✔ Refer to Surgery if  4cm or imaging suspicious for malignancy</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>An <em>adrenal “incidentaloma”</em>is an adrenal mass (generally &gt;1cm) that is discovered unexpectedly on imaging performed for a reason other than evaluation of adrenal disease.
+
+	<ul class="decimal_type">
+		<li>Excludes imaging as part of staging and workup for malignancy.</li>
+	</ul>
+	</li>
+	<li>Seen in 0.4-4.4% of all abdominal CTs; prevalence increases with age.
+	<ul class="decimal_type">
+		<li>The majority are nonfunctioning benign adrenocortical adenomas (~80%).</li>
+		<li>Other common diagnoses: cortisol-secreting adenoma (~5%), pheochromocytoma (~5%), adrenocortical carcinoma (~5%), metastatic carcinoma (~2.5%), and aldosterone-producing adenoma (~2.5%).</li>
+	</ul>
+	</li>
+	<li>Bilateral adrenal masses may represent metastatic disease, congenital adrenal hyperplasia, bilateral cortical adenomas, infiltrative disease, or hemorrhage.</li>
+</ul>
+
+<p><strong><u>Evaluation</u></strong></p>
+
+<p>2 primary questions:</p>
+
+<ul>
+	<li>Is it functioning? </li>
+	<li>Is it malignant?</li>
+</ul>
+
+<p><strong><em>1) Evaluation for hormonal secretion</em></strong></p>
+
+<ul>
+	<li>All patients with adrenal incidentalomas should have basic lab evaluation for cortisol-secreting adenoma (Cushing’s syndrome) and pheochromocytoma regardless of clinical presentation. </li>
+	<li>Patients with adrenal incidentaloma AND hypertension should have evaluation for aldosterone-producing adenoma. </li>
+	<li>Some lesions require evaluation for hypersecretion of sex steroids, but these patients typically have clinical manifestation (hirsutism, virilization).</li>
+</ul>
+
+<p><strong>A) Cushing’s Syndrome</strong> </p>
+
+<ul>
+	<li>While overt Cushing’s is not typically diagnosed in response to an incidentaloma, some patients who actually do have signs and symptoms of Cushing's syndrome will not be appropriately identified until an adrenal incidentaloma is found.</li>
+	<li>In subclinical Cushing’s syndrome, on the other hand, patients do not have typical signs and symptoms of hypercortisolism but are more likely to have obesity, HTN, diabetes, and osteoporosis. All patients with adrenal incidentaloma should be evaluated for subclinical Cushing’s. </li>
+	<li>Diagnostic algorithm: 
+	<ul class="decimal_type">
+		<li>Perform overnight dexamethasone suppression test: 1 mg dexamethasone at 11 pm, then check 8am cortisol the next day. 
+		<ul class="decimal_type">
+			<li>AM cortisol &lt;1.8 mcg/dL rules out Cushing’s</li>
+			<li>AM cortisol &gt;1.8 mcg/dL requires further workup as below</li>
+			<li>AM cortisol &gt;5 mcg/dL is 91% specific and highly suggestive of Cushing’s; should be confirmed as below</li>
+		</ul>
+		</li>
+		<li>If dex suppression test positive or indeterminate, confirm with midnight salivary cortisol or 24-hour urinary cortisol.</li>
+		<li>If biochemical hypercortisolism is identified, check 8am ACTH to confirm that it is suppressed. (A high ACTH would suggest central Cushing’s disease rather than an adrenal process.)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>B) Pheochromocytoma</strong></p>
+
+<ul>
+	<li>Up to 50% of patients with incidentially discovered pheochromocytomas may be asymptomatic without hypertension.</li>
+	<li>Diagnostic algorithm: 
+	<ul>
+		<li>Screen with plasma fractionated metanephrines or 24-hour urinary fractionated metanephrines and catecholamines (and creatinine to document adequate collection). Plasma fractionated metanephrines are highly sensitive (95-98%) but less specific (89-95%) than urine. </li>
+		<li>Characteristic imaging findings: high attenuation on noncontrast CT, prominent vascularity, delayed washout on contrast CT, and high signal intensity on T2-weighted MRI </li>
+		<li>False positives can occur with TCAs, decongestants, amphetamines and catecholamine surge from severe illness. </li>
+	</ul>
+	</li>
+	<li>If screening test is positive, patients should be referred for specialist/surgical evaluation. </li>
+</ul>
+
+<p><strong>C) Aldosterone-Producing Adenoma</strong></p>
+
+<ul>
+	<li>Test all patients with adrenal incidentaloma and hypertension; hypokalemia may not be present and is not a good screening test. </li>
+	<li>Diagnostic algorithm:
+	<ul>
+		<li>Check plasma aldosterone concentration (PAC) and plasma renin activity (PRA); ideally test in the morning at least 2 hours after waking.
+		<ul>
+			<li>Make sure patient is not taking spironolactone, eplerenone, or amiloride before testing; other antihypertensives okay.</li>
+		</ul>
+		</li>
+		<li>Positive test is PAC/PRA (aka APR) ratio ³ 20 and PAC ³ 15 ng/dL, though cutoffs vary by laboratory.  </li>
+		<li>Confirm with 24-hour urinary aldosterone (with creatinine to document adequate collection) or aldosterone suppression testing.  </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><em>2) Evaluation for malignancy</em></strong></p>
+
+<ul>
+	<li>Mass size and appearance on imaging are the two key predictors of whether an adrenal incidentaloma is benign or malignant.</li>
+	<li>Mass size:
+	<ul>
+		<li>Diameter &gt;4cm is 90% sensitive for detecting adrenocortical carcinoma, though it is not very specific (~30%)</li>
+		<li>The smaller the size at diagnosis, the better the prognosis</li>
+	</ul>
+	</li>
+	<li>Imaging characteristics:
+	<ul>
+		<li>CT and MRI have comparable accuracy in differentiating benign and malignant tumors. 
+		<ul>
+			<li>If using CT, order adrenal CT protocol (consists of unenhanced CT, followed by washout tests)</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" valign="top" width="49.27536231884058%">
+			<p><strong>Benign Features</strong></p>
+			</th>
+			<th scope="col" valign="top" width="50.72463768115942%">
+			<p><strong>Suspicious Features</strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td valign="top" width="49.27536231884058%">
+			<p>Size &lt; 4 cm</p>
+			</td>
+			<td valign="top" width="50.72463768115942%">
+			<p>Size &gt; 4 cm (sn 90%, sp 24%)</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="49.27536231884058%">
+			<p>&lt; 10 HU on unenhanced CT</p>
+			</td>
+			<td valign="top" width="50.72463768115942%">
+			<p>&gt; 20 HU on unenhanced CT</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="49.27536231884058%">
+			<p>Smooth margins</p>
+			</td>
+			<td valign="top" width="50.72463768115942%">
+			<p>Irregular margins</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="49.27536231884058%">
+			<p>Homogenous or hypodense appearance</p>
+			</td>
+			<td valign="top" width="50.72463768115942%">
+			<p>Heterogeneous appearance</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="49.27536231884058%">
+			<p>CT washout &gt; 50% at 10 min </p>
+			</td>
+			<td valign="top" width="50.72463768115942%">
+			<p>CT washout &lt; 50% at 10 minutes</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ul>
+	<li>Usually no role for image-guided FNA as it rarely changes management, can be misleading, and is dangerous if a pheochromocytoma is not ruled out first. Can be used to differentiate adrenal tissue from metastasis or infection. </li>
+</ul>
+
+<p><strong><u>Treatment</u></strong></p>
+
+<ul>
+	<li>Referral to surgery for possible resection is appropriate for the following: 
+	<ul>
+		<li>Imaging is suspicious for malignancy based on size or phenotype;</li>
+		<li>Lab work is positive for functional tumor; more urgent for patients with evidence of pheochromocytoma and on an elective basis for patients with hyperaldosteronism and cortisol excess.</li>
+	</ul>
+	</li>
+	<li>Adrenalectomy is safe and effective; can be done laparoscopically, endoscopically, or open. </li>
+</ul>
+
+<p>Adrenal incidentalomas are also appropriate referrals to Endocrinology for expert evaluation and monitoring.</p>
+
+<p><strong><u>Surveillance</u></strong></p>
+
+<ul>
+	<li>An asymptomatic, nonfunctioning, benign-appearing, unilateral adrenal incidentaloma measuring less than 4 cm on imaging can be followed over time with serial radiological examinations.
+	<ul>
+		<li>Repeat imaging with CT or MRI at 6-12 months after the initial finding is usually indicated. Further follow-up should be guided by the individual patient, imaging phenotype, and clinical judgement as no clear recommendations exist. </li>
+	</ul>
+	</li>
+</ul>
+
+<p>Repeat hormonal screening is also controversial but most guidelines recommend testing annually for up to 4 years.</p>
+
+<p><strong><u>References</u></strong></p>
+
+<p>Grumbach MM, BMK Biler, GD Braunstein, et al. Management of the clinically inapparent adrenal mass (“incidentaloma”). Ann Intern Med 2003;138:424-9.</p>
+
+<p>Young WF. The incidentally discovered adrenal mass. <em>N Engl J Med</em> 2007;356(6):601-10.</p>
+
+<p>Young WF and E Kebebew. The adrenal incidentaloma. UpToDate Online. 20 Feb 2018. Accessed April 21, 2018.</p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/01-diabetes-mellitus/01-diabetes-mellitus" class="page-previous" title="Go to previous page">‹ 01. Diabetes mellitus </a>
+                    <a href="/06-endocrinology/06-endocrinology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/03-adrenal-insufficiency/03-adrenal-insufficiency" class="page-next" title="Go to next page">03. Adrenal insufficiency ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="expanded active-trail menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a><ul class="menu"><li class="first leaf menu-mlid-5081"><a href="/01-diabetes-mellitus/01-diabetes-mellitus">01. Diabetes mellitus </a></li>
+<li class="leaf active-trail active menu-mlid-5086"><a href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass" class="active-trail active">02. Incidental adrenal mass</a></li>
+<li class="leaf menu-mlid-5091"><a href="/03-adrenal-insufficiency/03-adrenal-insufficiency">03. Adrenal insufficiency</a></li>
+<li class="leaf menu-mlid-5096"><a href="/04-hypothyroidism/04-hypothyroidism">04. Hypothyroidism</a></li>
+<li class="leaf menu-mlid-5101"><a href="/05-hyperthyroidism/05-hyperthyroidism">05. Hyperthyroidism</a></li>
+<li class="leaf menu-mlid-5106"><a href="/06-thyroid-nodule/06-thyroid-nodule">06. Thyroid nodule</a></li>
+<li class="leaf menu-mlid-5111"><a href="/07-osteoporosis/07-osteoporosis">07. Osteoporosis</a></li>
+<li class="leaf menu-mlid-5116"><a href="/08-vitamin-d-deficiency/08-vitamin-d-deficiency">08. Vitamin D deficiency</a></li>
+<li class="leaf menu-mlid-5121"><a href="/09-hypercalcemia/09-hypercalcemia">09. Hypercalcemia</a></li>
+<li class="last leaf menu-mlid-5126"><a href="/10-hyperlipidemia/10-hyperlipidemia">10. Hyperlipidemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/05-approach-shoulder-pain/05-approach-shoulder-pain" />
+<link rel="shortlink" href="/node/2271" />
+<link rel="prev" href="/04-approach-rheumatology-labs/04-approach-rheumatology-labs" />
+<link rel="up" href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" />
+<link rel="next" href="/06-approach-knee-pain/06-approach-knee-pain" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/05-approach-shoulder-pain/05-approach-shoulder-pain" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/05-approach-shoulder-pain/05-approach-shoulder-pain" />
+<meta property="twitter:title" content="05. Approach to Shoulder Pain | Hospital Handbook" />
+<meta property="og:title" content="05. Approach to Shoulder Pain" />
+  <title>05. Approach to Shoulder Pain | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"c2e9ODZvBiT-bdYcZLwwwA-_CnpH77iNIACE6-3ylio","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/05-approach-shoulder-pain\/05-approach-shoulder-pain":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2271 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/05-approach-shoulder-pain/05-approach-shoulder-pain" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-3z7YrXBSW9hi0cyHiPcwyr1wK1A2rC624Hd71L0EaOM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="active-trail">18. Rheumatology/Orthopedics</a> > <span class="breadcrumb-page-title">05. Approach to Shoulder Pain</span></div></div></div>
+                  <h1 class="title" id="page-title">05. Approach to Shoulder Pain</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2271" class="node node-book clearfix" about="/05-approach-shoulder-pain/05-approach-shoulder-pain" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="05. Approach to Shoulder Pain" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: John Landefeld, MD</p>
+
+<p align="right">Faculty Editor: Carlin Senter, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Most shoulder injuries can be managed non-operatively, so conservative treatment is appropriate first-line approach</p>
+
+			<p>✔ Always consider referred pain as a cause of shoulder pain</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><u>Evaluation</u></p>
+
+<p>History</p>
+
+<ul>
+	<li>Characterize pain: onset (rapid or insidious, occurring at night/during sleep), location, duration, severity, quality (dull, sharp, achy)</li>
+	<li><strong>Symptoms</strong>: Ask about any trauma, and whether the patient experiences instability. Are any other joints involved? </li>
+	<li>Any constitutional symptoms or relevant comorbidities (diabetes, RA, etc)?</li>
+	<li><strong>Handedness and occupation:</strong> if painful shoulder is the dominant shoulder in a person who uses their arms for work then impact potentially greater than if this is not the case.</li>
+</ul>
+
+<p> </p>
+
+<p><strong><u>Exam</u></strong></p>
+
+<p><strong><u>Inspection</u></strong></p>
+
+<ul>
+	<li>Inspect the shoulder, unclothed, from anterior, lateral, and posterior perspectives looking for asymmetry, deformity, muscle wasting, skin changes </li>
+	<li>Infraspinatus atrophy suggests a chronic rotator cuff tear</li>
+	<li>Popeye sign (bulging of mid-anterior upper arm) suggests a rupture of the biceps tendon</li>
+</ul>
+
+<p><strong><u>Palpation</u></strong></p>
+
+<ul>
+	<li>Palpate sternoclavicular joint, clavicle, acromioclavicular joint, tendon of the long head of the biceps</li>
+	<li>Pay particular attention to any tenderness, deformity, swelling, or warmth on the affected side relative to the other</li>
+</ul>
+
+<p><strong><u>Range of Motion</u></strong></p>
+
+<ul>
+	<li>Reduced active range of motion is relatively nonspecific, and could be secondary to tear, pain, or adhesive capsulitis</li>
+	<li>Reduced active AND passive range of motion suggests adhesive capsulitis or glenohumeral joint arthritis (assuming no trauma)</li>
+</ul>
+
+<p><em><strong>Provocative Tests</strong></em></p>
+
+<ul>
+	<li>Many ‘special tests’ exist for evaluation of the injured shoulder. The following are most relevant to common conditions in primary care 
+	<ul style="list-style-type:circle;">
+		<li>Painful arc test: The patient’s arm is brought into full abduction – pain between 60 and 120 degrees is suggestive of subacromial or rotator cuff pathology 
+		<ul>
+			<li>+LR of 3.7 for rotator cuff disease</li>
+			<li>-LR of 0.36 for rotator cuff disease</li>
+			<li>Hawkins and Neer maneuvers had poorer test characteristics (+LR of 1.5 and 0.98-1.6, respectively)</li>
+		</ul>
+		</li>
+		<li>Drop arm: Abduct arm passively to 160 degrees. The patient then slowly lowers the arm to his/her side – a ‘dropped arm’, or inability to control downward movement often accompanied by pain, suggests rotator cuff disease (+LR of 3.3 for any rotator cuff disease)</li>
+		<li>Empty can/supraspinatus: Abduct arms to 90 degrees, with 30 degrees of forward flexion. The thumbs should be oriented downward, and with gentle downward pressure from the examiner, weakness indicates supraspinatus tendinopathy vs tear. </li>
+		<li>Lift off/subscapularis: Internally rotate the arm behind the lower back, and ‘lift off’ the patient’s arm from the back. An inability of the patient to maintain this position suggests subscapularis tendinopathy vs tear (+LR of 5.6)</li>
+		<li>External rotation/infraspinatus strength: The patient’s arms are held at his/her side, with the elbows flexed at 90 degrees. Against resistance from the examiner, the patient attempts external rotation – relative weakness or pain on one side suggests infraspinatus or teres minor tear or tendonopathy. </li>
+		<li>Cross body adduction: The arm is passively adducted across the body. Pain with this maneuver suggests osteoarthritis of the AC joint. </li>
+		<li>Apprehension test: With the patient supine, flex the patient’s elbow to 90 degrees then abduct the shoulder to 90 degrees. Slowly apply external rotation. “Apprehension”, but not pain, is a positive test. Pain, but not apprehension, may suggest pathology other than glenohumoral instability, such as rotator cuff impingement.  </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Clinical Decision Making</u></strong></p>
+
+<ul>
+	<li>Weakness with empty-can and external rotation tests, as well as positive Hawkins’ impingement test has 98% probability of rotator cuff tear 
+	<ul style="list-style-type:circle;">
+		<li>In patients older than 60 years of age, 2/3 of the above had a 98% probability of tear </li>
+	</ul>
+	</li>
+</ul>
+
+<p> <strong><u>Imaging</u></strong></p>
+
+<ul>
+	<li>Unlike other joints, x-rays should be performed in all cases of chronic shoulder pain to evaluate for AC or GH osteoarthritis
+	<ul style="list-style-type:circle;">
+		<li>First pass should include A/P of the GH joint (aka Grashey view), scapular Y view, and axillary lateral view </li>
+	</ul>
+	</li>
+	<li>Further, more advanced imaging is indicated only when the etiology of chronic pain remains unclear or if imaging would change management 
+	<ul style="list-style-type:circle;">
+		<li>MRI is modality of choice for evaluating rotator cuff tear </li>
+		<li>MRI with intraarticular contrast injection (MR arthrogram) is test of choice to evaluate for shoulder labral tear</li>
+		<li>Increasingly, ultrasound can be used in place of MRI to evaluate rotator cuff tears (similar sensitivity and specificity at lower cost) but quality of diagnostic ultrasound is operator dependent=</li>
+	</ul>
+	</li>
+</ul>
+
+<p><u><strong>Common Shoulder Problems</strong></u></p>
+
+<ul>
+	<li>Most injuries can be managed nonoperatively, so conservative management is often the appropriate first step  </li>
+</ul>
+
+<p><strong>Acromioclavicular osteoarthritis:</strong></p>
+
+<ul>
+	<li>Suspect with tenderness to palpation at AC joint, pain with cross-body adduction test, internal rotation, or forward flexion
+	<ul style="list-style-type:circle;">
+		<li>Absence of tenderness to palpation at the AC joint is inconsistent with OA</li>
+	</ul>
+	</li>
+	<li>Treat first with activity modification, NSAIDs, and acetaminophen</li>
+	<li>Therapy for refractory symptoms includes corticosteroid injections or surgery  </li>
+</ul>
+
+<p><strong>Glenohumeral joint osteoarthritis: </strong></p>
+
+<ul>
+	<li>Relatively rare, but can be seen with gradual pain and loss of motion in older patients with a history of prior shoulder surgery, pain, decreased ROM. </li>
+	<li>X-rays are diagnostic, and have a strong negative predictive value </li>
+	<li>Treat first with activity modification, NSAIDs, acetaminophen, and physical therapy</li>
+	<li>Therapy for refractory symptoms includes corticosteroid injections or arthroplasty </li>
+</ul>
+
+<p><strong>Glenohumeral instability: </strong></p>
+
+<ul>
+	<li>Includes dislocation or subluxation at the glenohumeral joint</li>
+	<li>Often affects patients younger than 40 with a history of prior dislocations or subluxation</li>
+	<li>Patients may complain of numbness over the lateral deltoid and a positive “apprehension” test </li>
+	<li>Imaging depends on circumstance: 
+	<ul style="list-style-type:circle;">
+		<li>If presenting with dislocation, plain films should be obtained prior to and post reduction</li>
+		<li>If presenting with chronic instability to primary care, generally imaging is not indicated until the patient is seen by orthopaedics (who will order any relevant imaging)</li>
+	</ul>
+	</li>
+	<li>First-line therapy for first-time dislocator &lt; 40 years of age is physical therapy </li>
+	<li>If dislocation occurred in patient &gt; 40 years old then high risk of concomitant rotator cuff tear. Consider referral to orthopaedic surgery for further evaluation. </li>
+</ul>
+
+<p><strong>Rotator Cuff Pathology </strong></p>
+
+<ul>
+	<li>Disorders include tears (partial or complete), tendinitis, tendinopathy, and calcific tendinitis --- differentiating these diagnoses in general from the other pathologies is the first goal </li>
+	<li>Risk of tear increases with age, more frequently seen in patients older than 40 years who complain of pain on the lateral aspect of the arm
+	<ul style="list-style-type:circle;">
+		<li>Weakness, night pain, and positive impingement sign (with Hawkins test) are all consistent symptoms </li>
+	</ul>
+	</li>
+	<li>Radiographs are typically normal </li>
+	<li>If small tear, treat first with physical therapy, activity modification, NSAIDs. If a large tear, can start with conservative therapy, or move directly to surgery. </li>
+</ul>
+
+<p><strong>Adhesive Capsulitis:</strong></p>
+
+<ul>
+	<li>Limitation in active &amp; passive ROM</li>
+	<li>Gradual onset of pain and stiffness</li>
+	<li>Risk factors include diabetes and a prior history of shoulder immobility often due to other injury 
+	<ul style="list-style-type:circle;">
+		<li>Thyroidopathies, both hypo- and hyperthyroid, have been associated with adhesive capsulitis, however the nature of the relationship is not known </li>
+	</ul>
+	</li>
+	<li>Radiographs are recommended (to rule out arthritis) and are normal</li>
+	<li>Treat first with activity modification, physical therapy, NSAIDs, and/or corticosteroid injection. 
+	<ul style="list-style-type:circle;">
+		<li>Recent data suggest performing glenohumeral corticosteroid injections (e.g., for adhesive capsulitis) under ultrasound or fluoroscopic guidance may be associated with improved clinical and cost-effectiveness outcomes compared to landmark-based technique  </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Referred Pain</u></strong></p>
+
+<ul>
+	<li>Includes cervical spine pathology (perform Spurling’s test), diaphragmatic pain, malignancy (metastases or apical lung), gallbladder disease, polymyalgia rheumatica, myocardial ischemia, herpes zoster </li>
+	<li>While not a cause of referred pain, polymyalgia rheumatica should be included in the differential when an elder patient presents with bilateral shoulder pain and stiffness </li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Burbank KM, Stevenson JH, Czarnecki GR. Chronic Shoulder Pain: Part I. Evaluation and Diagnosis. Am Fam Physician. 2008;77(4):453-460.</em></p>
+
+<p><em>Burbank KM, Stevenson JH, Czarnecki GR. Chronic Shoulder Pain: Part I. Treatment. Am Fam Physician. 2008;77(4):493-497.</em></p>
+
+<p><em>Gray MG, Wallace A, Aldridge S. Assessment of Shoulder Pain for Non-Specialists. BMJ. 2016;355:J5783.</em></p>
+
+<p><em>Hermans J, Luime JJ, Meuffels DR, et al. Does this Patient with Shoulder Pain have Rotator Cuff Disease? The Rational Clinical Examination Systematic Review. JAMA;310:8,837-847. </em></p>
+
+<p><em>Gyftopoulos S, Abbale V, Virk MS, et al. Comparison Between Image-Guided and Landmark-Based Glenohumeral Joint Injections for the Treatment of Adhesive Capsulitis: A Cost-Effectiveness Study. AJR Am J Roentgenol. 2018;210:6,1279-1287</em></p>
+
+<p><em>Raeissadat SA, Ravegani SM, Langroudi TF, Khoiniha M. Comparing the Accuracy and Efficacy of Ultrasound-Guided versus Blind Injections of Steroid in the Glenohumeral Joint in Patients with Shoulder Adhesive Capsulitis. Clin Rheumatol. 2017;36:4,933-940. </em></p>
+
+<p><em>Schiefer M, Santos Teixeira PF, Fontenelle C, et al. Prevalence of Hypothyroidism in Patients with Frozen Shoulder. Journal of Shoulder and Elbow Surgery. 2017;26:1,49-55. </em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/04-approach-rheumatology-labs/04-approach-rheumatology-labs" class="page-previous" title="Go to previous page">‹ 04. Approach to Rheumatology Labs</a>
+                    <a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="page-up" title="Go to parent page">up</a>
+                    <a href="/06-approach-knee-pain/06-approach-knee-pain" class="page-next" title="Go to next page">06. Approach to Knee Pain ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="expanded active-trail menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics" class="active-trail">18. Rheumatology/Orthopedics</a><ul class="menu"><li class="first leaf menu-mlid-5451"><a href="/01-approach-joint-pain-myalgias/01-approach-joint-pain-myalgias">01. Approach to Joint Pain + Myalgias </a></li>
+<li class="leaf menu-mlid-5456"><a href="/02-rheumatoid-arthritis/02-rheumatoid-arthritis">02. Rheumatoid Arthritis</a></li>
+<li class="leaf menu-mlid-5461"><a href="/03-basics-sle-incld-meds/03-basics-sle-incld-meds">03. Basics of SLE (incld meds)</a></li>
+<li class="leaf menu-mlid-5466"><a href="/04-approach-rheumatology-labs/04-approach-rheumatology-labs">04. Approach to Rheumatology Labs</a></li>
+<li class="leaf active-trail active menu-mlid-5471"><a href="/05-approach-shoulder-pain/05-approach-shoulder-pain" class="active-trail active">05. Approach to Shoulder Pain</a></li>
+<li class="leaf menu-mlid-5476"><a href="/06-approach-knee-pain/06-approach-knee-pain">06. Approach to Knee Pain</a></li>
+<li class="leaf menu-mlid-5481"><a href="/07-approach-ankle-pain/07-approach-ankle-pain">07. Approach to Ankle Pain</a></li>
+<li class="leaf menu-mlid-5486"><a href="/08-approach-foot-pain/08-approach-foot-pain">08. Approach to Foot Pain</a></li>
+<li class="leaf menu-mlid-5491"><a href="/09-acute-low-back-pain/09-acute-low-back-pain">09. Acute Low Back Pain</a></li>
+<li class="leaf menu-mlid-5496"><a href="/10-osteoarthritis/10-osteoarthritis">10. Osteoarthritis</a></li>
+<li class="last leaf menu-mlid-5501"><a href="/11-gout-pseudogout/11-gout-pseudogout">11. Gout &amp; Pseudogout</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

@@ -1,0 +1,1060 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/01-diabetes-mellitus/01-diabetes-mellitus" />
+<link rel="shortlink" href="/node/1881" />
+<link rel="prev" href="/06-endocrinology/06-endocrinology" />
+<link rel="up" href="/06-endocrinology/06-endocrinology" />
+<link rel="next" href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/01-diabetes-mellitus/01-diabetes-mellitus" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/01-diabetes-mellitus/01-diabetes-mellitus" />
+<meta property="twitter:title" content="01. Diabetes mellitus  | Hospital Handbook" />
+<meta property="og:title" content="01. Diabetes mellitus " />
+  <title>01. Diabetes mellitus  | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"O_LlPtRo_AFHmWuFefEh0F1Q9yMWurJwrPg7Adi419Q","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/01-diabetes-mellitus\/01-diabetes-mellitus":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1881 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/01-diabetes-mellitus/01-diabetes-mellitus" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-wWwNgfDlNmsVxnqbKIRFxPeb16-KLO3mdgBdlsaMWZQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a> > <span class="breadcrumb-page-title">01. Diabetes mellitus </span></div></div></div>
+                  <h1 class="title" id="page-title">01. Diabetes mellitus </h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1881" class="node node-book clearfix" about="/01-diabetes-mellitus/01-diabetes-mellitus" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="01. Diabetes mellitus " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="text-align: right;">Resident Editors: Scott Goldberg, MD, Katherine Wysham, MD</p>
+
+<p style="text-align: right;">Faculty Editor: Alka Kanaya, MD</p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:590px;">
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ T2DM is insulin resistance and relative insulin deficiency</p>
+
+			<p>✔ A1c ≥6.5% and/or fasting glucose ≥126 mg/dl are two diagnostic criteria</p>
+
+			<p>✔ New guidelines emphasize the role of CV risk reduction </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><u><strong>Background</strong></u></p>
+
+<ul>
+	<li>Diabetes mellitus (DM) affects &gt;9.3% of the population (as of 2012) and is a leading cause of coronary artery disease, blindness, peripheral vascular disease, and renal failure</li>
+	<li>ASCVD – defined as coronary heart disease, cerebrovascular disease, or peripheral arterial disease – is the leading cause of morbidity and mortality for individuals with DM and is the largest contributor to the direct and indirect costs of diabetes</li>
+	<li>Etiology is thought to be insulin resistance combined with relative insulin deficiency</li>
+	<li>Appropriate management requires a comprehensive, multidisciplinary approach</li>
+	<li>The American Diabetes Association 2018 guidelines emphasize the role of ASCVD risk reduction in the care of patients with DM</li>
+	<li>The American Academy of Endicronologists (AACE) has a helpful and comprehensive mobile app for diabetes care </li>
+</ul>
+
+<p><u><strong>Signs and Symptoms</strong></u></p>
+
+<ul>
+	<li>Signs: Obesity, acanthosis nigricans, central adiposity</li>
+	<li>Symptoms: Weight gain, polyuria, polydipsia, blurred vision, vulvovaginitis, peripheral neuropathy, gastroparesis, or asymptomatic</li>
+</ul>
+
+<p><u><strong>Screening</strong></u></p>
+
+<p><em>USPSTF: </em></p>
+
+<ul>
+	<li>Screen for abnormal glucose as part of CV risk assessment in adults aged 40-70 years who are overweight or obese (Grade B recommendation) </li>
+	<li>Persons who have a family history of DM, have a history of gestational DM or PCOS, or are members of certain racial/ethnic groups (African Americans, American Indians, or Alaskan Natives, Asian Americans, Hispanics or Latinos, or Native Hawaiians or Pacific Islanders) may be at increased risk of DM at a younger age or at a lower BMI</li>
+	<li>Consider screening earlier in persons with 1 or more of these characteristics</li>
+	<li>Re-screening every 3 years may be a reasonable approach for adults with normal blood glucose levels  </li>
+</ul>
+
+<p><em>ADA</em>: </p>
+
+<p>Testing should be considered in overweight (BMI &gt;25 or &gt;23 kg/m<sup>2 </sup>in Asian Americans) adults who have one or more of the following risk factors: </p>
+
+<ul>
+	<li>First-degree relative with DM</li>
+	<li>High-risk race/ethnicity </li>
+	<li>History of CVD</li>
+	<li>Hypertension </li>
+	<li>HDL &lt;35 and/or Total cholesterol &gt;250 mg/dl</li>
+	<li>PCOS</li>
+	<li>Physical inactivity </li>
+	<li>Other conditions associated with insulin resistance (Severe obesity, acanthosis nigricans) </li>
+	<li>Patients with pre-diabetes (A1c 5.7 – 6.4%) </li>
+	<li>Women who were diagnosed with GDM should get tested every 3 years</li>
+	<li>For all other patients, testing should begin at age 45. </li>
+</ul>
+
+<p><em>Diagnostic Criteria:</em> (a positive test result for diabetes should be confirmed by repeat testing) </p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width:208px;">
+			<p> </p>
+			</th>
+			<th scope="col" style="width:208px;">
+			<p align="center">Prediabetes</p>
+			</th>
+			<th scope="col" style="width:208px;">
+			<p align="center">Diabetes</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:208px;">
+			<p>Hb<sub>A1c</sub>*</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">5.7-6.4%</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">≥6.5%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Fasting plasma glucose</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">100-125 mg/dL</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">≥126 mg/dL</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Oral glucose tolerance test</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">140-199 mg/dL</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">≥200 mg/dL</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:208px;">
+			<p>Random plasma glucose</p>
+			</td>
+			<td style="width:208px;">
+			<p align="center"> </p>
+			</td>
+			<td style="width:208px;">
+			<p align="center">≥200 mg/dL</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*<em>Hemoglobin A1c: Not dependable in disorders of hemoglobin such as pregnancy, post-transfusion, hemoglobinopathies including sickle cell disease and trait. </em></p>
+
+<p><em>Pre-Diabetes: </em></p>
+
+<ul>
+	<li>Should not be viewed as a clinical entity in its own right but rather as an increased risk for DM and CVD </li>
+	<li>Follow closely and repeat screening for pre-DM in 3-6 months</li>
+	<li>People with pre-DM should be referred to an intensive behavioral lifestyle intervention program modeled on the Diabetes Prevention Program to achieve and maintain 7% loss of initial body weight and increase moderate-intensity physical activity to at least 150 min/week</li>
+	<li>Metformin therapy can be considered for prevention of DM in people with pre-DM who have severe obesity, young age, and women with prior GDM</li>
+</ul>
+
+<p><u><strong>History and Physical</strong></u></p>
+
+<ul>
+	<li>Past Medical History:
+	<ul>
+		<li>Diabetes history
+		<ul>
+			<li>Age and symptoms at onset </li>
+			<li>Past hospitalizations </li>
+			<li>Prior treatment regimens </li>
+		</ul>
+		</li>
+		<li>Personal history of complications and common comorbidities
+		<ul>
+			<li>Macrovascular and microvascular</li>
+			<li>Hypertension, hyperlipidemia </li>
+		</ul>
+		</li>
+		<li>Dental care </li>
+		<li>Vaccination history </li>
+		<li>Psychosocial conditions (depression, anxiety) </li>
+	</ul>
+	</li>
+	<li>Social History:
+	<ul>
+		<li>Lifestyle (diet, activity, sleep) </li>
+		<li>Housing</li>
+		<li>Tobacco, alcohol, and substance use </li>
+		<li>Social supports </li>
+	</ul>
+	</li>
+	<li>Family History: 
+	<ul>
+		<li>History of DM in first-degree relative </li>
+		<li>History of autoimmune disease </li>
+	</ul>
+	</li>
+	<li>Physical Exam:
+	<ul>
+		<li>Vitals, BMI</li>
+		<li>Skin (e.g. acanthosis nigricans)</li>
+		<li>Foot (visual inspection, pulses, vibration or pinprick, monofilament) </li>
+	</ul>
+	</li>
+	<li>Labs:
+	<ul>
+		<li>A1c, fasting lipid profile, BMP, LFTs, spot urinary alb/cr ratio</li>
+	</ul>
+	</li>
+</ul>
+
+<p><u><strong>Lifestyle Management</strong></u></p>
+
+<ul>
+	<li>Self-Management Education 
+	<ul>
+		<li>All people with DM should participate in diabetes self-management education to facilitate the knowledge, skills, and ability necessary for diabetes self-care </li>
+		<li>Effective education should be patient-centered and may be given in group or individual settings, and use technology when appropriate </li>
+	</ul>
+	</li>
+	<li>Nutrition
+	<ul>
+		<li>Goals of nutrition therapy are to promote and support healthful eating patterns in achieving and maintaining body weight, glycemic, BP, and lipid goals while addressing individual and cultural preferences </li>
+		<li>The diabetes plate method is a simple guide for planning meals – fill ½ the plate with non-starchy vegetables, ¼ with whole grain foods or starchy vegetables, and the remaining ¼ with lean protein</li>
+	</ul>
+	</li>
+	<li>Weight Management
+	<ul>
+		<li>Strong evidence that <em>modest</em> persistent weight loss can delay the progression from pre-DM to DM and is beneficial to the management of DM</li>
+	</ul>
+	</li>
+	<li>Alcohol
+	<ul>
+		<li>Moderate EtOH does not have major detrimental effects on long-term blood glucose control </li>
+		<li>Risks associated with excessive use include hypoglycemia or hyperglycemia and weight gain </li>
+	</ul>
+	</li>
+	<li>Physical Activity
+	<ul>
+		<li>150 min or more of moderate-to-vigorous intensity aerobic activity per week, spread over at least 3 days/week, with no more than 2 consecutive days without activity </li>
+		<li>Reduce amount of time spent in daily sedentary behavior</li>
+	</ul>
+	</li>
+	<li>Psychosocial Issues
+	<ul>
+		<li>Diabetes care should be collaborative, patient-centered </li>
+		<li>Screen for attitudes about DM, expectations, patient goals, mood, quality of life, financial resources, cognitive impairment (in the elderly) </li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Pharmacotherapy</u></strong></p>
+
+<ul>
+	<li><em>Primary goal</em>: A1c &lt;7%. May intensify goal to &lt;6.5% for patients with easily managed diabetes if it can be obtained without frequent lows. May relax goal to &lt;8% for elderly, those who experience frequent lows or for those who already have severe micro/macrovascular disease.</li>
+	<li><em>Secondary goals</em>: FBG 70-130 mg/dl; 2-hr postprandial glucose &lt;180 mg/dl.</li>
+	<li>Perform A1c at least two times a year in patients who are meeting treatment goals and quarterly in those who are not</li>
+	<li>Point-of-care testing for A1c allows for more timely treatment changes  </li>
+</ul>
+
+<p><em>Approach to Pharmacotherapy</em></p>
+
+<ul>
+	<li>Medication should always be in addition to lifestyle management </li>
+	<li>Metformin, if not contraindicated and if tolerated, is the preferred initial pharmacologic agent </li>
+	<li>Consider initiating insulin therapy in patients with newly diagnosed DM2 who are symptomatic and/or have A1c ≥ 10% and/or BG ≥ 300 mg/dL</li>
+	<li>If A1c… 
+	<ul>
+		<li><u>&lt;9%</u> → consider monotherapy with metformin 
+		<ul>
+			<li>If A1c not at target in 3-4 months, then consider dual therapy.  </li>
+		</ul>
+		</li>
+		<li>≥9% → dual therapy with metformin + additional agent
+		<ul>
+			<li>ASCVD? 
+			<ul>
+				<li>Yes → add agent proven to reduce major adverse CV events and/or CV mortality (liraglutide/empaglifozin then canaglifozin) </li>
+				<li>No → add second agent based on drug-specific effects and patient factors (see table below)</li>
+			</ul>
+			</li>
+			<li>If A1c not at goal after 3-4 months on dual therapy, ask about medication adherence and consider triple therapy (metformin + non-insulin agent + insulin) </li>
+		</ul>
+		</li>
+		<li>If A1c <u>&gt;</u>10% or target not achieved with two agents, start basal insulin 
+		<ul>
+			<li>If A1c not controlled, consider combination injectable therapy with either of these 3 options: 
+			<ul>
+				<li>Add 1 rapid-acting insulin before largest meal
+				<ul>
+					<li>If A1c target not achieved, advance to basal-bolus</li>
+				</ul>
+				</li>
+				<li>Add GLP-1 receptor agonist 
+				<ul>
+					<li>If A1c target not achieved or not tolerated, change to 2 insulin regimen (basal-bolus) </li>
+				</ul>
+				</li>
+				<li>Change to premixed insulin twice daily (before breakfast and dinner) 
+				<ul>
+					<li>If A1c target not achieved, change to premixed analog insulin 3 times daily</li>
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p><em>Non-Insulin Therapies to Combine with Metformin </em></p>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width:138px;">
+			<p> </p>
+			</th>
+			<th scope="col" style="width:109px;">
+			<p><strong>Sulfonylureas (2<sup>nd</sup>generation)</strong></p>
+			</th>
+			<th scope="col" style="width:99px;">
+			<p><strong>TZDs</strong></p>
+			</th>
+			<th scope="col" style="width:100px;">
+			<p><strong>SGLT2 inhibitors</strong></p>
+			</th>
+			<th scope="col" style="width:86px;">
+			<p><strong>DPP-4 inhibitors</strong></p>
+			</th>
+			<th scope="col" style="width:92px;">
+			<p><strong>GLP-1 receptor agonists (<em>injectable)</em></strong></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>Medications in this class</strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>Glipizide, glyburide</p>
+			</td>
+			<td style="width:99px;">
+			<p>Pio-, rosiglitazone</p>
+			</td>
+			<td style="width:100px;">
+			<p>Cana-, empaglifozin</p>
+			</td>
+			<td style="width:86px;">
+			<p>Sita-, saxa-, linagliptin</p>
+			</td>
+			<td style="width:92px;">
+			<p>Liraglutide (qd), Exenatide ER (qwk), dulaglutide (qwk), albiglutide (qwk)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>A1c reduction </strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>1.25</p>
+			</td>
+			<td style="width:99px;">
+			<p>1</p>
+			</td>
+			<td style="width:100px;">
+			<p>0.6-0.8</p>
+			</td>
+			<td style="width:86px;">
+			<p>0.5-0.8</p>
+			</td>
+			<td style="width:92px;">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>Hypoglycemia</strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>Yes</p>
+			</td>
+			<td style="width:99px;">
+			<p>No</p>
+			</td>
+			<td style="width:100px;">
+			<p>No</p>
+			</td>
+			<td style="width:86px;">
+			<p>No</p>
+			</td>
+			<td style="width:92px;">
+			<p>No</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>Weight </strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>Gain</p>
+			</td>
+			<td style="width:99px;">
+			<p>Gain</p>
+			</td>
+			<td style="width:100px;">
+			<p>Loss</p>
+			</td>
+			<td style="width:86px;">
+			<p>Neutral</p>
+			</td>
+			<td style="width:92px;">
+			<p>Loss</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>Side effects</strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>First-generation may have increased risk for CV mortality</p>
+			</td>
+			<td style="width:99px;">
+			<p>May cause fluid retention and worsen CHF </p>
+			</td>
+			<td style="width:100px;">
+			<p>Risk of amputation (canaglifozin), DKA, GU infections</p>
+			</td>
+			<td style="width:86px;">
+			<p>Risk of CHF with saxa- and alogliptin</p>
+			</td>
+			<td style="width:92px;">
+			<p>GI side effects, risk of thyroid C-cell tumors</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>ASCVD Profile </strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>Neutral</p>
+			</td>
+			<td style="width:99px;">
+			<p>Potential benefit w/ pioglitazone</p>
+			</td>
+			<td style="width:100px;">
+			<p>Benefit w/ canaglifozin and empaglifozin</p>
+			</td>
+			<td style="width:86px;">
+			<p>Neutral</p>
+			</td>
+			<td style="width:92px;">
+			<p>Benefit with liraglutide </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:138px;">
+			<p><strong>Cost</strong></p>
+			</td>
+			<td style="width:109px;">
+			<p>Low</p>
+			</td>
+			<td style="width:99px;">
+			<p>Low</p>
+			</td>
+			<td style="width:100px;">
+			<p>High</p>
+			</td>
+			<td style="width:86px;">
+			<p>High</p>
+			</td>
+			<td style="width:92px;">
+			<p>High</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><em>Types of Insulin</em></p>
+
+<ul>
+	<li>Patients with DM2 generally require 0.7-1.0 u/kg/day</li>
+	<li>Decision to begin insulin should be individualized 
+	<ul>
+		<li>Choice of insulin based on individual patient factors and availability, but basal insulin is preferred </li>
+	</ul>
+	</li>
+</ul>
+
+<table align="left" border="1" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col" style="width:116px;height:20px;">
+			<p>Action type</p>
+			</th>
+			<th scope="col" style="width:207px;height:20px;">
+			<p>Example</p>
+			</th>
+			<th scope="col" style="width:85px;height:20px;">
+			<p>Onset</p>
+			</th>
+			<th scope="col" style="width:72px;height:20px;">
+			<p>Peak</p>
+			</th>
+			<th scope="col" style="width:130px;height:20px;">
+			<p>Duration</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:116px;height:19px;">
+			<p>Ultra-short</p>
+			</td>
+			<td style="width:207px;height:19px;">
+			<p>lispro, aspart, or glulisine</p>
+			</td>
+			<td style="width:85px;height:19px;">
+			<p>&lt;15 min</p>
+			</td>
+			<td style="width:72px;height:19px;">
+			<p>1-2 hr</p>
+			</td>
+			<td style="width:130px;height:19px;">
+			<p>&lt;6 hr</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:116px;height:19px;">
+			<p>Short</p>
+			</td>
+			<td style="width:207px;height:19px;">
+			<p>regular</p>
+			</td>
+			<td style="width:85px;height:19px;">
+			<p>0.5-1 hr</p>
+			</td>
+			<td style="width:72px;height:19px;">
+			<p>2-4 hr</p>
+			</td>
+			<td style="width:130px;height:19px;">
+			<p>5-8 hr</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:116px;height:20px;">
+			<p>Intermediate</p>
+			</td>
+			<td style="width:207px;height:20px;">
+			<p>NPH</p>
+			</td>
+			<td style="width:85px;height:20px;">
+			<p>1-2 hr</p>
+			</td>
+			<td style="width:72px;height:20px;">
+			<p>6-10 hr</p>
+			</td>
+			<td style="width:130px;height:20px;">
+			<p>12+ hr</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:116px;height:20px;">
+			<p>Long</p>
+			</td>
+			<td style="width:207px;height:20px;">
+			<p>glargine or detemir</p>
+			</td>
+			<td style="width:85px;height:20px;">
+			<p>1-1.5 hr</p>
+			</td>
+			<td style="width:72px;height:20px;">
+			<p>None</p>
+			</td>
+			<td style="width:130px;height:20px;">
+			<p>12-24 hr</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><em><strong>Step 1: Start bedtime basal insulin.</strong></em></p>
+
+<ul>
+	<li>Start 10U/day or 0.1-0.2U/kg/day</li>
+	<li>Adjust 10-15% or 2-4U once or twice weekly to reach FBG target (90-130 mg/dL)</li>
+	<li>If hypoglycemia occurs, decrease dose by ≥ 4units or by 10% if dose &gt;60 units</li>
+</ul>
+
+<p><strong><em>Step 2: Additional injection</em> (</strong>if A1c ≥7% despite FBG in target range 90-130 or &gt;0.5u/kg basal insulin)</p>
+
+<ul>
+	<li><em>Change to premixed insulin twice daily (before breakfast and dinner)</em>
+
+	<ul>
+		<li>Divide current basal dose into 2/3 AM and 1/3 PM or ½ AM and ½ PM</li>
+		<li>Adjust dose by 1-2U or 10-15% once or twice weekly until target BG reached</li>
+	</ul>
+	</li>
+	<li><em>Change to rapid-acting insulin before largest meal</em>
+	<ul>
+		<li>Start with 4U, 0.1U/kg, or 10% basal dose</li>
+		<li>Increase dose by 1-2U or 10-15% once or twice weekly until target BG reached </li>
+		<li>If A1c not controlled, add <u>&gt;2</u> rapid-acting insulin injections before each meals (“basal-bolus”)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Management of Macrovascular and Microvascular Complications </u></strong></p>
+
+<p>ASCVD – defined as coronary heart disease, cerebrovascular disease, or peripheral arterial disease – is the leading cause of morbidity and mortality for individuals with DM and is the largest contributor to the direct and indirect costs of diabetes. Therefore, CV risk factors should be systematically assessed at least annually in all patients.  </p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<th colspan="3" style="width:619px;">
+			<h5>GLYCEMIC CONTROL</h5>
+			</th>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>A1c</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Q3 months</p>
+			</td>
+			<td style="width:353px;">
+			<p>Goal &lt;7%</p>
+
+			<p>Check Q6 months when stable</p>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="3" style="width:619px;">
+			<h5>MICRO AND MACROVASCULAR COMPLICATIONS</h5>
+			</th>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<h5><strong>Blood Pressure</strong></h5>
+			</td>
+			<td style="width:108px;">
+			<p>Each visit</p>
+			</td>
+			<td style="width:353px;">
+			<ul>
+				<li>Goal &lt;140/90*</li>
+				<li>Consider &lt;130/80 if patients are younger and goal can be achieved without undue treatment burden</li>
+				<li>All patients should monitor their BP at home (updated recommendation) </li>
+				<li>Choose drugs demonstrated to reduce CV events (ACEi, ARBs, thiazide-like diuretics, non-DHP CCBs)</li>
+				<li>ACEi or ARB at maximally tolerated dose is recommended for 1<sup>st</sup> line treatment if patients have elevated urinary albumin-Cr ratio (UACR)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Lipid Control</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Annually</p>
+			</td>
+			<td style="width:353px;">
+			<ul>
+				<li>Lifestyle modification focusing on weight loss and reduction of saturated fat, <em>trans </em>fat, and cholesterol intake </li>
+				<li>Initiate high-intensity statin if pt has ASCVD (atorva 40-80 or rosuva 20-40 mg) </li>
+				<li>Initiate moderate-intensity statin if pt is aged 40-75 years and without ASCVD </li>
+				<li>If patient has ASCVD and LDL <u>&gt;</u>70 mg/dL despite maximally tolerated statin, consider additional agents like ezetimibe or PCSK9 inhibitor</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Aspirin</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Each visit</p>
+			</td>
+			<td style="width:353px;">
+			<ul>
+				<li>Primary prevention if ASCVD risk <u>&gt;</u>10 (use ASCVD risk calculator)</li>
+				<li>Secondary prevention in those with DM and a history of ASCVD</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Dilated Eye Exam</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Annually</p>
+			</td>
+			<td style="width:353px;">
+			<ul>
+				<li>Laser photocoagulation therapy can reduce risk of vision loss</li>
+				<li>Intravitreous injections of anti-VEGF are also indicated to reduce the risk of vision loss in patients with proliferative retinopathy and central-involved diabetic macular edema </li>
+				<li>Refer more often if significant retinopathy</li>
+				<li>Optimize BP and glycemic control </li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Foot Exam</strong></p>
+
+			<p> </p>
+			</td>
+			<td style="width:108px;">
+			<p>Annually</p>
+
+			<p> </p>
+			</td>
+			<td style="width:353px;">
+			<ul>
+				<li><u>Comprehensive exam</u>: Visual inspection, pulses, loss of peripheral sensation (LOPS) with monofilament, vibratory sensation, ulcers, fungal infections, calluses, any foot deformities</li>
+				<li>Refer to podiatry for any abnormality</li>
+				<li>Pregabalin or duloxetine are recommended as initial treatments for neuropathic pain </li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Diabetic Kidney Disease</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Annually</p>
+			</td>
+			<td style="width:353px;">
+			<ul>
+				<li>Obtain spot urine albumin-Creatinine ratio </li>
+				<li>Start ACEi or ARB if UACR is &gt;30 (even if normotensive)</li>
+				<li>Optimize BP and glucose control</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="3" style="width:619px;">
+			<h5>OTHER HEALTH CARE MAINTENANCE</h5>
+			</th>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Influenza Vaccine</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Annually</p>
+			</td>
+			<td style="width:353px;">
+			<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Pneumococcal Vaccine</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Once</p>
+			</td>
+			<td style="width:353px;">
+			<p>Repeat x1 if first vaccine was given before age 65 and  &gt;5 years ago</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Dental Care</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Annually</p>
+			</td>
+			<td style="width:353px;">
+			<p style="margin-left:-0.2pt;"> </p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;">
+			<p><strong>Smoking Cessation</strong></p>
+			</td>
+			<td style="width:108px;">
+			<p>Each Visit</p>
+			</td>
+			<td style="width:353px;">
+			<p style="margin-left:-0.2pt;">For smokers only</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:158px;height:35px;">
+			<p><strong>Education &amp; Self-management Review</strong></p>
+			</td>
+			<td style="width:108px;height:35px;">
+			<p>Annually</p>
+			</td>
+			<td style="width:353px;height:35px;">
+			<p style="margin-left:-0.2pt;"> </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">
+<p><strong><u>References</u></strong></p>
+
+<p style="margin-left:-24pt;">       Association, American Diabetes. “Professional Practice Committee: Standards of Medical Care in Diabetes—2018.” Diabetes Care 41, no. Supplement 1 (January 1, 2018): S3–S3. </p>
+
+<p>Henske JA, Griffith ML and Fowler MJ. “Initiating and Titrating Insulin in Patients With Type 2 Diabetes.” Clinical Diabetes 2009;27(2):72-76</p>
+
+<p>Lipska KJ, Bailey CJ and Inzucchi SE. “Use of Metformin in the Setting of Mild-to-Moderate Renal Insufficiency.” Diabetes Care 2011;34(6):1431-1437</p>
+
+<p>Nathan, DM et al. “Medical Management of Hyperglycemia in Type 2 Diabetes: A Consensus Algorithm for the Initiation and Adjustment of Therapy.” Diabetes Care 2009;32(1):193-203.</p>
+
+<p>Palmer, Suetonia C., Dimitris Mavridis, Antonio Nicolucci, David W. Johnson, Marcello Tonelli, Jonathan C. Craig, Jasjot Maggo, et al. “Comparison of Clinical Outcomes and Adverse Events Associated With Glucose-Lowering Drugs in Patients With Type 2 Diabetes: A Meta-analysis.” <em>JAMA</em> 316, no. 3 (July 19, 2016): 313–24. </p>
+</div>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/06-endocrinology/06-endocrinology" class="page-previous" title="Go to previous page">‹ 06. Endocrinology</a>
+                    <a href="/06-endocrinology/06-endocrinology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass" class="page-next" title="Go to next page">02. Incidental adrenal mass ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="expanded active-trail menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology" class="active-trail">06. Endocrinology</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-5081"><a href="/01-diabetes-mellitus/01-diabetes-mellitus" class="active-trail active">01. Diabetes mellitus </a></li>
+<li class="leaf menu-mlid-5086"><a href="/02-incidental-adrenal-mass/02-incidental-adrenal-mass">02. Incidental adrenal mass</a></li>
+<li class="leaf menu-mlid-5091"><a href="/03-adrenal-insufficiency/03-adrenal-insufficiency">03. Adrenal insufficiency</a></li>
+<li class="leaf menu-mlid-5096"><a href="/04-hypothyroidism/04-hypothyroidism">04. Hypothyroidism</a></li>
+<li class="leaf menu-mlid-5101"><a href="/05-hyperthyroidism/05-hyperthyroidism">05. Hyperthyroidism</a></li>
+<li class="leaf menu-mlid-5106"><a href="/06-thyroid-nodule/06-thyroid-nodule">06. Thyroid nodule</a></li>
+<li class="leaf menu-mlid-5111"><a href="/07-osteoporosis/07-osteoporosis">07. Osteoporosis</a></li>
+<li class="leaf menu-mlid-5116"><a href="/08-vitamin-d-deficiency/08-vitamin-d-deficiency">08. Vitamin D deficiency</a></li>
+<li class="leaf menu-mlid-5121"><a href="/09-hypercalcemia/09-hypercalcemia">09. Hypercalcemia</a></li>
+<li class="last leaf menu-mlid-5126"><a href="/10-hyperlipidemia/10-hyperlipidemia">10. Hyperlipidemia</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

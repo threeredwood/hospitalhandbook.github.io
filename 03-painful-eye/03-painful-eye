@@ -1,0 +1,471 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/03-painful-eye/03-painful-eye" />
+<link rel="shortlink" href="/node/2211" />
+<link rel="prev" href="/02-blurred-vision/02-blurred-vision" />
+<link rel="up" href="/15-ophthalmology/15-ophthalmology" />
+<link rel="next" href="/04-red-eye/04-red-eye" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/03-painful-eye/03-painful-eye" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/03-painful-eye/03-painful-eye" />
+<meta property="twitter:title" content="03. Painful Eye | Hospital Handbook" />
+<meta property="og:title" content="03. Painful Eye" />
+  <title>03. Painful Eye | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"ME__aVsOe2Ocm0u1c5wiAD2OjM8B51wsWVZxLtA04fg","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/03-painful-eye\/03-painful-eye":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-2211 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/03-painful-eye/03-painful-eye" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-3Ati6u1zEi6h4vDCIUqek158SyaH7-JFy-O2XXVAZDw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/15-ophthalmology/15-ophthalmology" class="active-trail">15. Ophthalmology</a> > <span class="breadcrumb-page-title">03. Painful Eye</span></div></div></div>
+                  <h1 class="title" id="page-title">03. Painful Eye</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2211" class="node node-book clearfix" about="/03-painful-eye/03-painful-eye" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="03. Painful Eye" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Patrick Azcarate, MD</p>
+
+<p align="right">Faculty Editor: Daphne Chan, OD</p>
+
+<p><u><strong>Bottom Line</strong></u></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="font-family: HelveticaNeueLTW04-55Roman, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400;">
+	<thead>
+		<tr>
+			<th colspan="2" scope="col" style="width: 863px;">
+			<p>Urgent/Emergent Ophtho Referral:</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:432px;">
+			<p>✔ Emergent (same day)</p>
+
+			<ul>
+				<li>Acute glaucoma</li>
+				<li>Globe rupture</li>
+				<li>Infectious keratitis</li>
+				<li>Chemical burns</li>
+				<li>Trauma/foreign body</li>
+				<li>Orbital cellulitis</li>
+			</ul>
+			</td>
+			<td style="width:432px;">
+			<p>✔ Urgent (within 48 hrs)</p>
+
+			<ul>
+				<li>Anterior uveitis</li>
+				<li>Episcleritis</li>
+				<li>Scleritis</li>
+				<li>Optic neuritis</li>
+				<li>Orbital inflammatory pseudotumor</li>
+				<li>Carotid cavernous fistula</li>
+				<li>Corneal abrasion</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<ul>
+	<li>Many ocular emergencies present with acute eye pain.  People with this complaint need to be evaluated in a relatively timely manner with the question of whether to refer to an ophthalmologist/optometrist.</li>
+	<li>Below is a list of differential diagnoses, including information about each condition.  Many causes of acute eye pain also present with vision changes or eye redness. For more information, also refer to the chapters on <em>Blurred Vision</em> and <strong><em>Red Eye</em></strong>, which has a more complete list of conditions/timing of referral.</li>
+</ul>
+
+<p><strong><u>Differential Diagnosis</u></strong></p>
+
+<p>Conditions warranting urgent/emergent ophthalmology evaluation:</p>
+
+<ul>
+	<li>Acute Glaucoma (open or closed angle)</li>
+	<li>Infectious/Inflammatory Keratitis</li>
+	<li>Corneal Ulcer</li>
+	<li>Chemical/Thermal Burn</li>
+	<li>Trauma/ Foreign Body</li>
+	<li>Globe rupture</li>
+	<li>Anterior Uveitis</li>
+	<li>Non-infectious keratitis</li>
+	<li>Optic Neuritis (neuro-ophthalmology if available)</li>
+	<li>Scleritis</li>
+	<li>Episcleritis</li>
+	<li>Corneal Abrasion</li>
+</ul>
+
+<p><strong><u>Acute Angle Closure Glaucoma</u></strong></p>
+
+<ul>
+	<li><strong>Symptoms:</strong> Acute painful, red eye. Blurred vision in affected eye, with halos around lights due to corneal edema. Severe headache.  May be accompanied by nausea, vomiting, abdominal pain.</li>
+	<li><strong>History:</strong> Pupillary dilation can precipitate episodes (exposure to dim light, topical mydriatics, anticholinergics, or adrenergic agonists). In approximately 50% of cases, the patient has had a past history of similar episodes. More common in Asian/Eskimo populations, women, hyperopic (far-sighted) individuals, individuals between age 55 and 70.  May be induced by Topiramate.</li>
+	<li><strong>Exam:</strong> Conjunctival injection, corneal edema, impaired visual acuity, and a mid-dilated and fixed pupil (4-6 mm). The affected globe is tender and firm. Intraocular pressure is elevated (normal eye pressure 10-21 mmHg); pressure &gt; 40-50 mmHg can cause rapid visual loss.</li>
+	<li><strong>Treatment:</strong> Emergent ophtho referral.  Topical beta-blockers and alpha-2 agonists, plus PO or IV carbonic anhydrase inhibitors.  Definitive treatment is laser iridotomy or cataract surgery.  If caused by Topiramate, discontinue medication and refer to Ophtho for topical cycloplegic and steroid.</li>
+</ul>
+
+<p><strong><u>Acute Open Angle Glaucoma</u></strong></p>
+
+<ul>
+	<li><strong>Symptoms</strong>: acute painful, red eye… (same as above)</li>
+	<li><strong>History</strong>: pre-existing ocular condition that leads to secondary open-angle glaucoma (uveitis, ocular injury, ocular neoplasm, carotid cavernous fistula, orbital compartment syndrome)</li>
+	<li><strong>Exam</strong>: conjunctival injection, corneal edema, impaired visual acuity, elevated intraocular pressure…similar to above</li>
+	<li><strong>Treatment</strong>: emergent ophtho referral. Topical beta-blockers and alpha-2 agonists.</li>
+</ul>
+
+<p><strong><u>Keratitis and Corneal Ulcer</u></strong></p>
+
+<ul>
+	<li><strong>Definition:</strong> <em>Keratitis</em> is inflammation of the cornea. <em>Corneal ulcers</em> are focal areas of inflammation accompanied by loss of overlying corneal epithelium</li>
+	<li><strong>Symptoms:</strong> Pain, photophobia, red eye, foreign body sensation, tearing. Visual acuity may be reduced due to corneal edema or infiltrates.</li>
+	<li><strong>Exam:</strong> Focal white opacity or haze of the cornea distinguishes keratitis from conjunctivitis. Corneal defects stain green when fluorescein is applied and viewed under Colbalt blue light (an old corneal scar will not “soak up” fluorescein).</li>
+	<li>Multiple etiologies exist:
+	<ul>
+		<li><em>Superficial punctate keratitis (SPK) aka punctate epithelial erosions (PEE):</em> Pinpoint areas of fluorescein dye seen after fluorescein application. Causes include dry eye syndrome, blepharitis, ultraviolet exposure, topical drug toxicity, contact lens use, lagophthalmos, mechanical.</li>
+		<li><em>Thermal/UV Keratopathy</em>: See<em> Red Eye </em>chapter.</li>
+		<li><em>Keratitis associated with atopy</em>: Seen in persons with a history of allergic disease.</li>
+		<li><em>Neurotrophic keratitis</em>: Decreased corneal sensitivity due to HSV, VZV or diabetes leading to non-healing corneal defects.</li>
+		<li><em>Connective tissue disease</em>: Including RA, SLE, sarcoidosis, and many of the vasculitides.</li>
+	</ul>
+	</li>
+</ul>
+
+<p style="margin-left:54.0pt;"><strong><em>Infectious keratitis</em></strong></p>
+
+<ul>
+	<li><em>Bacterial keratitis</em>: Organisms include <em>Staphyloccocus, Pseudomonas</em>, <em>Streptoccocus</em>, <em>Moraxella</em> and <em>Serratia</em>. Contact lens use and ocular surface disease are risk factors. A poor outcome may occur if aggressive and appropriate therapy is not promptly initiated.</li>
+	<li><em>Viral keratitis</em>: Common pathogens are VZV, HSV, Epstein-Barr, and adenovirus. Dendritic lesions (branching lesions that resemble neural dendrites on fluorescein or Rose Bengal staining) suggest herpes simplex or herpes zoster keratitis. HSV or VZV keratitis may present with or without typical vesicular rash.</li>
+	<li><em>Fungal keratitis</em>: Traumatic injury from vegetable matter can cause infection with <em>Fusarium</em> and <em>Aspergillus</em>. Fungal infiltrates often have a feathery border.</li>
+	<li><em>Amoebic keratitis</em>: Infectious with <em>Ancanthamoeba</em> can be seen in young, healthy adults who wear soft contact lenses. Pain is severe.</li>
+</ul>
+
+<ul>
+	<li><strong>Treatment:</strong>
+
+	<ul>
+		<li><em>Superficial punctate keratitis</em>: Treatment should be directed towards underlying cause. Mild cases of dry eye can be managed with artificial tears. If the artificial tears need to be applied more frequently than every 2 hours, use preservative-free artificial tears (can get toxicity with exposure to preservatives).</li>
+		<li><em>Contact lens wearers</em>: Discontinue contact use until cornea heals. Refer for emergent ophthalmology evaluation if infectious keratitis is suspected.</li>
+		<li><em>Infectious causes</em>: Topical and/or oral antibiotics, anti-fungals, or anti-virals. Refer for emergent ophthalmology evaluation.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong><u>Chemical Burns</u></strong></p>
+
+<ul>
+	<li><strong>History: </strong>Even minor amounts of acid/base exposure are enough to cause significant injury.</li>
+	<li><strong>Treatment:</strong> Copious irrigation with sterile saline (or water) for at least 30 minutes.  Check pH of tears if possible.  Normal ocular surface pH should be 7.0-7.4.  If needed, continue to irrigate with saline.  Refer for emergent ophthalmology evaluation.</li>
+</ul>
+
+<p><strong><u>Corneal Abrasion</u></strong></p>
+
+<ul>
+	<li><strong>Etiology:</strong> Mechanical trauma, contact lens related injury, or foreign body. Symptoms can be present without patient’s recollection of trauma. History of metal striking metal near the eye should raise suspicion for an embedded metallic foreign body or penetrating globe injury.</li>
+	<li><strong>Symptoms:</strong> Pain, photophobia, excessive tearing, ptosis.</li>
+	<li><strong>Exam:</strong> Apply a short-acting topical anesthetic such to facilitate the exam. Fluorescein will stain corneal abrasions green.  Check for penetrating globe injury (see “Foreign Body”).  Evert the eyelids to exclude foreign body. Conjunctival redness is often present. Frequently presents with ciliary spasm (causing photophobia).</li>
+	<li><strong>Treatment:</strong> Oral analgesics for pain control. Antibiotic regimens below. Pressure patching is acceptable (still need to use topical antibiotics) as long as there is no history of corneal contact with organic matter. Do <u>NOT</u> prescribe topical anesthetics (slows wound healing and results in corneal melt).
+	<ul>
+		<li><em>Non-contact lens wearer:</em> Antibiotic eye ointment (e.g erythromycin, bacitracin, or polysporin) or antibiotic drops (e.g., polytrim) QID to prevent infection.</li>
+		<li><em>Contact lens wearer:</em> Antibiotic ointment that covers Pseudomonas (e.g. ciprofloxacin) or antibiotic drops (e.g., , ciprofloxacin, gatifloxacin, or moxifloxacin) QID. Discontinue use of contact lens until abrasion has completely healed.</li>
+	</ul>
+	</li>
+	<li><strong>Follow-up:</strong> Monitor healing Q1-2 days until epithelial defect is completely resolved; referral to ophthalmology if no improvement or symptoms worsen.</li>
+</ul>
+
+<p><strong><u>Foreign Body</u></strong></p>
+
+<ul>
+	<li><strong>Exam</strong>: supporting history, visualization of foreign matter. If suspecting a penetrating injury, perform Seidel test: douse the eye with fluorescein and look for aqueous fluid dripping from the cornea and interrupting the green fluorescein (will appear like a black stream within a sea of green)                                                                                                                                          </li>
+	<li><strong>Treatment:</strong> Can lavage the eye (flood/rinse with sterile saline) to flush out a loose foreign body.  For a superficial foreign body, a cotton-tipped swab can be used to sweep out the foreign material after a topical anesthetic has been applied. Never remove a foreign body if there is a possibility of penetrating globe injury (for example, if the entirety of the foreign body is incompletely visualized).</li>
+</ul>
+
+<p><strong><u>Anterior Uveitis </u></strong></p>
+
+<ul>
+	<li><strong>Definition:</strong> Inflammation of the iris and ciliary body.</li>
+	<li><strong>Symptoms:</strong> Pain, photophobia, redness, blurred vision, and tearing.</li>
+	<li><strong>Exam: </strong>Conjunctival injection, primarily bordering the cornea. Cell and flare in the anterior chamber as well as deposits on the posterior surface of the cornea help confirm the diagnosis.  Intraocular pressure can be reduced or elevated.</li>
+	<li><strong>Etiology:</strong> ~60% of cases are idiopathic. HLA-B27-associated uveitis is the most common of identifiable etiologies. Other causes include trauma, herpes family viruses, recent intraocular surgery, juvenile rheumatoid arthritis, and other collagen vascular diseases.</li>
+	<li><strong>Studies:</strong> If the cause of uveitis is unexplained, refer to ophthalmology for targeted work-up, including  CBC, HLA-B27, serologic testing for RF, ANA, ESR, Lyme titer, syphilis, serum lysozyme, PPD, and chest radiography.</li>
+	<li><strong>Treatment:</strong> Topical cycloplegic BID - TID.  Do NOT prescribe topical steroids without co-management with an ophthalmologist.</li>
+</ul>
+
+<p><strong><u>Optic Neuritis</u></strong></p>
+
+<ul>
+	<li><strong>Definition:</strong> Inflammatory demyelination of the optic nerve.</li>
+	<li><strong>Symptoms:</strong> Visual loss over the course of hours to days, usually unilateral. Pain is frequently present, and often worse with eye movement. More common in women, individuals between age 15 – 45.</li>
+	<li><strong>Exam:</strong> May have afferent pupillary defect, change in visual fields and color perception. One-third of patients have optic disc edema.</li>
+	<li><strong>Etiology:</strong> MS develops in 38% of patients presenting with optic neuritis. Other associated diseases include sarcoidosis, syphilis, postviral symptoms, neuromyelitis optica and cat-scratch.</li>
+	<li><strong>Studies:</strong> MRI of the brain and orbits with gadolinium and fat suppression. Patients with white matter lesions at time of optic neuritis have significantly increased risk of being diagnosed with MS over next 10 years.</li>
+	<li><strong>Treatment:</strong> Consult neuro-ophthalmology.  Patients who present within three days of onset of symptoms are eligible for intravenous steroid therapy.</li>
+</ul>
+
+<p><strong><u>Scleritis</u></strong></p>
+
+<ul>
+	<li><strong>Definition:</strong> Inflammation of the sclera.</li>
+	<li><strong>Symptoms:</strong> Severe eye pain and tenderness to palpation, usually progressing over weeks. Tearing and photophobia are usually present.</li>
+	<li><strong>Exam:</strong> The sclera may have a violaceous hue when observed in natural light.  There is dilation of deep episcleral vessels (which do not blanch with topical phenylepherine 2.5%). Occasional deep nodule. Bilateral in 50% of cases.</li>
+	<li><strong>Etiology:</strong> Approximately half have an associated rheumatologic disease. Can also be caused by infections, including herpes zoster and syphilis.</li>
+	<li><strong>Studies:</strong> Consider CBC, chem 7, rheumatoid factor, ANA, anticytoplastmic antibodies, FTA-ABS in consultation with an ophthalmologist.</li>
+	<li><strong>Treatment:</strong> Ophthalmology referral.  Patient will often need co-management with Rheumatology.</li>
+</ul>
+
+<p><strong><u>Episcleritis </u></strong></p>
+
+<ul>
+	<li><strong>Definition:</strong> Inflammation of the episclera, the thin layer between conjunctiva and sclera.</li>
+	<li><strong>Symptoms:</strong> Mild eye pain or irritation, usually with tearing. Sometimes asymptomatic.</li>
+	<li><strong>Exam:</strong> Sectoral inflammation which appears pinkish when observed in natural light.</li>
+	<li><strong>Etiology:</strong> Often unknown, but has been associated with infections (herpes zoster, TB) and rheumatologic diseases.</li>
+	<li><strong>Studies:</strong> Generally none needed, but consider labs if evaluating for scleritis (above).</li>
+	<li><strong>Treatment:</strong> self-limiting.  May treat with frequent non-preserved artificial tears, or systemic NSAID’s.</li>
+	<li><em>Note: </em>In contrast to scleritis, patients with episcleritis have mild, superficial discomfort. Additionally, dilated episcleral vessels will blanch with topical 2.5% phenylephrine, in contrast to the deeper scleral vessels involved in scleritis that do not respond to phenylephrine.</li>
+</ul>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Beck RW, Cleary PA, Anderson MM, Keltner JL, Shults WT, Kaufman DI, et al. A randomized control trial of corticosteroids in the treatment of acute optic neuritis. The New England Journal of Medicine. 1992;326(9):582-88.</em></p>
+
+<p><em>Bourcier T,et al. Bacterial keratitis: predisposing factors, clinical and microbial review of 300 cases. Br J Ophthalmol. 2003;87:834-38.</em></p>
+
+<p><em>Dargin JM, Lowenstein RA. The painful eye. Emerg Med Clin N Am. 2008;26:199-216.</em></p>
+
+<p><em>Weaver CS, Terrell KM. Update: do ophthalmic nonsteroidal anti-inflammatory drugs reduce the pain associated with simple corneal abrasion without delaying healing? Annals of Emergency Medicine. 2003;41(1):134-40.</em></p>
+
+<p><em>Stone CK, Humphries RL. Current diagnosis and treatment: emergency medicine, 7<sup>th</sup> ed. Chapter 31: Eye emergencies. McGraw-Hill 2011.</em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/02-blurred-vision/02-blurred-vision" class="page-previous" title="Go to previous page">‹ 02. Blurred Vision</a>
+                    <a href="/15-ophthalmology/15-ophthalmology" class="page-up" title="Go to parent page">up</a>
+                    <a href="/04-red-eye/04-red-eye" class="page-next" title="Go to next page">04. Red Eye ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="collapsed menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints">02. General Complaints</a></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="expanded active-trail menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology" class="active-trail">15. Ophthalmology</a><ul class="menu"><li class="first leaf menu-mlid-5401"><a href="/01-eye-anatomy-and-physical-exam/01-eye-anatomy-and-physical-exam">01. Eye Anatomy and Physical Exam</a></li>
+<li class="leaf menu-mlid-5406"><a href="/02-blurred-vision/02-blurred-vision">02. Blurred Vision</a></li>
+<li class="leaf active-trail active menu-mlid-5411"><a href="/03-painful-eye/03-painful-eye" class="active-trail active">03. Painful Eye</a></li>
+<li class="last leaf menu-mlid-5416"><a href="/04-red-eye/04-red-eye">04. Red Eye</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2025 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>

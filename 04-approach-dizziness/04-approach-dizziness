@@ -1,0 +1,421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/04-approach-dizziness/04-approach-dizziness" />
+<link rel="shortlink" href="/node/1671" />
+<link rel="prev" href="/03-lymphadenopathy/03-lymphadenopathy" />
+<link rel="up" href="/02-general-complaints/02-general-complaints" />
+<link rel="next" href="/05-unintentional-weight-loss/05-unintentional-weight-loss" />
+<link rel="shortcut icon" href="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="twitter:image" content="https://hospitalhandbook.ucsf.edu/profiles/ucsf_b1gfoot/themes/ucsf_b1gfoot_theme/img/img-metatag.jpg" />
+<meta property="twitter:card" content="summary" />
+<meta property="og:site_name" content="Hospital Handbook" />
+<meta property="twitter:url" content="https://hospitalhandbook.ucsf.edu/04-approach-dizziness/04-approach-dizziness" />
+<meta property="og:url" content="https://hospitalhandbook.ucsf.edu/04-approach-dizziness/04-approach-dizziness" />
+<meta property="twitter:title" content="04. Approach to Dizziness | Hospital Handbook" />
+<meta property="og:title" content="04. Approach to Dizziness" />
+  <title>04. Approach to Dizziness | Hospital Handbook</title>
+  <link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_haVKKWO2FIKLfdibuakVvqzIx6QSV5dM1DlLIlr1RUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_rV3Wod_e6ST6El0CA65NgFrvcFHnCpm1z0SGwM9reQg.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.cke_toolgroup > .cke_button__quote{display:none}.cke_toolgroup > .cke_button__twocolumn{display:none}.cke_toolgroup > .cke_button__threecolumn{display:none}.cke_toolgroup > .cke_button__featuredcontent{display:none}.cke_toolgroup > .cke_button__collapseitem{display:none}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/css/hopscotch.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_-5KGL3kpG9BJtjhjan_sSs2LNKUh8DXr0FbFKbHMQxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/css/css_8IxxQEzNQy7ZHF_Ocow0wm3SgMzbS97V8DtEKzkONOk.css" media="all" />
+  <script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_onbE0n0cQY6KTDQtHO_E27UBymFC-RuqypZZ6Zxez-o.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_MItSgdSkwVZBTl5MsdgLy94Mp-HJ6pvBHirm2wMSuzA.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hopscotch/0.2.5/js/hopscotch.min.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_7PbaJTSu-LxJaTVbKUqW3Gf_NGEIE3gHP-pkSD63kK8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var sliderSecondary ='slider-secondary-no-image';var sliderPrimary ='slider-image-full';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js_3KU2G0XuUwThidq7lpTBQghUO1g1ty4dEdv-co66Xqw.js"></script>
+<script type="text/javascript" src="https://hospitalhandbook.ucsf.edu/sites/g/files/tkssra6536/f/js/js__pev76oqunwyHrozBOUwthVLhzUZgLLfKlmOonOmdkg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ucsf_b1gfoot_theme","theme_token":"qEMR7DyQ4D3p0Gd1zjrm3A8YpRKNB7z1w2XDG-zB5Ro","js":{"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/js\/ucsf_b1gfoot_admin_menu.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/js\/hopscotch.min.js":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/y3ti_help\/js\/y3ti_help.js":1,"0":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/js\/ucsf_b1gfoot_sitewizard.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/icheck.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/build\/main.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/responsive-nav\/responsive-nav.min.js":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/ucsf_b1gfoot\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_admin_menu\/css\/ucsf_b1gfoot_admin_menu.css":1,"profiles\/ucsf_b1gfoot\/modules\/b1gfoot\/ucsf_b1gfoot_sitewizard\/css\/ucsf_b1gfoot_sitewizard.css":1,"0":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hopscotch\/0.2.5\/css\/hopscotch.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/js\/vendor\/slick\/slick.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/screen.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/print.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/primary\/primary-navy.css":1,"profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/css\/colors\/secondary\/secondary-navy.css":1}},"urlIsAjaxTrusted":{"\/04-approach-dizziness\/04-approach-dizziness":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1671 node-type-book ucsf-b1gfoot font--header--granjon profile--grid sidebar sidebar--right sidebar-color--white" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page-wrapper">
+    <div id="page">
+
+        <div class="ucsf-top-header row-full-width no-logo">
+      <div class="inside">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Health</a></li>
+            <li><a href="https://www.ucsf.edu/search" title="">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+      </div>
+    </div>    
+    <div id="header" class="row-full-width">
+      <div class="inside clearfix">
+              <h1 id="site-name">
+          <a href="/" title="Home" rel="home">
+            Hospital Handbook          </a>
+        </h1>
+      
+        <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/04-approach-dizziness/04-approach-dizziness" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search... </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." class="text-input fa fa-search form-text" aria-hidden="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-az43EGcdbXwE_A_VD7KLhh31meMdj6v4L9j2wuh1HMs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-ucsf-b1gfoot-tweaks-header-socialmedia" class="block block-ucsf-b1gfoot-tweaks">
+
+    
+  <div class="content">
+    <div class="nav-social"></div>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6596"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospital-handbooks" title="">Home</a></li>
+<li class="leaf menu-mlid-1431"><a href="https://hospitalhandbook.ucsf.edu/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook" title="">UCSF Hospitalist Handbook</a></li>
+<li class="last leaf menu-mlid-6591"><a href="https://hospitalhandbook.ucsf.edu/content/outpatient-handbook" title="">Outpatient Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+
+      </div>
+    </div>
+
+
+          <div id="breadcrumb" class="row-full-width"><div class="inside"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> > <a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a> > <a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a> > <span class="breadcrumb-page-title">04. Approach to Dizziness</span></div></div></div>
+                  <h1 class="title" id="page-title">04. Approach to Dizziness</h1>        <div class="content-top">
+          </div>
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+        <div id="content" class="column">
+          <div class="inside">
+                <a id="main-content"></a>
+        <div class="tabs"></div>                
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1671" class="node node-book clearfix" about="/04-approach-dizziness/04-approach-dizziness" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="04. Approach to Dizziness" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="right">Resident Editor: Ashley McMullen, MD</p>
+
+<p align="right">Faculty Editor: Maki Aoki, MD</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:775px;" width="775">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOTTOM LINE</strong></p>
+
+			<p>✔ Differentiate peripheral vs central causes of vertigo by H&amp;P so as not to delay imaging</p>
+
+			<p>✔ Differentiate vertigo from other type of dizziness. </p>
+
+			<p>✔ If patient has new neuro deficits or is an older patient with risk factors, consider imaging – MRI/MRA</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><u>Background</u></strong></p>
+
+<p>Dizziness is a vague symptom that can often be difficult for patients to describe qualitatively. Traditionally, dizziness has been divided into four main categories: vertigo, presyncope, disequilibrium, and light-headedness. A careful history that focuses on timing and triggers, in addition to a targeted physical exam, can help distinguish between benign versus more serious causes of dizziness.</p>
+
+<p><strong><u>Evaluation  </u></strong></p>
+
+<ul>
+	<li><strong>History</strong>:  Focus questions on timing (onset, duration, and evolution of symptoms over time), presence of triggers (actions, movements, or positioning) that provoke dizziness or whether symptoms occur spontaneously in order to determine if truly vertigo vs. another type of dizziness (see below). </li>
+</ul>
+
+<p style="margin-left:36.0pt;"> Also ask about <strong>associated symptoms</strong> (n/v, hearing loss, tinnitus, HA, neuro deficits (the D’s: dysphagia, dysarthria, diplopia)), recent viral illness, trauma, and toxin exposures.</p>
+
+<ul>
+	<li>Episodic, Triggered onset (lasting seconds)
+	<ul>
+		<li>Benign Paroxysmal Positional Vertigo (BPPV), orthostatic hypotension, presyncope</li>
+	</ul>
+	</li>
+	<li>Episodic, Spontaneous onset (lasting minutes to hours)
+	<ul>
+		<li>Meniere disease, vestibular migraine, posterior TIA, psychogenic, acoustic neuroma</li>
+	</ul>
+	</li>
+	<li>Continuous, onset after trauma or toxin (lasting &gt;24 hours)
+	<ul>
+		<li>Barotrauma, medication effect (ototoxicity, cerebellar toxicity, etc.)</li>
+	</ul>
+	</li>
+	<li>Continuous, Spontaneous onset (lasting &gt;24 hours)
+	<ul>
+		<li>Vestibular neuritis, labyrinthitis, brainstem or cerebellar stroke, TIA, demyelinating disease, posterior fossa meningiomas</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li>Review meds – commonly associated with orthostatic hypotension; common categories include cardiac <em>(alpha blockers, alpha/beta blockers, clonidine, diuretics, nitrates</em>), CNS (<em>antipsychotics, opioids, muscle relaxants, Parkinson drugs, TCAs</em>), urologic (<em>PDE 5 inhibitors, anticholinergics</em>).</li>
+	<li><strong>Physical Exam</strong>
+	<ul>
+		<li>Check vital signs, orthostatics if indicated (+ if SBP ↓ of 20mmHg, DBP ↓ 10mm Hg or pulse ↑ 20).  Patient should have a thorough HEENT, cardiovascular, and neurological exam
+		<ul>
+			<li><u>Nystagmus</u>: associated with vertigo
+			<ul>
+				<li><em>Peripheral vertigo</em> – typically horizontal and torsional; unidirectional (fast component does not change w/ gaze); inhibited w/ fixation of eyes onto object; fatigable; triggered by motion</li>
+				<li><em>Central vertigo </em>–vertical, horizontal, or torsional; not inhibited by fixation of eyes onto object; indefatigable; not triggered by motion; bidirectional</li>
+			</ul>
+			</li>
+			<li><u>Dix Hallpike Maneuver</u> (Sn 88%; PPV 83%, NPV 52% for BPPV): Nystagmus is diagnostic of vestibular debris in the ear that is facing down, closest to the examina­tion table.  There is a latency period (10-20 sec) between completion of test and onset of vertigo and nystagmus. Resolves within a period of 60 sec from onset of nystagmus. Decreases w/ repeated maneuvers.  Consider central cause if no (or short) latency period, not fatigable.</li>
+			<li><u>Head Impulse/Thrust</u>: positive on the side affected w/ peripheral vertigo (vestibular neuritis); if the vestibular ocular reflex (VOR) is impaired, the eyes of the patient will not remain stable and a corrective, refixation saccade back to the target is observed. HINTS exam (Head-Impulse, direction changing Nystagmus, Test of Skew) may be sensitive sooner than imaging for central ischemic cause of vertigo</li>
+			<li><u>Romberg</u>:  usually positive w/ acute vestibular neuritis and can be positive with BPPV</li>
+			<li><u>Gait</u>: patient will lean toward side of vestibular lesion and may or may not be able to walk w/ peripheral cause; if ataxic (wide-based, irregular) concern for cerebellar dysfunction</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>Labs/Tests</strong>: often not indicated; identify causes of vertigo in &lt; 1 %.  Consider audiogram if hearing loss or tinnitus present. If suspect presyncope, check EKG, consider holter monitoring, tilt-table test, blood glucose (hypoglycemia) and CBC (anemia).</li>
+	<li><strong>Radiologic Studies</strong>: consider imaging in patients with vertigo who have other neurologic signs and symptoms, CVD risk factors or progressive unilateral hearing loss.  MRI/MRA preferred since better able to visualize posterior fossa. Also consider MRA if suspect vascular cause.</li>
+	<li><strong><u>Red Flags (indications for imaging)</u></strong>:  neuro deficits on exam (the D’s: dysphagia, dysarthria, diplopia), unable to stand (although can occur with severe labyrinthitis or BPPV), complete hearing loss, new type or new onset HA, vertical nystagmus; also consider further work-up if older patient w/ sudden onset of sx’s and CVD risk factors or risks for thromboembolic disorders (HF, afib, valvular dz)</li>
+</ul>
+
+<p style="margin-left:18.0pt;"><strong><u>Differential Diagnosis</u></strong>: 4 categories include <strong>vertigo, presyncope, disequilibrium, non-specific/lightheadedness</strong> <em>(In one study, 40% had peripheral vestibular dysfunction, 25% presyncope/disequilibrium, 15% psych, 10% CNS, 10% non-specific.)  </em></p>
+
+<ul>
+	<li><b>Vertigo</b>: illusion of <em>any</em> movement including spinning, swaying etc.
+
+	<ul>
+		<li><em>Peripheral Causes</em>
+
+		<ul>
+			<li><u>Benign Paroxysmal Positional Vertigo</u>:  most common cause of vertigo.  Caused by loose otolith in semicircular canals causing a false sense of motion; F &gt;&gt; M, middle age/older adults.  Clinical features: sudden onset of vertigo, episodic, occurs w/ rapid side-to-side movement of the head (i.e. rolling over in bed, arising from bed, looking up quickly); improves if remains still; assoc w/ N/V, ataxia <em>(no hearing loss);</em> + Dix Hallpike Maneuver (<a href="https://www.youtube.com/watch?v=ZVCliBpcInw">https://www.youtube.com/watch?v=ZVCliBpcInw</a>).  Note that all vertigo can be worse with head movement (vs onset with head movement in BPPV) and all vertigo can be associated with gait instability and N/V.  Severity of N/V doesn't portend a more ominous etiology.</li>
+			<li><u>Vestibular Neuritis/Labyrinthitis</u>: Caused by inflammation of vestibular nerve (up to 50% w/ preceding viral illness).  Clinical features: severe, rapid onset of vertigo, sustained, N/V (hours to days); <u>not</u> related to position; + head thrust test. Termed labyrinthitis if ipsilateral hearing loss.</li>
+			<li><u>Meniere Disease</u>: commonly affects young adults (20-40); caused by ↑ endolymphatic fluid in the inner ear.  Clinical Features: min to hours<em>, assoc w/ hearing loss,</em> tinnitus, ear fullness, N/V</li>
+		</ul>
+		</li>
+		<li><em>Central causes</em>: mass lesions (schwannoma&gt; meningiomas&gt;cerebellar tumors), vascular compromise, migraine, craniocervical junction d/o’s (Chiari malformation), MS and CNS inflammatory disorders.  Note: In large study, &lt;1% for pts w/ dizziness as only sx.
+		<ul>
+			<li><u>Vertebrobasilar TIAs</u>: features include episodic vertigo (1-15 min) w/ concurrent diplopia, dysarthria, ataxia. RFs for stroke include age, HTN, HL, DM, smoking, heart disease.</li>
+			<li><u>Migraine</u>: 3% of gen population; 10% of people w/ hx of migraines.  Clinical features: includes sx’s occurring during typical migraine aura preceding HA (basilar migraine) vs vestibular sx’s occurring w/ HA (migrainous vertigo).</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li><strong>Presyncope:</strong> feeling of losing consciousness, blacking out; descriptions include preceding lightheadedness, visual blurring, diaphoresis, feeling of warmth.  Causes include both cardiac (dysrhythmias, AS, CAD) and non-cardiac (i.e. orthostatic hypotension, postural orthostatic tachycardia syndrome, postprandial hypotension, vasovagal episodes, medications).</li>
+	<li><strong>Disequilibrium</strong>: sense of unsteadiness with walking and loss of balance involving legs or trunk; sensation disappears when sitting/lying. Common causes may include peripheral neuropathy, vestibular disorder, musculoskeletal disorder, gait disorder, stroke and Parkinson disease</li>
+	<li><strong>Non-specific/Lightheadedness</strong>: vague symptoms, possibly feeling disconnected with the environment; patients often use terms such as “heavy-headedness” or “wooziness”. Causes include less severe form of other categories, anxiety, phobic disorders or hyperventilation.</li>
+</ul>
+
+<p><u><strong>Treatment</strong></u></p>
+
+<ul>
+	<li><strong>BPPV</strong>: for the majority, symptoms resolve within days to weeks or months
+
+	<ul>
+		<li>Vestibular suppressants:  meclizine, promethazine, diazepam can ↓ sx’s of acute vertigo; meds should not continue &gt; 1 wk to allow brain to develop to new vestibular input; medication s/e’s include sedation, dry mouth, increase risk of falls, urinary retention</li>
+		<li>Epley maneuver: canalith repositioning; safe and effective compared to placebo (about 50-90% successful) (https://www.youtube.com/watch?v=ZqokxZRbJfw)</li>
+		<li>Vestibular rehabilitation: series of head and neck exercises that can be done at home</li>
+	</ul>
+	</li>
+</ul>
+
+<ul>
+	<li><strong>Meniere’s</strong>:  Salt restriction, diuretics (i.e. HCTZ/Triamterene), acetazolamide (no controlled trials), Dexamethasone (ENT only) or surgery (severe cases)</li>
+	<li><strong>Vestibular Neuritis/Labyrinthitis</strong>:  self-limited (days to weeks); symptomatic management w/ vestibular suppressants such as meclizine (usually &lt; 1 wk); methylprednisolone (100mg daily then tapered to 10mg daily over 3 wks) has been shown to shorten course of severe sx’s; vestibular exercises as soon as tolerated</li>
+</ul>
+
+<ul>
+	<li><strong>Orthostatic Hypotension</strong>: review meds, increase hydration, rising slowly from lying to sitting, increasing salt and regular exercise; pharmacologic tx includes midodrine, florinef for autonomic insufficiency</li>
+	<li><strong>Migraine: </strong>basilar migraine – triptans are contraindicated due to risk of spasm/stroke; migrainous vertigo – tx w/ vestibular suppressants for acute attacks; migraine prophylactic drug if more frequent episodes</li>
+</ul>
+
+<p><strong><u>When to Refer:</u></strong></p>
+
+<p>When diagnosis is unclear or patient has a medical problem that requires further subspecialty care (e.g. ENT, head and neck surgeon, neurologist).</p>
+
+<p><strong><u>References</u></strong></p>
+
+<p><em>Muncie HL, Sirmans SM, James E. Dizziness: Approach to Evaluation and Management. Am Fam Physician. 2017 Feb 1;95 (3): 154-162</em></p>
+
+<p><em>Newman-Toker DE, Edlow JA. TiTrATE: a novel, evidence-based approach to diagnosing acute dizziness and vertigo. Neurol Clin. 2015;33(3):577–599, viii.</em></p>
+
+<p><em>Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE. HINTS to diagnose stroke in the acute vestibular syndrome: three-step bedside oculomotor examination more sensitive than early MRI diffusion-weighted imaging. Stroke. 2009; 40(11): 3504-10</em></p>
+
+<p><em>Swartz, R. Treatment of Vertigo. Am Fam Physician. 2005 Mar 15;71(6):1115-1122.</em></p>
+
+<p><em>Tusa, R. Gore, R. Dizziness and Vertigo: Emergencies and Management. Neurol Clin. 2012;30: 61–74.</em></p>
+
+<p><em>Lee AT. Diagnosing the cause of vertigo: A practical approach. Hong Kong Med J. 2012;18(4):327-332. </em></p>
+
+<p><em>Rubin DI, Cheshire WP. Evaluation of "dizziness" in the neurology office. Semin Neurol. 2011;31(1):29-41. </em></p>
+</div></div></div>  <div id="book-navigation-1316" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/03-lymphadenopathy/03-lymphadenopathy" class="page-previous" title="Go to previous page">‹ 03. Lymphadenopathy</a>
+                    <a href="/02-general-complaints/02-general-complaints" class="page-up" title="Go to parent page">up</a>
+                    <a href="/05-unintentional-weight-loss/05-unintentional-weight-loss" class="page-next" title="Go to next page">05. Unintentional Weight Loss ›</a>
+          </div>
+    
+  </div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+              <div id="sidebar" class="column">
+                                <div class="sidebar">
+              <div class="section">
+                  <div class="region region-sidebar">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h3>Hospitalist Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-book-toc-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last collapsed menu-mlid-1786"><a href="/ucsf-hospitalist-handbook/ucsf-hospitalist-handbook">UCSF Hospitalist Handbook</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-4" class="block block-menu-block">
+
+    <h3>Outpatient Handbook</h3>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-book-toc-1316 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first last expanded active-trail menu-mlid-3976"><a href="/content/outpatient-handbook" class="active-trail">Outpatient Handbook</a><ul class="menu"><li class="first collapsed menu-mlid-4486"><a href="/01-preventative-care/01-preventative-care">01. Preventative Care</a></li>
+<li class="expanded active-trail menu-mlid-4551"><a href="/02-general-complaints/02-general-complaints" class="active-trail">02. General Complaints</a><ul class="menu"><li class="first leaf menu-mlid-4556"><a href="/01-fever-unknown-origin/01-fever-unknown-origin">01. Fever of Unknown Origin</a></li>
+<li class="leaf menu-mlid-4561"><a href="/02-insomnia/02-insomnia">02. Insomnia</a></li>
+<li class="leaf menu-mlid-4566"><a href="/03-lymphadenopathy/03-lymphadenopathy">03. Lymphadenopathy</a></li>
+<li class="leaf active-trail active menu-mlid-4571"><a href="/04-approach-dizziness/04-approach-dizziness" class="active-trail active">04. Approach to Dizziness</a></li>
+<li class="leaf menu-mlid-4576"><a href="/05-unintentional-weight-loss/05-unintentional-weight-loss">05. Unintentional Weight Loss</a></li>
+<li class="leaf menu-mlid-4581"><a href="/06-approach-fatigue/06-approach-fatigue">06. Approach to Fatigue</a></li>
+<li class="leaf menu-mlid-4586"><a href="/07-memory-loss/07-memory-loss">07. Memory loss</a></li>
+<li class="leaf menu-mlid-4591"><a href="/08-transient-loss-consciousness/08-transient-loss-consciousness">08. Transient Loss of Consciousness</a></li>
+<li class="leaf menu-mlid-4596"><a href="/09-approach-cough/09-approach-cough">09. Approach to Cough</a></li>
+<li class="leaf menu-mlid-4601"><a href="/10-approach-abdominal-pain/10-approach-abdominal-pain">10. Approach to Abdominal Pain</a></li>
+<li class="leaf menu-mlid-4606"><a href="/11-approach-lower-extremity-edema/11-approach-lower-extremity-edema">11. Approach to Lower Extremity Edema</a></li>
+<li class="leaf menu-mlid-4611"><a href="/12-approach-headache/12-approach-headache">12. Approach to Headache</a></li>
+<li class="last leaf menu-mlid-4616"><a href="/13-approach-chest-pain/13-approach-chest-pain">13. Approach to Chest Pain</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-4916"><a href="/03-cardiology/03-cardiology">03. Cardiology</a></li>
+<li class="collapsed menu-mlid-4926"><a href="/04-dermatology/04-dermatology">04. Dermatology</a></li>
+<li class="collapsed menu-mlid-5046"><a href="/05-ear-nose-and-throat/05-ear-nose-and-throat">05. Ear, Nose, and Throat</a></li>
+<li class="collapsed menu-mlid-5076"><a href="/06-endocrinology/06-endocrinology">06. Endocrinology</a></li>
+<li class="collapsed menu-mlid-5151"><a href="/07-gastroenterology/07-gastroenterology">07. Gastroenterology</a></li>
+<li class="collapsed menu-mlid-5016"><a href="/08-geriatrics/08-geriatrics">08. Geriatrics</a></li>
+<li class="collapsed menu-mlid-5206"><a href="/09-pain-management/09-pain-management">09. Pain Management</a></li>
+<li class="collapsed menu-mlid-5246"><a href="/10-womens-health/10-womens-health">10. Women&#039;s Health</a></li>
+<li class="collapsed menu-mlid-5131"><a href="/11-hematology/11-hematology">11. Hematology</a></li>
+<li class="collapsed menu-mlid-5311"><a href="/12-infectious-disease/12-infectious-disease">12. Infectious Disease</a></li>
+<li class="collapsed menu-mlid-5541"><a href="/13-nephrology/13-nephrology">13. Nephrology</a></li>
+<li class="collapsed menu-mlid-5361"><a href="/14-neurology/14-neurology">14. Neurology</a></li>
+<li class="collapsed menu-mlid-5396"><a href="/15-ophthalmology/15-ophthalmology">15. Ophthalmology</a></li>
+<li class="collapsed menu-mlid-5591"><a href="/16-psychiatry/16-psychiatry">16. Psychiatry</a></li>
+<li class="collapsed menu-mlid-5631"><a href="/17-pulmonary/17-pulmonary">17. Pulmonary</a></li>
+<li class="collapsed menu-mlid-5446"><a href="/18-rheumatologyorthopedics/18-rheumatologyorthopedics">18. Rheumatology/Orthopedics</a></li>
+<li class="collapsed menu-mlid-5421"><a href="/19-urology/19-urology">19. Urology</a></li>
+<li class="collapsed menu-mlid-5656"><a href="/20-office-based-procedures/20-office-based-procedures">20. Office Based Procedures</a></li>
+<li class="last collapsed menu-mlid-5506"><a href="/21-appendices/21-appendices">21. Appendices</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+            </div>
+                  </div>
+      
+    </div></div>
+
+    <div id="footer">
+      <div class="section">
+      
+      <div class="footer-bottom">
+        <nav aria-label="Footer Navigation" class="footer--navigation">
+          <ul>
+                        <li><a href="https://www.ucsf.edu/accessibility-resources">Accessibility</a></li>
+            <li><a href="https://www.ucsf.edu/website-privacy-policy">Privacy Policy</a></li>
+            <li><a href="https://websites.ucsf.edu/website-terms-use">Terms of Use </a></li>
+            <li><a href="https://websites.ucsf.edu/azlist">A-Z Website List</a></li>
+          </ul>
+        </nav>
+
+        <div class="footer--copyright">
+          <p>&copy; 2024 The Regents of the University of California</p>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+      var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+      sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+  </script>
+</body>
+</html>
